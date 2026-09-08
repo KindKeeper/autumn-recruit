@@ -1,0 +1,39 @@
+# ============================================================
+# 全局配置：枚举定义、评分权重、分档阈值
+# 数据文件(data/companies/*.yml)中出现的枚举值必须与此处一致
+# ============================================================
+
+# 流程七节点（顺序即漏斗顺序，勿随意调换）
+stages:
+  - {key: applied,        label: 投递}
+  - {key: assessment,     label: 测评}
+  - {key: written_test,   label: 笔试}
+  - {key: interview_1,    label: 一面}
+  - {key: interview_2,    label: 二面}
+  - {key: interview_more, label: 更多面}
+  - {key: offer,          label: offer}
+
+# 终态标签（正交于七节点，不参与阶段推导）
+outcomes:
+  - {key: rejected, label: 已挂}
+  - {key: pool,     label: 泡池子}
+  - {key: signed,   label: 已签约}
+
+# 评分权重（合计100，单项打分0-10，锚点标准见 README）
+score_weights:
+  fit: 25       # 岗位匹配度
+  salary: 20    # 薪资福利
+  platform: 15  # 公司平台
+  business: 10  # 业务前景
+  city: 10      # 城市因素
+  odds: 15      # 录取概率
+  wlb: 5        # 工作生活平衡
+
+# 评分模式：additive(加权求和) | expected(吸引力×胜率)
+score_mode: additive
+
+# 优先级分档阈值：总分>=80为A，>=65为B，>=50为C，其余D
+priority_tiers: {A: 80, B: 65, C: 50}
+
+channels: [官网, 内推, BOSS直聘, 牛客, 宣讲会, 猎聘]
+groups: [提前批, 正式批, 补录]

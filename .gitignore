@@ -1,0 +1,5 @@
+# 本地构建产物（GitHub Actions 部署用，不入库）
+index.html
+__pycache__/
+*.pyc
+.venv/

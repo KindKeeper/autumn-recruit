@@ -1,0 +1,37 @@
+# ⚠️ 示例数据，请替换为真实记录
+# 已挂示例：outcome 用法
+id: aliyun-platform-2027
+name: 阿里云
+position: 平台研发工程师
+group: 提前批
+channel: 官网
+city: 杭州
+link: https://talent.alibaba.com/example
+salary_range: "22-32k·16薪"
+
+job_posted: "2026-07-30"
+apply_deadline: "2026-09-20"
+
+stages:
+  applied: "2026-08-15"
+  written_test: "2026-08-22"
+  interview_1: "2026-08-28"
+  interview_2: "2026-09-03"
+
+outcome: rejected
+outcome_note: 二面挂，系统设计没答好
+
+score:
+  fit: 7
+  salary: 8
+  platform: 9
+  business: 8
+  city: 6
+  odds: 5
+  wlb: 3
+
+log:
+  - {date: "2026-09-03", note: 二面问了大表分页和缓存一致性}
+tags: [Java, 基础架构]
+note: 提前批练手，秋招正式批再战
+updated_at: "2026-09-03"
