@@ -11,8 +11,8 @@ updated_at: '2026-09-08'
 track: 热管理类
 boundary: S
 apply_deadline: '2026-12-30'
-job_posted: '2026-08-06'
-source_id: offershow:33fa1cb2-53ef-463e-82e1-c4a3b3a18a78
+job_posted: '2026-08-27'
+source_id: offershow:5a18fe80-5485-4849-be3d-6f5eada6294f
 score:
   fit: 9
   track: 10
@@ -25,3 +25,6 @@ score:
 note: 来源:总表[它石智航_机器人热设计工程师]
 tags:
 - C4-智能硬件/具身智能
+log:
+- date: '2026-09-08'
+  note: '[offershow] 正式批公告发布 2026-08-27（原 2026-08-06）'

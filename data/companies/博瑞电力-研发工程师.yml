@@ -9,8 +9,8 @@ salary_range: ''
 stages: {}
 updated_at: '2026-09-08'
 boundary: S
-job_posted: '2026-08-24'
-source_id: offershow:8bf4e070-03d0-4fd5-97e6-4862da411b4b
+job_posted: '2026-08-31'
+source_id: offershow:ea462e99-3394-4edc-a5f6-133d634f3930
 score:
   fit: 9
   track: 9
@@ -23,3 +23,6 @@ score:
 note: 来源:总表[博瑞电力_研发工程师]
 tags:
 - 未分类
+log:
+- date: '2026-09-08'
+  note: '[offershow] 正式批公告发布 2026-08-31（原 2026-08-24）'

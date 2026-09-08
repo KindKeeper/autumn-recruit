@@ -10,8 +10,8 @@ stages: {}
 updated_at: '2026-09-08'
 track: 图像算法类
 boundary: B
-job_posted: '2026-08-06'
-source_id: offershow:5a74da29-6abb-45d0-8d08-c20da3798a69
+job_posted: '2026-09-01'
+source_id: offershow:55e3cbd8-36aa-43f7-a727-96782f198c35
 score:
   fit: 7
   track: 8
@@ -24,3 +24,7 @@ score:
 note: 来源:总表[思特威_AI算法工程师]
 tags:
 - B2-半导体芯片
+referral_code: DSAAsrVQ
+log:
+- date: '2026-09-08'
+  note: '[offershow] 正式批公告发布 2026-09-01（原 2026-08-06）'

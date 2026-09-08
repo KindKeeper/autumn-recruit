@@ -10,8 +10,8 @@ stages: {}
 updated_at: '2026-09-08'
 track: 热管理类
 boundary: S
-job_posted: '2026-07-02'
-source_id: offershow:d8ed3b99-10f8-442c-8aa9-45322d7e2586
+job_posted: '2026-08-27'
+source_id: offershow:cf1f3868-eb50-41cf-abfc-16c20918115b
 score:
   fit: 10
   track: 9
@@ -24,3 +24,6 @@ score:
 note: 来源:总表[科华集团_热管理工程师]
 tags:
 - B1-新能源储能
+log:
+- date: '2026-09-08'
+  note: '[offershow] 正式批公告发布 2026-08-27（原 2026-07-02）'

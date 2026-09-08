@@ -11,8 +11,8 @@ updated_at: '2026-09-08'
 track: 仿真类
 boundary: A
 apply_deadline: '2026-12-31'
-job_posted: '2026-06-24'
-source_id: offershow:5ab2cd40-1d99-48b2-90e2-bfe42892122a
+job_posted: '2026-08-10'
+source_id: offershow:ce24fe8a-1dd4-4940-aa60-2fa2595e3595
 referral_code: A4ZWBKW
 score:
   fit: 8
@@ -29,3 +29,5 @@ tags:
 log:
 - date: '2026-09-08'
   note: '[offershow] 截止更新为 2026-12-31（原 2027-12-31）'
+- date: '2026-09-08'
+  note: '[offershow] 正式批公告发布 2026-08-10（原 2026-06-24）'

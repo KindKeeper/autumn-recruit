@@ -10,8 +10,8 @@ stages: {}
 updated_at: '2026-09-08'
 track: CV算法
 boundary: B
-job_posted: '2026-08-14'
-source_id: offershow:786e6185-9f0c-4975-a67e-12d7b147d9f9
+job_posted: '2026-09-03'
+source_id: offershow:e34470ed-9460-4b40-ba5a-4743913bc26a
 referral_code: vxbQ9X
 score:
   fit: 7
@@ -25,3 +25,6 @@ score:
 note: 来源:总表[BIGO_图形图像算法]
 tags:
 - A1-互联网大厂
+log:
+- date: '2026-09-08'
+  note: '[offershow] 正式批公告发布 2026-09-03（原 2026-08-14）'

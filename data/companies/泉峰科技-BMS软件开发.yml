@@ -10,8 +10,8 @@ stages: {}
 updated_at: '2026-09-08'
 track: BMS算法类
 boundary: B
-job_posted: '2026-06-30'
-source_id: offershow:3b7f7602-b9b7-4097-a433-32f2ae8b6a76
+job_posted: '2026-09-01'
+source_id: offershow:b4a9483c-ef39-4a22-9bda-e90a232b7fe7
 score:
   fit: 8
   track: 7
@@ -24,3 +24,6 @@ score:
 note: 来源:总表[泉峰科技_BMS软件开发]
 tags:
 - D4-机械制造/电动工具
+log:
+- date: '2026-09-08'
+  note: '[offershow] 正式批公告发布 2026-09-01（原 2026-06-30）'

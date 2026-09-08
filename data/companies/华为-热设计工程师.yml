@@ -10,8 +10,8 @@ stages: {}
 updated_at: '2026-09-08'
 track: 热管理类
 boundary: S
-job_posted: '2026-08-21'
-source_id: offershow:5933e403-593b-4c86-b63f-8ebcde1e4bdd
+job_posted: '2026-09-03'
+source_id: offershow:225a8018-cac3-46df-a1af-eaf792080134
 score:
   fit: 10
   track: 9
@@ -24,3 +24,6 @@ score:
 note: 来源:总表[华为_热设计工程师]
 tags:
 - B3-电子科技
+log:
+- date: '2026-09-08'
+  note: '[offershow] 正式批公告发布 2026-09-03（原 2026-08-21）'

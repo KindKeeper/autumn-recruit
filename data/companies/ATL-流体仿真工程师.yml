@@ -10,8 +10,8 @@ stages: {}
 updated_at: '2026-09-08'
 track: 仿真类
 boundary: S
-job_posted: '2026-08-17'
-source_id: offershow:104cc510-d957-4505-b468-29f3a20a848f
+job_posted: '2026-09-01'
+source_id: offershow:951bf8cb-65d2-4757-a8a5-4dbf8433cf7a
 score:
   fit: 8
   track: 9
@@ -24,3 +24,6 @@ score:
 note: 来源:总表[ATL_流体仿真工程师]
 tags:
 - B5-储能光伏
+log:
+- date: '2026-09-08'
+  note: '[offershow] 正式批公告发布 2026-09-01（原 2026-08-17）'

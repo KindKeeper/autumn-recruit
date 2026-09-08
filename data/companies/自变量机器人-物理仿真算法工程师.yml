@@ -10,8 +10,8 @@ stages: {}
 updated_at: '2026-09-08'
 track: 仿真类
 boundary: C
-job_posted: '2026-07-07'
-source_id: offershow:2caa8b01-d0f5-4ac0-a17f-5740e8e06ca5
+job_posted: '2026-08-17'
+source_id: offershow:92061e23-be24-41be-81ac-b16bd897c0d7
 score:
   fit: 6
   track: 10
@@ -24,3 +24,6 @@ score:
 note: 来源:总表[自变量_物理仿真算法工程师]
 tags:
 - C4-机器人
+log:
+- date: '2026-09-08'
+  note: '[offershow] 正式批公告发布 2026-08-17（原 2026-07-07）'

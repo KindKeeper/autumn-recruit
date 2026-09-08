@@ -10,8 +10,8 @@ stages: {}
 updated_at: '2026-09-08'
 track: 热管理类
 boundary: S
-job_posted: '2026-08-12'
-source_id: offershow:a1130551-cb9f-485a-9a41-f56681bde175
+job_posted: '2026-08-15'
+source_id: offershow:6cb05f17-da43-4689-8718-81c209acb060
 referral_code: campusmLaptArms
 score:
   fit: 7
@@ -25,3 +25,6 @@ score:
 note: 来源:总表[快手_暖通工程师]
 tags:
 - A1-互联网大厂
+log:
+- date: '2026-09-08'
+  note: '[offershow] 正式批公告发布 2026-08-15（原 2026-08-12）'

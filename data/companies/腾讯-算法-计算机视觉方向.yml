@@ -10,8 +10,8 @@ stages: {}
 updated_at: '2026-09-08'
 track: CV算法
 boundary: B
-job_posted: '2026-07-16'
-source_id: offershow:f44bcdda-0cad-4c5e-a75e-aeb3c849198f
+job_posted: '2026-08-28'
+source_id: offershow:891c6137-b46e-475f-9c5c-5906b441d543
 score:
   fit: 8
   track: 10
@@ -23,3 +23,6 @@ score:
   wlb: 6
 tags:
 - A1-互联网大厂
+log:
+- date: '2026-09-08'
+  note: '[offershow] 正式批公告发布 2026-08-28（原 2026-07-16）'

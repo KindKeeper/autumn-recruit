@@ -11,8 +11,8 @@ updated_at: '2026-09-08'
 track: 数据中心热管理类
 boundary: A
 apply_deadline: '2026-12-31'
-job_posted: '2026-04-01'
-source_id: offershow:cd640f52-4f33-455a-b7ab-25e922735a38
+job_posted: '2026-08-27'
+source_id: offershow:0fa918b2-09a2-46d0-92b4-858ac9a5488d
 referral_code: 1GPYPMS
 score:
   fit: 7
@@ -26,3 +26,6 @@ score:
 note: 来源:总表[字节_IDC项目设计工程师]
 tags:
 - C2-互联网内容
+log:
+- date: '2026-09-08'
+  note: '[offershow] 正式批公告发布 2026-08-27（原 2026-04-01）'

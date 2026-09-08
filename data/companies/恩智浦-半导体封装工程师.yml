@@ -11,8 +11,8 @@ updated_at: '2026-09-08'
 track: 热管理类
 boundary: B
 apply_deadline: '2026-09-30'
-job_posted: '2026-07-07'
-source_id: offershow:d9db4b2c-f675-452c-9c0d-276a455d2b57
+job_posted: '2026-08-26'
+source_id: offershow:e64681fe-fcc7-4d6f-87e9-0fdcf2e40989
 score:
   fit: 6
   track: 9
@@ -28,3 +28,5 @@ tags:
 log:
 - date: '2026-09-08'
   note: '[offershow] 截止更新为 2026-09-30（原 2026-10-24）'
+- date: '2026-09-08'
+  note: '[offershow] 正式批公告发布 2026-08-26（原 2026-07-07）'

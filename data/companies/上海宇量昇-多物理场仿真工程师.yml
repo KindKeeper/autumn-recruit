@@ -10,8 +10,8 @@ stages: {}
 updated_at: '2026-09-08'
 track: 热管理类
 boundary: S
-job_posted: '2026-06-21'
-source_id: offershow:91cbb8f3-bb2e-403a-8cb8-c523c14949a8
+job_posted: '2026-08-27'
+source_id: offershow:0e5bb27b-bde7-4e12-a340-0830372d09cb
 score:
   fit: 8
   track: 9
@@ -24,3 +24,6 @@ score:
 note: 来源:总表[上海宇量昇_多物理场仿真工程师]
 tags:
 - A1-半导体装备
+log:
+- date: '2026-09-08'
+  note: '[offershow] 正式批公告发布 2026-08-27（原 2026-06-21）'

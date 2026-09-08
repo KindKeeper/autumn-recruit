@@ -10,7 +10,10 @@ stages: {}
 updated_at: '2026-09-08'
 track: 仿真类
 boundary: A
-job_posted: '2026-06-23'
-source_id: offershow:5b470725-e084-46be-a461-bfd8e4c87674
+job_posted: '2026-08-28'
+source_id: offershow:fdcbd747-8f15-40ac-afc1-3b7835c738c8
 tags:
 - C5-其他对口企业
+log:
+- date: '2026-09-08'
+  note: '[offershow] 正式批公告发布 2026-08-28（原 2026-06-23）'

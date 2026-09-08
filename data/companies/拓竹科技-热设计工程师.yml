@@ -10,8 +10,8 @@ stages: {}
 updated_at: '2026-09-08'
 track: 热管理类
 boundary: S
-job_posted: '2026-06-25'
-source_id: offershow:49cfc2ff-b8d6-4233-9940-522506bc495d
+job_posted: '2026-08-07'
+source_id: offershow:c2bf0129-5efc-4eb3-92d0-51a1d1474797
 referral_code: 6TQG2M8
 score:
   fit: 9
@@ -28,3 +28,5 @@ tags:
 log:
 - date: '2026-09-08'
   note: '[offershow] 原截止 2026-08-31 已过，官方长期有效，移除'
+- date: '2026-09-08'
+  note: '[offershow] 正式批公告发布 2026-08-07（原 2026-06-25）'

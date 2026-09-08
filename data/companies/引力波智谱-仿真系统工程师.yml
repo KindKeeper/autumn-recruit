@@ -11,8 +11,8 @@ updated_at: '2026-09-08'
 track: 仿真类
 boundary: C
 apply_deadline: '2026-12-30'
-job_posted: '2026-08-04'
-source_id: offershow:8299f3b2-a849-4e7f-b598-52d3298309aa
+job_posted: '2026-08-24'
+source_id: offershow:c7e6160e-37d8-4024-b3b0-e383f4d08335
 score:
   fit: 9
   track: 7
@@ -28,3 +28,5 @@ tags:
 log:
 - date: '2026-09-08'
   note: '[offershow] 截止更新为 2026-12-30（原 2026-08-15）'
+- date: '2026-09-08'
+  note: '[offershow] 正式批公告发布 2026-08-24（原 2026-08-04）'
