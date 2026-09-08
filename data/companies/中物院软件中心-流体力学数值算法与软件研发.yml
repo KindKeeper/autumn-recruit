@@ -1,0 +1,26 @@
+id: job-0133
+name: 中物院软件中心
+position: 流体力学数值算法与软件研发
+group: 正式批
+channel: 官网
+city: 北京
+link: ''
+salary_range: 事业单位（事业编制+落户+住房）
+stages: {}
+updated_at: '2026-09-08'
+track: 热管理类
+boundary: B
+apply_deadline: '2026-10-24'
+job_posted: '2026-08-26'
+source_id: offershow:34fd0fd3-4bb2-443d-b222-7afedd0c0a4a
+score:
+  fit: 8
+  track: 7
+  city: 8
+  salary: 7
+  stability: 10
+  certainty: 7
+  urgency: 6
+  wlb: 7
+tags:
+- A1-CAE仿真软件

@@ -1,0 +1,27 @@
+id: job-0121
+name: 平头哥半导体
+position: 封装应力设计工程师
+group: 正式批
+channel: 官网
+city: 上海
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-08'
+track: 仿真类
+boundary: C
+job_posted: '2026-08-05'
+source_id: offershow:a140073e-9af4-4892-a242-e94fac9bea3d
+referral_code: XO62ST
+score:
+  fit: 7
+  track: 8
+  city: 8
+  salary: 9
+  stability: 8
+  certainty: 5
+  urgency: 6
+  wlb: 5
+note: 来源:总表[平头哥_封装应力设计工程师]
+tags:
+- B2-半导体芯片

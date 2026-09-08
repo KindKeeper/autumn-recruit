@@ -1,0 +1,26 @@
+id: job-0076
+name: 精测半导体
+position: 算法工程师
+group: 正式批
+channel: 官网
+city: 上海
+link: https://pmish-tech.zhiye.com/campus/jobs
+salary_range: 预估25-35W
+stages: {}
+updated_at: '2026-09-08'
+track: 图像算法类
+boundary: B
+job_posted: '2026-08-06'
+source_id: offershow:d5400aee-d40e-4977-b340-95b7de577110
+score:
+  fit: 7
+  track: 8
+  city: 8
+  salary: 8
+  stability: 8
+  certainty: 7
+  urgency: 8
+  wlb: 5
+note: 来源:总表[精测半导体_算法工程师]
+tags:
+- B2-半导体设备

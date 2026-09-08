@@ -1,0 +1,26 @@
+id: job-0102
+name: 箭元科技
+position: 气动热工程师
+group: 提前批
+channel: 官网
+city: 北京
+link: hr@sepoch.cn
+salary_range: ''
+stages: {}
+updated_at: '2026-09-08'
+track: 热管理类
+boundary: S
+job_posted: '2026-07-24'
+source_id: offershow:60703bc9-3be0-498d-b139-e403efecb793
+score:
+  fit: 8
+  track: 7
+  city: 8
+  salary: 7
+  stability: 4
+  certainty: 7
+  urgency: 6
+  wlb: 6
+note: 来源:总表[箭元科技_气动热工程师]
+tags:
+- A2-军工航天院所

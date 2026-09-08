@@ -1,0 +1,27 @@
+id: job-0050
+name: 海康威视
+position: 热设计工程师
+group: 正式批
+channel: 官网
+city: 杭州
+link: ''
+salary_range: A股上市
+stages: {}
+updated_at: '2026-09-08'
+track: 热管理类
+boundary: S
+job_posted: '2026-08-25'
+source_id: offershow:f47e3679-1956-4a03-a1c9-4bd82eee50df
+referral_code: Y9NW9W
+score:
+  fit: 8
+  track: 9
+  city: 8
+  salary: 8
+  stability: 8
+  certainty: 6
+  urgency: 6
+  wlb: 7
+note: 来源:总表[海康威视_热设计工程师]
+tags:
+- A1-安防AI/智能硬件

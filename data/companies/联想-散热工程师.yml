@@ -1,0 +1,27 @@
+id: job-0023
+name: 联想
+position: 散热工程师
+group: 正式批
+channel: 官网
+city: 合肥
+link: https://talent.lenovo.com.cn/position?projectType=1
+salary_range: 预估25-35W
+stages: {}
+updated_at: '2026-09-08'
+track: 热管理类
+boundary: S
+apply_deadline: '2026-11-13'
+job_posted: '2026-08-06'
+source_id: offershow:349cb17f-fd65-4d25-bee4-efc03d144b92
+score:
+  fit: 9
+  track: 8
+  city: 9
+  salary: 8
+  stability: 8
+  certainty: 7
+  urgency: 8
+  wlb: 5
+note: 来源:总表[联想_散热工程师]
+tags:
+- B3-电子科技

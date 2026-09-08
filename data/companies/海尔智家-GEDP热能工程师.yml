@@ -1,0 +1,26 @@
+id: job-0020
+name: 海尔智家
+position: GEDP热能工程师
+group: 正式批
+channel: 官网
+city: 青岛
+link: ''
+salary_range: 世界500强
+stages: {}
+updated_at: '2026-09-08'
+track: 热管理类
+boundary: S
+job_posted: '2026-04-22'
+source_id: offershow:d8573bf3-3ad1-4824-9c48-42e69f587c2b
+score:
+  fit: 9
+  track: 8
+  city: 9
+  salary: 8
+  stability: 9
+  certainty: 6
+  urgency: 7
+  wlb: 7
+note: 来源:总表[海尔智家_GEDP热能工程师]
+tags:
+- B3-智能制造与装备

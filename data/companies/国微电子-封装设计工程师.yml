@@ -1,0 +1,26 @@
+id: job-0118
+name: 国微电子
+position: 封装设计工程师
+group: 正式批
+channel: 官网
+city: 深圳
+link: ''
+salary_range: 预估20-30W
+stages: {}
+updated_at: '2026-09-08'
+track: 封装仿真类
+boundary: C
+job_posted: '2026-08-10'
+source_id: offershow:94d68e6f-1772-4b5b-8b4c-438d9d5941ee
+score:
+  fit: 7
+  track: 8
+  city: 8
+  salary: 7
+  stability: 9
+  certainty: 8
+  urgency: 8
+  wlb: 6
+note: 来源:总表[国微电子_封装设计工程师]
+tags:
+- B2-半导体芯片

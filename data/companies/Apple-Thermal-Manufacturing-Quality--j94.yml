@@ -1,0 +1,26 @@
+id: job-0094
+name: Apple
+position: Thermal Manufacturing Quality Engineer-苏州
+group: 正式批
+channel: 官网
+city: 苏州
+link: ''
+salary_range: 未记录
+stages: {}
+updated_at: '2026-09-08'
+track: 热管理类
+boundary: A
+job_posted: '2026-08-06'
+source_id: offershow:fa69869d-6328-4fdf-9503-1e5b0244cf8e
+score:
+  fit: 6
+  track: 10
+  city: 7
+  salary: 10
+  stability: 9
+  certainty: 4
+  urgency: 1
+  wlb: 5
+note: 来源:总表[Apple_Thermal Manufacturing Quality Engineer-苏州]
+tags:
+- B3-电子科技

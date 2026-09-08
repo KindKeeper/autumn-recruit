@@ -1,0 +1,28 @@
+id: job-0114
+name: OPPO
+position: 电源工程师
+group: 正式批
+channel: 官网
+city: 东莞
+link: https://careers.oppo.com/university
+salary_range: ''
+stages: {}
+updated_at: '2026-09-08'
+track: 电池算法类
+boundary: B
+apply_deadline: '2026-08-06'
+job_posted: '2026-07-15'
+source_id: offershow:f5e460c5-e161-4481-8f87-628a81175eac
+referral_code: S2596418
+score:
+  fit: 7
+  track: 8
+  city: 7
+  salary: 8
+  stability: 8
+  certainty: 5
+  urgency: 6
+  wlb: 5
+note: 来源:总表[OPPO_电源工程师]
+tags:
+- B3-电子科技

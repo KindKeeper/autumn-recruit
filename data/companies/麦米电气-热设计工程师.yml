@@ -1,0 +1,26 @@
+id: job-0101
+name: 麦米电气
+position: 热设计工程师
+group: 提前批
+channel: 官网
+city: 长沙
+link: https://www.megmeet.com
+salary_range: ''
+stages: {}
+updated_at: '2026-09-08'
+track: 热管理类
+boundary: S
+job_posted: '2026-08-31'
+source_id: offershow:cb52ad4b-2f8a-44f7-bee2-f59ae8adc5da
+score:
+  fit: 8
+  track: 9
+  city: 5
+  salary: 7
+  stability: 6
+  certainty: 7
+  urgency: 6
+  wlb: 6
+note: 来源:总表[麦米电气_热设计工程师]
+tags:
+- B5-储能光伏

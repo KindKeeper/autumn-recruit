@@ -1,0 +1,27 @@
+id: job-0136
+name: 卧安机器人
+position: VLA算法工程师
+group: 正式批
+channel: 官网
+city: 深圳
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-08'
+track: 深度学习算法类
+boundary: B
+apply_deadline: '2026-11-30'
+job_posted: '2026-08-18'
+source_id: offershow:c66ad3bf-b46f-4400-a441-40ee7f5abb56
+score:
+  fit: 7
+  track: 8
+  city: 8
+  salary: 6
+  stability: 6
+  certainty: 6
+  urgency: 1
+  wlb: 6
+score_rationale: 依据：W1=VLA前沿DL+CV技能部分对口（7）；W2=具身智能主线B核心赛道（8）；W3=深圳一线（8）；W4=机器人创业公司20-30万预估*（6）；W5=具身智能创业公司（6）；W6=竞争适中（6）；W7=截止11-30约3个月（1）；W8=创业公司强度大（6）
+tags:
+- C4-智能硬件/具身智能

@@ -1,0 +1,25 @@
+id: job-0146
+name: 中国电科33所
+position: 导热材料产品设计
+group: 正式批
+channel: 官网
+city: 太原
+link: rlzy33s@163.com
+salary_range: 军工一类研究所（事业编制）
+stages: {}
+updated_at: '2026-09-08'
+track: 热管理类
+boundary: S
+job_posted: '2026-08-27'
+source_id: offershow:4415860c-d817-4875-bb1c-58aad231508b
+score:
+  fit: 8
+  track: 7
+  city: 4
+  salary: 7
+  stability: 10
+  certainty: 7
+  urgency: 6
+  wlb: 8
+tags:
+- A2-军工航天院所

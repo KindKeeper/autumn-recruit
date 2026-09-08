@@ -1,0 +1,27 @@
+id: job-0055
+name: 工大卫星
+position: 热控设计师
+group: 正式批
+channel: 官网
+city: 哈尔滨
+link: ''
+salary_range: 商业航天（硕士25-38万/年）
+stages: {}
+updated_at: '2026-09-08'
+track: 热管理类
+boundary: S
+apply_deadline: '2026-10-21'
+job_posted: '2026-08-25'
+source_id: offershow:34ca2a4f-27ef-4e7d-aca3-92d99cb4ddde
+score:
+  fit: 10
+  track: 8
+  city: 6
+  salary: 8
+  stability: 6
+  certainty: 7
+  urgency: 6
+  wlb: 7
+note: 来源:总表[工大卫星_热控设计师]
+tags:
+- A2-商业航天

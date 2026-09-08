@@ -1,0 +1,27 @@
+id: job-0087
+name: 联影
+position: AI算法工程师
+group: 正式批
+channel: 官网
+city: 上海
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-08'
+track: 深度学习算法类
+boundary: B
+job_posted: '2026-08-18'
+source_id: offershow:debf1ff1-dd54-4207-8cc7-d72cfa3057bc
+score:
+  fit: 8
+  track: 8
+  city: 8
+  salary: 8
+  stability: 8
+  certainty: 6
+  urgency: 1
+  wlb: 6
+score_rationale: 依据：W1=医学影像DL技能对口、领域知识需补（8）；W2=CV主线B核心（8）；W3=上海一线（8）；W4=医疗影像龙头硕士25-35万预估*（8）；W5=医疗影像设备龙头（8）；W6=竞争适中（6）；W7=无截止（1）；W8=适度加班（6）
+note: 来源:总表[联影_AI算法工程师]
+tags:
+- C5-其他对口企业

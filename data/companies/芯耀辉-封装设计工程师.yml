@@ -1,0 +1,27 @@
+id: job-0127
+name: 芯耀辉
+position: 封装设计工程师
+group: 正式批
+channel: 官网
+city: 深圳
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-08'
+track: 封装类
+boundary: C
+apply_deadline: 尽快投递
+job_posted: '2026-08-05'
+source_id: offershow:fb2c0495-8b3e-4b2a-beec-6dcbcefbc51d
+score:
+  fit: 7
+  track: 7
+  city: 8
+  salary: 7
+  stability: 5
+  certainty: 7
+  urgency: 6
+  wlb: 6
+note: 来源:总表[芯耀辉_封装设计工程师]
+tags:
+- B2-半导体芯片

@@ -1,0 +1,26 @@
+id: job-0084
+name: 先临三维
+position: 深度学习算法
+group: 提前批
+channel: 官网
+city: 杭州
+link: ''
+salary_range: 预估25-35W
+stages: {}
+updated_at: '2026-09-08'
+track: 深度学习算法类
+boundary: B
+job_posted: '2026-08-10'
+source_id: offershow:4f3fd7bf-c84a-412d-b92e-b9199de00250
+score:
+  fit: 7
+  track: 8
+  city: 8
+  salary: 8
+  stability: 7
+  certainty: 7
+  urgency: 8
+  wlb: 5
+note: 来源:总表[先临三维_深度学习算法]
+tags:
+- C4-智能硬件/3D数字化

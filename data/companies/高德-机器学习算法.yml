@@ -1,0 +1,26 @@
+id: job-0061
+name: 高德
+position: 机器学习算法
+group: 正式批
+channel: 官网
+city: 杭州
+link: ''
+salary_range: 预估30-45W
+stages: {}
+updated_at: '2026-09-08'
+track: 深度学习算法类
+boundary: B
+job_posted: '2026-08-23'
+source_id: offershow:4dd0d553-812e-4145-8256-1da32e796b45
+score:
+  fit: 7
+  track: 9
+  city: 7
+  salary: 9
+  stability: 9
+  certainty: 6
+  urgency: 8
+  wlb: 6
+note: 来源:总表[高德_机器学习算法]
+tags:
+- C1-互联网

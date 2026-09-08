@@ -1,0 +1,26 @@
+id: job-0147
+name: 联合电子
+position: CAE工程师
+group: 正式批
+channel: 官网
+city: 上海
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-08'
+track: 仿真类
+boundary: A
+job_posted: '2026-08-18'
+source_id: offershow:ceb05622-a495-429e-82a4-8888e3074ef8
+score:
+  fit: 7
+  track: 8
+  city: 8
+  salary: 6
+  stability: 8
+  certainty: 6
+  urgency: 1
+  wlb: 6
+score_rationale: 依据：W1=CAE仿真方向未细化（热则9/结构则6，暂按7）；W2=汽车CAE主线A核心（8）；W3=上海一线（8）；W4=博世系硕士约18-25万预估*（6）；W5=博世合资大型Tier1（8）；W6=竞争适中（6）；W7=无截止（1）；W8=适度加班（6）
+tags:
+- B6-传统汽车

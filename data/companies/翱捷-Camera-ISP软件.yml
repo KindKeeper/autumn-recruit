@@ -1,0 +1,26 @@
+id: job-0085
+name: 翱捷
+position: Camera ISP软件
+group: 正式批
+channel: 官网
+city: 合肥
+link: ''
+salary_range: 预估25-35W
+stages: {}
+updated_at: '2026-09-08'
+track: 图像算法类
+boundary: B
+job_posted: '2026-08-17'
+source_id: offershow:745d9290-3b09-4051-a6bb-7565d622f29c
+score:
+  fit: 6
+  track: 8
+  city: 9
+  salary: 8
+  stability: 7
+  certainty: 7
+  urgency: 8
+  wlb: 6
+note: 来源:总表[翱捷_Camera ISP软件]
+tags:
+- B2-半导体芯片

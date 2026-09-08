@@ -1,0 +1,26 @@
+id: job-0038
+name: 鸿擎科技
+position: 热控工程师
+group: 正式批
+channel: 官网
+city: 北京
+link: ''
+salary_range: 预估20-30W
+stages: {}
+updated_at: '2026-09-08'
+track: 热管理类
+boundary: S
+job_posted: '2026-08-10'
+source_id: offershow:a217345d-9efd-4054-a548-28819a42e145
+score:
+  fit: 9
+  track: 9
+  city: 8
+  salary: 7
+  stability: 6
+  certainty: 8
+  urgency: 8
+  wlb: 6
+note: 来源:总表[鸿擎科技_热控工程师]
+tags:
+- D2-航空航天/商业航天

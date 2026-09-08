@@ -1,0 +1,30 @@
+id: job-0011
+name: 华东电力设计院
+position: 热能工程师
+group: 正式批
+channel: 官网
+city: 上海
+link: ''
+salary_range: 央企设计院
+stages:
+  applied: '2026-09-08'
+updated_at: '2026-09-08'
+track: 热管理类
+boundary: S
+job_posted: '2026-08-28'
+source_id: offershow:0f213797-20ea-4780-aec3-bb9b698c0db3
+score:
+  fit: 10
+  track: 8
+  city: 8
+  salary: 8
+  stability: 10
+  certainty: 7
+  urgency: 7
+  wlb: 5
+log:
+- date: '2026-09-08'
+  note: '[状态变更] 华东电力设计院 热能工程师: 待投递 → 已投递'
+note: 来源:总表[华东电力设计院_热能工程师]
+tags:
+- A3-电力能源央企

@@ -1,0 +1,26 @@
+id: job-0116
+name: 芯联集成
+position: 封装设计工程师
+group: 正式批
+channel: 官网
+city: 上海
+link: ''
+salary_range: 预估28-40W
+stages: {}
+updated_at: '2026-09-08'
+track: 封装设计类
+boundary: C
+job_posted: '2026-08-17'
+source_id: offershow:d0b8d384-b278-47e3-ae8d-8e36690b1cc7
+score:
+  fit: 8
+  track: 9
+  city: 7
+  salary: 8
+  stability: 7
+  certainty: 7
+  urgency: 8
+  wlb: 6
+note: 来源:总表[芯联集成_封装设计工程师]
+tags:
+- B2-半导体芯片

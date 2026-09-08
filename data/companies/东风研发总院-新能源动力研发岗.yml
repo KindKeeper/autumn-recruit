@@ -1,0 +1,24 @@
+id: job-0132
+name: 东风研发总院
+position: 新能源动力研发岗
+group: 正式批
+channel: 官网
+city: 武汉
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-08'
+track: 双主线
+boundary: A
+score:
+  fit: 7
+  track: 8
+  city: 7
+  salary: 6
+  stability: 8
+  certainty: 6
+  urgency: 1
+  wlb: 6
+score_rationale: 依据：W1=新能源动力方向未细化（含电池/电机/热管理）（7）；W2=动力电池双主线核心（8）；W3=武汉新一线（7）；W4=央企硕士18-25万预估*（6）；W5=央企研究院（8）；W6=竞争适中（6）；W7=无截止（1）；W8=适度加班（6）
+tags:
+- B1-新能源车企

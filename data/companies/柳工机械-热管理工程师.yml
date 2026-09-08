@@ -1,0 +1,26 @@
+id: job-0109
+name: 柳工机械
+position: 热管理工程师
+group: 正式批
+channel: 官网
+city: 柳州
+link: ''
+salary_range: 中国500强（A股上市）
+stages: {}
+updated_at: '2026-09-08'
+track: 热管理类
+boundary: S
+job_posted: '2026-08-27'
+source_id: offershow:df4fd02d-e83e-4346-8300-51b18e34a8b1
+score:
+  fit: 8
+  track: 7
+  city: 4
+  salary: 7
+  stability: 8
+  certainty: 7
+  urgency: 6
+  wlb: 7
+note: 来源:总表[柳工机械_热管理工程师]
+tags:
+- B3-智能制造与装备

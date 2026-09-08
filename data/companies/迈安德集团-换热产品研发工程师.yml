@@ -1,0 +1,26 @@
+id: job-0092
+name: 迈安德集团
+position: 换热产品研发工程师
+group: 正式批
+channel: 官网
+city: 扬州
+link: ''
+salary_range: 国家制造业单项冠军
+stages: {}
+updated_at: '2026-09-08'
+track: 热管理类
+boundary: S
+job_posted: '2026-08-27'
+source_id: offershow:2bddc7e3-f185-44de-925a-fc19fabafb9b
+score:
+  fit: 9
+  track: 7
+  city: 5
+  salary: 7
+  stability: 7
+  certainty: 7
+  urgency: 6
+  wlb: 7
+note: 来源:总表[迈安德集团_换热产品研发工程师]
+tags:
+- B3-智能制造与装备

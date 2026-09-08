@@ -1,0 +1,26 @@
+id: job-0113
+name: 国科微电子
+position: AI算法工程师
+group: 正式批
+channel: 官网
+city: 长沙
+link: ''
+salary_range: 预估25-35W
+stages: {}
+updated_at: '2026-09-08'
+track: 深度学习算法类
+boundary: B
+job_posted: '2026-08-10'
+source_id: offershow:e8839ba8-1ee9-4e03-8637-019a0588a929
+score:
+  fit: 7
+  track: 8
+  city: 6
+  salary: 8
+  stability: 8
+  certainty: 7
+  urgency: 8
+  wlb: 6
+note: 来源:总表[国科微电子_AI算法工程师]
+tags:
+- B2-半导体芯片

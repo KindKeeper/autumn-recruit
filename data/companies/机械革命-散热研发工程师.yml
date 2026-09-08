@@ -1,0 +1,27 @@
+id: job-0071
+name: 机械革命
+position: 散热研发工程师
+group: 正式批
+channel: 官网
+city: 苏州
+link: ''
+salary_range: 上市公司体系
+stages: {}
+updated_at: '2026-09-08'
+track: 热管理类
+boundary: S
+apply_deadline: '2026-10-25'
+job_posted: '2026-08-27'
+source_id: offershow:d885b501-3c5f-43a0-97e8-2a0d9c20326f
+score:
+  fit: 9
+  track: 8
+  city: 7
+  salary: 7
+  stability: 7
+  certainty: 7
+  urgency: 5
+  wlb: 7
+note: 来源:总表[机械革命_散热研发工程师]
+tags:
+- B3-智能制造与装备

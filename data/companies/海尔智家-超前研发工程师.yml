@@ -1,0 +1,26 @@
+id: job-0090
+name: 海尔智家
+position: 超前研发工程师
+group: 正式批
+channel: 官网
+city: 青岛
+link: ''
+salary_range: 未记录
+stages: {}
+updated_at: '2026-09-08'
+track: 热管理类
+boundary: B
+job_posted: '2026-04-22'
+source_id: offershow:d8573bf3-3ad1-4824-9c48-42e69f587c2b
+score:
+  fit: 7
+  track: 8
+  city: 6
+  salary: 7
+  stability: 9
+  certainty: 6
+  urgency: 6
+  wlb: 6
+note: 来源:总表[海尔智家_超前研发工程师]
+tags:
+- B3-智能制造与装备

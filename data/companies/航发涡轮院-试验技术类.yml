@@ -1,0 +1,26 @@
+id: job-0034
+name: 航发涡轮院
+position: 试验技术类
+group: 正式批
+channel: 官网
+city: 绵阳
+link: ''
+salary_range: 未记录
+stages: {}
+updated_at: '2026-09-08'
+track: 热物理类
+boundary: S
+job_posted: '2024-09-06'
+source_id: offershow:07a2be24-9d8e-48f9-a2ce-8b2f4842c1d2
+score:
+  fit: 10
+  track: 9
+  city: 5
+  salary: 7
+  stability: 10
+  certainty: 7
+  urgency: 6
+  wlb: 7
+note: 来源:总表[航发涡轮院_试验技术类]
+tags:
+- A2-军工航天院所

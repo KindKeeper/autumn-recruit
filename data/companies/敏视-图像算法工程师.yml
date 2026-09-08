@@ -1,0 +1,26 @@
+id: job-0139
+name: 敏视
+position: 图像算法工程师
+group: 正式批
+channel: 官网
+city: 广州
+link: ''
+salary_range: 硕士15-30万/年（官网明示）
+stages: {}
+updated_at: '2026-09-08'
+track: 图像算法类
+boundary: B
+job_posted: '2026-08-18'
+source_id: offershow:4eb2ab59-6ea8-47b2-89ee-6d1df710a8ae
+score:
+  fit: 8
+  track: 8
+  city: 8
+  salary: 6
+  stability: 7
+  certainty: 6
+  urgency: 1
+  wlb: 6
+score_rationale: 依据：W1=车载视觉AI图像算法深度学习技能匹配（8）；W2=CV主线B核心（8）；W3=广州一线（8）；W4=官网明示硕士15-30万→18-25万档（6）；W5=专精特新小巨人+单项冠军（7）；W6=竞争适中（6）；W7=无截止（1）；W8=适度加班（6）
+tags:
+- C4-智能硬件/机器人

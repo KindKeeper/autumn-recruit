@@ -1,6 +1,7 @@
 # ============================================================
 # 全局配置：枚举定义、评分权重、分档阈值
 # 数据文件(data/companies/*.yml)中出现的枚举值必须与此处一致
+# 权重口径：沿用 jobhunt-2027 v3.0（在 160 岗位上验证过）
 # ============================================================
 
 # 流程七节点（顺序即漏斗顺序，勿随意调换）
@@ -15,25 +16,34 @@ stages:
 
 # 终态标签（正交于七节点，不参与阶段推导）
 outcomes:
-  - {key: rejected, label: 已挂}
-  - {key: pool,     label: 泡池子}
-  - {key: signed,   label: 已签约}
+  - {key: rejected,  label: 已挂}
+  - {key: given_up,  label: 已放弃}
+  - {key: frozen,    label: 已冻结}
+  - {key: expired,   label: 已过期}
+  - {key: pool,      label: 泡池子}
+  - {key: signed,    label: 已签约}
 
-# 评分权重（合计100，单项打分0-10，锚点标准见 README）
+# 面试归因枚举（interviews[].cause）
+causes: [信息差, 能力差, 表达差, 策略差]
+
+# 专业边界（boundary）：C=红线剔除，不进优先级总表
+boundaries: [S, A, B, C, 待定]
+
+# 评分权重（合计100，单项0-10；jobhunt v3.0 口径）
 score_weights:
-  fit: 25       # 岗位匹配度
-  salary: 20    # 薪资福利
-  platform: 15  # 公司平台
-  business: 10  # 业务前景
-  city: 10      # 城市因素
-  odds: 15      # 录取概率
-  wlb: 5        # 工作生活平衡
+  fit: 25        # 匹配：技术栈+方向对口程度
+  track: 15      # 赛道：企业赛道与主线契合度
+  city: 20       # 城市：按个人20城排序（合肥主场优先）
+  salary: 10     # 薪资：总包与时薪综合
+  stability: 10  # 稳定：业务线/公司收缩风险
+  certainty: 10  # 确定：offer确定性（流程透明/养鱼名声）
+  urgency: 5     # 紧迫：按投递截止剩余天数派生
+  wlb: 5         # 强度：加班文化
 
-# 评分模式：additive(加权求和) | expected(吸引力×胜率)
 score_mode: additive
 
 # 优先级分档阈值：总分>=80为A，>=65为B，>=50为C，其余D
 priority_tiers: {A: 80, B: 65, C: 50}
 
-channels: [官网, 内推, BOSS直聘, 牛客, 宣讲会, 猎聘]
-groups: [提前批, 正式批, 补录]
+channels: [官网, 邮箱, 内推, 智联, BOSS直聘, 牛客, 宣讲会, 猎聘, 其他]
+groups: [提前批, 正式批, 实习, 未启动, 补录]

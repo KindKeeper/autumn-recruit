@@ -1,0 +1,26 @@
+id: job-0081
+name: 格科
+position: 算法工程师
+group: 正式批
+channel: 官网
+city: 上海
+link: https://gcoreinc.hotjob.cn/
+salary_range: 预估25-35W
+stages: {}
+updated_at: '2026-09-08'
+track: 图像算法类
+boundary: B
+job_posted: '2026-08-06'
+source_id: offershow:166b828b-8d3c-40fc-9812-eeee35fea06d
+score:
+  fit: 7
+  track: 8
+  city: 8
+  salary: 8
+  stability: 7
+  certainty: 7
+  urgency: 8
+  wlb: 6
+note: 来源:总表[格科_算法工程师]
+tags:
+- B2-半导体芯片

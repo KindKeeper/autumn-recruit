@@ -1,0 +1,26 @@
+id: job-0040
+name: 宁德时代
+position: 力学仿真工程师
+group: 正式批
+channel: 官网
+city: 宁德
+link: ''
+salary_range: 全球龙头（A+H双上市，16薪）
+stages: {}
+updated_at: '2026-09-08'
+track: 热管理类
+boundary: A
+job_posted: '2026-08-27'
+source_id: offershow:cc50e1c4-0e13-46ca-8841-fe31dc1c19e9
+score:
+  fit: 9
+  track: 10
+  city: 4
+  salary: 9
+  stability: 10
+  certainty: 6
+  urgency: 6
+  wlb: 6
+note: 来源:总表[宁德时代_力学仿真工程师]
+tags:
+- B1-新能源储能

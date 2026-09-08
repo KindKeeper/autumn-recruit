@@ -1,0 +1,25 @@
+id: job-0004
+name: 比亚迪
+position: 高级热学研究工程师
+group: 正式批
+channel: 官网
+city: ''
+link: job.byd.com
+salary_range: ''
+stages: {}
+updated_at: '2026-09-08'
+boundary: S
+job_posted: '2026-07-27'
+source_id: offershow:f61865e9-dd14-4bb1-b3f3-a9991a4d9e94
+score:
+  fit: 10
+  track: 9
+  city: 8
+  salary: 9
+  stability: 9
+  certainty: 7
+  urgency: 6
+  wlb: 6
+note: 来源:总表[比亚迪_高级热学研究工程师]
+tags:
+- B1-新能源车企

@@ -1,0 +1,26 @@
+id: job-0138
+name: 惟景三维
+position: 算法工程师
+group: 正式批
+channel: 官网
+city: 武汉
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-08'
+track: 图像算法类
+boundary: B
+job_posted: '2026-08-18'
+source_id: offershow:d7a83b2a-c199-41fd-9a1f-405e6e18c297
+score:
+  fit: 7
+  track: 7
+  city: 7
+  salary: 0
+  stability: 7
+  certainty: 6
+  urgency: 1
+  wlb: 6
+score_rationale: 依据：W1=三维视觉点云算法深度学习技能部分匹配（7）；W2=三维视觉主线B相邻赛道（7）；W3=武汉新一线（7）；W4=薪资未知（0*）；W5=专精特新小巨人+全球客户（7）；W6=竞争适中（6）；W7=无截止（1）；W8=适度加班（6）
+tags:
+- C4-智能硬件/3D数字化

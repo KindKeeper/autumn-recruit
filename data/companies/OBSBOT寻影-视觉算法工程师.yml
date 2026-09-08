@@ -1,0 +1,26 @@
+id: job-0131
+name: OBSBOT寻影
+position: 视觉算法工程师
+group: 正式批
+channel: 官网
+city: 成都
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-08'
+track: 图像算法类
+boundary: B
+job_posted: '2026-08-18'
+source_id: offershow:0d44bb51-f6c9-4bc6-bb03-c796cc8135e6
+score:
+  fit: 8
+  track: 8
+  city: 7
+  salary: 6
+  stability: 6
+  certainty: 6
+  urgency: 1
+  wlb: 6
+score_rationale: 依据：W1=AI视觉摄像CV核心技能匹配（8）；W2=CV主线B核心（8）；W3=成都新一线（7）；W4=硕士18-25万预估*（6）；W5=中型智能硬件企业（6）；W6=竞争适中（6）；W7=无截止（1）；W8=适度加班（6）
+tags:
+- C4-智能硬件/机器人

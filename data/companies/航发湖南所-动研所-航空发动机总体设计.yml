@@ -1,0 +1,26 @@
+id: job-0096
+name: 航发湖南所/动研所
+position: 航空发动机总体设计
+group: 正式批
+channel: 官网
+city: 株洲
+link: ''
+salary_range: 军工科研院所（事业编制+安家补助）
+stages: {}
+updated_at: '2026-09-08'
+track: 热管理类
+boundary: B
+job_posted: '2026-08-27'
+source_id: offershow:2495fdd9-6ae9-4d6d-a804-ee3d79c7c61e
+score:
+  fit: 7
+  track: 8
+  city: 5
+  salary: 7
+  stability: 10
+  certainty: 7
+  urgency: 6
+  wlb: 7
+note: 来源:总表[航发湖南所/动研所_航空发动机总体设计]
+tags:
+- A2-军工航天院所

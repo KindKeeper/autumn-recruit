@@ -43,7 +43,10 @@ def walk_strings(obj):
 
 
 def parse_date(s):
-    return datetime.date.fromisoformat(str(s)[:10])
+    try:
+        return datetime.date.fromisoformat(str(s)[:10])
+    except ValueError:
+        return None
 
 
 def load_config():
@@ -83,6 +86,8 @@ def validate_and_build(rec, cfg, fname):
     job_posted = rec.get("job_posted")
     for k, v in stages.items():
         d = parse_date(v["date"] if isinstance(v, dict) else v)
+        if d is None:
+            fail(f"{rid}: 节点 {k} 日期非法 '{v}'（须 YYYY-MM-DD）")
         if job_posted and d < parse_date(job_posted):
             fail(f"{rid}: 节点 {k} 早于 job_posted")
         if d > TODAY + datetime.timedelta(days=1):
@@ -103,22 +108,29 @@ def validate_and_build(rec, cfg, fname):
         stage_key = reached[-1]
         stage_label = "已" + cfg["stage_labels"][stage_key]
 
-    # ---- 评分 ----
+    # ---- 评分（未评分记录不参与分档，排在最后）----
     w = cfg["score_weights"]
     subs = {k: int(score.get(k, 0)) for k in w}
-    if cfg["score_mode"] == "expected":
-        w_others = {k: x for k, x in w.items() if k != "odds"}
-        att = sum(subs[k] * x for k, x in w_others.items()) / sum(w_others.values()) * 10
-        total = att * subs["odds"] / 10
+    scored = bool(score)
+    if scored:
+        if cfg["score_mode"] == "expected":
+            if "odds" not in w:
+                fail("config: expected 模式要求 score_weights 含 odds 子项")
+            w_others = {k: x for k, x in w.items() if k != "odds"}
+            att = sum(subs[k] * x for k, x in w_others.items()) / sum(w_others.values()) * 10
+            total = att * subs["odds"] / 10
+        else:
+            total = sum(subs[k] * x for k, x in w.items()) / 10
+        total = round(total, 1)
+        tiers = sorted(cfg["priority_tiers"].items(), key=lambda kv: -kv[1])
+        tier = next((t for t, th in tiers if total >= th), "D")
     else:
-        total = sum(subs[k] * x for k, x in w.items()) / 10
-    total = round(total, 1)
-    tiers = sorted(cfg["priority_tiers"].items(), key=lambda kv: -kv[1])
-    tier = next((t for t, th in tiers if total >= th), "D")
+        total, tier = None, None
 
     deadline = rec.get("apply_deadline")
-    urgent = bool(deadline and not outcome and stages.get("applied")
-                  and 0 <= (parse_date(deadline) - TODAY).days <= 7)
+    _dl = parse_date(deadline) if deadline else None
+    urgent = bool(_dl and not outcome and stages.get("applied")
+                  and 0 <= (_dl - TODAY).days <= 7)
 
     return {
         "id": rid, "name": rec["name"], "position": rec["position"],
@@ -128,7 +140,8 @@ def validate_and_build(rec, cfg, fname):
         "job_posted": str(job_posted or ""), "deadline": str(deadline or ""),
         "stage_key": stage_key, "stage_label": stage_label,
         "outcome": outcome or "", "outcome_label": cfg["outcome_labels"].get(outcome, ""),
-        "score_total": total, "tier": tier, "subs": subs,
+        "score_total": total, "tier": tier, "subs": subs, "scored": scored,
+        "boundary": rec.get("boundary", ""),
         "urgent": urgent, "note": rec.get("note", ""), "tags": rec.get("tags") or [],
         "reached": reached,
     }
@@ -202,7 +215,8 @@ a{color:#2563eb;text-decoration:none}
   <div class="co">{% if c.link %}<a href="{{ c.link }}">{{ c.name }}</a>{% else %}{{ c.name }}{% endif %}</div>
   <div class="pos">{{ c.position }}{% if c.city %} · {{ c.city }}{% endif %}</div>
   <div class="row">
-    <span class="badge" style="background:var(--{{ c.tier }})">{{ c.tier }} · {{ c.score_total }}</span>
+    {% if c.scored %}<span class="badge" style="background:var(--{{ c.tier }})">{{ c.tier }} · {{ c.score_total }}</span>{% else %}<span class="badge" style="background:#c3c9d4">未评分</span>{% endif %}
+    {% if c.boundary == 'C' %}<span class="badge" style="background:#dc2626">C红线</span>{% endif %}
     {% if c.outcome_label %}<span class="badge" style="background:var(--{{ 'win' if c.outcome=='signed' else 'lose' if c.outcome=='rejected' else 'idle' }})">{{ c.outcome_label }}</span>{% endif %}
     {% if c.urgent %}<span class="dead">截止 {{ c.deadline }}</span>{% endif %}
   </div>
@@ -219,8 +233,8 @@ a{color:#2563eb;text-decoration:none}
 <tr>
 <td>{% if c.link %}<a href="{{ c.link }}">{{ c.name }}</a>{% else %}{{ c.name }}{% endif %}</td>
 <td>{{ c.position }}</td><td class="sub">{{ c.city }}</td><td>{{ c.stage_label }}{{ '（'+c.outcome_label+'）' if c.outcome_label }}</td>
-<td><span class="badge" style="background:var(--{{ c.tier }})">{{ c.tier }}</span></td>
-<td><b>{{ c.score_total }}</b></td>
+<td>{% if c.scored %}<span class="badge" style="background:var(--{{ c.tier }})">{{ c.tier }}</span>{% else %}<span class="sub">未评分</span>{% endif %}</td>
+<td>{% if c.scored %}<b>{{ c.score_total }}</b>{% else %}<span class="sub">-</span>{% endif %}</td>
 {% for k in subkeys %}<td class="sub">{{ c.subs[k] }}</td>{% endfor %}
 <td class="sub">{{ c.deadline }}</td>
 </tr>
@@ -249,21 +263,38 @@ def main():
         {"k": "已挂", "v": sum(1 for r in recs if r["outcome"] == "rejected")},
         {"k": "泡池子", "v": sum(1 for r in recs if r["outcome"] == "pool")},
         {"k": "A 档在投", "v": sum(1 for r in applied if r["tier"] == "A" and not r["outcome"])},
+        {"k": "未评分", "v": sum(1 for r in recs if not r["scored"])},
     ]
     funnel, mx = [], max(1, len(applied))
     for s in cfg["stages"]:
         n = sum(1 for r in recs if s["key"] in r["reached"])
         funnel.append({"label": s["label"], "n": n, "w": max(2, round(n / mx * 100))})
 
-    pending_items = sorted((r for r in recs if r["stage_key"] == "pending"),
-                           key=lambda r: (tier_order[r["tier"]], -r["score_total"]))
+    sort_key = lambda r: ((tier_order[r["tier"]] if r["scored"] else 9), -(r["score_total"] or 0))
+    pending_items = sorted((r for r in recs if r["stage_key"] == "pending"), key=sort_key)
     board = [{"label": "待投递", "cards": pending_items}]
     for s in cfg["stages"]:
-        items = sorted((r for r in recs if r["stage_key"] == s["key"]),
-                       key=lambda r: (tier_order[r["tier"]], -r["score_total"]))
+        items = sorted((r for r in recs if r["stage_key"] == s["key"]), key=sort_key)
         board.append({"label": "已" + s["label"], "cards": items})
 
-    ranked = sorted(recs, key=lambda r: (-r["score_total"], tier_order[r["tier"]]))
+    # 专业边界 C = 红线，剔除出优先级总表（看板仍显示，带 C红线 徽章）
+    ranked = sorted((r for r in recs if r["boundary"] != "C"), key=sort_key)
+
+    # ---- lint 体检告警（不阻断部署）----
+    warns = []
+    for r in recs:
+        if r["boundary"] == "C" and r["stage_key"] != "pending":
+            warns.append(f"{r['name']}·{r['position']}: C红线但已投递")
+        if not r["scored"] and r["stage_key"] == "pending":
+            warns.append(f"{r['name']}·{r['position']}: 待投递未评分")
+        _dl = parse_date(r["deadline"]) if r["deadline"] else None
+        if _dl and not r["outcome"] and r["stage_key"] == "pending" and _dl < TODAY:
+            warns.append(f"{r['name']}·{r['position']}: 截止已过仍是待投递")
+    for w_ in warns:
+        print(f"[warn] {w_}", file=sys.stderr)
+    if warns:
+        print(f"[warn] 体检 {len(warns)} 条告警（不阻断部署）", file=sys.stderr)
+
     html = HTML.render(
         today=TODAY.isoformat(), mode=cfg["score_mode"],
         tA=cfg["priority_tiers"]["A"], tB=cfg["priority_tiers"]["B"], tC=cfg["priority_tiers"]["C"],

@@ -1,0 +1,26 @@
+id: job-0056
+name: 阳光电源
+position: 力学仿真工程师（浮式光伏）
+group: 正式批
+channel: 官网
+city: 合肥
+link: https://app.mokahr.com/m/campus-recruitment/sungrow/94416#/home
+salary_range: 预估28-40W
+stages: {}
+updated_at: '2026-09-08'
+track: 仿真类
+boundary: S
+job_posted: '2026-07-08'
+source_id: offershow:687d7415-72ca-4711-a3b2-ec34bf7f8f0b
+score:
+  fit: 7
+  track: 8
+  city: 10
+  salary: 8
+  stability: 8
+  certainty: 6
+  urgency: 8
+  wlb: 6
+note: 来源:总表[阳光电源_力学仿真工程师（浮式光伏）]
+tags:
+- B5-储能光伏

@@ -1,0 +1,27 @@
+id: job-0100
+name: 安德里茨睿宇创
+position: 热能工程师
+group: 提前批
+channel: 官网
+city: 武汉
+link: https://www.accryc.com
+salary_range: 硕士10-18万/年（官网明示）
+stages: {}
+updated_at: '2026-09-08'
+track: 热管理类
+boundary: S
+job_posted: '2026-07-31'
+source_id: offershow:6d0d02d3-dcb2-4f20-9734-d39d2f822d35
+score:
+  fit: 9
+  track: 7
+  city: 7
+  salary: 4
+  stability: 8
+  certainty: 8
+  urgency: 1
+  wlb: 9
+score_rationale: 依据：W1=官网专业要求传热/流体/热力计算全对口（9）；W2=钢铁工业炉热能=主线A知识域（7）；W3=武汉新一线（7）；W4=官网明示硕士10-18万→12-18万档（4）；W5=奥地利工业集团全球龙头（8）；W6=对口度高+提前批（8）；W7=官网未给截止（1）；W8=官网明示周末双休+六险一金（9）
+note: 来源:总表[安德里茨睿宇创_热能工程师]
+tags:
+- C1-外资企业

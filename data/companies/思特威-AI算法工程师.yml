@@ -1,0 +1,26 @@
+id: job-0080
+name: 思特威
+position: AI算法工程师
+group: 正式批
+channel: 官网
+city: 上海
+link: https://app.mokahr.com/campus-recruitment/smartsenstech1/56088
+salary_range: 预估25-35W
+stages: {}
+updated_at: '2026-09-08'
+track: 图像算法类
+boundary: B
+job_posted: '2026-08-06'
+source_id: offershow:5a74da29-6abb-45d0-8d08-c20da3798a69
+score:
+  fit: 7
+  track: 8
+  city: 8
+  salary: 8
+  stability: 7
+  certainty: 7
+  urgency: 8
+  wlb: 6
+note: 来源:总表[思特威_AI算法工程师]
+tags:
+- B2-半导体芯片

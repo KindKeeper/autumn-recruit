@@ -1,0 +1,25 @@
+id: job-0043
+name: 博瑞电力
+position: 研发工程师
+group: 正式批
+channel: 官网
+city: ''
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-08'
+boundary: S
+job_posted: '2026-08-24'
+source_id: offershow:8bf4e070-03d0-4fd5-97e6-4862da411b4b
+score:
+  fit: 9
+  track: 9
+  city: 7
+  salary: 8
+  stability: 8
+  certainty: 7
+  urgency: 6
+  wlb: 6
+note: 来源:总表[博瑞电力_研发工程师]
+tags:
+- 未分类

@@ -1,0 +1,27 @@
+id: job-0149
+name: 航天502所
+position: 推进系统设计师 / 热设计工程师
+group: 提前批
+channel: 官网
+city: 北京
+link: https://app.mokahr.com/campus-recruitment/bice/144168#/
+salary_range: 事业编+北京户口
+stages: {}
+updated_at: '2026-09-08'
+track: 航天热管理类
+boundary: S
+apply_deadline: '2026-07-29'
+job_posted: '2026-07-16'
+source_id: offershow:cec15860-9f0f-4253-b6f1-4ea51a160d45
+score:
+  fit: 8
+  track: 8
+  city: 8
+  salary: 8
+  stability: 10
+  certainty: 6
+  urgency: 0
+  wlb: 4
+score_rationale: 依据：W1=热设计工程师对口航天热管理（8）；W2=航天热管理主线A核心（8）；W3=北京一线（8）；W4=事业编+户口约25-30万预估（8*）；W5=航天五院事业编（10）；W6=提前批阶段竞争相对小（6）；W7=已截止（0）；W8=航天院所项目强度大（4）
+tags:
+- A2-军工航天院所

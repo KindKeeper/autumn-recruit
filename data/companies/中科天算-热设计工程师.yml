@@ -1,0 +1,30 @@
+id: job-0046
+name: 中科天算
+position: 热设计工程师
+group: 正式批
+channel: 官网
+city: 南京
+link: ''
+salary_range: 预估25-35W
+stages:
+  applied: '2026-09-08'
+updated_at: '2026-09-08'
+track: 热管理类
+boundary: S
+job_posted: '2026-08-10'
+source_id: offershow:f4bbb58d-2f08-4a20-93f5-1cd2ab60058f
+score:
+  fit: 9
+  track: 7
+  city: 8
+  salary: 8
+  stability: 7
+  certainty: 8
+  urgency: 8
+  wlb: 6
+log:
+- date: '2026-09-08'
+  note: '[状态变更] 中科天算 热设计工程师: 待投递 → 已投递'
+note: 来源:总表[中科天算_热设计工程师]
+tags:
+- D2-航空航天/天基计算

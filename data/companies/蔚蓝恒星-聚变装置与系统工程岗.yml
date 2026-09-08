@@ -1,0 +1,27 @@
+id: job-0110
+name: 蔚蓝恒星
+position: 聚变装置与系统工程岗
+group: 正式批
+channel: 官网
+city: 合肥
+link: ''
+salary_range: 初创企业（投后估值30亿）
+stages: {}
+updated_at: '2026-09-08'
+track: 热管理类
+boundary: B
+apply_deadline: '2026-10-24'
+job_posted: '2026-08-26'
+source_id: offershow:187ee446-c2ad-473e-8180-76b44c7cd269
+score:
+  fit: 7
+  track: 7
+  city: 9
+  salary: 6
+  stability: 4
+  certainty: 5
+  urgency: 6
+  wlb: 7
+note: 来源:总表[蔚蓝恒星_聚变装置与系统工程岗]
+tags:
+- B3-核聚变/新能源

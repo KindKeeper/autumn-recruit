@@ -1,0 +1,26 @@
+id: job-0029
+name: 新能安
+position: BMS算法工程师
+group: 正式批
+channel: 官网
+city: 厦门
+link: ''
+salary_range: 预估25-35W
+stages: {}
+updated_at: '2026-09-08'
+track: BMS算法
+boundary: B
+job_posted: '2026-08-17'
+source_id: offershow:c48dd537-dbcb-4416-9cd7-815d75c72031
+score:
+  fit: 9
+  track: 9
+  city: 7
+  salary: 8
+  stability: 8
+  certainty: 7
+  urgency: 8
+  wlb: 6
+note: 来源:总表[新能安_BMS算法工程师]
+tags:
+- B5-储能光伏

@@ -1,0 +1,27 @@
+id: job-0093
+name: 恩智浦
+position: 半导体封装工程师
+group: 正式批
+channel: 官网
+city: 天津
+link: ''
+salary_range: 外企（AI估算20-35K/月）
+stages: {}
+updated_at: '2026-09-08'
+track: 热管理类
+boundary: B
+apply_deadline: '2026-10-24'
+job_posted: '2026-07-07'
+source_id: offershow:d9db4b2c-f675-452c-9c0d-276a455d2b57
+score:
+  fit: 6
+  track: 9
+  city: 7
+  salary: 8
+  stability: 8
+  certainty: 6
+  urgency: 6
+  wlb: 7
+note: 来源:总表[恩智浦_半导体封装工程师]
+tags:
+- A1-半导体芯片

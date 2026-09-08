@@ -1,0 +1,26 @@
+id: job-0030
+name: 中国电科16所
+position: 制冷机设计师
+group: 正式批
+channel: 官网
+city: 合肥
+link: https://webapp.zhaopin.com/2025/hd/zgdzkm0716ZL85636/#/
+salary_range: 军工体系（事业编）
+stages: {}
+updated_at: '2026-09-08'
+track: 热管理类
+boundary: S
+job_posted: '2026-08-27'
+source_id: offershow:2d11427f-1f4b-48a1-99ba-8ab237a9c806
+score:
+  fit: 8
+  track: 7
+  city: 10
+  salary: 7
+  stability: 10
+  certainty: 7
+  urgency: 8
+  wlb: 7
+note: 来源:总表[中国电科16所_制冷机设计师]
+tags:
+- A2-军工航天院所

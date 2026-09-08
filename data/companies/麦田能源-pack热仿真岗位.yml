@@ -1,0 +1,26 @@
+id: job-0041
+name: 麦田能源
+position: pack热仿真岗位
+group: 正式批
+channel: 官网
+city: 上海
+link: ''
+salary_range: A股上市（社招参考2.5-3万×13薪）
+stages: {}
+updated_at: '2026-09-08'
+track: 热管理类
+boundary: S
+job_posted: '2026-08-26'
+source_id: offershow:a602afc1-2a13-46a7-80d3-db62fe6afc36
+score:
+  fit: 9
+  track: 8
+  city: 8
+  salary: 8
+  stability: 7
+  certainty: 7
+  urgency: 6
+  wlb: 7
+note: 来源:总表[麦田能源_pack热仿真岗位]
+tags:
+- B1-新能源储能

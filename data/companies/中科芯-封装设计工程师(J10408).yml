@@ -1,0 +1,27 @@
+id: job-0123
+name: 中科芯
+position: 封装设计工程师(J10408)
+group: 正式批
+channel: 官网
+city: 南京
+link: ''
+salary_range: 15K-25K 元/月
+stages: {}
+updated_at: '2026-09-08'
+track: 仿真类
+boundary: C
+apply_deadline: 尽快投递
+job_posted: '2026-08-05'
+source_id: offershow:bdcceab1-a5fd-4e3b-b580-170394b8a531
+score:
+  fit: 7
+  track: 8
+  city: 5
+  salary: 7
+  stability: 10
+  certainty: 6
+  urgency: 6
+  wlb: 9
+note: 来源:总表[中科芯_封装设计工程师(J10408)]
+tags:
+- A2-军工航天院所

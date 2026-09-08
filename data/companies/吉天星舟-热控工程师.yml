@@ -1,0 +1,26 @@
+id: job-0042
+name: 吉天星舟
+position: 热控工程师
+group: 正式批
+channel: 官网
+city: 苏州
+link: ''
+salary_range: 民营商业航天（硕士17-32万/年）
+stages: {}
+updated_at: '2026-09-08'
+track: 热管理类
+boundary: S
+job_posted: '2026-08-26'
+source_id: offershow:9ed27662-944f-44c7-a00d-833be6c3f473
+score:
+  fit: 10
+  track: 8
+  city: 7
+  salary: 8
+  stability: 6
+  certainty: 7
+  urgency: 6
+  wlb: 7
+note: 来源:总表[吉天星舟_热控工程师]
+tags:
+- A2-商业航天

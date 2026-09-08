@@ -1,0 +1,26 @@
+id: job-0070
+name: 泉峰科技
+position: BMS软件开发
+group: 正式批
+channel: 官网
+city: 南京
+link: ''
+salary_range: 预估20-28W
+stages: {}
+updated_at: '2026-09-08'
+track: BMS算法类
+boundary: B
+job_posted: '2026-06-30'
+source_id: offershow:3b7f7602-b9b7-4097-a433-32f2ae8b6a76
+score:
+  fit: 8
+  track: 7
+  city: 8
+  salary: 8
+  stability: 8
+  certainty: 7
+  urgency: 8
+  wlb: 5
+note: 来源:总表[泉峰科技_BMS软件开发]
+tags:
+- D4-机械制造/电动工具

@@ -1,0 +1,26 @@
+id: job-0134
+name: 中科飞测
+position: 图像算法工程师
+group: 正式批
+channel: 官网
+city: 合肥
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-08'
+track: 图像算法类
+boundary: B
+job_posted: '2026-08-18'
+source_id: offershow:ca2e08d5-434c-479c-b8da-5ce1bbbcc972
+score:
+  fit: 8
+  track: 8
+  city: 10
+  salary: 0
+  stability: 7
+  certainty: 6
+  urgency: 1
+  wlb: 6
+score_rationale: 依据：W1=缺陷检测CV深度学习技能对口（8）；W2=CV主线B核心（8）；W3=合肥主场（10）；W4=薪资未知（0*）；W5=科创板上市半导体设备公司（7）；W6=竞争适中（6）；W7=无截止（1）；W8=适度加班（6）
+tags:
+- B2-半导体设备

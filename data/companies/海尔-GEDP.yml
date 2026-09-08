@@ -1,0 +1,27 @@
+id: job-0106
+name: 海尔
+position: GEDP
+group: 提前批
+channel: 官网
+city: 青岛
+link: https://www.haier.com/
+salary_range: GEDP年薪预计25-40万
+stages: {}
+updated_at: '2026-09-08'
+track: 热管理类
+boundary: S
+job_posted: '2026-04-22'
+source_id: offershow:d8573bf3-3ad1-4824-9c48-42e69f587c2b
+score:
+  fit: 7
+  track: 7
+  city: 5
+  salary: 7
+  stability: 8
+  certainty: 7
+  urgency: 6
+  wlb: 7
+score_rationale: 依据：W1=制冷/热泵/燃烧系统对口但家电场景需适应（7）；W2=制冷热管理主线A（7）；W3=青岛=20城清单外二线档（5）；W4=25-40万中值32（7）；W5=全球白电第一（8）；W6=竞争适中（7）；W7=提前批进行中（6）；W8=轮岗培养强度大（7）
+note: 来源:总表[海尔_GEDP]
+tags:
+- B4-家电暖通

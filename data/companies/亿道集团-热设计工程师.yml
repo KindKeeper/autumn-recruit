@@ -1,0 +1,27 @@
+id: job-0099
+name: 亿道集团
+position: 热设计工程师
+group: 正式批
+channel: 官网
+city: 深圳
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-08'
+track: 热管理类
+boundary: S
+job_posted: '2026-08-18'
+source_id: offershow:1d864f76-1d83-43c0-a912-f1ff8027d1e6
+score:
+  fit: 9
+  track: 8
+  city: 8
+  salary: 6
+  stability: 6
+  certainty: 6
+  urgency: 1
+  wlb: 6
+score_rationale: 依据：W1=消费电子热设计专业对口技能匹配（9）；W2=热管理主线A核心（8）；W3=深圳一线（8）；W4=消费电子硕士18-25万预估*（6）；W5=中型消费电子企业（6）；W6=竞争适中（6）；W7=无截止（1）；W8=适度加班（6）
+note: 来源:总表[亿道集团_热设计工程师]
+tags:
+- C3-消费电子与IT散热

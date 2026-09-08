@@ -1,0 +1,27 @@
+id: job-0072
+name: 中久数创
+position: 多物理耦合CAE软件研发
+group: 正式批
+channel: 官网
+city: 成都
+link: ''
+salary_range: 军品国企（成都）
+stages: {}
+updated_at: '2026-09-08'
+track: 热管理类
+boundary: S
+apply_deadline: '2026-09-15'
+job_posted: '2026-08-26'
+source_id: offershow:23bb8701-a48d-45a1-bcea-23ec40e546f0
+score:
+  fit: 9
+  track: 7
+  city: 7
+  salary: 7
+  stability: 8
+  certainty: 7
+  urgency: 6
+  wlb: 7
+note: 来源:总表[中久数创_多物理耦合CAE软件研发]
+tags:
+- A1-CAE仿真软件

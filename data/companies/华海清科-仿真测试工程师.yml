@@ -1,0 +1,26 @@
+id: job-0097
+name: 华海清科
+position: 仿真测试工程师
+group: 提前批
+channel: 官网
+city: 天津
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-08'
+track: 热管理类
+boundary: A
+job_posted: '2026-07-27'
+source_id: offershow:d390a83d-b752-424a-82b6-e43e50de8e03
+score:
+  fit: 8
+  track: 8
+  city: 5
+  salary: 7
+  stability: 7
+  certainty: 7
+  urgency: 8
+  wlb: 6
+note: 来源:总表[华海清科_仿真测试工程师]
+tags:
+- B2-半导体芯片

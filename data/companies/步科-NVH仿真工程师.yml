@@ -1,0 +1,26 @@
+id: job-0126
+name: 步科
+position: NVH仿真工程师
+group: 正式批
+channel: 官网
+city: 合肥
+link: ''
+salary_range: 预估22-32W
+stages: {}
+updated_at: '2026-09-08'
+track: 仿真类
+boundary: C
+job_posted: '2026-08-14'
+source_id: offershow:24ec91f3-7503-47fb-970e-f9037f759eb8
+score:
+  fit: 6
+  track: 7
+  city: 9
+  salary: 8
+  stability: 7
+  certainty: 7
+  urgency: 8
+  wlb: 5
+note: 来源:总表[步科股份_NVH仿真工程师]
+tags:
+- C3-工业自动化

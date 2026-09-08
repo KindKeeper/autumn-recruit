@@ -1,0 +1,25 @@
+id: job-0148
+name: 腾讯
+position: 算法-计算机视觉方向
+group: 正式批
+channel: 官网
+city: 深圳
+link: https://join.qq.com/
+salary_range: 预估35-45W
+stages: {}
+updated_at: '2026-09-08'
+track: CV算法
+boundary: B
+job_posted: '2026-07-16'
+source_id: offershow:f44bcdda-0cad-4c5e-a75e-aeb3c849198f
+score:
+  fit: 8
+  track: 10
+  city: 8
+  salary: 9
+  stability: 9
+  certainty: 5
+  urgency: 8
+  wlb: 6
+tags:
+- A1-互联网大厂

@@ -1,0 +1,27 @@
+id: job-0021
+name: 中国电科43所
+position: 电子封装与工艺类
+group: 正式批
+channel: 官网
+city: 合肥
+link: ''
+salary_range: 20万/年起
+stages: {}
+updated_at: '2026-09-08'
+track: 封装类
+boundary: C
+apply_deadline: 尽快投递
+job_posted: '2026-08-04'
+source_id: offershow:d5a2a074-e8b1-4921-8a9a-5ad6ab9795be
+score:
+  fit: 8
+  track: 8
+  city: 10
+  salary: 7
+  stability: 10
+  certainty: 7
+  urgency: 6
+  wlb: 9
+note: 来源:总表[中国电科43所_电子封装与工艺类]
+tags:
+- A2-军工航天院所

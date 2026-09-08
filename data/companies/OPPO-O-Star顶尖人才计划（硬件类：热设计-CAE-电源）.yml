@@ -1,0 +1,28 @@
+id: job-0091
+name: OPPO
+position: O-Star顶尖人才计划（硬件类：热设计/CAE/电源）
+group: 正式批
+channel: 官网
+city: 东莞
+link: https://careers.oppo.com/university
+salary_range: 顶尖人才计划，预计35-50万
+stages: {}
+updated_at: '2026-09-08'
+track: 双主线
+boundary: A
+job_posted: '2026-07-15'
+source_id: offershow:f5e460c5-e161-4481-8f87-628a81175eac
+referral_code: S2596418
+score:
+  fit: 9
+  track: 8
+  city: 5
+  salary: 10
+  stability: 8
+  certainty: 4
+  urgency: 1
+  wlb: 6
+score_rationale: 依据：W1=热设计/CAE/电源三方向专业对口技能全中（9）；W2=热设计主线A核心赛道（8）；W3=东莞二线锚点5（8）；W4=顶尖计划35-50万（10）；W5=OPPO行业龙头大厂（8）；W6=顶尖人才计划竞争激烈偏难（4）；W7=截止未知（1）；W8=大厂适度加班（6）
+note: 来源:总表[OPPO_O-Star顶尖人才计划（硬件类：热设计/CAE/电源）]
+tags:
+- B3-电子科技

@@ -1,0 +1,27 @@
+id: job-0086
+name: 联合电子
+position: BMS系统开发工程师
+group: 正式批
+channel: 官网
+city: 上海
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-08'
+track: 电池算法类
+boundary: B
+job_posted: '2026-08-18'
+source_id: offershow:ceb05622-a495-429e-82a4-8888e3074ef8
+score:
+  fit: 8
+  track: 10
+  city: 8
+  salary: 6
+  stability: 8
+  certainty: 6
+  urgency: 1
+  wlb: 6
+score_rationale: 依据：W1=BMS系统开发与论文SOC/SOH对口但偏系统集成（8）；W2=电池算法主线B核心（10）；W3=上海一线（8）；W4=博世系硕士约18-25万预估*（6）；W5=博世合资大型Tier1（8）；W6=竞争适中（6）；W7=无截止（1）；W8=适度加班（6）
+note: 来源:总表[联合电子_BMS系统开发工程师]
+tags:
+- B6-传统汽车

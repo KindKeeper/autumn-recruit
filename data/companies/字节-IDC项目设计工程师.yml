@@ -1,0 +1,28 @@
+id: job-0052
+name: 字节
+position: IDC项目设计工程师
+group: 正式批
+channel: 官网
+city: 北京
+link: https://jobs.bytedance.com/campus
+salary_range: 预估30-45W
+stages: {}
+updated_at: '2026-09-08'
+track: 数据中心热管理类
+boundary: A
+apply_deadline: '2026-12-31'
+job_posted: '2026-04-01'
+source_id: offershow:cd640f52-4f33-455a-b7ab-25e922735a38
+referral_code: 1GPYPMS
+score:
+  fit: 7
+  track: 9
+  city: 8
+  salary: 9
+  stability: 8
+  certainty: 6
+  urgency: 8
+  wlb: 7
+note: 来源:总表[字节_IDC项目设计工程师]
+tags:
+- C2-互联网内容

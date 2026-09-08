@@ -1,0 +1,26 @@
+id: job-0135
+name: 凌云光
+position: 深度学习算法工程师
+group: 正式批
+channel: 官网
+city: 苏州
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-08'
+track: 深度学习算法类
+boundary: B
+job_posted: '2026-08-18'
+source_id: offershow:383a62dc-baa7-4a2e-9281-9c4b8bd46375
+score:
+  fit: 9
+  track: 8
+  city: 5
+  salary: 6
+  stability: 7
+  certainty: 6
+  urgency: 1
+  wlb: 6
+score_rationale: 依据：W1=检测/分割+Pytorch/OpenCV全命中（9）；W2=CV主线B核心（8）；W3=主城市苏州=20城清单外二线档（5）；W4=硕士18-25万预估*（6）；W5=机器视觉龙头上市公司（7）；W6=竞争适中（6）；W7=无截止（1）；W8=适度加班（6）
+tags:
+- C4-智能硬件/3D数字化

@@ -1,0 +1,27 @@
+id: job-0051
+name: 南芯科技
+position: BMS算法(J11384)
+group: 提前批
+channel: 官网
+city: 上海
+link: https://www.southchip.com
+salary_range: ''
+stages: {}
+updated_at: '2026-09-08'
+track: 电池算法类
+boundary: B
+job_posted: '2026-07-14'
+source_id: offershow:e93e647e-3b6d-4439-b8bf-6b4837ed38e6
+score:
+  fit: 9
+  track: 10
+  city: 8
+  salary: 8
+  stability: 7
+  certainty: 6
+  urgency: 1
+  wlb: 6
+score_rationale: 依据：W1=论文SOC/SOH深度学习估计精准对口、等效电路模型需补（9）；W2=电池算法主线B核心（10）；W3=上海一线（8）；W4=官网未给薪资按同类预估25-35万*（8）；W5=科创板电源芯片龙头（7）；W6=竞争适中（6）；W7=官网无截止（1）；W8=芯片公司适度加班（6）
+note: 来源:总表[南芯科技_BMS算法(J11384)]
+tags:
+- B2-半导体芯片

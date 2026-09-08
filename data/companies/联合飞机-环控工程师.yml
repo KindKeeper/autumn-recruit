@@ -1,0 +1,26 @@
+id: job-0098
+name: 联合飞机
+position: 环控工程师
+group: 提前批
+channel: 官网
+city: 北京
+link: https://www.uatair.com/about/school.html
+salary_range: ''
+stages: {}
+updated_at: '2026-09-08'
+track: 热管理类
+boundary: S
+job_posted: '2026-06-29'
+source_id: offershow:99f0a5f9-1f5d-49b3-b83b-b92154bb6638
+score:
+  fit: 8
+  track: 7
+  city: 8
+  salary: 7
+  stability: 5
+  certainty: 7
+  urgency: 6
+  wlb: 6
+note: 来源:总表[联合飞机_环控工程师]
+tags:
+- A2-军工航天院所

@@ -1,0 +1,26 @@
+id: job-0037
+name: 远景能源
+position: 热管理系统
+group: 提前批
+channel: 官网
+city: 上海
+link: https://app.mokahr.com/campus_apply/envisiongroup/43123#/jobs
+salary_range: ''
+stages: {}
+updated_at: '2026-09-08'
+track: 热管理类
+boundary: S
+job_posted: '2026-07-29'
+source_id: offershow:d313ac3c-b31c-4a26-a0a5-009aa6a5c3ba
+score:
+  fit: 9
+  track: 10
+  city: 7
+  salary: 8
+  stability: 7
+  certainty: 7
+  urgency: 6
+  wlb: 5
+note: 来源:总表[远景能源_热管理系统]
+tags:
+- B5-储能光伏

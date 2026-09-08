@@ -1,0 +1,26 @@
+id: job-0082
+name: 眸芯
+position: ISP算法工程师
+group: 提前批
+channel: 官网
+city: 上海
+link: ''
+salary_range: 预估25-35W
+stages: {}
+updated_at: '2026-09-08'
+track: 图像算法类
+boundary: B
+job_posted: '2026-08-11'
+source_id: offershow:4d1331ce-3422-4f52-ba75-b5cfe93819e2
+score:
+  fit: 7
+  track: 8
+  city: 8
+  salary: 8
+  stability: 7
+  certainty: 7
+  urgency: 8
+  wlb: 6
+note: 来源:总表[眸芯_ISP算法工程师]
+tags:
+- B2-半导体芯片

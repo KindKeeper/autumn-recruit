@@ -1,0 +1,26 @@
+id: job-0048
+name: 联想
+position: 计算机视觉
+group: 正式批
+channel: 官网
+city: 合肥
+link: https://talent.lenovo.com.cn/position/detail?id=1547
+salary_range: 预估28-40W
+stages: {}
+updated_at: '2026-09-08'
+track: 深度学习算法类
+boundary: B
+job_posted: '2026-08-06'
+source_id: offershow:349cb17f-fd65-4d25-bee4-efc03d144b92
+score:
+  fit: 8
+  track: 8
+  city: 8
+  salary: 8
+  stability: 9
+  certainty: 7
+  urgency: 8
+  wlb: 5
+note: 来源:总表[联想_计算机视觉]
+tags:
+- B3-电子科技

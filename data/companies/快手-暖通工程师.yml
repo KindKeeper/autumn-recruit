@@ -1,0 +1,27 @@
+id: job-0079
+name: 快手
+position: 暖通工程师
+group: 正式批
+channel: 官网
+city: 北京
+link: ''
+salary_range: 预估30-40W
+stages: {}
+updated_at: '2026-09-08'
+track: 热管理类
+boundary: S
+job_posted: '2026-08-12'
+source_id: offershow:a1130551-cb9f-485a-9a41-f56681bde175
+referral_code: campusmLaptArms
+score:
+  fit: 7
+  track: 8
+  city: 7
+  salary: 9
+  stability: 8
+  certainty: 6
+  urgency: 8
+  wlb: 6
+note: 来源:总表[快手_暖通工程师]
+tags:
+- A1-互联网大厂

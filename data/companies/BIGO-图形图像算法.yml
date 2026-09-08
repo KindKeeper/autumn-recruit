@@ -1,0 +1,27 @@
+id: job-0112
+name: BIGO
+position: 图形图像算法
+group: 正式批
+channel: 官网
+city: 广州
+link: ''
+salary_range: 预估30-40W
+stages: {}
+updated_at: '2026-09-08'
+track: CV算法
+boundary: B
+job_posted: '2026-08-14'
+source_id: offershow:786e6185-9f0c-4975-a67e-12d7b147d9f9
+referral_code: vxbQ9X
+score:
+  fit: 7
+  track: 8
+  city: 7
+  salary: 9
+  stability: 7
+  certainty: 7
+  urgency: 8
+  wlb: 6
+note: 来源:总表[BIGO_图形图像算法]
+tags:
+- A1-互联网大厂

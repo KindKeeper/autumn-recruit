@@ -1,0 +1,26 @@
+id: job-0111
+name: 小鹏汽车
+position: BMS软件培训生
+group: 正式批
+channel: 官网
+city: 广州
+link: https://xiaopeng.jobs.feishu.cn/398875/m/
+salary_range: 预估20-35万
+stages: {}
+updated_at: '2026-09-08'
+track: 电池算法类
+boundary: B
+job_posted: '2026-07-21'
+source_id: offershow:9b37144f-1530-4cff-8b1d-ebce8059e9dd
+score:
+  fit: 8
+  track: 10
+  city: 7
+  salary: 8
+  stability: 6
+  certainty: 6
+  urgency: 6
+  wlb: 5
+note: 来源:总表[小鹏_BMS软件培训生]
+tags:
+- B1-新能源车企

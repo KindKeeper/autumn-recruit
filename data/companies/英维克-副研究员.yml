@@ -1,0 +1,29 @@
+id: job-0150
+name: 英维克
+position: 副研究员
+group: 正式批
+channel: 官网
+city: 深圳
+link: ''
+salary_range: 未记录
+stages:
+  applied: '2026-09-08'
+updated_at: '2026-09-08'
+track: 热管理类
+boundary: S
+job_posted: '2026-08-27'
+source_id: offershow:b943a66f-fb68-4823-8e95-751b67a5b185
+score:
+  fit: 10
+  track: 9
+  city: 8
+  salary: 8
+  stability: 8
+  certainty: 8
+  urgency: 6
+  wlb: 7
+log:
+- date: '2026-09-08'
+  note: '[状态变更] 英维克 副研究员: 待投递 → 已投递'
+tags:
+- B1-新能源储能

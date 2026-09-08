@@ -1,0 +1,26 @@
+id: job-0019
+name: 华为
+position: 热设计工程师
+group: 正式批
+channel: 官网
+city: 上海
+link: https://career.huawei.com
+salary_range: 华为（约25-35万/年）
+stages: {}
+updated_at: '2026-09-08'
+track: 热管理类
+boundary: S
+job_posted: '2026-08-21'
+source_id: offershow:5933e403-593b-4c86-b63f-8ebcde1e4bdd
+score:
+  fit: 10
+  track: 9
+  city: 8
+  salary: 9
+  stability: 8
+  certainty: 5
+  urgency: 6
+  wlb: 4
+note: 来源:总表[华为_热设计工程师]
+tags:
+- B3-电子科技

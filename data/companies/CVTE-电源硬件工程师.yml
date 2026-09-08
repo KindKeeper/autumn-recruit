@@ -1,0 +1,26 @@
+id: job-0125
+name: CVTE
+position: 电源硬件工程师
+group: 正式批
+channel: 官网
+city: 广州
+link: ''
+salary_range: 预估25-35W
+stages: {}
+updated_at: '2026-09-08'
+track: 电源类
+boundary: C
+job_posted: '2026-09-04'
+source_id: offershow:09c310a9-8cea-444f-8cdc-9973f302df83
+score:
+  fit: 6
+  track: 8
+  city: 8
+  salary: 8
+  stability: 8
+  certainty: 7
+  urgency: 8
+  wlb: 6
+note: 来源:总表[CVTE_电源硬件工程师]
+tags:
+- B3-电子科技

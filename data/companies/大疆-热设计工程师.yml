@@ -1,0 +1,28 @@
+id: job-0060
+name: 大疆
+position: 热设计工程师
+group: 正式批
+channel: 官网
+city: 深圳
+link: https://we.dji.com/
+salary_range: ''
+stages: {}
+updated_at: '2026-09-08'
+track: 热管理类
+boundary: S
+job_posted: '2026-06-25'
+source_id: offershow:d388b38f-a412-4e1a-aab8-995aa50f1fda
+referral_code: DSjmranQ
+score:
+  fit: 9
+  track: 8
+  city: 8
+  salary: 9
+  stability: 8
+  certainty: 4
+  urgency: 6
+  wlb: 4
+score_rationale: '- 技术：热阻网络分解、ANSYS仿真细节、材料选型依据、温度均匀性改善方法'
+note: 来源:总表[大疆_热设计工程师]
+tags:
+- B3-电子科技
