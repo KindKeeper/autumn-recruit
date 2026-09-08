@@ -62,15 +62,23 @@ def fetch_offershow(name):
     return plans
 
 
-def pick_announcement(plans):
-    """优先 2027届秋招/校招公告中最早的一条；无 2027 公告则取最近一条（避免抓到多年以前的）"""
+def pick_announcement(plans, group=""):
+    """优先匹配岗位批次的 2027届秋招公告（提前批/正式批），取最早；无则取最近一条"""
     if not plans:
         return None
     autumn = [p for p in plans if "2027" in p["recruit_title"]
               and any(k in p["recruit_title"] for k in ("秋招", "校园招聘", "校招"))]
-    if autumn:
-        return sorted(autumn, key=lambda p: p["create_time"])[0]
-    return sorted(plans, key=lambda p: p["create_time"])[-1]
+    if group == "提前批":
+        batch = [p for p in autumn if "提前批" in p["recruit_title"]]
+    elif group == "正式批":
+        batch = [p for p in autumn if "提前批" not in p["recruit_title"]]
+    else:
+        batch = []
+    pool = batch or autumn or plans
+    if pool is autumn or pool is plans:
+        return sorted(pool, key=lambda p: p["create_time"])[-1] if pool is plans \
+            else sorted(pool, key=lambda p: p["create_time"])[0]
+    return sorted(pool, key=lambda p: p["create_time"])[0]
 
 
 def main():
@@ -92,9 +100,8 @@ def main():
             full = conn.execute("SELECT 企业全称 FROM companies WHERE 企业简称=?", (name,)).fetchone()
             if full and full[0] and full[0] != name:
                 plans = fetch_offershow(full[0])
-        a = pick_announcement(plans)
-        if a:
-            ann[name] = a
+        if plans:
+            ann[name] = plans
         else:
             misses.append(name)
         if i % 40 == 0:
@@ -128,7 +135,7 @@ def main():
         if out:
             d["outcome"] = out
         # offershow 回填 job_posted（公告早于投递日才可信）
-        a = ann.get(co)
+        a = pick_announcement(ann.get(co) or [], d["group"])
         if a:
             applied = stages.get("applied")
             if applied and a["create_time"] > str(applied)[:10]:
@@ -180,8 +187,9 @@ def main():
              "## 未命中企业（需手工补发布日期）\n"]
     lines += [f"- {m}" for m in misses]
     lines += ["\n## 命中明细\n", "| 企业 | 采用公告 | 公告日期 | 内推码 |", "|---|---|---|---|"]
-    for co, a in sorted(ann.items()):
-        lines.append(f"| {co} | {a['recruit_title']} | {a['create_time']} | {a['recommend_code'] or '-'} |")
+    for co, plans in sorted(ann.items()):
+        a = pick_announcement(plans) or {}
+        lines.append(f"| {co} | {a.get('recruit_title','')} | {a.get('create_time','')} | {a.get('recommend_code') or '-'} |")
     REPORT.parent.mkdir(exist_ok=True)
     REPORT.write_text("\n".join(lines), encoding="utf-8")
     print(f"\n[OK] 写出 {len(files)} 个 YAML；offershow 命中 {len(ann)}/{len(company_names)}；"

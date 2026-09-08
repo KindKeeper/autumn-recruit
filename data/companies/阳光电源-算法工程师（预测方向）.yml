@@ -10,7 +10,7 @@ stages: {}
 updated_at: '2026-09-08'
 track: BMS算法类
 boundary: B
-job_posted: '2026-07-08'
+job_posted: '2026-08-11'
 source_id: offershow:687d7415-72ca-4711-a3b2-ec34bf7f8f0b
 score:
   fit: 8
@@ -24,3 +24,6 @@ score:
 note: 来源:总表[阳光电源_算法工程师（预测方向）]
 tags:
 - B5-储能光伏
+log:
+- date: '2026-09-08'
+  note: '[offershow] 正式批公告2026-08-11发布，原误填提前批07-08，已更正'
