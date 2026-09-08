@@ -10,7 +10,7 @@ stages: {}
 updated_at: '2026-09-08'
 track: 热管理类
 boundary: B
-apply_deadline: '2026-10-24'
+apply_deadline: '2026-09-30'
 job_posted: '2026-07-07'
 source_id: offershow:d9db4b2c-f675-452c-9c0d-276a455d2b57
 score:
@@ -25,3 +25,6 @@ score:
 note: 来源:总表[恩智浦_半导体封装工程师]
 tags:
 - A1-半导体芯片
+log:
+- date: '2026-09-08'
+  note: '[offershow] 截止更新为 2026-09-30（原 2026-10-24）'

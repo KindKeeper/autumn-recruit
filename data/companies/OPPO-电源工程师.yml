@@ -10,7 +10,6 @@ stages: {}
 updated_at: '2026-09-08'
 track: 电池算法类
 boundary: B
-apply_deadline: '2026-08-06'
 job_posted: '2026-07-15'
 source_id: offershow:f5e460c5-e161-4481-8f87-628a81175eac
 referral_code: S2596418
@@ -26,3 +25,6 @@ score:
 note: 来源:总表[OPPO_电源工程师]
 tags:
 - B3-电子科技
+log:
+- date: '2026-09-08'
+  note: '[offershow] 原截止 2026-08-06 已过，官方长期有效，移除'

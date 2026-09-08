@@ -10,8 +10,10 @@ stages: {}
 updated_at: '2026-09-08'
 track: 其他
 boundary: 待定
-apply_deadline: '2026-07-04'
 job_posted: '2026-04-24'
 source_id: offershow:82ecd80c-40eb-401a-a93c-893186e45643
 tags:
 - B2-半导体芯片
+log:
+- date: '2026-09-08'
+  note: '[offershow] 原截止 2026-07-04 已过，官方长期有效，移除'

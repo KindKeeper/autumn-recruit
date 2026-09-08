@@ -10,7 +10,7 @@ stages: {}
 updated_at: '2026-09-08'
 track: 航天热管理类
 boundary: S
-apply_deadline: '2026-07-29'
+apply_deadline: '2026-10-01'
 job_posted: '2026-07-16'
 source_id: offershow:cec15860-9f0f-4253-b6f1-4ea51a160d45
 score:
@@ -25,3 +25,6 @@ score:
 score_rationale: 依据：W1=热设计工程师对口航天热管理（8）；W2=航天热管理主线A核心（8）；W3=北京一线（8）；W4=事业编+户口约25-30万预估（8*）；W5=航天五院事业编（10）；W6=提前批阶段竞争相对小（6）；W7=已截止（0）；W8=航天院所项目强度大（4）
 tags:
 - A2-军工航天院所
+log:
+- date: '2026-09-08'
+  note: '[offershow] 截止更新为 2026-10-01（原 2026-07-29）'

@@ -10,7 +10,7 @@ stages: {}
 updated_at: '2026-09-08'
 track: 热管理类
 boundary: B
-apply_deadline: '2026-10-24'
+apply_deadline: '2026-09-15'
 job_posted: '2026-08-26'
 source_id: offershow:34fd0fd3-4bb2-443d-b222-7afedd0c0a4a
 score:
@@ -24,3 +24,6 @@ score:
   wlb: 7
 tags:
 - A1-CAE仿真软件
+log:
+- date: '2026-09-08'
+  note: '[offershow] 截止更新为 2026-09-15（原 2026-10-24）'
