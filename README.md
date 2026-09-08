@@ -2,7 +2,7 @@
 
 结构化的秋招投递追踪 + 自动生成看板页面，数据即 YAML 文件，git 即备份。
 
-- 在线看板：（部署后补充 Pages 地址）
+- 在线看板：https://kindkeeper.github.io/autumn-recruit/
 - 数据目录：`data/companies/*.yml`，一司一文件
 - 全局配置：`config.yml`（节点枚举、评分权重、分档阈值）
 
