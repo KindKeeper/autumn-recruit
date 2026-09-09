@@ -7,8 +7,11 @@ city: 济南
 link: http://career.inspur.com/campus2026/campus.html
 salary_range: 预估25-35W
 stages:
+  applied: '2026-09-05'
+  assessment: '2026-09-06'
+  written_test: '2026-09-06'
   interview_1: '2026-09-08'
-updated_at: '2026-09-08'
+updated_at: '2026-09-09'
 track: 热管理类
 boundary: S
 job_posted: '2026-08-04'
@@ -29,41 +32,6 @@ interviews:
   cause: ''
   result: ''
 log:
-- date: '2026-09-05'
-  note: '[备注] ## 📝 备注与心得
-
-
-    > **2026-09-05 投递成功**：
-
-    > - 投递渠道：浪潮集团校招官网
-
-    > - 收到【浪潮集团专业笔试通知】散热设计工程师
-
-    > - 笔试链接有效期 5 天、预计作答 60 分钟
-
-
-    > **2026-09-06 测评+笔试**：
-
-    > - 测评链接：https://inspurgr.ceping.com/Login/
-
-    > - 笔试通过后收到面试邀请
-
-
-    > **2026-09-08 上午 完成第一轮面试**：
-
-    > - 已通过 update_status.py 推进 DB 状态到"已一面"
-
-    > - 等待后续二面/HR面通知
-
-
-    ---
-
-
-    *对应企业文件：01-目标公司/浪潮.md*
-
-    *DB 事实源：09-招聘信息系统/jobhunt.db jobs.id=25*
-
-    *创建于: 2026-09-08（面试完成后补建）*'
 - date: '2026-09-05'
   note: '[备注] ## 📝 备注与心得
 
