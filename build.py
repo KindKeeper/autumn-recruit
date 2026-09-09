@@ -405,12 +405,12 @@ function render(){
   const min=+document.getElementById("r-min").value, n=+document.getElementById("r-n").value;
   let list=D.companies.filter(c=>!c.best.scored||c.best.total>=min);
   if(n>0)list=list.slice(0,n);
-  document.getElementById("r-hint").textContent=`共 ${list.length} 家候选企业 · C红线 ${D.excluded} 个未显示`;
+  document.getElementById("r-hint").textContent=`共 ${list.length} 家候选企业 · C红线 ${D.excluded} 个 · 推进中企业 ${D.in_pipe} 家已移出`;
   const bc=document.getElementById("rank-cards");
   const top=list[0]||{best:{}};
   bc.innerHTML=[
     {n:list.length,l:"候选企业"},
-    {n:D.excluded,l:"C红线剔除",c:"red"},
+    {n:D.in_pipe,l:"推进中（已移出）",c:"yellow"},
     {n:(top.best&&top.best.total)||"-",l:"最高候选 / "+((top.best&&top.best.name)||"-"),c:"green"},
     {n:D.unscored,l:"待评分岗位",c:"yellow"},
   ].map(c=>`<div class="card"><div class="num ${c.c||""}">${c.n}</div><div class="lbl">${c.l}</div></div>`).join("");
@@ -557,10 +557,13 @@ def main():
                                     encoding="utf-8")
 
     # ---- rank（候选榜：每企取最高分公司行；C红线和待定剔除）----
+    # 老版规则：有推进岗位（已投递且未终结）的企业整企移出候选榜
+    active_cos = {r["name"] for r in applied if not r["outcome"]}
     pend = [r for r in recs if r["stage_key"] == "pending" and not r["outcome"]
-            and r["boundary"] in ("S", "A", "B")]
+            and r["boundary"] in ("S", "A", "B") and r["name"] not in active_cos]
     excluded = sum(1 for r in recs if r["stage_key"] == "pending"
                    and r["boundary"] not in ("S", "A", "B"))
+    in_pipe = len({r["name"] for r in applied if not r["outcome"]})
     by_co = defaultdict(list)
     for r in pend:
         by_co[r["name"]].append(r)
@@ -570,7 +573,7 @@ def main():
         companies.append({"key": co, "best": job_json(jobs[0]),
                           "jobs": [job_json(j) for j in jobs]})
     companies.sort(key=lambda c: ((0 if c["best"]["scored"] else 1), -c["best"]["total"]))
-    data = {"companies": companies, "excluded": excluded,
+    data = {"companies": companies, "excluded": excluded, "in_pipe": in_pipe,
             "unscored": sum(1 for c in companies for j in [c["best"]] if not j["scored"])}
     script = RANK_SCRIPT.replace("%DATA%", json_dumps(data))
     (out / "rank.html").write_text(page("rank", "候选榜", RANK_CONTENT, script, cfg, today, mode),
