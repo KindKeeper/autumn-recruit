@@ -8,6 +8,7 @@ link: https://app.mokahr.com/campus_apply/envisiongroup/43123#/jobs
 salary_range: ''
 stages:
   applied: '2026-09-09'
+  assessment: '2026-09-09'
 updated_at: '2026-09-09'
 track: 热管理类
 boundary: S
@@ -31,3 +32,5 @@ log:
   note: '[offershow] 截止更新为 2026-10-31（原 空）'
 - date: '2026-09-09'
   note: '[邮箱] 远景能源投递确认（16:13，mokahr系统，岗位：热管理工程师）'
+- date: '2026-09-09'
+  note: '[邮箱] 综合测评邀请（16:18，cut-e系统，72h内完成，性格+数字/文字/逻辑推理，30-40分钟，劣汰环节）'
