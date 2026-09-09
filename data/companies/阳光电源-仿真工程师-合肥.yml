@@ -7,14 +7,13 @@ city: 合肥
 link: https://app.mokahr.com/m/campus-recruitment/sungrow/94416#/home
 salary_range: 未记录
 stages:
-  applied: '2026-09-07'
-  assessment: '2026-09-07'
+  applied: '2026-07-07'
 updated_at: '2026-09-09'
 track: 仿真类
 boundary: A
 apply_deadline: '2026-07-20'
 outcome: rejected
-job_posted: '2026-07-08'
+job_posted: '2026-07-07'
 source_id: offershow:687d7415-72ca-4711-a3b2-ec34bf7f8f0b
 interviews:
 - round: 业务面
@@ -33,7 +32,12 @@ log:
     \n>\n> 正式批可继续投递阳光电源。\n\n> **2026-08-18 确认：正式批不再投此岗（电解槽仿真）**\n>\n> 用户决策：该岗提前批已面试失败（业务面07-24自评不佳→不匹配），正式批不重复投递。对应待投递文件已删除。正式批投递组合改为主线A其他岗：热设计（88）+力学仿真浮式（80）+第3候选（算法预测79/器件风扇76待定）。\n\
     \n> 投递记录：\n> - 投递时间：2026-07-09\n> - 投递截止：2026-07-20\n> - 招聘批次：秋招提前批\n> - 投递渠道：阳光电源校招官网\n\
     \n---\n*创建于: 2026-07-09*"
-- date: '2026-09-07'
-  note: '[邮箱] 收到阳光电源校招测评通知（14:15，mokahr系统）'
+- date: '2026-07-07'
+  note: '[官网] 提前批第1志愿投递（15:26）'
+- date: '2026-09-09'
+  note: '[官网] 状态：暂不匹配，提前批结束'
+- date: '2026-09-09'
+  note: '[offershow] 公告收录日07-08晚于实际开投日07-07，job_posted更正'
 tags:
 - B5-储能光伏
+outcome_note: 提前批志愿暂不匹配（07-07投递，官网状态）

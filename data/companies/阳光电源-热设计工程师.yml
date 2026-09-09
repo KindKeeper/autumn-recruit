@@ -7,7 +7,7 @@ city: 合肥
 link: https://app.mokahr.com/m/campus-recruitment/sungrow/94416#/home
 salary_range: 预估28-40W
 stages:
-  applied: '2026-09-07'
+  applied: '2026-08-31'
   assessment: '2026-09-07'
 updated_at: '2026-09-09'
 track: 热管理类
@@ -29,5 +29,7 @@ tags:
 log:
 - date: '2026-09-08'
   note: '[offershow] 正式批公告2026-08-11发布，原误填提前批07-08，已更正'
+- date: '2026-08-31'
+  note: '[官网] 正式批第1志愿投递（21:44）'
 - date: '2026-09-07'
-  note: '[邮箱] 收到阳光电源校招测评通知（14:15，mokahr系统）'
+  note: '[邮箱] 状态：测评中（阳光校招官网+mokahr邮件14:15）'
