@@ -51,3 +51,10 @@
 - `stages` 的 key 只能取七节点枚举值；值可以是日期字符串或 `{date, note}` 对象
 - 单调性：interview_2 ⇒ interview_1 必先存在；offer ⇒ 至少 interview_1
 - 当前阶段与优先级档位由 build 脚本自动推导，**不要手填**
+
+## 文档
+
+- `docs/architecture.md` — 技术架构、页面结构、工具链
+- `docs/data-model.md` — 字段定义、七节点、评分子项
+- `docs/operations.md` — 日常使用：记进度、收录岗位、CI、回滚
+- `AGENTS.md` — 面向 AI agent 的仓库约定与红线
