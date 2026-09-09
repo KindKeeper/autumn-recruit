@@ -6,7 +6,8 @@ channel: 官网
 city: 青岛
 link: https://hisense.zhiye.com/
 salary_range: ''
-stages: {}
+stages:
+  applied: '2026-09-09'
 updated_at: '2026-09-09'
 boundary: S
 job_posted: '2026-08-22'
@@ -27,3 +28,5 @@ tags:
 log:
 - date: '2026-09-09'
   note: '[官网JD] 发布2026-08-22，岗位编号J45454，全职，山东省青岛市'
+- date: '2026-09-09'
+  note: '[官网] 海信校招投递成功（15:23，每人限投1岗）'
