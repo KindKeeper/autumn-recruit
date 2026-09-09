@@ -6,8 +6,11 @@ channel: 官网
 city: 上海
 link: https://xiaomi.jobs.f.mioffice.cn/campus/?spread=A4ZWBKW
 salary_range: 预估30-40W
-stages: {}
-updated_at: '2026-09-08'
+stages:
+  applied: '2026-08-31'
+  assessment: '2026-08-31'
+  written_test: '2026-08-31'
+updated_at: '2026-09-09'
 track: 热管理类
 boundary: S
 apply_deadline: '2026-12-31'
@@ -31,3 +34,9 @@ log:
   note: '[offershow] 截止更新为 2026-12-31（原 2027-12-31）'
 - date: '2026-09-08'
   note: '[offershow] 正式批公告发布 2026-08-10（原 2026-06-24）'
+- date: '2026-08-31'
+  note: '[官网] 正式批第2志愿投递（意向上海，接受调剂）'
+- date: '2026-08-31'
+  note: '[邮箱] 小米集团测评邀请（22:18，飞书系统）'
+- date: '2026-09-04'
+  note: '[官网] 状态：评估中（笔试已过）'
