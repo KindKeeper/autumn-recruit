@@ -1,0 +1,26 @@
+id: huawei-hardware-2027
+name: 华为
+position: 硬件技术工程师-单板硬件
+group: 正式批
+channel: 官网
+city: 上海/杭州/苏州/东莞/武汉
+link: https://career.huawei.com
+salary_range: 华为（约25-35万/年）
+stages:
+  applied: '2026-09-04'
+updated_at: '2026-09-09'
+track: 硬件/半导体
+boundary: A
+job_posted: '2026-09-03'
+score:
+  fit: 7
+  track: 8
+  city: 8
+  salary: 9
+  stability: 8
+  certainty: 5
+  urgency: 6
+  wlb: 4
+note: 研发类智能汽车解决方案BU研发管理部，单板硬件方向，非纯热设计
+tags:
+- B3-电子科技
