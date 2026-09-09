@@ -3,13 +3,14 @@ name: 海信
 position: 仿真设计工程师（散热方向）
 group: 正式批
 channel: 官网
-city: ''
+city: 青岛
 link: https://hisense.zhiye.com/
 salary_range: ''
 stages: {}
-updated_at: '2026-09-08'
+updated_at: '2026-09-09'
 boundary: S
-job_posted: '2026-08-25'
+job_posted: '2026-08-22'
+job_code: J45454
 source_id: offershow:99ad295a-9cfa-4624-87b3-07c36d8b99a2
 score:
   fit: 10
@@ -20,6 +21,9 @@ score:
   certainty: 8
   urgency: 6
   wlb: 6
-note: 来源:总表[海信_仿真设计工程师（散热方向）]
+note: 硕士及以上，热能工程/动力工程及工程热物理；散热仿真设计+仿真测试闭环；英语四级；海信校招每人限投1个岗位
 tags:
 - B4-家电暖通
+log:
+- date: '2026-09-09'
+  note: '[官网JD] 发布2026-08-22，岗位编号J45454，全职，山东省青岛市'
