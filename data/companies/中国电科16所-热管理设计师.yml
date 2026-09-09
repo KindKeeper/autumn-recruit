@@ -6,8 +6,9 @@ channel: 官网
 city: 合肥
 link: https://webapp.zhaopin.com/2025/hd/zgdzkm0716ZL85636/#/
 salary_range: 军工体系（事业编）
-stages: {}
-updated_at: '2026-09-08'
+stages:
+  applied: '2026-09-09'
+updated_at: '2026-09-09'
 track: 热管理类
 boundary: S
 job_posted: '2026-08-27'

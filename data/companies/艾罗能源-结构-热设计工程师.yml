@@ -1,13 +1,14 @@
 id: job-0017
 name: 艾罗能源
-position: 结构/热设计工程师
+position: 热设计工程师（2027届）
 group: 正式批
 channel: 官网
 city: 杭州
 link: ''
 salary_range: 上市公司（15薪）
-stages: {}
-updated_at: '2026-09-08'
+stages:
+  applied: '2026-08-31'
+updated_at: '2026-09-09'
 track: 热管理类
 boundary: S
 job_posted: '2026-08-28'
