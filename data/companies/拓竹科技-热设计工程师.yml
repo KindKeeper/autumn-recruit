@@ -2,12 +2,13 @@ id: job-0022
 name: 拓竹科技
 position: 热设计工程师
 group: 正式批
-channel: 官网
+channel: 内推
 city: 深圳
 link: https://bambulab.zhiye.com/campus
 salary_range: 预估25-35W
-stages: {}
-updated_at: '2026-09-08'
+stages:
+  applied: '2026-08-31'
+updated_at: '2026-09-09'
 track: 热管理类
 boundary: S
 job_posted: '2026-08-07'
