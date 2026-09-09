@@ -7,20 +7,24 @@ city: 武汉
 link: https://www.ymtc.com
 salary_range: ''
 stages: {}
-updated_at: '2026-09-08'
+updated_at: '2026-09-09'
 track: 电池仿真类
 boundary: A
 job_posted: '2026-07-02'
 source_id: offershow:67a11208-7131-4c9c-9385-467fe8ddfdc6
 score:
   fit: 9
-  track: 9
+  track: 8
   city: 7
-  salary: 7
-  stability: 8
+  salary: 8
+  stability: 9
   certainty: 6
-  urgency: 6
+  urgency: 7
   wlb: 5
+score_rationale: 'fit9流体多物理场仿真对口(J14687);salary8估40-50万;stability9存储扩产周期;调研校正09-09'
 note: 来源:总表[长江存储_AI4S仿真]
 tags:
 - B2-半导体芯片
+log:
+- date: '2026-09-09'
+  note: '[调研] 27届08-27启动,对应官网J14687智能算法与AI应用(武汉,08-17发布):JD要求ANSYS/COMSOL流体/多相流仿真+能源力学专业,仿真技能对口/行业转半导体;硕士估40-50万;存储涨价周期史诗扩产(IPO受理);09-09'

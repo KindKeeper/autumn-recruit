@@ -7,20 +7,24 @@ city: 南京
 link: ''
 salary_range: 预估22-32W
 stages: {}
-updated_at: '2026-09-08'
+updated_at: '2026-09-09'
 track: CV算法
 boundary: B
 job_posted: '2026-08-16'
 source_id: offershow:279d8620-4f56-4ce1-bfd7-d74f2a16144e
 score:
-  fit: 8
-  track: 7
+  fit: 3
+  track: 6
   city: 8
-  salary: 8
-  stability: 7
-  certainty: 7
-  urgency: 8
+  salary: 6
+  stability: 5
+  certainty: 6
+  urgency: 7
   wlb: 6
+score_rationale: 'fit3 CV纯转行;stability5小民企;salary6口径矛盾存疑;调研校正09-09'
 note: 来源:总表[昆仑新能_图像识别工程师]
 tags:
 - B5-储能光伏
+log:
+- date: '2026-09-09'
+  note: '[调研] 全称江苏昆仑互联新能源(盐城AI+能源管控民企,400人,三轮融资估值7.2亿);27届08-12至10-12网申,图像识别=CV纯转行岗;官方"不低于25万"与13k/月口径矛盾存疑;无公开口碑;09-09'

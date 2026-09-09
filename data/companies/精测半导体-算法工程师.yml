@@ -7,20 +7,24 @@ city: 上海
 link: https://pmish-tech.zhiye.com/campus/jobs
 salary_range: 预估25-35W
 stages: {}
-updated_at: '2026-09-08'
+updated_at: '2026-09-09'
 track: 图像算法类
 boundary: B
 job_posted: '2026-08-06'
 source_id: offershow:d5400aee-d40e-4977-b340-95b7de577110
 score:
-  fit: 7
-  track: 8
+  fit: 3
+  track: 7
   city: 8
   salary: 8
   stability: 8
-  certainty: 7
-  urgency: 8
+  certainty: 5
+  urgency: 7
   wlb: 5
+score_rationale: 'fit3检测图像算法转行;city8上海;certainty5硕士仅J10558可投;建议改投J10543/J10555;调研校正09-09'
 note: 来源:总表[精测半导体_算法工程师]
 tags:
 - B2-半导体设备
+log:
+- date: '2026-09-09'
+  note: '[调研] 全称上海精测半导体(精测电子300567子公司,半导体检测设备);27届在招(官网25岗),算法工程师=检测图像算法纯转行且3/4算法岗限博士(硕士仅J10558);建议改投机械工程师J10543(Ansys)或光学仿真J10555(COMSOL);09-09'

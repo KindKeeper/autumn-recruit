@@ -7,7 +7,7 @@ city: 哈尔滨
 link: ''
 salary_range: 商业航天（硕士25-38万/年）
 stages: {}
-updated_at: '2026-09-08'
+updated_at: '2026-09-09'
 track: 热管理类
 boundary: S
 apply_deadline: '2026-10-21'
@@ -18,10 +18,14 @@ score:
   track: 8
   city: 6
   salary: 8
-  stability: 6
+  stability: 7
   certainty: 7
-  urgency: 6
+  urgency: 7
   wlb: 7
+score_rationale: 'fit10卫星热控纯对口(要工程热物理);city6哈尔滨;salary8官方25-38万;stability7国资扩张;调研校正09-09'
 note: 来源:总表[工大卫星_热控设计师]
 tags:
 - A2-商业航天
+log:
+- date: '2026-09-09'
+  note: '[调研] 27届06启动在招(截止10-21),热控设计师明确要工程热物理(卫星热控纯对口,base哈尔滨/北京);官方硕士25-38万(哈尔滨顶尖);哈工大系B+轮国资背书扩张期;09-09'

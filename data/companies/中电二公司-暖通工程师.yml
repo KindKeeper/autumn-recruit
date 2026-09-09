@@ -7,20 +7,24 @@ city: 无锡
 link: ''
 salary_range: 央企（六险一金+餐补+住宿）
 stages: {}
-updated_at: '2026-09-08'
+updated_at: '2026-09-09'
 track: 热管理类
 boundary: S
 job_posted: '2026-08-27'
 source_id: offershow:3020d631-93cd-44d1-97c6-f47e228a4560
 score:
-  fit: 8
-  track: 7
+  fit: 4
+  track: 6
   city: 8
-  salary: 7
+  salary: 5
   stability: 8
   certainty: 7
   urgency: 6
-  wlb: 7
+  wlb: 4
+score_rationale: 'fit4暖通施工管理非研发;city8无锡;salary5约9-13K;wlb4项目制流动;调研校正09-09'
 note: 来源:总表[中电二公司_暖通工程师]
 tags:
 - A3-洁净工程/工业建筑
+log:
+- date: '2026-09-09'
+  note: '[调研] 中电二公司=半导体洁净室工程总包(央企CEC,无锡总部,7000人);27届在招,暖通工程师=建造岗(项目制全国流动,9-13k/月)非研发;建议改投同批设计岗-暖通动力设计师(硕士坐班);09-09'

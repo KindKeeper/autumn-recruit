@@ -7,20 +7,24 @@ city: 合肥
 link: https://boe.zhiye.com/campus
 salary_range: 硕士12-18万
 stages: {}
-updated_at: '2026-09-08'
+updated_at: '2026-09-09'
 track: 仿真类
 boundary: A
 job_posted: '2026-07-06'
 source_id: offershow:5e6d6269-2b8c-4f3f-b6d5-d242a086ba40
 score:
-  fit: 7
+  fit: 3
   track: 8
   city: 9
   salary: 8
   stability: 8
-  certainty: 7
-  urgency: 8
+  certainty: 4
+  urgency: 3
   wlb: 5
+score_rationale: 'fit3 AI仿真非热仿真;urgency3提前批08-14已截止;certainty4正式批未见同名岗;调研校正09-09'
 note: 来源:总表[京东方_仿真算法研究员]
 tags:
 - B2-半导体芯片
+log:
+- date: '2026-09-09'
+  note: '[调研] 该岗属27届提前批先锋京英计划(07-02开,08-14已截止),正式批(08-28启动)未见同名岗;方向为AI/优化仿真非热仿真;投递前需官网campus.boe.com确认;09-09'

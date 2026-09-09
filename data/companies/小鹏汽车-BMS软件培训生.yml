@@ -7,20 +7,24 @@ city: 广州
 link: https://xiaopeng.jobs.feishu.cn/398875/m/
 salary_range: 预估20-35万
 stages: {}
-updated_at: '2026-09-08'
+updated_at: '2026-09-09'
 track: 电池算法类
 boundary: B
 job_posted: '2026-07-21'
 source_id: offershow:9b37144f-1530-4cff-8b1d-ebce8059e9dd
 score:
-  fit: 8
-  track: 10
-  city: 7
+  fit: 4
+  track: 8
+  city: 8
   salary: 8
   stability: 6
   certainty: 6
-  urgency: 6
+  urgency: 7
   wlb: 5
+score_rationale: 'fit4电控软件擦边偏转行;track8新能源赛道;city8广州;salary8估25-40万;调研校正09-09'
 note: 来源:总表[小鹏_BMS软件培训生]
 tags:
 - B1-新能源车企
+log:
+- date: '2026-09-09'
+  note: '[调研] 小鹏27届探索者07-07启动在招,BMS软件培训生=电控软件方向(擦边偏转行,非热管理);base广州/上海;年包估25-40万;Q1亏损17.8亿Q2回暖毛利20.7%创新高;小鹏另有热管理对口岗注意区分;09-09'

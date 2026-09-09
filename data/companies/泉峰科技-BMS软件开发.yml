@@ -7,23 +7,26 @@ city: 南京
 link: ''
 salary_range: 预估20-28W
 stages: {}
-updated_at: '2026-09-08'
+updated_at: '2026-09-09'
 track: BMS算法类
 boundary: B
 job_posted: '2026-09-01'
 source_id: offershow:b4a9483c-ef39-4a22-9bda-e90a232b7fe7
 score:
-  fit: 8
-  track: 7
+  fit: 3
+  track: 6
   city: 8
-  salary: 8
-  stability: 8
-  certainty: 7
-  urgency: 8
+  salary: 6
+  stability: 5
+  certainty: 6
+  urgency: 6
   wlb: 5
+score_rationale: 'fit3嵌入式转行;stability5利润-42%;salary6约20万;调研校正09-09'
 note: 来源:总表[泉峰科技_BMS软件开发]
 tags:
 - D4-机械制造/电动工具
 log:
 - date: '2026-09-08'
   note: '[offershow] 正式批公告发布 2026-09-01（原 2026-06-30）'
+- date: '2026-09-09'
+  note: '[调研] 全称南京泉峰科技(泉峰控股2285.HK,电动工具/OPE锂电);27届08-24启动截止2027-06-30,BMS软件开发=嵌入式转行岗;同公司结构岗爆料13.5K×15约20万;2025利润-42%;09-09'

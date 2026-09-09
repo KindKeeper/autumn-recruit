@@ -3,7 +3,7 @@ name: 中船鹏力科技集团
 position: 低温研发工程师
 group: 正式批
 channel: 官网
-city: 江苏
+city: 南京
 link: ''
 salary_range: ''
 stages: {}
@@ -14,14 +14,18 @@ job_posted: '2026-09-09'
 score:
   fit: 9
   track: 8
-  city: 7
-  salary: 6
+  city: 8
+  salary: 5
   stability: 9
   certainty: 6
-  urgency: 5
+  urgency: 7
   wlb: 7
+score_rationale: 'fit9低温制冷纯对口(GM制冷机);city8南京;salary5 JD明码17-21万;stability9央企724所;调研校正09-09'
 note: 中船体系央企，低温研发与热物理/制冷专业直接对口
 tags:
 - 低温系统
 - 能动直接对口
 - 央企
+log:
+- date: '2026-09-09'
+  note: '[调研] 全称中船鹏力(南京)科技集团(中船八院724所产业化平台),base南京江宁;低温研发工程师27届在招(JD明码1.3-1.6万×13,招12人);GM制冷机国产替代纯对口(热力学/流体/传热+Ansys/Comsol);09-09'

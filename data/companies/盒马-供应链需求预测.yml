@@ -7,20 +7,24 @@ city: 上海
 link: ''
 salary_range: 预估30-45W
 stages: {}
-updated_at: '2026-09-08'
+updated_at: '2026-09-09'
 track: 深度学习算法类
 boundary: B
 job_posted: '2026-08-07'
 source_id: offershow:63141d6f-7233-4007-8c75-9b844feffddf
 score:
-  fit: 7
-  track: 8
+  fit: 3
+  track: 6
   city: 8
   salary: 9
   stability: 8
-  certainty: 7
+  certainty: 6
   urgency: 8
   wlb: 6
+score_rationale: 'fit3时序ML纯转行;stability8首次盈利;urgency8截止10-05;调研校正09-09'
 note: 来源:总表[盒马_供应链需求预测]
 tags:
 - C1-互联网
+log:
+- date: '2026-09-09'
+  note: '[调研] 27届08-06启动截止10-05,算法类供应链需求预测在列(杭州/上海);盒马2025首次全年盈利;纯转行岗(时序ML,与热零交集);09-09'

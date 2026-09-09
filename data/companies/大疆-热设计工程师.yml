@@ -7,7 +7,7 @@ city: 深圳
 link: https://we.dji.com/
 salary_range: ''
 stages: {}
-updated_at: '2026-09-08'
+updated_at: '2026-09-09'
 track: 热管理类
 boundary: S
 job_posted: '2026-08-13'
@@ -20,12 +20,14 @@ score:
   salary: 9
   stability: 8
   certainty: 4
-  urgency: 6
+  urgency: 7
   wlb: 4
-score_rationale: '- 技术：热阻网络分解、ANSYS仿真细节、材料选型依据、温度均匀性改善方法'
+score_rationale: 'fit9无人机散热纯对口;salary9约39万;certainty4限投1岗11月出结果;wlb4偏卷;调研校正09-09'
 note: 来源:总表[大疆_热设计工程师]
 tags:
 - B3-电子科技
 log:
 - date: '2026-09-08'
   note: '[offershow] 正式批公告发布 2026-08-13（原 2026-06-25）'
+- date: '2026-09-09'
+  note: '[调研] 27届拓疆者06-25启动无截止(招满即止),硬件类热设计工程师在列(base深圳);24届爆料26K×15约39万;限投1职位+11月才出结果故certainty低;反加班政策后仍偏卷;09-09'

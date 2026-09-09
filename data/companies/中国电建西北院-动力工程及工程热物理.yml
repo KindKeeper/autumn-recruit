@@ -12,16 +12,20 @@ track: 能动/电力设计
 boundary: S
 job_posted: '2026-09-09'
 score:
-  fit: 10
+  fit: 7
   track: 7
-  city: 7
-  salary: 6
+  city: 6
+  salary: 5
   stability: 9
   certainty: 6
-  urgency: 5
-  wlb: 7
+  urgency: 7
+  wlb: 5
+score_rationale: 'fit7水电热机擦边非热管理主线;city6西安;salary5约10-15K;wlb5西部出差驻场;调研校正09-09'
 note: 电建体系央企设计院，动力工程及工程热物理专业直接对口，多城市可选
 tags:
 - 电力设计院
 - 能动直接对口
 - 央企
+log:
+- date: '2026-09-09'
+  note: '[调研] 27届09-02公告在招(西安,40人硕博),该专业对应水电热机/水力机械/压缩空气储能方向,擦边非热管理主线;10-15K/月;西部项目出差驻场多;09-09'

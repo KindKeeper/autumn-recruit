@@ -7,7 +7,7 @@ city: 苏州
 link: ''
 salary_range: 上市公司体系
 stages: {}
-updated_at: '2026-09-08'
+updated_at: '2026-09-09'
 track: 热管理类
 boundary: S
 apply_deadline: '2026-10-25'
@@ -17,11 +17,15 @@ score:
   fit: 9
   track: 8
   city: 7
-  salary: 7
+  salary: 6
   stability: 7
   certainty: 7
-  urgency: 5
-  wlb: 7
+  urgency: 7
+  wlb: 6
+score_rationale: 'fit9笔记本散热纯对口;city7苏州;salary6面议(带宽12-25k);stability7出货+123%;背景为软通动力系;调研校正09-09'
 note: 来源:总表[机械革命_散热研发工程师]
 tags:
 - B3-智能制造与装备
+log:
+- date: '2026-09-09'
+  note: '[调研] 校招主体智通国际信息技术(苏州)=机械革命品牌主体,2024年已售予软通动力(非同方股份);27届在招(截止10-25,base苏州);游戏本散热研发纯对口;出货+123%增长;校招面议,苏州带宽12-25k;09-09'

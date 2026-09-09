@@ -7,23 +7,26 @@ city: 宁德
 link: ''
 salary_range: 预估28-38W
 stages: {}
-updated_at: '2026-09-08'
+updated_at: '2026-09-09'
 track: 仿真类
 boundary: S
 job_posted: '2026-09-01'
 source_id: offershow:951bf8cb-65d2-4757-a8a5-4dbf8433cf7a
 score:
   fit: 8
-  track: 9
-  city: 6
+  track: 8
+  city: 5
   salary: 8
   stability: 8
   certainty: 7
-  urgency: 8
-  wlb: 6
+  urgency: 7
+  wlb: 5
+score_rationale: 'fit8电芯热流体对口偏窄;city5宁德;salary8官方25-49万;调研校正09-09'
 note: 来源:总表[ATL_流体仿真工程师]
 tags:
 - B5-储能光伏
 log:
 - date: '2026-09-08'
   note: '[offershow] 正式批公告发布 2026-09-01（原 2026-08-17）'
+- date: '2026-09-09'
+  note: '[调研] ATL(TDK全资,消费电池全球第一)27届08-14启动截止11-30,仿真类明确招工程热物理;电芯热流体仿真对口偏窄(消费软包非系统级热管理);官方硕士25-49万;强度低于CATL但加班多;09-09'

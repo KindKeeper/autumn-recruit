@@ -7,20 +7,24 @@ city: 宁德
 link: ''
 salary_range: 全球龙头（A+H双上市，16薪）
 stages: {}
-updated_at: '2026-09-08'
+updated_at: '2026-09-09'
 track: 热管理类
 boundary: A
 job_posted: '2026-08-27'
 source_id: offershow:cc50e1c4-0e13-46ca-8841-fe31dc1c19e9
 score:
-  fit: 9
-  track: 10
-  city: 4
+  fit: 6
+  track: 9
+  city: 5
   salary: 9
-  stability: 10
+  stability: 9
   certainty: 6
-  urgency: 6
-  wlb: 6
+  urgency: 7
+  wlb: 4
+score_rationale: 'fit6结构力学非热仿真(同批有热仿真岗);city5宁德;salary9硕士20-50万;wlb4 896实锤;调研校正09-09'
 note: 来源:总表[宁德时代_力学仿真工程师]
 tags:
 - B1-新能源储能
+log:
+- date: '2026-09-09'
+  note: '[调研] 27届08-25启动在招(6000+offer),力学仿真=结构力学方向(电池包强度/振动)非热仿真,擦边;宁德base;硕士20-50万;896强度实锤;同批另有热管理/热仿真工程师纯对口岗建议改投;09-09'

@@ -7,19 +7,20 @@ city: ''
 link: ''
 salary_range: ''
 stages: {}
-updated_at: '2026-09-08'
+updated_at: '2026-09-09'
 boundary: A
 job_posted: '2026-08-26'
 source_id: offershow:34fd0fd3-4bb2-443d-b222-7afedd0c0a4a
 score:
-  fit: 8
+  fit: 6
   track: 7
   city: 8
-  salary: 7
+  salary: 8
   stability: 10
   certainty: 7
-  urgency: 6
+  urgency: 8
   wlb: 7
+score_rationale: 'fit6 CAE软件赛道擦边;city8北京事业编;salary8起薪>25万+户口;urgency8提前批09-15截止;调研校正09-09'
 note: 来源:总表[中物院软件中心_流体力学CAE]
 tags:
 - A1-CAE仿真软件
@@ -27,3 +28,5 @@ apply_deadline: '2026-09-15'
 log:
 - date: '2026-09-08'
   note: '[offershow] 截止更新为 2026-09-15（原 空）'
+- date: '2026-09-09'
+  note: '[调研] 27届08底启动,流体力学/辐射与传热CAE方向在招;签软件中心=北京/绵阳事业编(硕士起薪>25万+户口),签中久数创=成都企业编;提前批09-15截止;属CAE软件赛道擦边;09-09'
