@@ -6,8 +6,9 @@ channel: 官网
 city: 中山
 link: ''
 salary_range: 未记录
-stages: {}
-updated_at: '2026-09-08'
+stages:
+  applied: '2026-09-07'
+updated_at: '2026-09-09'
 track: 热管理类
 boundary: S
 job_posted: '2026-08-27'
@@ -28,3 +29,5 @@ apply_deadline: '2026-11-30'
 log:
 - date: '2026-09-08'
   note: '[offershow] 截止更新为 2026-11-30（原 空）'
+- date: '2026-09-07'
+  note: '[邮箱] 英维克投递确认（12:46，italent系统；邮件未注明岗位，待确认）'
