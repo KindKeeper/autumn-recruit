@@ -6,8 +6,9 @@ channel: 官网
 city: 上海
 link: https://tarsrobot.jobs.feishu.cn/index
 salary_range: 预估30-45W
-stages: {}
-updated_at: '2026-09-08'
+stages:
+  applied: '2026-08-31'
+updated_at: '2026-09-09'
 track: 热管理类
 boundary: S
 apply_deadline: '2026-12-30'
