@@ -7,21 +7,24 @@ city: 上海
 link: https://www.southchip.com
 salary_range: ''
 stages: {}
-updated_at: '2026-09-08'
+updated_at: '2026-09-09'
 track: 电池算法类
 boundary: B
 job_posted: '2026-07-14'
 source_id: offershow:e93e647e-3b6d-4439-b8bf-6b4837ed38e6
 score:
-  fit: 9
-  track: 10
+  fit: 4
+  track: 7
   city: 8
   salary: 8
-  stability: 7
+  stability: 5
   certainty: 6
-  urgency: 1
+  urgency: 6
   wlb: 6
-score_rationale: 依据：W1=论文SOC/SOH深度学习估计精准对口、等效电路模型需补（9）；W2=电池算法主线B核心（10）；W3=上海一线（8）；W4=官网未给薪资按同类预估25-35万*（8）；W5=科创板电源芯片龙头（7）；W6=竞争适中（6）；W7=官网无截止（1）；W8=芯片公司适度加班（6）
+score_rationale: 'fit4擦边偏转行(芯片算法非热方向);urgency6无截止依据;stability5上半年转亏;调研校正09-09'
 note: 来源:总表[南芯科技_BMS算法(J11384)]
 tags:
 - B2-半导体芯片
+log:
+- date: '2026-09-09'
+  note: '[调研] 官网09-09实测J11384仍挂(2026-06-09发布,无截止日期,9月岗位池仍扩容),urgency=1无依据已校正;JD=电量计芯片SOC/SOH算法(电化学+控制,擦边偏转行);2026H1由盈转亏;09-09'

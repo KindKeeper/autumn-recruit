@@ -7,7 +7,7 @@ city: 北京
 link: https://jobs.bytedance.com/campus
 salary_range: 预估30-45W
 stages: {}
-updated_at: '2026-09-08'
+updated_at: '2026-09-09'
 track: 数据中心热管理类
 boundary: A
 apply_deadline: '2026-12-31'
@@ -16,16 +16,19 @@ source_id: offershow:0fa918b2-09a2-46d0-92b4-858ac9a5488d
 referral_code: 1GPYPMS
 score:
   fit: 7
-  track: 9
+  track: 8
   city: 8
   salary: 9
   stability: 8
   certainty: 6
-  urgency: 8
-  wlb: 7
+  urgency: 7
+  wlb: 5
+score_rationale: 'fit7数据中心暖通对口偏工程管理;wlb5字节强度+出差;调研校正09-09'
 note: 来源:总表[字节_IDC项目设计工程师]
 tags:
 - C2-互联网内容
 log:
 - date: '2026-09-08'
   note: '[offershow] 正式批公告发布 2026-08-27（原 2026-04-01）'
+- date: '2026-09-09'
+  note: '[调研] 官网27届在招(职位A62556,北京/上海双base),属AI算力基础设施(DCE);数据中心制冷设计对口但偏暖通工程管理非热仿真;AI基建扩张(资本开支2000亿)但全司利润承压;强度高+需出差外地园区;09-09'

@@ -7,7 +7,7 @@ city: 杭州
 link: ''
 salary_range: A股上市
 stages: {}
-updated_at: '2026-09-08'
+updated_at: '2026-09-09'
 track: 热管理类
 boundary: S
 job_posted: '2026-08-25'
@@ -15,13 +15,17 @@ source_id: offershow:f47e3679-1956-4a03-a1c9-4bd82eee50df
 referral_code: Y9NW9W
 score:
   fit: 8
-  track: 9
+  track: 8
   city: 8
   salary: 8
-  stability: 8
+  stability: 7
   certainty: 6
-  urgency: 6
-  wlb: 7
+  urgency: 7
+  wlb: 4
+score_rationale: 'fit8电子散热对口;wlb4大小周执行中;stability7裁员控费背景;调研校正09-09'
 note: 来源:总表[海康威视_热设计工程师]
 tags:
 - A1-安防AI/智能硬件
+log:
+- date: '2026-09-09'
+  note: '[调研] 27届08-21启动,热设计方向在硬件/结构类目录(base杭州);硕士估18-22k×15总包28-33万;裁员控费背景但国企底线;大小周仍在执行(脉脉2026-09确认);09-09'

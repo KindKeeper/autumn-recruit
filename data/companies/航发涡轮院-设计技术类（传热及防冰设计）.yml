@@ -4,23 +4,27 @@ position: 设计技术类（传热及防冰设计）
 group: 正式批
 channel: 官网
 city: 成都
-link: ''
+link: https://wolunyuan.iguopin.com
 salary_range: 事业编制（六险两金+安家费+人才公寓）
 stages: {}
-updated_at: '2026-09-08'
+updated_at: '2026-09-09'
 track: 热管理类
 boundary: S
-job_posted: '2024-09-06'
+job_posted: '2026-08-28'
 source_id: offershow:07a2be24-9d8e-48f9-a2ce-8b2f4842c1d2
 score:
   fit: 10
   track: 9
-  city: 8
-  salary: 7
+  city: 7
+  salary: 6
   stability: 9
   certainty: 7
-  urgency: 7
+  urgency: 6
   wlb: 6
+score_rationale: 'fit10纯对口(发动机传热防冰);city7成都;salary6事业编15-20w;stability9央企院所;调研校正09-09'
 note: 来源:总表[航发涡轮院_设计技术类（传热及防冰设计）]
 tags:
 - A2-军工航天院所
+log:
+- date: '2026-09-09'
+  note: '[调研] 27届简章已发(08-28,国聘平台wolunyuan.iguopin.com),传热防冰方向确认在招,硕士年包15-20万事业编,院所扩编;09-09校正'

@@ -7,20 +7,24 @@ city: 厦门
 link: ''
 salary_range: 预估25-35W
 stages: {}
-updated_at: '2026-09-08'
+updated_at: '2026-09-09'
 track: BMS算法
 boundary: B
 job_posted: '2026-08-17'
 source_id: offershow:c48dd537-dbcb-4416-9cd7-815d75c72031
 score:
-  fit: 9
-  track: 9
+  fit: 3
+  track: 8
   city: 7
   salary: 8
   stability: 8
   certainty: 7
-  urgency: 8
-  wlb: 6
+  urgency: 7
+  wlb: 5
+score_rationale: 'fit3转行(BMS算法非热方向);track8储能赛道契合;建议改投同批热设计工程师岗;调研校正09-09'
 note: 来源:总表[新能安_BMS算法工程师]
 tags:
 - B5-储能光伏
+log:
+- date: '2026-09-09'
+  note: '[调研] 27届08-14启动截止11-12,BMS算法在列但为电化学建模+控制转行岗;同批热设计工程师(明确要工程热物理,纯对口)更适合;硕士23-34万;储能行业有裁员潮属β风险;09-09'

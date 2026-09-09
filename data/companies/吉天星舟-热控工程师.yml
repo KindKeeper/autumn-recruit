@@ -7,20 +7,24 @@ city: 苏州
 link: ''
 salary_range: 民营商业航天（硕士17-32万/年）
 stages: {}
-updated_at: '2026-09-08'
+updated_at: '2026-09-09'
 track: 热管理类
 boundary: S
 job_posted: '2026-08-26'
 source_id: offershow:9ed27662-944f-44c7-a00d-833be6c3f473
 score:
-  fit: 10
+  fit: 9
   track: 8
   city: 7
-  salary: 8
+  salary: 7
   stability: 6
   certainty: 7
-  urgency: 6
-  wlb: 7
+  urgency: 7
+  wlb: 5
+score_rationale: 'fit9航天器热控对口;salary7无爆料按社招推算;stability6早期民企;调研校正09-09'
 note: 来源:总表[吉天星舟_热控工程师]
 tags:
 - A2-商业航天
+log:
+- date: '2026-09-09'
+  note: '[调研] 27届08-25启动(截止10-24),热控工程师base苏州/长春;卫星载荷热设计热仿真纯对口(JD点名工程热物理);B轮数亿,2025盈亏平衡,140人;无校招薪资爆料(社招15-25k·14参考);09-09'

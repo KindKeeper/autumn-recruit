@@ -3,26 +3,29 @@ name: 博瑞电力
 position: 研发工程师
 group: 正式批
 channel: 官网
-city: ''
+city: 常州
 link: ''
 salary_range: ''
 stages: {}
-updated_at: '2026-09-08'
+updated_at: '2026-09-09'
 boundary: S
 job_posted: '2026-08-31'
 source_id: offershow:ea462e99-3394-4edc-a5f6-133d634f3930
 score:
-  fit: 9
-  track: 9
-  city: 7
-  salary: 8
+  fit: 8
+  track: 8
+  city: 6
+  salary: 7
   stability: 8
   certainty: 7
-  urgency: 6
-  wlb: 6
+  urgency: 7
+  wlb: 5
+score_rationale: 'city6常州(base更正);fit8电力装备热方向入口;salary7约22万;调研校正09-09'
 note: 来源:总表[博瑞电力_研发工程师]
 tags:
 - 未分类
 log:
 - date: '2026-09-08'
   note: '[offershow] 正式批公告发布 2026-08-31（原 2026-08-24）'
+- date: '2026-09-09'
+  note: '[调研] 全名常州博瑞电力自动化设备(南瑞继保全资子公司,base常州非南京);27届08-28启动,研发工程师专业含工程热物理;硕士年包约22万爆料;09-09'

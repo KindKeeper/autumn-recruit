@@ -7,20 +7,24 @@ city: 南京
 link: ''
 salary_range: 电力装备龙头（七险二金）
 stages: {}
-updated_at: '2026-09-08'
+updated_at: '2026-09-09'
 track: 热管理类
 boundary: S
 job_posted: '2026-08-26'
 source_id: offershow:18ca6aa7-4d67-481a-a187-2d5c712c4d1e
 score:
-  fit: 9
+  fit: 8
   track: 8
   city: 8
   salary: 8
   stability: 8
   certainty: 6
-  urgency: 6
-  wlb: 7
+  urgency: 7
+  wlb: 5
+score_rationale: 'fit8专业对口但方向偏工业控制非纯热管理;wlb5接近大小周;调研校正09-09'
 note: 来源:总表[南瑞继保_动力工程及工程热物理研发设计]
 tags:
 - B3-电力装备/储能
+log:
+- date: '2026-09-09'
+  note: '[调研] 27届08-24启动(截止约10-30),研发设计类明确列动力工程及工程热物理;硕士27-31万七险二金人才公寓;国网系(母公司国电南瑞);口碑124加班到9点+周六半天;09-09'

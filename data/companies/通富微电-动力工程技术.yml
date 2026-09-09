@@ -3,7 +3,7 @@ name: 通富微电
 position: 动力工程技术
 group: 正式批
 channel: 官网
-city: 合肥
+city: 南通
 link: ''
 salary_range: ''
 stages: {}
@@ -12,15 +12,19 @@ track: 半导体封装
 boundary: S
 job_posted: '2026-09-09'
 score:
-  fit: 9
-  track: 8
-  city: 10
-  salary: 6
-  stability: 7
+  fit: 5
+  track: 6
+  city: 6
+  salary: 5
+  stability: 8
   certainty: 6
-  urgency: 5
-  wlb: 6
+  urgency: 6
+  wlb: 5
+score_rationale: 'fit5厂务运维岗非热设计仿真主线;city6南通(base更正);stability8业绩+80%;调研校正09-09'
 note: 半导体封测龙头，动力工程技术岗与热管理/封装热设计高度相关，合肥有岗
 tags:
 - 半导体封装
 - 动力工程
+log:
+- date: '2026-09-09'
+  note: '[调研] 27届在招(截止11-06)但官方岗位表该岗base只有南通(合肥仅工艺/设备岗),城市已更正;岗位=半导体厂务动力/暖通运维(职能支持类)非热设计仿真;2025净利+80%;09-09'

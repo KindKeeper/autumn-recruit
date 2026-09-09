@@ -7,7 +7,7 @@ city: 厦门
 link: ''
 salary_range: A股上市（15薪）
 stages: {}
-updated_at: '2026-09-08'
+updated_at: '2026-09-09'
 track: 热管理类
 boundary: S
 job_posted: '2026-08-27'
@@ -20,10 +20,13 @@ score:
   stability: 8
   certainty: 7
   urgency: 6
-  wlb: 7
+  wlb: 6
+score_rationale: 'fit10电源/储能散热纯对口;city7厦门;wlb6加班多有加班费;调研校正09-09'
 note: 来源:总表[科华集团_热管理工程师]
 tags:
 - B1-新能源储能
 log:
 - date: '2026-09-08'
   note: '[offershow] 正式批公告发布 2026-08-27（原 2026-07-02）'
+- date: '2026-09-09'
+  note: '[调研] 27届08-25启动(截止12-06),产品研发类热管理工程师在列=UPS/储能PCS散热方向纯对口;净利+62%;加班偏多但有加班费;09-09'

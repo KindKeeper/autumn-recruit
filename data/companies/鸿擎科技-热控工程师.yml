@@ -7,7 +7,7 @@ city: 北京
 link: ''
 salary_range: 预估20-30W
 stages: {}
-updated_at: '2026-09-08'
+updated_at: '2026-09-09'
 track: 热管理类
 boundary: S
 job_posted: '2026-08-10'
@@ -18,9 +18,13 @@ score:
   city: 8
   salary: 7
   stability: 6
-  certainty: 8
-  urgency: 8
-  wlb: 6
+  certainty: 7
+  urgency: 7
+  wlb: 5
+score_rationale: 'fit9航天器热控对口;certainty7小厂;wlb5创业强度无口碑实证;调研校正09-09'
 note: 来源:总表[鸿擎科技_热控工程师]
 tags:
 - D2-航空航天/商业航天
+log:
+- date: '2026-09-09'
+  note: '[调研] 27届08-07启动,卫星热控工程师在列(base北京/上海/雄安/西安等);Pre-B轮13亿但公司持续亏损;校招15-20k档;招聘200人硕博;09-09'

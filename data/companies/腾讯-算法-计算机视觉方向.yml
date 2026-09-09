@@ -7,22 +7,25 @@ city: 深圳
 link: https://join.qq.com/
 salary_range: 预估35-45W
 stages: {}
-updated_at: '2026-09-08'
+updated_at: '2026-09-09'
 track: CV算法
 boundary: B
 job_posted: '2026-08-28'
 source_id: offershow:891c6137-b46e-475f-9c5c-5906b441d543
 score:
-  fit: 8
-  track: 10
+  fit: 3
+  track: 6
   city: 8
   salary: 9
   stability: 9
   certainty: 5
-  urgency: 8
+  urgency: 7
   wlb: 6
+score_rationale: 'fit3纯转行;track6非主线赛道;certainty5竞争激烈;调研校正09-09'
 tags:
 - A1-互联网大厂
 log:
 - date: '2026-09-08'
   note: '[offershow] 正式批公告发布 2026-08-28（原 2026-07-16）'
+- date: '2026-09-09'
+  note: '[调研] 27届08-11启动在招,CV为常驻方向;base深圳为主上海可选;算法岗总包40-55万;纯转行岗(JD与热管理零交集,竞争对手为CS/AI科班);09-09'

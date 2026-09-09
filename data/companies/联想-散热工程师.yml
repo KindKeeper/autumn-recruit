@@ -7,7 +7,7 @@ city: 合肥
 link: https://talent.lenovo.com.cn/position?projectType=1
 salary_range: 预估25-35W
 stages: {}
-updated_at: '2026-09-08'
+updated_at: '2026-09-09'
 track: 热管理类
 boundary: S
 apply_deadline: '2026-11-13'
@@ -16,15 +16,18 @@ source_id: offershow:f177cf19-17db-4bc5-90df-7cc531f9ff9e
 score:
   fit: 9
   track: 8
-  city: 9
-  salary: 8
+  city: 10
+  salary: 7
   stability: 8
   certainty: 7
-  urgency: 8
+  urgency: 7
   wlb: 5
+score_rationale: 'city10合肥主场;salary7合肥base低于北京;调研校正09-09'
 note: 来源:总表[联想_散热工程师]
 tags:
 - B3-电子科技
 log:
 - date: '2026-09-08'
   note: '[offershow] 正式批公告发布 2026-08-07（原 2026-08-06）'
+- date: '2026-09-09'
+  note: '[调研] 27届08-05启动11-14截止,合肥LCFC散热工程师在招,JD纯对口;北京16.5k×12参考,合肥偏低;ISG裁员未波及PC/合肥;09-09'

@@ -7,21 +7,25 @@ city: 上海
 link: https://jobs.bilibili.com/campus/resume?position=29715
 salary_range: 预估30-40W
 stages: {}
-updated_at: '2026-09-08'
+updated_at: '2026-09-09'
 track: 图像算法类
 boundary: B
 job_posted: '2026-04-02'
 source_id: offershow:2d106620-c0ef-49b0-9f80-eb3e750f7c7b
 referral_code: GQ28LN
 score:
-  fit: 8
-  track: 9
+  fit: 3
+  track: 6
   city: 8
   salary: 9
   stability: 9
-  certainty: 6
-  urgency: 8
+  certainty: 5
+  urgency: 7
   wlb: 6
+score_rationale: 'fit3纯转行;certainty5岗位是否重开存疑;调研校正09-09'
 note: 来源:总表[哔哩哔哩_视频画质增强算法]
 tags:
 - C2-互联网内容
+log:
+- date: '2026-09-09'
+  note: '[调研] 27届秋招08-03启动(截止10-03)整体在招,但"视频画质增强算法"同名岗27届未确认重开(仅见音视频理解/生成方向);2025年首次全年盈利;纯转行岗;09-09'

@@ -7,7 +7,7 @@ city: 宁波
 link: ''
 salary_range: 中国500强
 stages: {}
-updated_at: '2026-09-08'
+updated_at: '2026-09-09'
 track: 热管理类
 boundary: S
 apply_deadline: '2026-12-31'
@@ -16,12 +16,16 @@ source_id: offershow:84ded514-f50c-4037-acd3-6afbeeadba73
 score:
   fit: 9
   track: 7
-  city: 9
+  city: 8
   salary: 7
-  stability: 7
+  stability: 4
   certainty: 7
-  urgency: 6
-  wlb: 7
+  urgency: 7
+  wlb: 4
+score_rationale: 'stability4裁员21%净利-23%;wlb4单休口碑;city8宁波;调研校正09-09'
 note: 来源:总表[奥克斯_制冷系统仿真工程师]
 tags:
 - B3-智能制造与装备
+log:
+- date: '2026-09-09'
+  note: '[调研] 秋招岗J16399于09-06新发在招,制冷系统仿真纯对口;但2025年报:裁员4163人(-21%),归母净利-23.2%;口碑忙时单休;宁波城市分校正为8;09-09'

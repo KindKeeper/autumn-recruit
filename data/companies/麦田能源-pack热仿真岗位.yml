@@ -7,7 +7,7 @@ city: 上海
 link: ''
 salary_range: A股上市（社招参考2.5-3万×13薪）
 stages: {}
-updated_at: '2026-09-08'
+updated_at: '2026-09-09'
 track: 热管理类
 boundary: S
 job_posted: '2026-08-26'
@@ -19,8 +19,12 @@ score:
   salary: 8
   stability: 7
   certainty: 7
-  urgency: 6
-  wlb: 7
+  urgency: 7
+  wlb: 6
+score_rationale: 'fit9 PACK热仿真纯对口;stability7高增长但境外集中风险;调研校正09-09'
 note: 来源:总表[麦田能源_pack热仿真岗位]
 tags:
 - B1-新能源储能
+log:
+- date: '2026-09-09'
+  note: '[调研] 27届08-24启动(截止10-24),仿真工程师(力/流体/热)base东莞/上海,上海研发中心真实;硕士20-35万官方口径;营收+92%但99%境外收入集中风险+IPO问询中;09-09'
