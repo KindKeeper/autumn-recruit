@@ -1,0 +1,26 @@
+id: tongfu-micro-2027
+name: 通富微电
+position: 动力工程技术
+group: 正式批
+channel: 官网
+city: 合肥
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-09'
+track: 半导体封装
+boundary: S
+job_posted: '2026-09-09'
+score:
+  fit: 9
+  track: 8
+  city: 10
+  salary: 6
+  stability: 7
+  certainty: 6
+  urgency: 5
+  wlb: 6
+note: 半导体封测龙头，动力工程技术岗与热管理/封装热设计高度相关，合肥有岗
+tags:
+- 半导体封装
+- 动力工程

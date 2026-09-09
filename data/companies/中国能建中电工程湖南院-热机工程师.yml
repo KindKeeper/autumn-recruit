@@ -1,0 +1,26 @@
+id: ceec-hunan-2027
+name: 中国能建中电工程湖南院
+position: 热机工程师
+group: 正式批
+channel: 官网
+city: 长沙
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-09'
+track: 能动/电力设计
+boundary: A
+job_posted: '2026-09-09'
+score:
+  fit: 8
+  track: 7
+  city: 7
+  salary: 6
+  stability: 8
+  certainty: 6
+  urgency: 4
+  wlb: 7
+note: 能建体系电力设计院，热机工程师与能动专业对口，长沙
+tags:
+- 电力设计院
+- 能动对口

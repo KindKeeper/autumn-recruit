@@ -1,0 +1,26 @@
+id: sunwoda-sim-2027
+name: 欣旺达
+position: 仿真工程师
+group: 正式批
+channel: 官网
+city: 深圳
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-09'
+track: 电池热仿真
+boundary: A
+job_posted: '2026-09-09'
+score:
+  fit: 7
+  track: 8
+  city: 6
+  salary: 7
+  stability: 7
+  certainty: 6
+  urgency: 5
+  wlb: 5
+note: 电池龙头，仿真工程师可能涉及电池热仿真/结构仿真，需确认具体方向
+tags:
+- 电池
+- 仿真
