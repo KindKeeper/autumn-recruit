@@ -7,8 +7,8 @@ city: 深圳
 link: ''
 salary_range: 未记录
 stages:
-  applied: '2026-09-08'
-updated_at: '2026-09-08'
+  applied: '2026-09-07'
+updated_at: '2026-09-09'
 track: 热管理类
 boundary: S
 job_posted: '2026-08-27'
@@ -25,5 +25,7 @@ score:
 log:
 - date: '2026-09-08'
   note: '[状态变更] 英维克 副研究员: 待投递 → 已投递'
+- date: '2026-09-07'
+  note: '[邮箱] 英维克投递确认（12:46，italent系统，岗位：副研究员）'
 tags:
 - B1-新能源储能

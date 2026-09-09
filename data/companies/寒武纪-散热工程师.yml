@@ -7,8 +7,8 @@ city: 合肥
 link: https://app.mokahr.com/campus-recruitment/cambricon/44201
 salary_range: 预估35-50W
 stages:
-  applied: '2026-09-08'
-updated_at: '2026-09-08'
+  applied: '2026-09-07'
+updated_at: '2026-09-09'
 track: 热管理类
 boundary: S
 job_posted: '2026-09-04'
@@ -27,6 +27,8 @@ log:
   note: '[状态变更] 寒武纪 散热工程师: 待投递 → 已投递'
 - date: '2026-09-08'
   note: '[offershow] 正式批公告发布 2026-09-04（原 2026-08-07）'
+- date: '2026-09-07'
+  note: '[邮箱] 寒武纪投递确认（11:12，mokahr系统）'
 note: 来源:总表[寒武纪_散热工程师]
 tags:
 - B2-半导体芯片
