@@ -1,0 +1,27 @@
+id: sase-ases-2027
+name: 宇航ASES（上海航天系统工程研究所）
+position: 动力工程及工程热物理
+group: 正式批
+channel: 官网
+city: 上海
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-08'
+track: 航天热控
+boundary: S
+job_posted: '2026-09-08'
+score:
+  fit: 10
+  track: 9
+  city: 8
+  salary: 7
+  stability: 9
+  certainty: 5
+  urgency: 5
+  wlb: 6
+note: 上海航天体系军工所，动力工程及工程热物理专业直接对口
+tags:
+- A2-军工航天院所
+- 动力工程直接对口
+- 央企
