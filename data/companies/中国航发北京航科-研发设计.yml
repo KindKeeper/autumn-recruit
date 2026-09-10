@@ -1,0 +1,27 @@
+id: aecc-beijing-hangke-2027
+name: 中国航发北京航科
+position: 研发设计
+group: 正式批
+channel: 官网
+city: 北京
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-09'
+track: 能动/航空发动机
+boundary: S
+job_posted: '2026-09-09'
+score:
+  fit: 10
+  track: 9
+  city: 6
+  salary: 7
+  stability: 9
+  certainty: 5
+  urgency: 5
+  wlb: 6
+note: 航发体系央企，航空发动机研发/试验，热能动力核心方向
+tags:
+- A2-军工航天院所
+- 航空发动机对口
+- 央企
