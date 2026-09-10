@@ -1,0 +1,26 @@
+id: cssc-satellite-hainan-2027
+name: 航天卫星超级工厂（海南）
+position: 动力工程及工程热物理
+group: 正式批
+channel: 官网
+city: 海南
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-09'
+track: 航天热控
+boundary: S
+job_posted: '2026-09-09'
+score:
+  fit: 10
+  track: 9
+  city: 3
+  salary: 6
+  stability: 9
+  certainty: 5
+  urgency: 5
+  wlb: 6
+note: 航天卫星热控方向，专业直接对口，海南位置偏远。按合并规则归入中国航天人才网体系
+tags:
+- 航天
+- 动力工程直接对口
