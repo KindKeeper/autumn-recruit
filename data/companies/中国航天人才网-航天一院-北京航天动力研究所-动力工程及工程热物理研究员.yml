@@ -6,7 +6,8 @@ channel: 官网
 city: 北京
 link: ''
 salary_range: ''
-stages: {}
+stages:
+  applied: '2026-09-04'
 updated_at: '2026-09-10'
 track: 热物理类
 boundary: A
@@ -26,3 +27,5 @@ tags:
 log:
 - date: '2026-09-10'
   note: '[调研] 即航天六院11所(京),液体火箭发动机发源地(非一院);27届提前批08-21启动,邮箱直投calt11hr@163.com;燃烧与热能方向纯对口;硕士18-22万旧口径+北京户口+六险二金;硕士可投但科研岗博士为主;09-10'
+- date: '2026-09-04'
+  note: '[投递] 邮件投递 kindkeeper@163.com→calt11hr@163.com/aalpt11bj.cn，附件简历命名含"热设计工程师"意向岗'
