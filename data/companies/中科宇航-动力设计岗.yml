@@ -1,0 +1,26 @@
+id: cas-space-2027
+name: 中科宇航
+position: 动力设计岗
+group: 正式批
+channel: 官网
+city: 北京
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-07'
+track: 能动/航天发动机
+boundary: S
+job_posted: '2026-09-07'
+score:
+  fit: 10
+  track: 9
+  city: 6
+  salary: 7
+  stability: 7
+  certainty: 5
+  urgency: 5
+  wlb: 6
+note: 中科院体系商业火箭公司，动力设计/发动机设计直接对口
+tags:
+- 商业火箭
+- 发动机/动力直接对口

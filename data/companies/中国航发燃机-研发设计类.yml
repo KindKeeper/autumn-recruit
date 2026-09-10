@@ -1,0 +1,27 @@
+id: aecc-gas-turbine-2027
+name: 中国航发燃机
+position: 研发设计类
+group: 正式批
+channel: 官网
+city: 沈阳
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-07'
+track: 能动/燃气轮机
+boundary: S
+job_posted: '2026-09-07'
+score:
+  fit: 10
+  track: 9
+  city: 5
+  salary: 7
+  stability: 9
+  certainty: 5
+  urgency: 5
+  wlb: 6
+note: 航发体系央企，燃气轮机研发=热能动力核心
+tags:
+- A2-军工航天院所
+- 燃气轮机直接对口
+- 央企
