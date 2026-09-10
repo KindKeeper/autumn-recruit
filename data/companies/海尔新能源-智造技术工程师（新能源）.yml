@@ -19,7 +19,7 @@ score:
   certainty: 6
   urgency: 6
   wlb: 6
-score_rationale: 初评待复核: fit5智造/制造方向擦边; city6青岛(海尔系主体,以实际base为准); track7新能源板块; 缺JD细节
+score_rationale: '初评待复核: fit5智造/制造方向擦边; city6青岛(海尔系主体,以实际base为准); track7新能源板块; 缺JD细节'
 log:
 - date: '2026-09-10'
   note: '[用户] 官网投递;信息待补:JD原文/工作城市/薪资口径'
