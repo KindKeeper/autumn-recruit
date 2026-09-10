@@ -6,8 +6,9 @@ channel: 官网
 city: 合肥
 link: https://talent.lenovo.com.cn/position?projectType=1
 salary_range: 预估25-35W
-stages: {}
-updated_at: '2026-09-09'
+stages:
+  applied: '2026-09-10'
+updated_at: '2026-09-10'
 track: 热管理类
 boundary: S
 apply_deadline: '2026-11-13'
@@ -31,3 +32,5 @@ log:
   note: '[offershow] 正式批公告发布 2026-08-07（原 2026-08-06）'
 - date: '2026-09-09'
   note: '[调研] 27届08-05启动11-14截止,合肥LCFC散热工程师在招,JD纯对口;北京16.5k×12参考,合肥偏低;ISG裁员未波及PC/合肥;09-09'
+- date: '2026-09-10'
+  note: '[用户] 实际已投递但日期未知(账号登不上无法核实),applied暂记今日待更正;恢复账号后查进度'
