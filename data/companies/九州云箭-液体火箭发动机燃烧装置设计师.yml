@@ -1,0 +1,26 @@
+id: jiuzhou-yunjian-2027
+name: 九州云箭
+position: 液体火箭发动机燃烧装置设计师
+group: 正式批
+channel: 官网
+city: 北京
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-09'
+track: 能动/航天发动机
+boundary: S
+job_posted: '2026-09-09'
+score:
+  fit: 10
+  track: 9
+  city: 6
+  salary: 6
+  stability: 7
+  certainty: 5
+  urgency: 5
+  wlb: 6
+note: 商业火箭公司，燃烧装置/涡轮泵/环境仿真三个岗对口，CFD算法专家要求博士不符
+tags:
+- 商业火箭
+- 燃烧/热能直接对口
