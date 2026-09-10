@@ -1,17 +1,17 @@
 id: job-0140
 name: 新易盛
-position: 光封装热设计工程师(J10567)
+position: 光封装设计工程师
 group: 提前批
 channel: 官网
 city: 成都
 link: https://eoptolink.zhiye.com/campus
 salary_range: ''
 stages: {}
-updated_at: '2026-09-08'
+updated_at: '2026-09-10'
 track: 热管理类
 boundary: A
-apply_deadline: '2026-07-31'
-job_posted: '2026-07-21'
+job_code: J10585
+job_posted: '2026-08-25'
 source_id: offershow:53864a8e-a770-467a-aa34-c9d508cf65a1
 score:
   fit: 9
@@ -20,8 +20,11 @@ score:
   salary: 6
   stability: 6
   certainty: 6
-  urgency: 0
+  urgency: 7
   wlb: 6
-score_rationale: 依据：W1=热学/工程热物理专业精准对口+热应力仿真全中（9）；W2=热设计主线A核心+光通信封装相邻（8）；W3=成都其它新一线（7）；W4=光模块硕士约18-25万预估（6*）；W5=光模块上市公司（6）；W6=专业对口竞争适中（6）；W7=已截止（0）；W8=适度加班（6）
+score_rationale: 依据：W1=热学/工程热物理专业精准对口+热应力仿真全中（9）；W2=热设计主线A核心+光通信封装相邻（8）；W3=成都其它新一线（7）；W4=光模块硕士约18-25万预估（6*）；W5=光模块上市公司（6）；W6=专业对口竞争适中（6）；W7=27届续招rolling（7）；W8=适度加班（6）
 tags:
 - B3-电子科技
+log:
+- date: '2026-09-10'
+  note: '[调研] J10567为26届旧编号已下架;27届同岗改名光封装设计工程师(J10585,08-25发布,base成都)续招,任职资格点名动力工程及工程热物理;投递走eoptolink.zhiye.com 27届通道;09-10'

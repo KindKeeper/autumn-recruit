@@ -10,7 +10,7 @@ stages:
   applied: '2026-09-09'
 updated_at: '2026-09-09'
 boundary: S
-job_posted: '2026-08-22'
+job_posted: '2026-08-25'
 job_code: J45454
 source_id: offershow:99ad295a-9cfa-4624-87b3-07c36d8b99a2
 score:
@@ -30,3 +30,5 @@ log:
   note: '[官网JD] 发布2026-08-22，岗位编号J45454，全职，山东省青岛市'
 - date: '2026-09-09'
   note: '[官网] 海信校招投递成功（15:23，每人限投1岗）'
+- date: '2026-09-10'
+  note: '[offershow] 正式批公告发布 2026-08-25（原 2026-08-22）'

@@ -1,14 +1,28 @@
 id: job-0158
-name: 中国航天人才网
-position: 航天一院-北京航天试验技术研究所-动力工程及工程热物理研究员
+name: 北京航天试验技术研究所（六院101所）
+position: 动力工程及工程热物理研究员
 group: 正式批
 channel: 官网
-city: ''
+city: 北京
 link: ''
 salary_range: ''
 stages: {}
-updated_at: '2026-09-08'
+updated_at: '2026-09-10'
 track: 热物理类
 boundary: A
+job_posted: '2026-08-31'
+score:
+  fit: 9
+  track: 9
+  city: 8
+  salary: 7
+  stability: 10
+  certainty: 6
+  urgency: 7
+  wlb: 7
+score_rationale: 'fit9发动机热试验纯对口;stability10;city8北京;调研校正09-10'
 tags:
 - 未分类
+log:
+- date: '2026-09-10'
+  note: '[调研] 即航天六院101所(氢氧发动机试验基地,勿与11所京混淆);27届简章08-31发布在招(动力工程及工程热物理在列,硕博);北京丰台云岗;硕士总包20-30万区间参考;09-10'

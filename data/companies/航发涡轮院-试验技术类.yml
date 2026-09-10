@@ -7,10 +7,10 @@ city: 绵阳
 link: ''
 salary_range: 未记录
 stages: {}
-updated_at: '2026-09-08'
+updated_at: '2026-09-10'
 track: 热物理类
 boundary: S
-job_posted: '2024-09-06'
+job_posted: '2026-08-28'
 source_id: offershow:07a2be24-9d8e-48f9-a2ce-8b2f4842c1d2
 score:
   fit: 10
@@ -21,6 +21,10 @@ score:
   certainty: 7
   urgency: 6
   wlb: 7
+score_rationale: 'job_posted更正27届;city绵阳;调研校正09-10'
 note: 来源:总表[航发涡轮院_试验技术类]
 tags:
 - A2-军工航天院所
+log:
+- date: '2026-09-10'
+  note: '[调研] 27届简章08-28发布,五大类中试验技术类确认在招(base绵阳);设计技术类同步在招(成都);网申wolunyuan.iguopin.com;09-10'

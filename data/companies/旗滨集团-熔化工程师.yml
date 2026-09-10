@@ -7,11 +7,13 @@ city: 株洲
 link: ''
 salary_range: 预估15-22W
 stages: {}
-updated_at: '2026-09-08'
+updated_at: '2026-09-10'
 track: 热物理类
 boundary: B
 job_posted: '2026-03-11'
 source_id: offershow:e67c96b4-3862-42e2-ac2d-7370ba9eda2f
+outcome: expired
+outcome_note: 27届未开独立熔化岗,校招入口改为储备工艺工程师(熔化方向,漳州/株洲)
 score:
   fit: 6
   track: 5
@@ -23,3 +25,6 @@ score:
   wlb: 6
 tags:
 - D4-机械制造/电动工具
+log:
+- date: '2026-09-10'
+  note: '[调研] 27届校招未检索到独立熔化工程师岗,26届春招帖已关闭;如投递需走27届储备工艺工程师;09-10'

@@ -7,11 +7,22 @@ city: 青岛
 link: https://goertek.hotjob.cn/
 salary_range: 面议（精英计划总包约38-55W）
 stages: {}
-updated_at: '2026-09-08'
+updated_at: '2026-09-10'
 track: 仿真类
 boundary: S
-job_posted: '2026-04-28'
+job_posted: '2026-08-31'
+apply_deadline: '2026-09-14'
 source_id: offershow:0bd7a255-ff45-4fba-a5e6-9054068f1685
+score:
+  fit: 7
+  track: 7
+  city: 6
+  salary: 7
+  stability: 7
+  certainty: 6
+  urgency: 9
+  wlb: 6
+score_rationale: 'fit7封装热-力耦合擦边;urgency9截止09-14;city6青岛;调研校正09-10'
 interviews:
 - round: 一面
   date: None
@@ -83,5 +94,7 @@ log:
     ---
 
     *创建于: 2026-06-30*'
+- date: '2026-09-10'
+  note: '[调研] 048777确认歌尔岗位码,27届秋招在招(岗位级截止09-14,紧急);base青岛/潍坊/济南等;封装仿真=热-力耦合擦边偏对口(简章明确含热学/能源动力);硕士25-40万宣传口径;另设独立散热设计岗(潍坊)更对口;09-10'
 tags:
 - C5-其他对口企业

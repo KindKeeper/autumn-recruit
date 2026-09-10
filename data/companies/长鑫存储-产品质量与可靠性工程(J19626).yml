@@ -7,11 +7,21 @@ city: 合肥
 link: https://cxmt.zhiye.com/campus/jobs
 salary_range: 硕士合肥约18-20K*15，年薪约27-30万
 stages: {}
-updated_at: '2026-09-08'
+updated_at: '2026-09-10'
 track: 其他
 boundary: 待定
 job_posted: '2026-06-03'
 source_id: offershow:03412fba-c4b2-4c51-a0f6-28346b328bfe
+score:
+  fit: 4
+  track: 8
+  city: 10
+  salary: 6
+  stability: 8
+  certainty: 6
+  urgency: 7
+  wlb: 6
+score_rationale: 'fit4可靠性工程擦边;city10合肥主场;urgency7滚动;调研校正09-10'
 tags:
 - B2-半导体芯片
 log:
@@ -19,3 +29,5 @@ log:
   note: '[offershow] 原截止 2026-07-04 已过，官方长期有效，移除'
 - date: '2026-09-08'
   note: '[offershow] 提前批公告发布 2026-06-03（原 2026-04-24）'
+- date: '2026-09-10'
+  note: '[调研] J19626在招(27届正式批09-01开启,合肥,滚动招满即止);可靠性/失效分析方向擦边偏转行(HTOL热应力有微弱交叉);12-20K×14估;09-10'

@@ -10,7 +10,7 @@ stages: {}
 updated_at: '2026-09-09'
 track: 电池热仿真
 boundary: A
-job_posted: '2026-09-09'
+job_posted: '2026-08-14'
 score:
   fit: 7
   track: 8
@@ -24,3 +24,8 @@ note: 电池龙头，仿真工程师可能涉及电池热仿真/结构仿真，�
 tags:
 - 电池
 - 仿真
+source_id: offershow:6551076f-2c96-4fe0-b77d-0c48c5b3365d
+referral_code: EVBX3K
+log:
+- date: '2026-09-10'
+  note: '[offershow] 正式批公告发布 2026-08-14（原 2026-09-09）'

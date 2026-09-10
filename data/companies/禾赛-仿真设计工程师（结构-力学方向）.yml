@@ -3,17 +3,29 @@ name: 禾赛
 position: 仿真设计工程师（结构/力学方向）
 group: 正式批
 channel: 官网
-city: ''
+city: 上海
 link: https://www.hesaitech.com/
 salary_range: ''
 stages: {}
-updated_at: '2026-09-08'
+updated_at: '2026-09-10'
 track: 仿真类
 boundary: A
 job_posted: '2026-08-28'
 source_id: offershow:fdcbd747-8f15-40ac-afc1-3b7835c738c8
+score:
+  fit: 6
+  track: 8
+  city: 8
+  salary: 8
+  stability: 8
+  certainty: 6
+  urgency: 7
+  wlb: 6
+score_rationale: 'fit6结构力学为主擦边;city8上海;调研校正09-10'
 tags:
 - C5-其他对口企业
 log:
 - date: '2026-09-08'
   note: '[offershow] 正式批公告发布 2026-08-28（原 2026-06-23）'
+- date: '2026-09-10'
+  note: '[调研] 机械仿真工程师(结构/力学方向)27届在招(06-30起,base上海);强度/模态/疲劳为主,热仿真仅耦合一部分,擦边偏对口;09-10'

@@ -3,11 +3,11 @@ name: 比亚迪
 position: 高级热管理工程师
 group: 正式批
 channel: 官网
-city: ''
+city: 深圳
 link: job.byd.com
 salary_range: ''
 stages: {}
-updated_at: '2026-09-09'
+updated_at: '2026-09-10'
 boundary: S
 job_posted: '2026-08-22'
 source_id: offershow:1ec17a6e-742e-49cb-b28c-e7ededd918bc
@@ -26,3 +26,5 @@ tags:
 log:
 - date: '2026-09-08'
   note: '[offershow] 正式批公告发布 2026-08-22（原 2026-07-27）'
+- date: '2026-09-10'
+  note: '[调研] city补深圳(比亚迪总部口径,实际以offer为准);09-10'

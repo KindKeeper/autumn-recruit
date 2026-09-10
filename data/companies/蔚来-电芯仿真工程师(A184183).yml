@@ -7,11 +7,24 @@ city: 上海
 link: https://nio.jobs.feishu.cn/campus
 salary_range: ''
 stages: {}
-updated_at: '2026-09-08'
+updated_at: '2026-09-10'
 track: 电池仿真类
 boundary: B
-apply_deadline: '2026-08-14'
+apply_deadline: '2026-10-31'
 job_posted: '2026-07-17'
 source_id: offershow:ab3c42a6-a8ab-4ab9-b5e4-0a125573918d
+score:
+  fit: 4
+  track: 8
+  city: 8
+  salary: 8
+  stability: 6
+  certainty: 6
+  urgency: 7
+  wlb: 5
+score_rationale: 'fit4电化学仿真擦边;urgency7截止10-31;调研校正09-10'
 tags:
 - B6-传统汽车
+log:
+- date: '2026-09-10'
+  note: '[调研] 蔚来27届秋招网申7/25-10/31在招(原deadline 08-14系提前批截止,已更正);电芯电化学仿真方向擦边偏转行;09-10'

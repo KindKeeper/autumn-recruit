@@ -519,7 +519,7 @@ def main():
         if _dl and not r["outcome"] and r["stage_key"] == "pending" and _dl < TODAY:
             warns.append(f"{r['name']}·{r['position']}: 截止已过仍是待投递")
         _jp = parse_date(r["job_posted"]) if r["job_posted"] else None
-        if _jp and _jp < datetime.date(TODAY.year, 7, 1) and not r["outcome"]:
+        if _jp and _jp.year < TODAY.year and not r["outcome"]:
             warns.append(f"{r['name']}·{r['position']}: 往季遗留记录 job_posted={r['job_posted']}，今年是否开放待核实")
         if r["stage_key"] == "pending" and not r["outcome"]:
             if not r["city"]:

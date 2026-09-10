@@ -1,14 +1,28 @@
 id: job-0157
-name: 中国航天人才网
-position: 航天一院-北京航天动力研究所-动力工程及工程热物理研究员
+name: 北京航天动力研究所
+position: 动力工程及工程热物理研究员
 group: 正式批
 channel: 官网
-city: ''
+city: 北京
 link: ''
 salary_range: ''
 stages: {}
-updated_at: '2026-09-08'
+updated_at: '2026-09-10'
 track: 热物理类
 boundary: A
+job_posted: '2026-08-21'
+score:
+  fit: 9
+  track: 9
+  city: 8
+  salary: 7
+  stability: 10
+  certainty: 6
+  urgency: 7
+  wlb: 7
+score_rationale: 'fit9发动机燃烧热能纯对口;stability10国家战略;city8北京户口;certainty6硕士竞争弱;调研校正09-10'
 tags:
 - 未分类
+log:
+- date: '2026-09-10'
+  note: '[调研] 即航天六院11所(京),液体火箭发动机发源地(非一院);27届提前批08-21启动,邮箱直投calt11hr@163.com;燃烧与热能方向纯对口;硕士18-22万旧口径+北京户口+六险二金;硕士可投但科研岗博士为主;09-10'

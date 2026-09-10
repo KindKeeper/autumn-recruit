@@ -7,18 +7,23 @@ city: 武汉
 link: ''
 salary_range: ''
 stages: {}
-updated_at: '2026-09-08'
+updated_at: '2026-09-10'
 track: 双主线
 boundary: A
+job_posted: '2026-08-14'
+apply_deadline: '2026-10-14'
 score:
-  fit: 7
+  fit: 8
   track: 8
   city: 7
   salary: 6
-  stability: 8
+  stability: 7
   certainty: 6
-  urgency: 1
+  urgency: 7
   wlb: 6
-score_rationale: 依据：W1=新能源动力方向未细化（含电池/电机/热管理）（7）；W2=动力电池双主线核心（8）；W3=武汉新一线（7）；W4=央企硕士18-25万预估*（6）；W5=央企研究院（8）；W6=竞争适中（6）；W7=无截止（1）；W8=适度加班（6）
+score_rationale: 'fit8热管理子方向对口但分配不定;city7武汉;deadline10-14;调研校正09-10'
 tags:
 - B1-新能源车企
+log:
+- date: '2026-09-10'
+  note: '[调研] 东风研发总院27届08-14至10-14网申(武汉),新能源动力研发岗含热管理子方向(对口专业明确含工程热热物理);硕士总包约26-27万(爆料口径);央企;09-10'

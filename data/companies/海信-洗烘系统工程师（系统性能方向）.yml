@@ -3,11 +3,11 @@ name: 海信
 position: 洗烘系统工程师（系统性能方向）
 group: 正式批
 channel: 官网
-city: ''
+city: 青岛
 link: https://hisense.zhiye.com/
 salary_range: ''
 stages: {}
-updated_at: '2026-09-08'
+updated_at: '2026-09-10'
 boundary: S
 job_posted: '2026-08-25'
 source_id: offershow:99ad295a-9cfa-4624-87b3-07c36d8b99a2
@@ -23,3 +23,6 @@ score:
 note: 来源:总表[海信_洗烘系统工程师（系统性能方向）]
 tags:
 - B4-家电暖通
+log:
+- date: '2026-09-10'
+  note: '[调研] city补青岛(海信研发总部);09-10'

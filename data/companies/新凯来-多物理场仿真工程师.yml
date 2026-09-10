@@ -3,14 +3,28 @@ name: 新凯来
 position: 多物理场仿真工程师
 group: 提前批
 channel: 官网
-city: ''
+city: 深圳
 link: https://career.sicarrier.com/
 salary_range: ''
 stages: {}
-updated_at: '2026-09-08'
+updated_at: '2026-09-10'
 track: 仿真类
 boundary: A
+apply_deadline: '2027-04-15'
 job_posted: '2026-06-29'
 source_id: offershow:e98ef0d9-9d3d-4baf-b78a-78f681e2ce1e
+score:
+  fit: 9
+  track: 9
+  city: 8
+  salary: 8
+  stability: 7
+  certainty: 5
+  urgency: 6
+  wlb: 5
+score_rationale: 'fit9半导体设备温控仿真对口;certainty5主窗口已过;调研校正09-10'
 tags:
 - B2-半导体芯片
+log:
+- date: '2026-09-10'
+  note: '[调研] 新凯来(深圳国资半导体设备,华为系)多物理场仿真=热/流/散热方向纯对口;27届06-25启动(提前批窗口6/25-8/25已过,猎聘显示截止2027-04-15,以官网为准);硕士总包25-35万;华为系强度;09-10'

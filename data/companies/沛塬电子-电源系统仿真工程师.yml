@@ -7,17 +7,22 @@ city: 上海
 link: ''
 salary_range: 预估20-30W
 stages: {}
-updated_at: '2026-09-08'
+updated_at: '2026-09-10'
 track: 热管理类
 boundary: A
+job_posted: '2026-09-05'
 score:
-  fit: 8
+  fit: 4
   track: 7
   city: 8
-  salary: 6
+  salary: 7
   stability: 5
-  certainty: 7
-  urgency: 10
+  certainty: 6
+  urgency: 6
   wlb: 6
+score_rationale: 'fit4电路仿真擦边;track7 AI供电赛道;stability5小厂;调研校正09-10'
 tags:
 - C3-消费电子与IT散热
+log:
+- date: '2026-09-10'
+  note: '[调研] 沛塬电子MetaPWR(上海,100人B轮,AI数据中心电源模组)27届校招09月初启动;电源系统仿真=电力电子电路仿真擦边偏转行;建议改投同批封装结构设计岗(明确要热能);09-10'

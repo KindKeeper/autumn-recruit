@@ -3,23 +3,27 @@ name: 旗滨集团
 position: 余热工程师
 group: 正式批
 channel: 官网
-city: 株洲
+city: 绍兴
 link: ''
 salary_range: 预估15-25W
 stages: {}
-updated_at: '2026-09-08'
+updated_at: '2026-09-10'
 track: 热物理类
 boundary: B
-job_posted: '2026-03-11'
+job_posted: '2026-09-08'
 source_id: offershow:e67c96b4-3862-42e2-ac2d-7370ba9eda2f
 score:
   fit: 8
   track: 5
-  city: 6
-  salary: 5
-  stability: 6
+  city: 5
+  salary: 3
+  stability: 5
   certainty: 6
-  urgency: 10
+  urgency: 7
   wlb: 6
+score_rationale: 'fit8余热发电对口但偏运行;salary3月薪5-8k;track5非主线;调研校正09-10'
 tags:
 - D4-机械制造/电动工具
+log:
+- date: '2026-09-10'
+  note: '[调研] 原帖为26届春招(已关);27届以储备余热环保工程师名义在绍兴重开(09-08发布,能动对口但偏电厂运行);月薪5-8k;光伏玻璃行业下行;09-10'

@@ -7,13 +7,26 @@ city: 厦门
 link: ''
 salary_range: ''
 stages: {}
-updated_at: '2026-09-08'
+updated_at: '2026-09-10'
 track: 算法类
 boundary: B
 apply_deadline: 尽快投递
 outcome: frozen
 job_posted: '2026-08-17'
 source_id: offershow:c48dd537-dbcb-4416-9cd7-815d75c72031
+score:
+  fit: 3
+  track: 8
+  city: 7
+  salary: 8
+  stability: 8
+  certainty: 6
+  urgency: 7
+  wlb: 5
+score_rationale: 'fit3转行;certainty6顶尖项目竞争大;调研校正09-10'
 note: 无总表打分（待评估）
 tags:
 - B5-储能光伏
+log:
+- date: '2026-09-10'
+  note: '[调研] AGT全球顶尖人才项目下BMS算法,同为电化学+控制转行岗;一人一议薪资;09-10'

@@ -3,24 +3,28 @@ name: 联合飞机
 position: 环控工程师
 group: 提前批
 channel: 官网
-city: 北京
+city: 西安/成都
 link: https://www.uatair.com/about/school.html
 salary_range: ''
 stages: {}
-updated_at: '2026-09-08'
+updated_at: '2026-09-10'
 track: 热管理类
 boundary: S
-job_posted: '2026-06-29'
+job_posted: '2026-07-03'
 source_id: offershow:99f0a5f9-1f5d-49b3-b83b-b92154bb6638
 score:
-  fit: 8
-  track: 7
-  city: 8
-  salary: 7
-  stability: 5
-  certainty: 7
-  urgency: 6
+  fit: 9
+  track: 8
+  city: 7
+  salary: 6
+  stability: 6
+  certainty: 6
+  urgency: 7
   wlb: 6
+score_rationale: 'fit9无人机环控纯对口;city7西安/成都;调研校正09-10'
 note: 来源:总表[联合飞机_环控工程师]
 tags:
 - A2-军工航天院所
+log:
+- date: '2026-09-10'
+  note: '[调研] 联合飞机(无人机独角兽)27届06-26启动,环控工程师在招(JD明确要能动/制冷,工程热力学+ANSYS热分析+Flowmaster,纯对口);base西安/成都(非北京);无截止招满即止;09-10'

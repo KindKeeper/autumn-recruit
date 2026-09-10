@@ -10,7 +10,7 @@ stages: {}
 updated_at: '2026-09-09'
 track: 热管理类
 boundary: S
-job_posted: '2026-08-26'
+job_posted: '2026-08-28'
 source_id: offershow:20eeef39-52f9-4f91-8192-31703c72e3c6
 score:
   fit: 8
@@ -21,7 +21,7 @@ score:
   certainty: 6
   urgency: 6
   wlb: 7
-score_rationale: 'fit8制冷热泵对口但偏白电非电子散热;city6青岛;salary8约25-33w;调研校正09-09'
+score_rationale: fit8制冷热泵对口但偏白电非电子散热;city6青岛;salary8约25-33w;调研校正09-09
 note: 来源:总表[海尔智家_GEDP热能工程师]
 tags:
 - B3-智能制造与装备
@@ -30,3 +30,5 @@ log:
   note: '[offershow] 正式批公告发布 2026-08-28（原 2026-04-22）'
 - date: '2026-09-09'
   note: '[调研] 27届正式批08-26启动,GEDP热能工程师明确在列(base青岛),GEDP总包约25-33万,集团强制双休(执行待验);青岛城市分校正为6;09-09'
+- date: '2026-09-10'
+  note: '[offershow] 正式批公告发布 2026-08-28（原 2026-08-26）'
