@@ -1,0 +1,27 @@
+id: energy-north-china-2027
+name: 中国能建华北院
+position: 热控专业设计岗
+group: 正式批
+channel: 官网
+city: 北京
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-09'
+track: 能动/电力设计
+boundary: S
+job_posted: '2026-09-09'
+score:
+  fit: 9
+  track: 7
+  city: 6
+  salary: 6
+  stability: 9
+  certainty: 5
+  urgency: 5
+  wlb: 7
+note: 能建体系央企设计院，热控/热机/暖通三岗对口
+tags:
+- 电力设计院
+- 热工直接对口
+- 央企
