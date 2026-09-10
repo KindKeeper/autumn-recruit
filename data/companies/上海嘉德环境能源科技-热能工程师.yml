@@ -1,0 +1,25 @@
+id: jiade-env-energy-2027
+name: 上海嘉德环境能源科技有限公司
+position: 热能工程师
+group: 正式批
+channel: 官网
+city: 辽宁
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-08'
+track: 能动/热力设计
+boundary: S
+job_posted: '2026-09-08'
+score:
+  fit: 10
+  track: 7
+  city: 3
+  salary: 6
+  stability: 6
+  certainty: 5
+  urgency: 5
+  wlb: 6
+note: 环境能源科技企业，热能工程师直接对口
+tags:
+- 热能直接对口
