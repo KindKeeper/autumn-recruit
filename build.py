@@ -521,6 +521,17 @@ def main():
         _jp = parse_date(r["job_posted"]) if r["job_posted"] else None
         if _jp and _jp < datetime.date(TODAY.year, 7, 1) and not r["outcome"]:
             warns.append(f"{r['name']}·{r['position']}: 往季遗留记录 job_posted={r['job_posted']}，今年是否开放待核实")
+        if r["stage_key"] == "pending" and not r["outcome"]:
+            if not r["city"]:
+                warns.append(f"{r['name']}·{r['position']}: 待投递缺city")
+            if not r["job_posted"]:
+                warns.append(f"{r['name']}·{r['position']}: 待投递缺job_posted")
+    # 疑似同企多名（名字互为子串，如 华为 vs 华为数字能源），会导致整企移出规则失效
+    _names = sorted({r["name"] for r in recs})
+    for i, a in enumerate(_names):
+        for b in _names[i + 1:]:
+            if len(a) >= 3 and (a in b or b in a):
+                warns.append(f"疑似同企多名: {a} / {b}（可能导致整企移出候选榜失效，请统一name）")
     for w_ in warns:
         print(f"[warn] {w_}", file=sys.stderr)
     if warns:
