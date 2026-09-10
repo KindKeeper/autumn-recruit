@@ -1,0 +1,25 @@
+id: haier-newenergy-2027
+name: 海尔新能源
+position: 智造技术工程师（新能源）
+group: 正式批
+channel: 官网
+city: 青岛
+link: ''
+stages:
+  applied: '2026-09-10'
+updated_at: '2026-09-10'
+track: 新能源类
+boundary: 待定
+score:
+  fit: 5
+  track: 7
+  city: 6
+  salary: 6
+  stability: 8
+  certainty: 6
+  urgency: 6
+  wlb: 6
+score_rationale: 初评待复核: fit5智造/制造方向擦边; city6青岛(海尔系主体,以实际base为准); track7新能源板块; 缺JD细节
+log:
+- date: '2026-09-10'
+  note: '[用户] 官网投递;信息待补:JD原文/工作城市/薪资口径'
