@@ -1,0 +1,26 @@
+id: xinhang-tech-2027
+name: 新航科技
+position: 动力工程及工程热物理
+group: 正式批
+channel: 官网
+city: 上海
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-09'
+track: 能动/制冷
+boundary: S
+job_posted: '2026-09-09'
+score:
+  fit: 10
+  track: 8
+  city: 8
+  salary: 6
+  stability: 8
+  certainty: 5
+  urgency: 5
+  wlb: 6
+note: 动力工程及工程热物理+制冷及低温工程专业直接对口
+tags:
+- 动力工程直接对口
+- 制冷低温
