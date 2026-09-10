@@ -1,0 +1,28 @@
+id: energy-southwest-2027
+name: 中国能建西南院
+position: 热机工程师
+group: 正式批
+channel: 官网
+city: 成都
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-05'
+track: 能动/电力设计
+boundary: S
+apply_deadline: '2026-12-31'
+job_posted: '2026-09-05'
+score:
+  fit: 10
+  track: 7
+  city: 7
+  salary: 6
+  stability: 9
+  certainty: 5
+  urgency: 5
+  wlb: 7
+note: 能建体系央企设计院，热机+暖通双岗对口
+tags:
+- 电力设计院
+- 热机直接对口
+- 央企

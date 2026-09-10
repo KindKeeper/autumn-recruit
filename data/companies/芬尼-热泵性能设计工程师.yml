@@ -1,0 +1,26 @@
+id: feni-heat-pump-2027
+name: 芬尼
+position: 热泵性能设计工程师
+group: 正式批
+channel: 官网
+city: 广东
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-05'
+track: 能动/制冷
+boundary: S
+job_posted: '2026-09-05'
+score:
+  fit: 10
+  track: 8
+  city: 6
+  salary: 7
+  stability: 7
+  certainty: 5
+  urgency: 5
+  wlb: 6
+note: 热泵企业，热泵性能设计=制冷/热力系统直接对口
+tags:
+- 热泵/制冷
+- 热力系统直接对口
