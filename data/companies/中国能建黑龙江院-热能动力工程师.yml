@@ -1,0 +1,27 @@
+id: energy-heilongjiang-2027
+name: 中国能建黑龙江院
+position: 热能动力工程师
+group: 正式批
+channel: 官网
+city: 哈尔滨
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-09'
+track: 能动/电力设计
+boundary: S
+job_posted: '2026-09-09'
+score:
+  fit: 10
+  track: 7
+  city: 3
+  salary: 6
+  stability: 9
+  certainty: 5
+  urgency: 5
+  wlb: 7
+note: 能建体系央企设计院，热能动力+暖通双岗对口
+tags:
+- 电力设计院
+- 热能动力直接对口
+- 央企

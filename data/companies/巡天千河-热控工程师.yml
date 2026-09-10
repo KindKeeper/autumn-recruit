@@ -1,0 +1,26 @@
+id: xuntian-qianhe-2027
+name: 巡天千河
+position: 热控工程师
+group: 正式批
+channel: 官网
+city: 上海
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-09'
+track: 航天热控
+boundary: S
+job_posted: '2026-09-09'
+score:
+  fit: 10
+  track: 9
+  city: 8
+  salary: 6
+  stability: 7
+  certainty: 5
+  urgency: 5
+  wlb: 6
+note: 商业卫星公司，卫星热控工程师，专业直接对口
+tags:
+- 商业卫星
+- 热控直接对口
