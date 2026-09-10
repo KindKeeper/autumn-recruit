@@ -1,0 +1,27 @@
+id: aecc-dongan-2027
+name: 中国航发东安
+position: 航空发动机类
+group: 正式批
+channel: 官网
+city: 哈尔滨
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-07'
+track: 能动/航空发动机
+boundary: S
+job_posted: '2026-09-07'
+score:
+  fit: 10
+  track: 9
+  city: 3
+  salary: 7
+  stability: 9
+  certainty: 5
+  urgency: 5
+  wlb: 6
+note: 航发体系央企，航空发动机类专业直接对口
+tags:
+- A2-军工航天院所
+- 航空发动机直接对口
+- 央企
