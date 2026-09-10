@@ -198,9 +198,11 @@ CSS = """
   th{text-align:left;color:var(--muted);font-weight:500;padding:8px 10px;border-bottom:1px solid var(--border);font-size:12px;white-space:nowrap}
   td{padding:9px 10px;border-bottom:1px solid var(--rowborder)}
   tr:hover td{background:var(--rowhover)}
-  .rank{font-weight:700;width:34px}
+  .rank{font-weight:700;width:36px;text-align:right}
   .rank.r1{color:var(--yellow);font-size:16px}
   .rank.r3{color:var(--orange)}
+  .caretcell{width:28px;text-align:center;padding-right:0!important}
+  .caretcell .caret{cursor:pointer}
   .score{font-weight:700;color:var(--accent);white-space:nowrap}
   .pill{display:inline-block;padding:2px 10px;border-radius:20px;font-size:11.5px;background:var(--panel2);color:var(--muted);white-space:nowrap;border:1px solid var(--border)}
   .pill.st-applied{background:rgba(53,201,142,.15);color:var(--green);border-color:rgba(53,201,142,.4)}
@@ -391,7 +393,7 @@ RANK_CONTENT = """
   <h3>候选榜 <span class="sub">· 每企业取最高分公司行 · 点击展开全部在投岗位 · C红线不显示</span></h3>
   <div class="wlegend" id="wlegend"></div>
   <div class="table-wrap"><table>
-    <thead><tr><th style="width:38px">#</th><th>企业</th><th>岗位</th><th>城市</th><th>分数</th><th>截止</th><th>W 各项强度</th></tr></thead>
+    <thead><tr><th class="caretcell"></th><th class="rank">#</th><th>企业</th><th>岗位</th><th>城市</th><th>分数</th><th>截止</th><th>W 各项强度</th></tr></thead>
     <tbody id="rank-body"></tbody>
   </table></div>
 </div>
@@ -418,14 +420,14 @@ function render(){
     const r=i+1, cls=r===1?"r1":(r===3?"r3":"");
     const j=c.best;
     return `<tr class="expandable" onclick="toggleCo(this,'${c.key}')">
-      <td class="rank ${cls}"><span class="caret">▶</span> ${r}</td>
+      <td class="caretcell"><span class="caret">▶</span></td><td class="rank ${cls}">${r}</td>
       <td>${esc(j.name)} <span class="sub">${esc(j.track||"")}</span></td>
       <td>${esc(j.position)} ${freshBadge(j.job_posted)}</td>
       <td>${esc(j.city||"-")}</td>
       <td>${scoreCell(j)}</td>
       <td>${dlCell(j.deadline)}</td>
       <td>${wBars(j)}</td></tr>`;
-  }).join(""):`<tr><td colspan="7" class="empty">无候选岗位</td></tr>`;
+  }).join(""):`<tr><td colspan="8" class="empty">无候选岗位</td></tr>`;
 }
 function toggleCo(tr,key){
   tr.classList.toggle("open");
@@ -435,7 +437,7 @@ function toggleCo(tr,key){
   const inner=co.jobs.map(j=>`<div class="pipe-item"><b>${esc(j.position)}</b> ${tierPill(j)} ${freshBadge(j.job_posted)}
     <span class="sub">${esc(j.city||"")}${j.salary_range?" · "+esc(j.salary_range):""}${j.deadline?" · 截止 "+esc(j.deadline):""}</span>
     <span style="float:right">${scoreCell(j)} ${wBars(j)}</span></div>`).join("");
-  tr.insertAdjacentHTML("afterend",`<tr class="subrow"><td colspan="7">${inner}</td></tr>`);
+  tr.insertAdjacentHTML("afterend",`<tr class="subrow"><td colspan="8">${inner}</td></tr>`);
 }
 document.getElementById("r-min").addEventListener("change",render);
 document.getElementById("r-n").addEventListener("change",render);
