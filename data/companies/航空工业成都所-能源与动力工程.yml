@@ -7,21 +7,25 @@ city: 成都
 link: ''
 salary_range: ''
 stages: {}
-updated_at: '2026-09-08'
+updated_at: '2026-09-10'
 track: 能动/航空发动机
 boundary: S
 job_posted: '2026-09-08'
 score:
-  fit: 10
+  fit: 9
   track: 9
   city: 7
   salary: 7
   stability: 9
-  certainty: 5
-  urgency: 5
-  wlb: 6
+  certainty: 6
+  urgency: 6
+  wlb: 7
+score_rationale: 'fit9环控/机载冷却对口;city7成都青羊;salary7硕士约20万;调研校正09-10'
 note: 成飞体系军工所，飞行器动力/能源与动力/流体力学专业直接对口
 tags:
 - A2-军工航天院所
 - 航空发动机对口
 - 央企
+log:
+- date: '2026-09-10'
+  note: '[调研] 成飞设计所（成都青羊），27届在招硕博可投，环控/机载冷却方向对口，硕士约20万'

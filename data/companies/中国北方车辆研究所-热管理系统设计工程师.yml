@@ -7,20 +7,24 @@ city: 北京
 link: ''
 salary_range: 军工体系（事业编）
 stages: {}
-updated_at: '2026-09-09'
+updated_at: '2026-09-10'
 track: 热管理类
 boundary: S
 job_posted: '2026-09-09'
 score:
-  fit: 10
+  fit: 7
   track: 8
-  city: 6
-  salary: 7
+  city: 7
+  salary: 8
   stability: 10
   certainty: 6
   urgency: 5
   wlb: 7
+score_rationale: 'fit7坦克动力舱热管理擦边偏对口;salary8硕士20-25万+户口事业编;city7北京丰台;调研校正09-10'
 note: 兵器工业体系军工所，热管理/热分析/制冷/流体仿真多岗对口，共192岗中筛选出9个热相关
 tags:
 - A2-军工航天院所
 - 热管理直接对口
+log:
+- date: '2026-09-10'
+  note: '[调研] 兵器201所（北京丰台），坦克动力舱热管理擦边偏对口，硕士20-25万+户口+事业编'

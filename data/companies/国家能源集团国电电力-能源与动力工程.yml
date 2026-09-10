@@ -7,22 +7,26 @@ city: 北京
 link: ''
 salary_range: ''
 stages: {}
-updated_at: '2026-09-08'
+updated_at: '2026-09-10'
 track: 能动/电力
 boundary: S
 apply_deadline: '2026-10-07'
 job_posted: '2026-09-08'
 score:
-  fit: 10
+  fit: 6
   track: 8
-  city: 6
+  city: 5
   salary: 8
   stability: 10
   certainty: 5
   urgency: 8
-  wlb: 7
+  wlb: 4
+score_rationale: 'fit6传统火电运行非热管理;city5京外电厂风险;wlb4倒班;调研校正09-10'
 note: 国家能源集团体系，能源与动力工程直接对口，截止10-07
 tags:
 - A2-军工航天院所
 - 能源动力直接对口
 - 央企
+log:
+- date: '2026-09-10'
+  note: '[调研] 能动岗大概率京外电厂运行倒班，传统火电对口非热管理，统招截止10-07'

@@ -7,21 +7,25 @@ city: 北京
 link: ''
 salary_range: ''
 stages: {}
-updated_at: '2026-09-07'
+updated_at: '2026-09-10'
 track: 热管理类
 boundary: S
 job_posted: '2026-09-07'
 score:
-  fit: 10
+  fit: 8
   track: 9
-  city: 6
-  salary: 7
+  city: 7
+  salary: 5
   stability: 9
   certainty: 5
   urgency: 5
   wlb: 6
+score_rationale: 'fit8高能激光设备热管理偏对口(主业制造工艺);salary5硕士到手约8k/月;city7事业编+北京户口;调研校正09-10'
 note: 航空体系军工院所，高能激光岗位明确包含热管理方向
 tags:
 - A2-军工航天院所
 - 热管理直接对口
 - 央企
+log:
+- date: '2026-09-10'
+  note: '[调研] 主业制造工艺（焊接/增材/复材），能动岗多落工艺热过程；高能激光热管理岗属设备热管理偏对口；硕士到手约8k/月薪资很低；国家正式事业编+北京户口'

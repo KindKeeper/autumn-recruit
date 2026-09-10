@@ -15,14 +15,16 @@ score:
   fit: 9
   track: 9
   city: 8
-  salary: 7
+  salary: 6
   stability: 10
   certainty: 6
   urgency: 7
   wlb: 7
-score_rationale: 'fit9发动机热试验纯对口;stability10;city8北京;调研校正09-10'
+score_rationale: 'fit9发动机热试验纯对口;stability10;city8北京户口编制;salary6口径13-20万;调研校正09-10'
 tags:
 - 未分类
 log:
 - date: '2026-09-10'
   note: '[调研] 即航天六院101所(氢氧发动机试验基地,勿与11所京混淆);27届简章08-31发布在招(动力工程及工程热物理在列,硕博);北京丰台云岗;硕士总包20-30万区间参考;09-10'
+- date: '2026-09-10'
+  note: '[调研] 公开薪资口径硕士仅13-20万/年（北京户口、院所编制），salary 7→6'

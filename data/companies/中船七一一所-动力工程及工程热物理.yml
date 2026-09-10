@@ -7,21 +7,25 @@ city: 上海
 link: ''
 salary_range: ''
 stages: {}
-updated_at: '2026-09-09'
+updated_at: '2026-09-10'
 track: 能动/船舶动力
 boundary: S
 job_posted: '2026-09-09'
 score:
-  fit: 10
+  fit: 6
   track: 8
   city: 8
-  salary: 7
+  salary: 6
   stability: 9
   certainty: 5
   urgency: 5
   wlb: 6
+score_rationale: 'fit6船用柴油机传统内燃机擦边;salary6推断18-22万;调研校正09-10'
 note: 中船体系军工所，动力工程及工程热物理专业直接对口
 tags:
 - A2-军工航天院所
 - 动力工程直接对口
 - 央企
+log:
+- date: '2026-09-10'
+  note: '[调研] 船用柴油机方向，闵行，传统内燃机擦边/转传统能动，薪资18-22万推断'

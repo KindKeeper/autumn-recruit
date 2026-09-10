@@ -7,20 +7,20 @@ city: 南京
 link: ''
 salary_range: ''
 stages: {}
-updated_at: '2026-09-09'
+updated_at: '2026-09-10'
 track: 能动/低温
 boundary: S
 job_posted: '2026-09-09'
 score:
-  fit: 9
+  fit: 6
   track: 8
   city: 8
   salary: 5
   stability: 9
   certainty: 6
-  urgency: 7
+  urgency: 6
   wlb: 7
-score_rationale: 'fit9低温制冷纯对口(GM制冷机);city8南京;salary5 JD明码17-21万;stability9央企724所;调研校正09-09'
+score_rationale: 'fit6传统低温方向(MRI/冷链)非电子热管理;city8南京;salary5 JD明码17-21万;urgency6截止2027-06-30周期长;调研校正09-10'
 note: 中船体系央企，低温研发与热物理/制冷专业直接对口
 tags:
 - 低温系统
@@ -29,3 +29,5 @@ tags:
 log:
 - date: '2026-09-09'
   note: '[调研] 全称中船鹏力(南京)科技集团(中船八院724所产业化平台),base南京江宁;低温研发工程师27届在招(JD明码1.3-1.6万×13,招12人);GM制冷机国产替代纯对口(热力学/流体/传热+Ansys/Comsol);09-09'
+- date: '2026-09-10'
+  note: '[调研] 低温制冷/MRI低温/冷链是传统低温方向，非电子热管理（与七〇八所/七一一所同口径），fit 9→6；网申截止2027-06-30周期很长，urgency 7→6'

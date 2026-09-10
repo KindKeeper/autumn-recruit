@@ -7,20 +7,24 @@ city: 上海
 link: ''
 salary_range: ''
 stages: {}
-updated_at: '2026-09-09'
+updated_at: '2026-09-10'
 track: 航天热控
 boundary: S
 job_posted: '2026-09-09'
 score:
-  fit: 10
+  fit: 8
   track: 9
   city: 8
   salary: 6
-  stability: 7
-  certainty: 5
+  stability: 5
+  certainty: 6
   urgency: 5
   wlb: 6
+score_rationale: 'fit8卫星热控擦边偏对口;stability5成立2年60人早期(钧达控股60%);certainty6;调研校正09-10'
 note: 商业卫星公司，卫星热控工程师，专业直接对口
 tags:
 - 商业卫星
 - 热控直接对口
+log:
+- date: '2026-09-10'
+  note: '[调研] 钧达股份控股60%，上海松江，成立2年60人早期商业航天，卫星热控擦边偏对口'

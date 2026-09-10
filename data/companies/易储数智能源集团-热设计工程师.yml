@@ -7,20 +7,24 @@ city: 深圳
 link: ''
 salary_range: ''
 stages: {}
-updated_at: '2026-09-08'
+updated_at: '2026-09-10'
 track: 热管理类
 boundary: S
 job_posted: '2026-09-08'
 score:
-  fit: 10
+  fit: 9
   track: 9
   city: 8
   salary: 7
-  stability: 7
-  certainty: 5
+  stability: 6
+  certainty: 6
   urgency: 5
   wlb: 6
+score_rationale: 'fit9储能热管理对口;stability6成立2年营收薄(赣锋系);certainty6运营商非制造;调研校正09-10'
 note: 储能企业，热设计工程师直接对口
 tags:
 - B1-新能源储能
 - 热设计直接对口
+log:
+- date: '2026-09-10'
+  note: '[调研] 赣锋锂业系储能电站投资运营商（非制造商），深圳，成立2年营收薄，stability 8→6'

@@ -7,7 +7,7 @@ city: 北京
 link: ''
 salary_range: 事业单位（事业编制+落户+住房）
 stages: {}
-updated_at: '2026-09-08'
+updated_at: '2026-09-10'
 track: 热管理类
 boundary: B
 apply_deadline: '2026-09-15'
@@ -20,8 +20,9 @@ score:
   salary: 7
   stability: 10
   certainty: 7
-  urgency: 6
+  urgency: 8
   wlb: 7
+score_rationale: 'urgency8提前批09-15截止(仅剩5天);salary7硕士约25万总包;调研校正09-10'
 tags:
 - A1-CAE仿真软件
 log:
@@ -29,3 +30,5 @@ log:
   note: '[offershow] 截止更新为 2026-09-15（原 2026-10-24）'
 - date: '2026-09-09'
   note: '[调研] 27届08底启动,流体力学/辐射与传热CAE方向在招;签软件中心=北京/绵阳事业编(硕士起薪>25万+户口),签中久数创=成都企业编;提前批09-15截止;属CAE软件赛道擦边(合并自重复的流体力学CAE记录);09-09'
+- date: '2026-09-10'
+  note: '[调研] 2027届提前批2026-09-15截止（仅剩5天），urgency 6→8；硕士约25万总包，salary 保持 7'

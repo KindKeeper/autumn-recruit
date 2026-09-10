@@ -18,13 +18,15 @@ score:
   track: 9
   city: 8
   salary: 8
-  stability: 7
-  certainty: 5
+  stability: 6
+  certainty: 6
   urgency: 6
   wlb: 5
-score_rationale: 'fit9半导体设备温控仿真对口;certainty5主窗口已过;调研校正09-10'
+score_rationale: 'fit9半导体设备温控仿真对口;stability6实体清单风险(2024-12);certainty6秋招刚启动滚动;调研校正09-10'
 tags:
 - B2-半导体芯片
 log:
 - date: '2026-09-10'
   note: '[调研] 新凯来(深圳国资半导体设备,华为系)多物理场仿真=热/流/散热方向纯对口;27届06-25启动(提前批窗口6/25-8/25已过,猎聘显示截止2027-04-15,以官网为准);硕士总包25-35万;华为系强度;09-10'
+- date: '2026-09-10'
+  note: '[调研] 2027届秋招刚启动、滚动投递招满即止，此前"主窗口已过"判断不成立，certainty 5→6；2024年12月已被美国列入实体清单，stability 7→6'

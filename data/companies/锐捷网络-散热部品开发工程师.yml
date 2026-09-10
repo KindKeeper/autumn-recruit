@@ -3,16 +3,16 @@ name: 锐捷网络
 position: 散热部品开发工程师
 group: 正式批
 channel: 官网
-city: 福州
+city: 成都/武汉
 link: ''
 salary_range: ''
 stages: {}
-updated_at: '2026-09-08'
+updated_at: '2026-09-10'
 track: 热管理类
 boundary: S
 job_posted: '2026-09-08'
 score:
-  fit: 10
+  fit: 9
   track: 9
   city: 7
   salary: 8
@@ -20,7 +20,11 @@ score:
   certainty: 5
   urgency: 5
   wlb: 6
+score_rationale: 'fit9液冷冷板/VC纯对口电子热管理;city7成都/武汉(非福州);公司更正锐捷网络301165;调研校正09-10'
 note: 网络设备龙头，液冷/散热工程师直接对口
 tags:
 - B3-电子科技
 - 液冷散热直接对口
+log:
+- date: '2026-09-10'
+  note: '[调研] 公司更正为锐捷网络（301165，非星网锐捷002396），27届校招base成都/武汉，不是福州'

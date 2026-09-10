@@ -7,12 +7,12 @@ city: 西安
 link: ''
 salary_range: ''
 stages: {}
-updated_at: '2026-09-08'
+updated_at: '2026-09-10'
 track: 能动/热物理
 boundary: S
 job_posted: '2026-09-08'
 score:
-  fit: 10
+  fit: 7
   track: 8
   city: 7
   salary: 7
@@ -20,8 +20,12 @@ score:
   certainty: 5
   urgency: 5
   wlb: 6
+score_rationale: 'fit7含能材料燃烧/热安全方向非电子散热;salary7硕士15-25万(25-40万+安家费系博士口径);city7西安;调研校正09-10'
 note: 兵器体系军工所，动力工程及工程热物理专业直接对口
 tags:
 - A2-军工航天院所
 - 动力工程直接对口
 - 央企
+log:
+- date: '2026-09-10'
+  note: '[调研] 主体为含能材料化学类研究所，能动岗位落在含能材料燃烧/热安全方向，与电子散热热管理口径不同，fit 10→7；硕士薪资15-25万（25-40万+安家费为博士口径）'

@@ -7,21 +7,25 @@ city: 广东
 link: ''
 salary_range: ''
 stages: {}
-updated_at: '2026-09-08'
+updated_at: '2026-09-10'
 track: 能动/核电
 boundary: S
 job_posted: '2026-09-08'
 score:
-  fit: 10
+  fit: 6
   track: 8
   city: 6
-  salary: 8
+  salary: 7
   stability: 10
   certainty: 5
   urgency: 5
-  wlb: 7
+  wlb: 4
+score_rationale: 'fit6核电运行检修传统能动;wlb4倒班;salary7硕士打包19-21万;调研校正09-10'
 note: 核电央企，能源动力专业直接对口
 tags:
 - A2-军工航天院所
 - 能源动力直接对口
 - 央企
+log:
+- date: '2026-09-10'
+  note: '[调研] 能源动力类=核电运行/检修传统能动，倒班，硕士打包19-21万'

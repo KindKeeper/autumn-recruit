@@ -3,24 +3,28 @@ name: 新航科技
 position: 动力工程及工程热物理
 group: 正式批
 channel: 官网
-city: 上海
+city: 新乡
 link: ''
 salary_range: ''
 stages: {}
-updated_at: '2026-09-09'
+updated_at: '2026-09-10'
 track: 能动/制冷
 boundary: S
 job_posted: '2026-09-09'
 score:
-  fit: 10
+  fit: 9
   track: 8
-  city: 8
+  city: 4
   salary: 6
   stability: 8
   certainty: 5
   urgency: 5
   wlb: 6
+score_rationale: 'fit9环控/换热对口;city4新乡(非一二线城市);salary6硕士保守(30万疑为博士口径);调研校正09-10'
 note: 动力工程及工程热物理+制冷及低温工程专业直接对口
 tags:
 - 动力工程直接对口
 - 制冷低温
+log:
+- date: '2026-09-10'
+  note: '[调研] 全称新乡航空工业（集团），base河南新乡（非上海，city字段已更正），主业环控/换热对口；流传30万口径疑为博士/紧缺岗，硕士保守估计远低于此'
