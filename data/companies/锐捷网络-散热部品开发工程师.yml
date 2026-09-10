@@ -1,0 +1,26 @@
+id: ruijie-thermal-2027
+name: 锐捷网络
+position: 散热部品开发工程师
+group: 正式批
+channel: 官网
+city: 福州
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-08'
+track: 热管理类
+boundary: S
+job_posted: '2026-09-08'
+score:
+  fit: 10
+  track: 9
+  city: 7
+  salary: 8
+  stability: 8
+  certainty: 5
+  urgency: 5
+  wlb: 6
+note: 网络设备龙头，液冷/散热工程师直接对口
+tags:
+- B3-电子科技
+- 液冷散热直接对口

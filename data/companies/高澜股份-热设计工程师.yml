@@ -1,0 +1,27 @@
+id: gaolan-thermal-2027
+name: 高澜股份
+position: 热设计工程师
+group: 正式批
+channel: 官网
+city: 广州
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-08'
+track: 热管理类
+boundary: S
+job_posted: '2026-09-08'
+score:
+  fit: 10
+  track: 10
+  city: 6
+  salary: 7
+  stability: 7
+  certainty: 5
+  urgency: 5
+  wlb: 6
+note: 液冷散热行业龙头，热设计工程师核心岗
+tags:
+- B3-电子科技
+- 液冷散热龙头
+- 热设计直接对口
