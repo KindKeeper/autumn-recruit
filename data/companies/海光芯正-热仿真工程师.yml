@@ -1,0 +1,26 @@
+id: haiguang-xinzeng-2027
+name: 海光芯正
+position: 热仿真工程师
+group: 正式批
+channel: 官网
+city: 北京
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-08'
+track: 热管理类
+boundary: S
+job_posted: '2026-09-08'
+score:
+  fit: 10
+  track: 9
+  city: 6
+  salary: 8
+  stability: 7
+  certainty: 5
+  urgency: 5
+  wlb: 6
+note: 硅光芯片企业，热仿真工程师直接对口
+tags:
+- B3-电子科技
+- 芯片热仿真直接对口

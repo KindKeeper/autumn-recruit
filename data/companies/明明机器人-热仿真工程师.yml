@@ -1,0 +1,26 @@
+id: mingming-robot-2027
+name: 明明机器人
+position: 热仿真工程师
+group: 正式批
+channel: 官网
+city: 松山湖
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-08'
+track: 热管理类
+boundary: S
+job_posted: '2026-09-08'
+score:
+  fit: 10
+  track: 9
+  city: 7
+  salary: 7
+  stability: 6
+  certainty: 5
+  urgency: 5
+  wlb: 6
+note: 机器人企业，热仿真工程师直接对口
+tags:
+- C4-智能硬件/具身智能
+- 机器人热仿真直接对口
