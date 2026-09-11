@@ -6,8 +6,9 @@ channel: 官网
 city: 厦门
 link: ''
 salary_range: A股上市（15薪）
-stages: {}
-updated_at: '2026-09-09'
+stages:
+  applied: '2026-09-11'
+updated_at: '2026-09-11'
 track: 热管理类
 boundary: S
 job_posted: '2026-08-27'
@@ -30,3 +31,5 @@ log:
   note: '[offershow] 正式批公告发布 2026-08-27（原 2026-07-02）'
 - date: '2026-09-09'
   note: '[调研] 27届08-25启动(截止12-06),产品研发类热管理工程师在列=UPS/储能PCS散热方向纯对口;净利+62%;加班偏多但有加班费;09-09'
+- date: '2026-09-11'
+  note: '[投递] 已投递科华热管理工程师'
