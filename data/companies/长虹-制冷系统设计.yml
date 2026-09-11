@@ -1,0 +1,26 @@
+id: changhong-refrigeration-2027
+name: 长虹
+position: 制冷系统设计
+group: 正式批
+channel: 官网
+city: 绵阳
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-10'
+track: 能动/制冷
+boundary: S
+job_posted: '2026-09-10'
+score:
+  fit: 10
+  track: 8
+  city: 3
+  salary: 7
+  stability: 8
+  certainty: 5
+  urgency: 5
+  wlb: 7
+note: 长虹控股集团，制冷系统设计+动力系统工程师双岗对口
+tags:
+- B2-大型工业制造
+- 制冷/动力系统直接对口

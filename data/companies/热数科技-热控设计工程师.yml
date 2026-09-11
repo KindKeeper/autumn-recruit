@@ -1,0 +1,26 @@
+id: reshutech-2027
+name: 热数科技
+position: 热控设计工程师
+group: 正式批
+channel: 官网
+city: 北京
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-10'
+track: 热管理类
+boundary: S
+job_posted: '2026-09-10'
+score:
+  fit: 10
+  track: 10
+  city: 6
+  salary: 7
+  stability: 7
+  certainty: 5
+  urgency: 5
+  wlb: 6
+note: 航天热控专业公司，热控设计/液冷/热控涂层多岗完全对口
+tags:
+- 航天热控
+- 热管理完全对口
