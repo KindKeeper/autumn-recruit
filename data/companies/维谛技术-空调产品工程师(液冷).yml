@@ -7,20 +7,26 @@ city: 深圳
 link: ''
 salary_range: ''
 stages: {}
-updated_at: '2026-09-10'
+updated_at: '2026-09-11'
 track: 热管理类
 boundary: S
 job_posted: '2026-09-10'
 score:
-  fit: 10
+  fit: 7
   track: 9
-  city: 6
-  salary: 8
+  city: 8
+  salary: 6
   stability: 8
   certainty: 5
   urgency: 5
-  wlb: 6
+  wlb: 7
+score_rationale: 'fit7液冷对口但该岗归市场类偏产品管理/售前(真研发岗=制冷工程师);city8深圳南山(西安仅研发类制冷工程师);salary6硕士约15-20万;wlb7外企双休福利好;调研校正09-11'
 note: 维谛技术=全球数据中心温控龙头（原艾默生网络能源），液冷/制冷直接对口
 tags:
 - 数据中心温控
 - 液冷/制冷直接对口
+log:
+- date: '2026-09-11'
+  note: '[调研] Vertiv深圳南山，液冷方向对口但该岗在官方职位表归"市场类"（偏产品管理/售前），真正研发岗是"制冷工程师"；硕士约15-20万；外企双休福利好'
+- date: '2026-09-11'
+  note: '[调研] 2027届校招该岗仅base深圳南山区（西安只有研发类制冷工程师），score.city 6→8'

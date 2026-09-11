@@ -3,25 +3,29 @@ name: 中国航天科工四院
 position: 动力工程及工程热物理类
 group: 正式批
 channel: 官网
-city: 北京
+city: 孝感
 link: ''
 salary_range: ''
 stages: {}
-updated_at: '2026-09-10'
+updated_at: '2026-09-11'
 track: 能动/航天发动机
 boundary: S
 job_posted: '2026-09-10'
 score:
-  fit: 10
+  fit: 6
   track: 9
-  city: 6
-  salary: 7
-  stability: 9
+  city: 4
+  salary: 6
+  stability: 7
   certainty: 5
   urgency: 5
   wlb: 6
+score_rationale: 'fit6爆轰/传爆/弹药热环境/暖通非电子散热;city4孝感主体(武汉仅九部);salary6孝感16-18万;stability7企业化无事业编;注意非航天科技四院(西安);调研校正09-11'
 note: 航天科工体系，动力工程及工程热物理专业直接对口
 tags:
 - A2-军工航天院所
 - 动力工程直接对口
 - 央企
+log:
+- date: '2026-09-11'
+  note: '[调研] 实为航天三江集团（九院），主体岗位在孝感（武汉仅九部/微电院，city字段已由北京更正为孝感），能源动力类实为爆轰/传爆/弹药热环境/暖通热力，无电子散热岗，企业编无事业编；注意与航天科技四院（西安）区分'

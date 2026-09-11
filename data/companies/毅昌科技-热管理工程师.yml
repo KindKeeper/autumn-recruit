@@ -3,23 +3,27 @@ name: 毅昌科技
 position: 热管理工程师
 group: 正式批
 channel: 官网
-city: 合肥
+city: 芜湖
 link: ''
 salary_range: ''
 stages: {}
-updated_at: '2026-09-10'
+updated_at: '2026-09-11'
 track: 热管理类
 boundary: S
 job_posted: '2026-09-10'
 score:
-  fit: 10
+  fit: 7
   track: 9
-  city: 7
-  salary: 7
+  city: 6
+  salary: 6
   stability: 7
   certainty: 5
   urgency: 5
   wlb: 6
+score_rationale: 'fit7液冷板结构件工程化非CFD热设计;city6芜湖(芜湖汇展,非广州);salary6硕士12-16k约15-21万;stability7低毛利12.39%现金流负负债69%;调研校正09-11'
 note: 毅昌科技，热管理工程师直接对口
 tags:
 - 热管理直接对口
+log:
+- date: '2026-09-11'
+  note: '[调研] 芜湖汇展（2022年收购）做动力电池液冷板结构件，偏结构件工程化非CFD热设计；实际大概率芜湖非广州（city字段已由合肥更正为芜湖）；低毛利12.39%、经营现金流为负、负债率69%；硕士12-16k约15-21万'
