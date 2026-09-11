@@ -1,26 +1,27 @@
-id: avic-xifei-2027
+id: avic-xifmc-2027
 name: 航空工业西飞民机
 position: 能源动力类
 group: 正式批
 channel: 官网
-city: 陕西
+city: 西安
 link: ''
 salary_range: ''
 stages: {}
-updated_at: '2026-09-09'
-track: 航空动力
-boundary: A
-job_posted: '2026-09-09'
+updated_at: '2026-09-10'
+track: 能动/航空动力
+boundary: S
+job_posted: '2026-09-10'
 score:
-  fit: 8
-  track: 7
-  city: 4
-  salary: 6
+  fit: 10
+  track: 9
+  city: 7
+  salary: 7
   stability: 9
   certainty: 5
   urgency: 5
   wlb: 6
-note: 航空工业体系，能源动力类岗位对口，但陕西地理位置偏远
+note: 航空工业体系，能源动力类专业直接对口
 tags:
-- 航空
-- 能动对口
+- A2-军工航天院所
+- 能源动力直接对口
+- 央企
