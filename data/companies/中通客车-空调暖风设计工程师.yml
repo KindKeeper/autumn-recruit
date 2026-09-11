@@ -1,0 +1,26 @@
+id: zhongtong-coach-2027
+name: 中通客车
+position: 空调暖风设计工程师
+group: 正式批
+channel: 官网
+city: 聊城
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-10'
+track: 能动/制冷
+boundary: S
+job_posted: '2026-09-10'
+score:
+  fit: 10
+  track: 8
+  city: 3
+  salary: 7
+  stability: 8
+  certainty: 5
+  urgency: 5
+  wlb: 6
+note: 中通客车，空调暖风/空调/仿真分析三岗对口
+tags:
+- B2-大型工业制造
+- 空调/热管理直接对口
