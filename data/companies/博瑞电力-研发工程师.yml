@@ -8,7 +8,8 @@ link: ''
 salary_range: ''
 stages:
   applied: '2026-09-10'
-updated_at: '2026-09-10'
+  assessment: '2026-09-11'
+updated_at: '2026-09-11'
 boundary: S
 job_posted: '2026-08-31'
 source_id: offershow:ea462e99-3394-4edc-a5f6-133d634f3930
@@ -32,3 +33,5 @@ log:
   note: '[调研] 全名常州博瑞电力自动化设备(南瑞继保全资子公司,base常州非南京);27届08-28启动,研发工程师专业含工程热物理;硕士年包约22万爆料;09-09'
 - date: '2026-09-10'
   note: '[用户] 官网投递'
+- date: '2026-09-11'
+  note: '[测评] 完成测评'
