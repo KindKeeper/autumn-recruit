@@ -6,8 +6,9 @@ channel: 官网
 city: 上海
 link: https://www.hesaitech.com/
 salary_range: ''
-stages: {}
-updated_at: '2026-09-10'
+stages:
+  applied: '2026-09-11'
+updated_at: '2026-09-11'
 track: 热管理类
 boundary: A
 job_posted: '2026-08-28'
@@ -29,3 +30,5 @@ log:
   note: '[offershow] 正式批公告发布 2026-08-28（原 2026-06-23）'
 - date: '2026-09-10'
   note: '[调研] 禾赛(激光雷达全球龙头,美股+港股上市)仿真设计工程师-热设计方向在招(base上海青浦,JD点名热能工程/工程热物理,Fluent/STAR-CCM+);硕士总包约40万(单条爆料);滚动投递;09-10'
+- date: '2026-09-11'
+  note: '[投递] 已投递禾赛热设计工程师'
