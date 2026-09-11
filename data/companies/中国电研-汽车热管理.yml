@@ -1,0 +1,26 @@
+id: cepri-2027
+name: 中国电研
+position: 汽车热管理
+group: 正式批
+channel: 官网
+city: 广州
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-10'
+track: 热管理类
+boundary: S
+job_posted: '2026-09-10'
+score:
+  fit: 10
+  track: 9
+  city: 6
+  salary: 7
+  stability: 8
+  certainty: 5
+  urgency: 5
+  wlb: 7
+note: 中国电研，汽车热管理岗位直接对口
+tags:
+- B2-大型工业制造
+- 汽车热管理直接对口
