@@ -1,0 +1,26 @@
+id: galaxy-power-2027
+name: 星河动力航天
+position: 热控设计岗
+group: 正式批
+channel: 官网
+city: 北京
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-10'
+track: 能动/航天发动机
+boundary: S
+job_posted: '2026-09-10'
+score:
+  fit: 10
+  track: 9
+  city: 6
+  salary: 7
+  stability: 7
+  certainty: 5
+  urgency: 5
+  wlb: 6
+note: 商业火箭公司，热控/防隔热/涡轮泵/推力室多岗对口
+tags:
+- 商业火箭
+- 热控/防隔热直接对口
