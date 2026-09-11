@@ -7,21 +7,25 @@ city: 西安
 link: ''
 salary_range: ''
 stages: {}
-updated_at: '2026-09-10'
+updated_at: '2026-09-11'
 track: 能动/航空动力
 boundary: S
 job_posted: '2026-09-10'
 score:
-  fit: 10
+  fit: 6
   track: 9
-  city: 7
-  salary: 7
+  city: 6
+  salary: 5
   stability: 9
   certainty: 5
   urgency: 5
   wlb: 6
+score_rationale: 'fit6民机环控/动力系统传统航空能动非电子热管理;salary5硕士约11-13万;city6西安阎良通勤差无地铁;企业编无事业编;调研校正09-11'
 note: 航空工业体系，能源动力类专业直接对口
 tags:
 - A2-军工航天院所
 - 能源动力直接对口
 - 央企
+log:
+- date: '2026-09-11'
+  note: '[调研] 西安阎良，民机环控/动力系统传统航空能动非电子热管理；硕士约11-13万很低；阎良通勤差、无地铁；企业编无事业编'

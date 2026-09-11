@@ -3,25 +3,29 @@ name: 华中长江光电
 position: CAE热学分析工程师
 group: 正式批
 channel: 官网
-city: 武汉
+city: 孝感
 link: ''
 salary_range: ''
 stages: {}
-updated_at: '2026-09-10'
+updated_at: '2026-09-11'
 track: 热管理类
 boundary: S
 job_posted: '2026-09-10'
 score:
-  fit: 10
+  fit: 8
   track: 9
-  city: 8
-  salary: 7
+  city: 4
+  salary: 6
   stability: 9
   certainty: 5
   urgency: 5
   wlb: 6
+score_rationale: 'fit8激光器热控/光机热分析偏对口;city4孝感(非武汉);salary6硕士约15-20万;注意核对主体为华中长江光电(非湖北华中车灯,武汉车灯散热);调研校正09-11'
 note: 高能激光武器体系军工所，CAE热学分析直接对口
 tags:
 - A2-军工航天院所
 - CAE热学分析直接对口
 - 央企
+log:
+- date: '2026-09-11'
+  note: '[调研] 湖北华中长江光电科技（兵器工业集团），base孝感（非武汉，city字段已更正），激光器热控/光机热分析，光电装备热管理偏对口；硕士约15-20万；注意区分同集团湖北华中车灯（武汉，车灯散热，极易混淆）'

@@ -7,20 +7,24 @@ city: 上海
 link: ''
 salary_range: ''
 stages: {}
-updated_at: '2026-09-10'
+updated_at: '2026-09-11'
 track: 能动/制冷
 boundary: S
 job_posted: '2026-09-10'
 score:
-  fit: 10
+  fit: 6
   track: 9
   city: 8
-  salary: 8
+  salary: 7
   stability: 8
   certainty: 5
-  urgency: 5
+  urgency: 6
   wlb: 7
+score_rationale: 'fit6空分/制氢/液化装置深冷设计非电子热管理;salary7硕士约16-22万;urgency6招满即止;调研校正09-11'
 note: 林德=全球工业气体/制冷巨头，制冷与低温/能源动力直接对口
 tags:
 - 外企
 - 制冷/低温直接对口
+log:
+- date: '2026-09-11'
+  note: '[调研] 林德亚太工程（上海浦东金桥/杭州天目里），岗位为空分/制氢/天然气液化等工业气体低温深冷装置设计，非电子热管理；硕士约16-22万；9/9刚更新岗位、招满即止'

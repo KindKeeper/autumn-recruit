@@ -7,7 +7,7 @@ city: 上海
 link: ''
 salary_range: ''
 stages: {}
-updated_at: '2026-09-10'
+updated_at: '2026-09-11'
 track: 热管理类
 boundary: S
 job_posted: '2026-09-10'
@@ -18,10 +18,14 @@ score:
   salary: 7
   stability: 9
   certainty: 5
-  urgency: 5
+  urgency: 6
   wlb: 6
+score_rationale: 'fit10变流器/SVG/储能变流器散热+热仿真(Flotherm/Icepak)纯对口;salary7硕士约16-22万;注意同集团变压器油道传统岗,面试需确认分到电力电子产品线;调研校正09-11'
 note: 上海电气输配电集团，散热设计直接对口
 tags:
 - B2-大型工业制造
 - 散热设计直接对口
 - 央企
+log:
+- date: '2026-09-11'
+  note: '[调研] 上海电气输配电集团，做变流器/SVG/储能变流器等电力电子产品散热设计+热仿真（Flotherm/Icepak），真对口；硕士约16-22万；招满即止；同集团另有变压器油道散热传统岗，面试需确认分到电力电子产品线'
