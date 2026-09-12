@@ -1,0 +1,26 @@
+id: yinlun-2027
+name: 银轮股份
+position: 设计工程师
+group: 正式批
+channel: 官网
+city: 台州
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-12'
+track: 热管理类
+boundary: S
+job_posted: '2026-09-12'
+score:
+  fit: 10
+  track: 9
+  city: 5
+  salary: 7
+  stability: 7
+  certainty: 5
+  urgency: 5
+  wlb: 6
+note: 银轮股份=汽车热交换器龙头（EV热管理/电池冷却/电机散热），热管理直接对口
+tags:
+- 汽车热管理
+- 热交换器直接对口

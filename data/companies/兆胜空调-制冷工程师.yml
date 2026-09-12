@@ -1,0 +1,26 @@
+id: zhaosheng-ac-2027
+name: 兆胜空调
+position: 制冷工程师
+group: 正式批
+channel: 官网
+city: 泰兴
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-12'
+track: 能动/制冷
+boundary: S
+job_posted: '2026-09-12'
+score:
+  fit: 10
+  track: 9
+  city: 4
+  salary: 7
+  stability: 7
+  certainty: 5
+  urgency: 5
+  wlb: 6
+note: 兆胜空调，制冷/暖通/流体三岗对口
+tags:
+- 制冷/空调
+- 制冷直接对口
