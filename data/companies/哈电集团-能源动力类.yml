@@ -1,0 +1,27 @@
+id: hade-2027
+name: 哈电集团
+position: 能源动力类
+group: 正式批
+channel: 官网
+city: 天津
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-11'
+track: 能动/发电设备
+boundary: S
+job_posted: '2026-09-11'
+score:
+  fit: 10
+  track: 8
+  city: 7
+  salary: 7
+  stability: 9
+  certainty: 5
+  urgency: 5
+  wlb: 6
+note: 哈电集团=发电设备龙头（水电/火电/核电/气电），能源动力直接对口
+tags:
+- 发电设备龙头
+- 能源动力直接对口
+- 央企
