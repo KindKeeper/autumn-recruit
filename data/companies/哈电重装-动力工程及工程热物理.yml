@@ -1,4 +1,4 @@
-id: hdzz-2027
+id: hade-zhuangbei-2027
 name: 哈电重装
 position: 动力工程及工程热物理
 group: 正式批
@@ -8,20 +8,20 @@ link: ''
 salary_range: ''
 stages: {}
 updated_at: '2026-09-10'
-track: 能动/核电装备
+track: 能动/核电设备
 boundary: S
 job_posted: '2026-09-10'
 score:
   fit: 10
   track: 8
-  city: 4
+  city: 7
   salary: 7
   stability: 9
   certainty: 5
   urgency: 5
   wlb: 6
-note: 哈电体系央企，核电装备动力工程直接对口
+note: 哈电集团体系，核电设备制造，动力工程及工程热物理直接对口
 tags:
-- A2-军工航天院所
+- 核电设备
 - 动力工程直接对口
 - 央企
