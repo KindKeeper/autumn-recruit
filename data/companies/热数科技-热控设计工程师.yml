@@ -1,4 +1,4 @@
-id: reshutech-2027
+id: heat-num-2027
 name: 热数科技
 position: 热控设计工程师
 group: 正式批
@@ -7,24 +7,20 @@ city: 北京
 link: ''
 salary_range: ''
 stages: {}
-updated_at: '2026-09-11'
+updated_at: '2026-09-10'
 track: 热管理类
 boundary: S
 job_posted: '2026-09-10'
 score:
   fit: 10
-  track: 9
+  track: 10
   city: 6
-  salary: 6
-  stability: 6
+  salary: 7
+  stability: 7
   certainty: 5
   urgency: 5
   wlb: 6
-score_rationale: 'fit10卫星热控/星上液冷纯对口;track9商业航天+数据中心液冷双赛道但初创配套商平台小;salary6不透明估约15-25万低于头部;stability6 50-99人初创订单集中少数星座客户;调研校正09-11'
-note: 航天热控专业公司，热控设计/液冷/热控涂层多岗完全对口
+note: 热数科技=航天热控企业，热控设计/宇航液冷/热控涂层多岗直接对口
 tags:
 - 航天热控
-- 热管理完全对口
-log:
-- date: '2026-09-11'
-  note: '[调研] 北京热数科技（2020-12成立，50-99人，C轮2026-08-17刚完成），商业航天热控+数据中心液冷双赛道，方向真对口但属早期初创；硕士薪资未公开、估计约15-25万低于头部；track 10→9、salary 7→6、stability 7→6'
+- 热设计/液冷直接对口
