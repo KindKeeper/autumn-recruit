@@ -7,25 +7,21 @@ city: 武汉
 link: ''
 salary_range: ''
 stages: {}
-updated_at: '2026-09-11'
+updated_at: '2026-09-10'
 track: 能动/船舶动力
 boundary: S
 job_posted: '2026-09-10'
 score:
-  fit: 7
+  fit: 10
   track: 9
-  city: 7
-  salary: 6
-  stability: 9
+  city: 8
+  salary: 7
+  stability: 10
   certainty: 5
   urgency: 5
   wlb: 6
-score_rationale: 'fit7核动力/反应堆热工水力传统核能非电子热管理;salary6硕士税前约18万;city7武汉锚点;调研校正09-11'
-note: 中船体系军工所，核动力方向科研设计
+note: 中船体系重点所，科研设计含热/动力方向
 tags:
 - A2-军工航天院所
-- 动力工程直接对口
+- 科研设计含热方向
 - 央企
-log:
-- date: '2026-09-11'
-  note: '[调研] 武汉江夏，核动力/反应堆热工水力方向，传统核能非电子热管理；硕士税前约18万'
