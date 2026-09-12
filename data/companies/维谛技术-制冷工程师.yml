@@ -1,0 +1,26 @@
+id: vertiv-2027
+name: 维谛技术
+position: 制冷工程师
+group: 正式批
+channel: 官网
+city: 深圳
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-10'
+track: 能动/数据中心温控
+boundary: S
+job_posted: '2026-09-10'
+score:
+  fit: 10
+  track: 9
+  city: 6
+  salary: 8
+  stability: 8
+  certainty: 5
+  urgency: 5
+  wlb: 6
+note: 维谛技术=全球数据中心温控龙头（氟/水冷/液冷），制冷/液冷多岗直接对口
+tags:
+- 数据中心温控
+- 制冷/液冷直接对口
