@@ -1,0 +1,26 @@
+id: growatt-2027
+name: 古瑞瓦特
+position: 热流工程师
+group: 正式批
+channel: 官网
+city: 深圳
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-12'
+track: 热管理类
+boundary: S
+job_posted: '2026-09-12'
+score:
+  fit: 10
+  track: 9
+  city: 6
+  salary: 8
+  stability: 7
+  certainty: 5
+  urgency: 5
+  wlb: 6
+note: 古瑞瓦特=全球光伏逆变器龙头，热流工程师=热设计直接对口
+tags:
+- 热流/热设计
+- 热管理直接对口
