@@ -1,0 +1,27 @@
+id: npic-2027
+name: 中国核动力研究设计院
+position: 热工类
+group: 正式批
+channel: 官网
+city: 成都
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-11'
+track: 能动/核工程
+boundary: S
+job_posted: '2026-09-11'
+score:
+  fit: 10
+  track: 9
+  city: 7
+  salary: 7
+  stability: 10
+  certainty: 5
+  urgency: 5
+  wlb: 6
+note: 中核体系，核动力热工类直接对口
+tags:
+- A2-军工航天院所
+- 热工直接对口
+- 央企
