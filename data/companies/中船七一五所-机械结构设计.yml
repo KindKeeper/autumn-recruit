@@ -1,0 +1,27 @@
+id: cssc-715-2027
+name: 中船七一五所
+position: 机械结构设计
+group: 正式批
+channel: 官网
+city: 杭州
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-11'
+track: 能动/船舶动力
+boundary: S
+job_posted: '2026-09-11'
+score:
+  fit: 10
+  track: 9
+  city: 9
+  salary: 7
+  stability: 9
+  certainty: 5
+  urgency: 5
+  wlb: 6
+note: 中船体系，机械结构设计含热设计方向
+tags:
+- A2-军工航天院所
+- 结构/热设计对口
+- 央企
