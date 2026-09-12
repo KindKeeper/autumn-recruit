@@ -1,0 +1,25 @@
+id: gaochuang-2027
+name: 高创传动
+position: 热仿真
+group: 正式批
+channel: 官网
+city: 上海
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-12'
+track: 热管理类
+boundary: S
+job_posted: '2026-09-12'
+score:
+  fit: 10
+  track: 9
+  city: 8
+  salary: 7
+  stability: 7
+  certainty: 5
+  urgency: 5
+  wlb: 6
+note: 高创传动（伺服电机），热仿真直接对口
+tags:
+- 热仿真直接对口

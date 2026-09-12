@@ -1,0 +1,26 @@
+id: hikrobot-2027
+name: 海康机器人
+position: 热设计工程师
+group: 正式批
+channel: 官网
+city: 杭州
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-12'
+track: 热管理类
+boundary: S
+job_posted: '2026-09-12'
+score:
+  fit: 10
+  track: 9
+  city: 9
+  salary: 8
+  stability: 8
+  certainty: 5
+  urgency: 5
+  wlb: 6
+note: 海康机器人，热设计工程师直接对口
+tags:
+- B3-电子科技
+- 热设计直接对口
