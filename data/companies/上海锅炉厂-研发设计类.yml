@@ -1,0 +1,27 @@
+id: shanghai-boiler-2027
+name: 上海锅炉厂
+position: 研发/设计类
+group: 正式批
+channel: 官网
+city: 上海
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-12'
+track: 能动/热力系统
+boundary: S
+job_posted: '2026-09-12'
+score:
+  fit: 10
+  track: 8
+  city: 8
+  salary: 7
+  stability: 9
+  certainty: 5
+  urgency: 5
+  wlb: 6
+note: 上海电气体系，锅炉研发设计=热力系统核心
+tags:
+- B2-大型工业制造
+- 热力系统直接对口
+- 央企
