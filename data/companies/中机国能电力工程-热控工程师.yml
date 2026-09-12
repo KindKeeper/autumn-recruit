@@ -1,0 +1,26 @@
+id: cmeec-power-2027
+name: 中机国能电力工程
+position: 热控工程师
+group: 正式批
+channel: 官网
+city: 全国
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-11'
+track: 能动/电力系统
+boundary: S
+job_posted: '2026-09-11'
+score:
+  fit: 10
+  track: 8
+  city: 7
+  salary: 7
+  stability: 8
+  certainty: 5
+  urgency: 5
+  wlb: 6
+note: 电力设计院，热控/汽机/锅炉三岗对口
+tags:
+- 电力设计院
+- 热控/汽机/锅炉直接对口

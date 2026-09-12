@@ -1,0 +1,27 @@
+id: huazhong-lamp-2027
+name: 华中车灯
+position: CAE热学分析工程师
+group: 正式批
+channel: 官网
+city: 武汉
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-11'
+track: 热管理类
+boundary: S
+job_posted: '2026-09-11'
+score:
+  fit: 10
+  track: 9
+  city: 8
+  salary: 7
+  stability: 8
+  certainty: 5
+  urgency: 5
+  wlb: 6
+note: 汽车车灯企业，CAE热学分析直接对口
+tags:
+- A2-军工航天院所
+- 热仿真/热分析直接对口
+- 央企
