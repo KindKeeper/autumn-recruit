@@ -1,0 +1,27 @@
+id: cssc-hdzh-2027
+name: 沪东中华造船
+position: 能源与动力工程
+group: 正式批
+channel: 官网
+city: 上海
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-12'
+track: 能动/船舶动力
+boundary: S
+job_posted: '2026-09-12'
+score:
+  fit: 10
+  track: 9
+  city: 8
+  salary: 7
+  stability: 9
+  certainty: 5
+  urgency: 5
+  wlb: 6
+note: 中船体系，能源动力/热能动力/制冷低温/工程热物理全对口
+tags:
+- A2-军工航天院所
+- 能源动力直接对口
+- 央企
