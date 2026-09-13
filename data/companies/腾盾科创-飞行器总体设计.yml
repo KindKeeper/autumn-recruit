@@ -1,0 +1,26 @@
+id: tengdun-2027
+name: 腾盾科创
+position: 飞行器总体设计
+group: 正式批
+channel: 官网
+city: 成都
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-13'
+track: 能动/航空动力
+boundary: S
+job_posted: '2026-09-13'
+score:
+  fit: 10
+  track: 9
+  city: 7
+  salary: 7
+  stability: 7
+  certainty: 5
+  urgency: 5
+  wlb: 6
+note: 无人机/飞行器企业，飞行器总体设计/航空宇航推进对口
+tags:
+- 无人机
+- 航空推进/动力对口
