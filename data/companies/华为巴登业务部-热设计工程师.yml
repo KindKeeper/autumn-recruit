@@ -1,11 +1,11 @@
-id: huawei-baden-thermal-2027
+id: huawei-baden-2027
 name: 华为巴登业务部
 position: 热设计工程师
 group: 正式批
 channel: 官网
 city: 上海
 link: ''
-salary_range: 华为（约25-35万/年）
+salary_range: ''
 stages: {}
 updated_at: '2026-09-12'
 track: 热管理类
@@ -19,8 +19,8 @@ score:
   stability: 8
   certainty: 5
   urgency: 5
-  wlb: 4
-note: 华为巴登业务部（终端/芯片），热设计核心岗
+  wlb: 5
+note: 华为体系，巴登业务部热设计工程师直接对口
 tags:
 - B3-电子科技
 - 热设计直接对口
