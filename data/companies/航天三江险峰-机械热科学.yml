@@ -3,25 +3,29 @@ name: 航天三江险峰
 position: 机械热科学/能源与动力工程
 group: 正式批
 channel: 官网
-city: 武汉
+city: 孝感
 link: ''
 salary_range: ''
 stages: {}
-updated_at: '2026-09-12'
+updated_at: '2026-09-13'
 track: 热管理类
 boundary: S
 job_posted: '2026-09-12'
 score:
-  fit: 10
+  fit: 8
   track: 9
-  city: 8
-  salary: 7
+  city: 4
+  salary: 6
   stability: 9
   certainty: 5
   urgency: 5
   wlb: 6
+score_rationale: 'fit8雷达电子设备结构+热设计基本对口(结构/热混合岗);city4孝感(非武汉,city字段已更正);salary6 12-18万;调研校正09-13'
 note: 航天科工体系，机械热科学/能源动力直接对口
 tags:
 - A2-军工航天院所
 - 热科学/能源动力直接对口
 - 央企
+log:
+- date: '2026-09-13'
+  note: '[调研] 雷达电子设备结构+热设计基本对口但属结构/热混合岗；base孝感非武汉（city字段已由武汉更正为孝感）；12-18万'

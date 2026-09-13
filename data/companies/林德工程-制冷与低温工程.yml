@@ -1,4 +1,4 @@
-id: linde-engineering-2027
+id: linde-engineering-cryo-2027
 name: 林德工程
 position: 制冷与低温工程
 group: 正式批
@@ -7,21 +7,25 @@ city: 上海
 link: ''
 salary_range: ''
 stages: {}
-updated_at: '2026-09-10'
+updated_at: '2026-09-13'
 track: 能动/制冷
 boundary: S
 job_posted: '2026-09-10'
 score:
-  fit: 10
+  fit: 6
   track: 9
   city: 8
-  salary: 8
+  salary: 7
   stability: 8
   certainty: 5
   urgency: 5
   wlb: 7
+score_rationale: 'fit6工业深冷非电子热管理(同林德-能源与动力结论);salary7 15-22万;city8上海;调研校正09-13'
 note: 林德集团=全球工业气体龙头，制冷与低温工程/能源与动力工程直接对口
 tags:
 - 工业气体龙头
 - 制冷/低温直接对口
 - 外企
+log:
+- date: '2026-09-13'
+  note: '[调研] 与已修正的林德-能源与动力同结论（工业深冷非电子热管理）；15-22万，salary 8→7'
