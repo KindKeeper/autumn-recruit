@@ -7,21 +7,25 @@ city: 北京
 link: ''
 salary_range: ''
 stages: {}
-updated_at: '2026-09-11'
+updated_at: '2026-09-13'
 track: 能动/船舶动力
 boundary: S
 job_posted: '2026-09-11'
 score:
-  fit: 10
+  fit: 4
   track: 9
   city: 6
-  salary: 7
+  salary: 6
   stability: 9
   certainty: 5
   urgency: 5
   wlb: 6
+score_rationale: 'fit4船舶行业情报/智库研究论证岗(软科学)非热控;salary6约15-20万;city6北京(事业编+户口,分6保持);调研校正09-13'
 note: 中船体系，能源动力类直接对口
 tags:
 - A2-军工航天院所
 - 能源动力直接对口
 - 央企
+log:
+- date: '2026-09-13'
+  note: '[调研] 北京朝阳，船舶行业情报/智库类院所，能源动力类实为研究论证岗（软科学）非热控；约15-20万；事业编+北京户口'

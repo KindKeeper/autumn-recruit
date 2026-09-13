@@ -7,20 +7,24 @@ city: 全国
 link: ''
 salary_range: ''
 stages: {}
-updated_at: '2026-09-11'
+updated_at: '2026-09-13'
 track: 能动/电力系统
 boundary: S
 job_posted: '2026-09-11'
 score:
-  fit: 10
+  fit: 4
   track: 8
   city: 7
-  salary: 7
-  stability: 8
+  salary: 5
+  stability: 4
   certainty: 5
   urgency: 5
   wlb: 6
+score_rationale: 'fit4电厂热工控制传统能动完全不对口;salary5 8-12k;stability4主体存疑(2023年底被1元对价出售80%股权+持续亏损,疑与国家能源龙源工程混淆);主体待核实,建议核对offer签约主体;调研校正09-13'
 note: 电力设计院，热控/汽机/锅炉三岗对口
 tags:
 - 电力设计院
 - 热控/汽机/锅炉直接对口
+log:
+- date: '2026-09-13'
+  note: '[调研] 电厂热工控制传统能动完全不对口；主体存疑（聚合平台与国家能源集团龙源工程混淆，中机电力2023年底被1元对价出售80%股权、持续亏损），stability 8→4；8-12k；建议核对offer签约主体'

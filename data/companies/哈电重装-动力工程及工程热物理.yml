@@ -7,21 +7,25 @@ city: 秦皇岛
 link: ''
 salary_range: ''
 stages: {}
-updated_at: '2026-09-10'
+updated_at: '2026-09-13'
 track: 能动/核电设备
 boundary: S
 job_posted: '2026-09-10'
 score:
-  fit: 10
+  fit: 5
   track: 8
-  city: 7
-  salary: 7
+  city: 5
+  salary: 5
   stability: 9
   certainty: 5
   urgency: 5
   wlb: 6
+score_rationale: 'fit5核电装备/压力容器制造非电子热管理;city5秦皇岛(非哈尔滨);salary5硕士10-15万;调研校正09-13'
 note: 哈电集团体系，核电设备制造，动力工程及工程热物理直接对口
 tags:
 - 核电设备
 - 动力工程直接对口
 - 央企
+log:
+- date: '2026-09-13'
+  note: '[调研] 全称哈电集团（秦皇岛）重型装备，核电装备/压力容器制造，base秦皇岛（city字段原本已是秦皇岛，无需更正）；硕士10-15万'

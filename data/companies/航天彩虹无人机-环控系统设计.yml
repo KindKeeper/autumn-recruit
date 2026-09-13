@@ -12,16 +12,20 @@ track: 能动/航天动力
 boundary: S
 job_posted: '2026-09-13'
 score:
-  fit: 10
+  fit: 8
   track: 9
   city: 6
-  salary: 7
-  stability: 9
+  salary: 8
+  stability: 7
   certainty: 5
   urgency: 5
   wlb: 6
+score_rationale: 'fit8机载环控/热管理系统级对口(制冷回路/载荷温控,非器件级);salary8硕士20万起综合20-30万;stability7 2025扣非连亏;city6北京丰台云岗;企业编无事业编;调研校正09-13'
 note: 航天科工体系，环控系统设计/燃油系统/导弹动力多岗对口
 tags:
 - A2-军工航天院所
 - 环控/动力直接对口
 - 央企
+log:
+- date: '2026-09-13'
+  note: '[调研] 航天科技十一院控股上市公司（002389），机载环控/热管理系统级对口（制冷回路/载荷温控，非器件级）；硕士20万起综合20-30万，salary 7→8；2025年扣非连亏，stability 9→7；base北京丰台云岗；企业编无事业编'
