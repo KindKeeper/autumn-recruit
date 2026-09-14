@@ -1,0 +1,26 @@
+id: fuyada-2027
+name: 飞亚达
+position: 电机电磁热设计工程师
+group: 正式批
+channel: 官网
+city: 深圳
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-14'
+track: 热管理类
+boundary: S
+job_posted: '2026-09-14'
+score:
+  fit: 10
+  track: 9
+  city: 6
+  salary: 7
+  stability: 7
+  certainty: 5
+  urgency: 5
+  wlb: 6
+note: 飞亚达=钟表企业，电机电磁热设计直接对口
+tags:
+- 电机热设计
+- 热设计直接对口

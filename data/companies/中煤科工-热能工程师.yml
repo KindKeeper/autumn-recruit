@@ -1,0 +1,27 @@
+id: ccteg-2027
+name: 中煤科工
+position: 热能工程师(低碳能源方向)
+group: 正式批
+channel: 官网
+city: 北京
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-14'
+track: 能动/热能工程
+boundary: S
+job_posted: '2026-09-14'
+score:
+  fit: 10
+  track: 8
+  city: 6
+  salary: 7
+  stability: 9
+  certainty: 5
+  urgency: 5
+  wlb: 6
+note: 中煤科工集团，热能工程师(低碳能源方向)直接对口
+tags:
+- 热能工程
+- 热能/低碳能源直接对口
+- 央企
