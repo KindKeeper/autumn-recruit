@@ -7,7 +7,7 @@ city: 杭州
 link: ''
 salary_range: ''
 stages: {}
-updated_at: '2026-09-12'
+updated_at: '2026-09-13'
 track: 热管理类
 boundary: S
 job_posted: '2026-09-12'
@@ -16,11 +16,15 @@ score:
   track: 9
   city: 9
   salary: 8
-  stability: 8
+  stability: 7
   certainty: 5
-  urgency: 5
-  wlb: 6
+  urgency: 6
+  wlb: 5
+score_rationale: 'fit10机器视觉/AGV散热纯对口(Icepak/Fluent);salary8 22-28万;stability7海康实体清单+创业板IPO中止;urgency6招满即止;wlb5 996;调研校正09-13'
 note: 海康机器人，热设计工程师直接对口
 tags:
 - B3-电子科技
 - 热设计直接对口
+log:
+- date: '2026-09-13'
+  note: '[调研] 真电子热管理（机器视觉/AGV散热，Icepak/Fluent）；22-28万；招满即止；996；海康实体清单+创业板IPO中止，stability 9→7'

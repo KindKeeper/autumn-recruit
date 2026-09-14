@@ -7,21 +7,25 @@ city: 上海
 link: ''
 salary_range: ''
 stages: {}
-updated_at: '2026-09-11'
+updated_at: '2026-09-13'
 track: 能动/船舶动力
 boundary: S
 job_posted: '2026-09-11'
 score:
-  fit: 10
+  fit: 5
   track: 9
   city: 8
-  salary: 7
+  salary: 8
   stability: 9
   certainty: 5
   urgency: 5
   wlb: 6
+score_rationale: 'fit5船舶轮机传统路线非电子热管理;salary8硕士16-21k约20-27万口径好;city8上海;调研校正09-13'
 note: 中船体系船研所，能源动力类/绿色低碳类对口
 tags:
 - A2-军工航天院所
 - 能源动力直接对口
 - 央企
+log:
+- date: '2026-09-13'
+  note: '[调研] 船舶轮机传统路线，非电子热管理；硕士16-21k约20-27万口径好，salary 7→8'

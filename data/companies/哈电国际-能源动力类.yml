@@ -7,21 +7,25 @@ city: 哈尔滨
 link: ''
 salary_range: ''
 stages: {}
-updated_at: '2026-09-12'
+updated_at: '2026-09-13'
 track: 能动/发电设备
 boundary: S
 job_posted: '2026-09-12'
 score:
-  fit: 10
+  fit: 5
   track: 8
-  city: 7
-  salary: 7
-  stability: 9
+  city: 5
+  salary: 6
+  stability: 7
   certainty: 5
   urgency: 5
-  wlb: 6
+  wlb: 3
+score_rationale: 'fit5海外电站EPC总承包非电子热管理;city5哈尔滨锚点;salary6基本薪中大头驻外补贴;wlb3长期驻外常态(30余国);stability7国际工程收入波动;调研校正09-13'
 note: 哈电集团体系，能源动力类直接对口
 tags:
 - 发电设备
 - 能源动力直接对口
 - 央企
+log:
+- date: '2026-09-13'
+  note: '[调研] 海外电站EPC总承包，长期驻外常态（30余国项目）；基本薪中等、大头驻外补贴；国际工程收入波动，stability 9→7；长期驻外 wlb 6→3'

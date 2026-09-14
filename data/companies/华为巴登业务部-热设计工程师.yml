@@ -1,5 +1,5 @@
 id: huawei-baden-2027
-name: 华为巴登业务部
+name: 华为
 position: 热设计工程师
 group: 正式批
 channel: 官网
@@ -7,7 +7,7 @@ city: 上海
 link: ''
 salary_range: ''
 stages: {}
-updated_at: '2026-09-12'
+updated_at: '2026-09-13'
 track: 热管理类
 boundary: S
 job_posted: '2026-09-12'
@@ -24,3 +24,6 @@ note: 华为体系，巴登业务部热设计工程师直接对口
 tags:
 - B3-电子科技
 - 热设计直接对口
+log:
+- date: '2026-09-13'
+  note: '[统一] name统一为华为（华为已有岗位在管道，整企移出候选榜，海尔先例）'

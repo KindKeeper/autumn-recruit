@@ -3,25 +3,29 @@ name: 哈电集团
 position: 能源动力类
 group: 正式批
 channel: 官网
-city: 天津
+city: 哈尔滨
 link: ''
 salary_range: ''
 stages: {}
-updated_at: '2026-09-11'
+updated_at: '2026-09-13'
 track: 能动/发电设备
 boundary: S
 job_posted: '2026-09-11'
 score:
-  fit: 10
+  fit: 5
   track: 8
-  city: 7
-  salary: 7
+  city: 5
+  salary: 6
   stability: 9
   certainty: 5
   urgency: 5
   wlb: 6
+score_rationale: 'fit5电站设备传统能动(锅炉/汽轮机/水轮)非电子热管理;city5哈尔滨锚点;salary6硕士约10-15万+安家费5万;注意被分到异地子公司;调研校正09-13'
 note: 哈电集团=发电设备龙头（水电/火电/核电/气电），能源动力直接对口
 tags:
 - 发电设备龙头
 - 能源动力直接对口
 - 央企
+log:
+- date: '2026-09-13'
+  note: '[调研] 电站设备传统能动（锅炉/汽轮机/水轮），入职为子公司，硕士约10-15万+安家费5万；哈尔滨锚点5（city字段已由天津更正为哈尔滨）；注意被分到异地子公司'

@@ -7,21 +7,25 @@ city: 成都
 link: ''
 salary_range: ''
 stages: {}
-updated_at: '2026-09-11'
+updated_at: '2026-09-13'
 track: 能动/核工程
 boundary: S
 job_posted: '2026-09-11'
 score:
-  fit: 10
+  fit: 6
   track: 9
   city: 7
-  salary: 7
+  salary: 6
   stability: 10
   certainty: 5
   urgency: 5
   wlb: 6
+score_rationale: 'fit6反应堆热工水力传统核能非电子热管理;salary6 15-20万;city7成都;调研校正09-13'
 note: 中核体系，核动力热工类直接对口
 tags:
 - A2-军工航天院所
 - 热工直接对口
 - 央企
+log:
+- date: '2026-09-13'
+  note: '[调研] 反应堆热工水力传统核能，非电子热管理；15-20万；成都锚点7'

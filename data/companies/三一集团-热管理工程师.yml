@@ -1,0 +1,31 @@
+id: sany-2027-thermal
+name: 三一集团
+position: 热管理工程师
+group: 正式批
+channel: 官网
+city: 长沙
+link: https://sany.zhiye.com
+salary_range: ''
+stages: {}
+updated_at: '2026-09-13'
+track: 汽车热管理类
+boundary: S
+job_posted: '2026-08-26'
+score:
+  fit: 8
+  track: 8
+  city: 6
+  salary: 7
+  stability: 7
+  certainty: 6
+  urgency: 6
+  wlb: 5
+score_rationale: '电动化线三电/PACK液冷最接近(fit8),传统液压/发动机线不对口,投递时认准JD带电动化/三电/液冷/仿真字样;硕士总包约20-30万;长沙/昆山;室友推荐待看详细JD校正;调研2026-09-13'
+note: 室友推荐投递；2027届校招研发技术类明确列"热管理"，分三条线（电动化三电热管理/风电线/传统动力线），优先投电动化线
+tags:
+- 工程机械
+- 电池热管理
+- 液冷
+log:
+- date: '2026-09-13'
+  note: '[调研] 室友推荐；2027届校招热管理岗分三条线，电动化三电/PACK液冷线对口(fit8)，待看详细JD校正'
