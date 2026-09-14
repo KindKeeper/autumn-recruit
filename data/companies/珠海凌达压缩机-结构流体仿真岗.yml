@@ -1,0 +1,26 @@
+id: zhuhai-lingda-2027
+name: 珠海凌达压缩机
+position: 结构/流体仿真岗
+group: 正式批
+channel: 官网
+city: 珠海
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-14'
+track: 能动/制冷
+boundary: S
+job_posted: '2026-09-14'
+score:
+  fit: 10
+  track: 9
+  city: 6
+  salary: 7
+  stability: 8
+  certainty: 5
+  urgency: 5
+  wlb: 6
+note: 格力体系压缩机企业，结构/流体仿真直接对口
+tags:
+- 制冷/压缩机
+- 流体仿真/结构设计直接对口
