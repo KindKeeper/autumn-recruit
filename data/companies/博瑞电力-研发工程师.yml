@@ -9,7 +9,8 @@ salary_range: ''
 stages:
   applied: '2026-09-10'
   assessment: '2026-09-11'
-updated_at: '2026-09-11'
+  interview_1: '2026-09-14'
+updated_at: '2026-09-14'
 boundary: S
 job_posted: '2026-08-31'
 source_id: offershow:ea462e99-3394-4edc-a5f6-133d634f3930
@@ -35,3 +36,5 @@ log:
   note: '[用户] 官网投递'
 - date: '2026-09-11'
   note: '[测评] 完成测评'
+- date: '2026-09-14'
+  note: '[面试] 收到面试邀请（一面）'
