@@ -231,10 +231,19 @@ CSS = """
   .dist-row .n{width:44px;text-align:right;font-weight:600}
   .pipe-stage{background:var(--panel);border:1px solid var(--border);border-radius:12px;padding:14px 16px;margin-bottom:16px}
   .pipe-stage h3{font-size:15px;margin-bottom:4px}
-  .pipe-stage .cnt{color:var(--muted);font-size:12px;margin-bottom:10px}
   .pipe-stage.empty-stage{opacity:.55;border-style:dashed}
   .pipe-item{padding:10px 4px;border-bottom:1px dashed var(--border)}
   .pipe-item:last-child{border-bottom:none}
+  .pi-top{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+  .pi-right{margin-left:auto;display:flex;align-items:center;gap:10px;white-space:nowrap}
+  .pi-right .meter{margin-top:0}
+  #pipe-body,#ended-body{display:grid;grid-template-columns:repeat(auto-fill,minmax(430px,1fr));gap:16px;align-items:start}
+  #pipe-body .pipe-stage,#ended-body .pipe-stage{margin-bottom:0}
+  .rank.r2{color:#c9d1e0}
+  .deadline.hot{color:var(--red)}
+  thead th{position:sticky;top:63px;background:var(--panel);z-index:2}
+  @media(max-width:720px){.col-dl,.col-w{display:none}#pipe-body,#ended-body{grid-template-columns:1fr}}
+  @media(max-width:480px){main{padding:0 14px}header{padding:12px 14px;gap:10px}header h1{font-size:17px}nav a{padding:6px 10px;font-size:13px}}
   .deadline{color:var(--yellow);font-weight:600}
   .note{color:var(--muted);font-size:12.5px;margin-top:3px}
   .tag{display:inline-block;padding:1px 8px;border-radius:12px;font-size:11px;background:var(--panel2);color:var(--muted);border:1px solid var(--border);margin-right:6px}
@@ -283,7 +292,7 @@ function dlCell(dl){
   const d=Math.ceil((new Date(dl)-Date.now())/86400000);
   if(isNaN(d))return `<span class="sub">${esc(dl)}</span>`;
   if(d<0)return `<span class="pill warn">已截止</span>`;
-  return `<span class="deadline ${d<=5?"":""}">剩${d}天 <span class="sub">${esc(dl)}</span></span>`;
+  return `<span class="deadline ${d<=5?"hot":""}">剩${d}天 <span class="sub">${esc(dl)}</span></span>`;
 }
 function scoreCell(j){
   if(!j.scored)return `<span class="sub">未评分</span>`;
@@ -301,7 +310,7 @@ function tierPill(j){
   return `<span class="pill" style="background:${colors[j.tier]||"var(--muted)"};color:#fff;border-color:${colors[j.tier]||"var(--muted)"}">${j.tier} · ${j.total.toFixed(1)}</span>`;
 }
 function jobLine(j,extra){
-  return `<div class="pipe-item"><b>${esc(j.name)}</b> · ${esc(j.position)} ${extra||""}
+  return `<div class="pipe-item"><div class="pi-top"><span><b>${esc(j.name)}</b> · ${esc(j.position)}</span>${extra||""}</div>
     <div class="note">${j.deadline?`截止 ${esc(j.deadline)} · `:""}${j.city?esc(j.city)+" · ":""}${j.updated_at?("更新 "+esc(j.updated_at)):""}${j.note?` · ${esc(j.note)}`:""}</div></div>`;
 }
 """
@@ -393,7 +402,7 @@ RANK_CONTENT = """
   <h3>候选榜 <span class="sub">· 每企业取最高分公司行 · 点击展开全部在投岗位 · C红线不显示</span></h3>
   <div class="wlegend" id="wlegend"></div>
   <div class="table-wrap"><table>
-    <thead><tr><th class="caretcell"></th><th class="rank">#</th><th>企业</th><th>岗位</th><th>城市</th><th>分数</th><th>截止</th><th>W 各项强度</th></tr></thead>
+    <thead><tr><th class="caretcell"></th><th class="rank">#</th><th>企业</th><th>岗位</th><th>城市</th><th>分数</th><th class="col-dl">截止</th><th class="col-w">W 各项强度</th></tr></thead>
     <tbody id="rank-body"></tbody>
   </table></div>
 </div>
@@ -417,7 +426,7 @@ function render(){
     {n:D.unscored,l:"待评分岗位",c:"yellow"},
   ].map(c=>`<div class="card"><div class="num ${c.c||""}">${c.n}</div><div class="lbl">${c.l}</div></div>`).join("");
   document.getElementById("rank-body").innerHTML=list.length?list.map((c,i)=>{
-    const r=i+1, cls=r===1?"r1":(r===3?"r3":"");
+    const r=i+1, cls=r===1?"r1":(r===2?"r2":(r===3?"r3":""));
     const j=c.best;
     return `<tr class="expandable" onclick="toggleCo(this,'${c.key}')">
       <td class="caretcell"><span class="caret">▶</span></td><td class="rank ${cls}">${r}</td>
@@ -425,8 +434,8 @@ function render(){
       <td>${esc(j.position)} ${freshBadge(j.job_posted)}</td>
       <td>${esc(j.city||"-")}</td>
       <td>${scoreCell(j)}</td>
-      <td>${dlCell(j.deadline)}</td>
-      <td>${wBars(j)}</td></tr>`;
+      <td class="col-dl">${dlCell(j.deadline)}</td>
+      <td class="col-w">${wBars(j)}</td></tr>`;
   }).join(""):`<tr><td colspan="8" class="empty">无候选岗位</td></tr>`;
 }
 function toggleCo(tr,key){
@@ -434,9 +443,9 @@ function toggleCo(tr,key){
   const nx=tr.nextElementSibling;
   if(nx&&nx.classList.contains("subrow")){nx.remove();return;}
   const co=D.companies.find(c=>c.key===key);
-  const inner=co.jobs.map(j=>`<div class="pipe-item"><b>${esc(j.position)}</b> ${tierPill(j)} ${freshBadge(j.job_posted)}
-    <span class="sub">${esc(j.city||"")}${j.salary_range?" · "+esc(j.salary_range):""}${j.deadline?" · 截止 "+esc(j.deadline):""}</span>
-    <span style="float:right">${scoreCell(j)} ${wBars(j)}</span></div>`).join("");
+  const inner=co.jobs.map(j=>`<div class="pipe-item"><div class="pi-top"><span><b>${esc(j.position)}</b> ${tierPill(j)} ${freshBadge(j.job_posted)}
+    <span class="sub">${esc(j.city||"")}${j.salary_range?" · "+esc(j.salary_range):""}${j.deadline?" · 截止 "+esc(j.deadline):""}</span></span>
+    <span class="pi-right">${scoreCell(j)} ${wBars(j)}</span></div></div>`).join("");
   tr.insertAdjacentHTML("afterend",`<tr class="subrow"><td colspan="8">${inner}</td></tr>`);
 }
 document.getElementById("r-min").addEventListener("change",render);
@@ -460,7 +469,6 @@ document.getElementById("pipe-cards").innerHTML=[
 document.getElementById("pipe-body").innerHTML=D.stages.map(s=>
   `<div class="pipe-stage ${s.items.length?"":"empty-stage"}">
     <h3><span class="pill ${s.pill}">${s.label}</span> <span class="tag">${s.items.length}</span></h3>
-    <div class="cnt">${s.items.length?s.items.length+" 个岗位":"暂无"}</div>
     ${s.items.map(j=>jobLine(j,progBadge(j.last_node_date))).join("")||'<div class="note">—</div>'}
   </div>`).join("");
 """
@@ -598,6 +606,8 @@ def main():
     # ---- pipeline ----
     stages_data = []
     for s in cfg["stages"]:
+        if s["key"] == "pending":
+            continue
         items = [r for r in pipelined if r["stage_key"] == s["key"]]
         stages_data.append({"key": s["key"], "label": "已" + s["label"],
                             "pill": STAGE_PILL[s["key"]],
