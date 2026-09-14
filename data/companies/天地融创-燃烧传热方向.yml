@@ -1,0 +1,26 @@
+id: tiandi-rongchuang-2027
+name: 天地融创
+position: 技术开发岗(燃烧传热方向)
+group: 正式批
+channel: 官网
+city: 北京
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-14'
+track: 能动/燃烧传热
+boundary: S
+job_posted: '2026-09-14'
+score:
+  fit: 10
+  track: 9
+  city: 6
+  salary: 7
+  stability: 8
+  certainty: 5
+  urgency: 5
+  wlb: 6
+note: 天地融创=煤炭/能源企业，燃烧传热及物料输送方向直接对口
+tags:
+- 燃烧/传热
+- 燃烧传热直接对口
