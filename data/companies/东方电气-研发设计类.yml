@@ -12,16 +12,20 @@ track: 能动/发电设备
 boundary: S
 job_posted: '2026-09-14'
 score:
-  fit: 10
+  fit: 5
   track: 8
   city: 7
-  salary: 7
+  salary: 6
   stability: 9
   certainty: 5
   urgency: 5
   wlb: 6
+score_rationale: 'fit5发电设备传统能动(水轮/汽轮/发电机)无电子热管理岗;salary6硕士约13-18万;city7成都;集团统一入口有分配德阳风险,核对到岗单位;调研校正09-14'
 note: 东方电气集团=发电设备龙头（水电/火电/核电/风电/氢能），研发/设计类直接对口
 tags:
 - 发电设备龙头
 - 能源动力直接对口
 - 央企
+log:
+- date: '2026-09-14'
+  note: '[调研] 发电设备传统能动（水轮/汽轮/发电机），无电子热管理岗；集团统一入口有分配德阳风险，核对到岗单位；硕士约13-18万'

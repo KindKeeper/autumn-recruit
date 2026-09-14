@@ -3,7 +3,7 @@ name: 冰轮环境
 position: 研发设计类
 group: 正式批
 channel: 官网
-city: 济南
+city: 烟台
 link: ''
 salary_range: ''
 stages: {}
@@ -12,16 +12,20 @@ track: 能动/制冷
 boundary: S
 job_posted: '2026-09-14'
 score:
-  fit: 10
+  fit: 6
   track: 9
   city: 9
-  salary: 7
+  salary: 5
   stability: 8
   certainty: 5
   urgency: 5
   wlb: 6
+score_rationale: 'fit6传统工业制冷/螺杆压缩机/冷链装备非电子热管理;salary5烟台设计岗约6-10k/月;city9烟台(字段已由济南更正);stability8国资上市稳健;调研校正09-14'
 note: 冰轮环境=制冷/空调/热泵龙头，研发设计类直接对口
 tags:
 - 制冷/空调
 - 研发设计直接对口
 - 央企
+log:
+- date: '2026-09-14'
+  note: '[调研] 传统工业制冷/螺杆压缩机/冷链装备，非电子热管理；总部烟台（city字段已由济南更正为烟台）；烟台设计岗约6-10k/月；国资上市稳健'

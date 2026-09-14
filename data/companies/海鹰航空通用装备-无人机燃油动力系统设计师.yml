@@ -12,16 +12,20 @@ track: 能动/航空动力
 boundary: S
 job_posted: '2026-09-14'
 score:
-  fit: 10
+  fit: 5
   track: 9
-  city: 6
-  salary: 7
+  city: 8
+  salary: 8
   stability: 9
   certainty: 5
   urgency: 5
   wlb: 6
+score_rationale: 'fit5燃油动力系统传统动力非热管理(本批次无热管理岗);salary8公告硕士综合20-25万+安家费10万;city8北京丰台云岗(确认非芜湖基地);stability9央企;调研校正09-14'
 note: 航空工业体系，无人机燃油动力系统设计师直接对口
 tags:
 - A2-军工航天院所
 - 航空动力直接对口
 - 央企
+log:
+- date: '2026-09-14'
+  note: '[调研] 航天科工三〇二所（北京丰台云岗），燃油动力系统传统动力非热管理，本批次无热管理岗；公告明确硕士综合20-25万+安家费10万，salary 7→8；确认北京本部非芜湖基地；city分 6→8（北京锚点）'
