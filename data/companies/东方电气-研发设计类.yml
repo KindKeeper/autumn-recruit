@@ -1,0 +1,27 @@
+id: dongfang-electric-2027
+name: 东方电气
+position: 研发类/设计类
+group: 正式批
+channel: 官网
+city: 成都
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-14'
+track: 能动/发电设备
+boundary: S
+job_posted: '2026-09-14'
+score:
+  fit: 10
+  track: 8
+  city: 7
+  salary: 7
+  stability: 9
+  certainty: 5
+  urgency: 5
+  wlb: 6
+note: 东方电气集团=发电设备龙头（水电/火电/核电/风电/氢能），研发/设计类直接对口
+tags:
+- 发电设备龙头
+- 能源动力直接对口
+- 央企

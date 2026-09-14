@@ -1,0 +1,27 @@
+id: cmeec-2027
+name: 中汽工程
+position: 热能工程/能源动力工程
+group: 正式批
+channel: 官网
+city: 天津
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-14'
+track: 能动/汽车工程
+boundary: S
+job_posted: '2026-09-14'
+score:
+  fit: 10
+  track: 8
+  city: 7
+  salary: 7
+  stability: 8
+  certainty: 5
+  urgency: 5
+  wlb: 6
+note: 中汽工程=汽车工程企业，热能工程/能源动力工程直接对口
+tags:
+- 汽车工程
+- 热能/能源动力直接对口
+- 央企
