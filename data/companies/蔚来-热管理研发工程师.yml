@@ -1,0 +1,34 @@
+id: nio-thermal-2027
+name: 蔚来
+position: 热管理研发工程师
+group: 正式批
+channel: 官网
+city: 上海
+link: ''
+salary_range: ''
+stages:
+  applied: '2026-09-16'
+updated_at: '2026-09-16'
+track: 汽车热管理类
+boundary: S
+job_posted: '2026-08-26'
+score:
+  fit: 7
+  track: 8
+  city: 8
+  salary: 8
+  stability: 6
+  certainty: 6
+  urgency: 6
+  wlb: 5
+score_rationale: 'fit7整车三电热管理+热泵空调,系统级非电子散热,与智界/广汽丰田同口径;city8上海(研发中心主力,合肥为辅,按JD核实);salary8硕士约26-37万含签字费期权;stability6 2026Q2交付10万+亏损收窄89%但仍GAAP亏损;urgency6招满即止offer 9月中起;调研2026-09-16'
+note: 整车三电热管理（电池/电驱热管理架构+整车热管理性能仿真标定），与库内蔚来-电芯仿真为不同岗位
+tags:
+- 新势力
+- 汽车热管理
+- 三电热管理
+log:
+- date: '2026-09-16'
+  note: '[投递] 已投递热管理研发工程师'
+- date: '2026-09-16'
+  note: '[调研] 蔚来2027正式批8-26开启;上海研发base为主;硕士约26-37万;仍GAAP亏损收窄中'
