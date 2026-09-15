@@ -241,7 +241,6 @@ CSS = """
   #pipe-body .pipe-stage,#ended-body .pipe-stage{margin-bottom:0}
   .rank.r2{color:#c9d1e0}
   .deadline.hot{color:var(--red)}
-  thead th{position:sticky;top:63px;background:var(--panel);z-index:2}
   @media(max-width:720px){.col-dl,.col-w{display:none}#pipe-body,#ended-body{grid-template-columns:1fr}}
   @media(max-width:480px){main{padding:0 14px}header{padding:12px 14px;gap:10px}header h1{font-size:17px}nav a{padding:6px 10px;font-size:13px}}
   .deadline{color:var(--yellow);font-weight:600}
