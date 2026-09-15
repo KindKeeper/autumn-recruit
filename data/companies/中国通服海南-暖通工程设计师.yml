@@ -1,0 +1,27 @@
+id: ctsc-hainan-2027
+name: 中国通服海南
+position: 给排水/暖通工程设计师
+group: 正式批
+channel: 官网
+city: 北京
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-15'
+track: 能动/暖通
+boundary: S
+job_posted: '2026-09-15'
+score:
+  fit: 10
+  track: 8
+  city: 6
+  salary: 7
+  stability: 8
+  certainty: 5
+  urgency: 5
+  wlb: 6
+note: 中国通服=央企，暖通工程设计师直接对口
+tags:
+- 暖通设计
+- 暖通工程设计直接对口
+- 央企
