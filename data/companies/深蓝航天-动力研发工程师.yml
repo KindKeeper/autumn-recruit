@@ -1,0 +1,26 @@
+id: deepblue-aerospace-2027
+name: 深蓝航天
+position: 动力研发工程师
+group: 正式批
+channel: 官网
+city: 无锡
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-15'
+track: 能动/航天发动机
+boundary: S
+job_posted: '2026-09-15'
+score:
+  fit: 10
+  track: 9
+  city: 8
+  salary: 7
+  stability: 7
+  certainty: 5
+  urgency: 5
+  wlb: 6
+note: 深蓝航天=商业火箭公司，动力研发工程师直接对口
+tags:
+- 商业火箭
+- 动力研发直接对口
