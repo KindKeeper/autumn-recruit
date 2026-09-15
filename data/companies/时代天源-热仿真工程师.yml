@@ -15,12 +15,16 @@ score:
   fit: 10
   track: 9
   city: 8
-  salary: 7
+  salary: 8
   stability: 7
   certainty: 5
-  urgency: 5
+  urgency: 6
   wlb: 6
+score_rationale: 'fit10储能PCS液冷/功率模块热仿真真对口(CATL控股子公司);salary8硕士约20-30万;stability7储能价格战+CATL系竞业;urgency6截止11-12;city8苏州字段可信,需确认base非深圳/珠海;调研校正09-14'
 note: 时代天源=储能/电源企业，热仿真工程师直接对口
 tags:
 - 储能热管理
 - 热仿真直接对口
+log:
+- date: '2026-09-14'
+  note: '[调研] 宁德时代控股子公司（储能PCS液冷/功率模块热仿真），真对口；深圳总部/苏州研发基地（city字段苏州可信，需确认base非深圳/珠海）；硕士约20-30万，salary 7→8；储能价格战+CATL系竞业；截止11-12'

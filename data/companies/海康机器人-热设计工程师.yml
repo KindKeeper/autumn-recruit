@@ -6,8 +6,10 @@ channel: 官网
 city: 杭州
 link: ''
 salary_range: ''
-stages: {}
-updated_at: '2026-09-13'
+stages:
+  applied: '2026-09-14'
+  assessment: '2026-09-14'
+updated_at: '2026-09-14'
 track: 热管理类
 boundary: S
 job_posted: '2026-09-12'
@@ -28,3 +30,7 @@ tags:
 log:
 - date: '2026-09-13'
   note: '[调研] 真电子热管理（机器视觉/AGV散热，Icepak/Fluent）；22-28万；招满即止；996；海康实体清单+创业板IPO中止，stability 9→7'
+- date: '2026-09-14'
+  note: '[投递] 已投递海康机器人热设计工程师'
+- date: '2026-09-14'
+  note: '[测评] 投递当天收到测评'
