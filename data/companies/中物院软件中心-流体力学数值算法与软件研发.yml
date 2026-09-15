@@ -7,22 +7,22 @@ city: 北京
 link: ''
 salary_range: 事业单位（事业编制+落户+住房）
 stages: {}
-updated_at: '2026-09-10'
+updated_at: '2026-09-16'
 track: 热管理类
 boundary: B
 apply_deadline: '2026-09-15'
 job_posted: '2026-08-26'
 source_id: offershow:34fd0fd3-4bb2-443d-b222-7afedd0c0a4a
 score:
-  fit: 8
+  fit: 5
   track: 7
   city: 8
   salary: 7
   stability: 10
-  certainty: 7
-  urgency: 8
+  certainty: 2
+  urgency: 3
   wlb: 7
-score_rationale: 'urgency8提前批09-15截止(仅剩5天);salary7硕士约25万总包;调研校正09-10'
+score_rationale: '北京岗全博士硕士不可投(certainty2);硕士仅绵阳岗且为软件工程方向(前处理/性能优化/数值代数等)非流体;若执意投只能改投绵阳非对口岗;提前批09-15已过正式批滚动(urgency3);调研校正09-16'
 tags:
 - A1-CAE仿真软件
 log:
@@ -32,3 +32,6 @@ log:
   note: '[调研] 27届08底启动,流体力学/辐射与传热CAE方向在招;签软件中心=北京/绵阳事业编(硕士起薪>25万+户口),签中久数创=成都企业编;提前批09-15截止;属CAE软件赛道擦边(合并自重复的流体力学CAE记录);09-09'
 - date: '2026-09-10'
   note: '[调研] 2027届提前批2026-09-15截止（仅剩5天），urgency 6→8；硕士约25万总包，salary 保持 7'
+- date: '2026-09-16'
+  note: '[调研] JD全量核实:北京40岗中流体数值算法岗为博士only,硕士仅可投绵阳(软件工程方向);硕士实质不可投本岗'
+note: JD核实(40岗)——北京全博士；硕士可投绵阳8岗均偏软件工程
