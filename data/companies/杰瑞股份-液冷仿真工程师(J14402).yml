@@ -1,0 +1,31 @@
+id: jereh-sim-2027
+name: 杰瑞股份
+position: 仿真工程师（制冷/液冷/供热/暖通）(J14402)
+group: 正式批
+channel: 官网
+city: 深圳
+link: https://jereh.zhiye.com
+salary_range: ''
+stages: {}
+updated_at: '2026-09-16'
+track: 液冷/AIDC
+boundary: S
+job_posted: '2026-08-18'
+score:
+  fit: 9
+  track: 8
+  city: 8
+  salary: 8
+  stability: 7
+  certainty: 7
+  urgency: 6
+  wlb: 6
+score_rationale: 'fit9液冷系统一维热管理建模(CDU/管路/泵阀/换热器)+3D-1D耦合+PUE/COP能耗仿真,对口偏系统级仿真;track8 AIDC第二曲线;city8深圳;salary8硕士25-38万;stability7新设业务线2026-07才发布产品;urgency6正式批滚动;调研2026-09-16'
+note: 与J14380同业务线（杰瑞能控）；要求精通一维仿真软件+Python；数据中心为主储能为辅
+tags:
+- 液冷仿真
+- AIDC
+- 深圳
+log:
+- date: '2026-09-16'
+  note: '[调研] JD=液冷系统一维热管理建模+3D-1D耦合+能耗仿真；硕士25-38万；深圳'

@@ -1,0 +1,32 @@
+id: jereh-liquid-2027
+name: 杰瑞股份
+position: 液冷机械工程师(J14380)
+group: 正式批
+channel: 官网
+city: 深圳
+link: https://jereh.zhiye.com
+salary_range: ''
+stages: {}
+updated_at: '2026-09-16'
+track: 液冷/AIDC
+boundary: S
+job_posted: '2026-08-18'
+score:
+  fit: 10
+  track: 8
+  city: 8
+  salary: 8
+  stability: 7
+  certainty: 7
+  urgency: 6
+  wlb: 6
+score_rationale: 'fit10 JD=AI数据中心冷板/CDU冷却单元/冷源方案设计+流固耦合流动散热仿真+样机测试,液冷纯对口;track8 AIDC能源一体化第二曲线,新设业务线但有母公司燃机26亿美元订单背书;city8深圳;salary8硕士25万起突出者38万+深圳另2.4万/年补贴;stability7杰瑞主业盈利强但液冷线2026-07才发布产品成败依赖板块;urgency6提前批8-30已过正式批滚动;调研2026-09-16'
+note: 杰瑞能控科技承接；深圳AIDC团队成建制扩招（液冷研发10人+仿真10人+暖通5人）；J14215能动工程师（烟台）是传统油气换热装备岗勿投
+tags:
+- 液冷
+- AIDC
+- 深圳
+- 油气装备转型
+log:
+- date: '2026-09-16'
+  note: '[调研] JD=AI数据中心冷板/CDU/冷源设计+流固耦合仿真；硕士25-38万；杰瑞能控2026-07发布全链路液冷产品；深圳新设业务线'
