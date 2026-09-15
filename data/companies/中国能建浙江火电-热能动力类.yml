@@ -7,21 +7,25 @@ city: 杭州
 link: ''
 salary_range: ''
 stages: {}
-updated_at: '2026-09-15'
+updated_at: '2026-09-16'
 track: 能动/热能动力
 boundary: S
 job_posted: '2026-09-15'
 score:
-  fit: 10
+  fit: 5
   track: 9
   city: 8
-  salary: 7
+  salary: 6
   stability: 9
   certainty: 5
   urgency: 5
-  wlb: 6
+  wlb: 4
+score_rationale: 'fit5火电施工安装传统能动;salary6 10-20万偏下限;wlb4杭州注册但长期驻外项目制流动;调研校正09-16'
 note: 中国能建浙江火电=电力企业，热能动力类直接对口
 tags:
 - 电力企业
 - 热能动力直接对口
 - 央企
+log:
+- date: '2026-09-16'
+  note: '[调研] 杭州注册但长期驻外项目制，火电施工安装传统能动；10-20万偏下限；驻外流动，wlb 6→4'

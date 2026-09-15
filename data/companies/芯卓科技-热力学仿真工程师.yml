@@ -7,20 +7,24 @@ city: 苏州
 link: ''
 salary_range: ''
 stages: {}
-updated_at: '2026-09-15'
+updated_at: '2026-09-16'
 track: 热管理类
 boundary: S
 job_posted: '2026-09-15'
 score:
-  fit: 10
+  fit: 7
   track: 9
   city: 8
-  salary: 7
-  stability: 7
+  salary: 6
+  stability: 6
   certainty: 5
   urgency: 5
   wlb: 6
+score_rationale: 'fit7结构-热-力多物理场仿真部分对口(MEMS探针卡);salary6;stability6;base义乌产线vs苏州研发,签约前书面确认;调研校正09-16'
 note: 芯卓科技=半导体企业，热力学仿真工程师直接对口
 tags:
 - 半导体
 - 热力学仿真直接对口
+log:
+- date: '2026-09-16'
+  note: '[调研] 义乌/苏州，韦尔+台资STAr合资（MEMS探针卡），结构-热-力多物理场仿真部分对口；签约前书面确认base（义乌产线vs苏州研发）；stability 7→6'

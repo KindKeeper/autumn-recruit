@@ -7,21 +7,25 @@ city: 上海
 link: ''
 salary_range: ''
 stages: {}
-updated_at: '2026-09-15'
+updated_at: '2026-09-16'
 track: 能动/能源动力
 boundary: S
 job_posted: '2026-09-15'
 score:
-  fit: 10
+  fit: 6
   track: 9
   city: 8
-  salary: 8
+  salary: 6
   stability: 9
   certainty: 5
   urgency: 5
   wlb: 6
+score_rationale: 'fit6电站传统能动(锅炉/汽轮机/热力系统试验)非对口;salary6 15-22万;city8上海;非事业编;调研校正09-16'
 note: 能研院(上海成套院)=央企能源研究院，能源动力类直接对口
 tags:
 - 能源研究
 - 能源动力直接对口
 - 央企
+log:
+- date: '2026-09-16'
+  note: '[调研] 国家电投能源科学技术研究院（上海），电站传统能动（锅炉/汽轮机/热力系统试验）非对口；15-22万；非事业编'

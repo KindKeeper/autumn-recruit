@@ -7,21 +7,25 @@ city: 北京
 link: ''
 salary_range: ''
 stages: {}
-updated_at: '2026-09-15'
+updated_at: '2026-09-16'
 track: 能动/能源动力
 boundary: S
 job_posted: '2026-09-15'
 score:
-  fit: 10
+  fit: 5
   track: 9
   city: 6
-  salary: 8
+  salary: 6
   stability: 9
   certainty: 5
   urgency: 5
   wlb: 6
+score_rationale: 'fit5各地电厂传统能动(京内15-22万/电厂10-16万倒班);salary6;中央研究院储能氢能方向名额极少才可沾边;调研校正09-16'
 note: 国家电投=五大发电集团，能源动力类直接对口
 tags:
 - 五大发电集团
 - 能源动力直接对口
 - 央企
+log:
+- date: '2026-09-16'
+  note: '[调研] 能动类=各地电厂传统能动（京内15-22万/电厂10-16万倒班）；中央研究院储能氢能方向名额极少才可沾边；salary 8→6'

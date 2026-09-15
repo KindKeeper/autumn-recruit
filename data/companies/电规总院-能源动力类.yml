@@ -7,21 +7,25 @@ city: 北京
 link: ''
 salary_range: ''
 stages: {}
-updated_at: '2026-09-15'
+updated_at: '2026-09-16'
 track: 能动/能源动力
 boundary: S
 job_posted: '2026-09-15'
 score:
-  fit: 10
+  fit: 4
   track: 9
   city: 6
   salary: 8
   stability: 9
-  certainty: 5
-  urgency: 5
+  certainty: 2
+  urgency: 2
   wlb: 6
+score_rationale: 'fit4;2027届校招只招博士,硕士无投递通道(certainty2);截止10-11(urgency2);硕士不可投;调研校正09-16'
 note: 电规总院=电力规划设计总院，能源动力类直接对口
 tags:
 - 电力规划
 - 能源动力直接对口
 - 央企
+log:
+- date: '2026-09-16'
+  note: '[调研] 电力规划设计总院（北京），2027届校招只招博士、硕士无投递通道，certainty 5→2、urgency 5→2；截止10-11；硕士不可投'

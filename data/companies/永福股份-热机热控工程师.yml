@@ -3,24 +3,28 @@ name: 永福股份
 position: 热机工程师/热控工程师
 group: 正式批
 channel: 官网
-city: 上海
+city: 福州
 link: ''
 salary_range: ''
 stages: {}
-updated_at: '2026-09-15'
+updated_at: '2026-09-16'
 track: 能动/热机热控
 boundary: S
 job_posted: '2026-09-15'
 score:
-  fit: 10
+  fit: 5
   track: 9
   city: 8
-  salary: 7
-  stability: 8
+  salary: 6
+  stability: 6
   certainty: 5
   urgency: 5
   wlb: 6
+score_rationale: 'fit5电厂热机热控设计传统能动;salary6;stability6 2026半年报转亏;city8福州(字段已由上海更正);调研校正09-16'
 note: 永福股份=电力设计院，热机工程师/热控工程师直接对口
 tags:
 - 电力设计院
 - 热机/热控设计直接对口
+log:
+- date: '2026-09-16'
+  note: '[调研] 福建永福电力设计（300712，福州，city字段已由上海更正），电厂热机热控设计；2026半年报转亏，stability 8→6'

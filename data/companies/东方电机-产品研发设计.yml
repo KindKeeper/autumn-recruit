@@ -7,21 +7,25 @@ city: 德阳
 link: ''
 salary_range: ''
 stages: {}
-updated_at: '2026-09-15'
+updated_at: '2026-09-16'
 track: 能动/发电设备
 boundary: S
 job_posted: '2026-09-15'
 score:
-  fit: 10
+  fit: 5
   track: 9
-  city: 7
-  salary: 7
+  city: 4
+  salary: 5
   stability: 9
   certainty: 5
   urgency: 5
   wlb: 6
+score_rationale: 'fit5水轮发电机产品设计传统能动;salary5首年12-14万;city4德阳;调研校正09-16'
 note: 东方电机=东方电气子公司，发电设备产品研发/设计直接对口
 tags:
 - 发电设备
 - 产品研发/设计直接对口
 - 央企
+log:
+- date: '2026-09-16'
+  note: '[调研] 水轮发电机产品设计传统能动；base德阳（字段原本已是德阳）；首年12-14万；city 7→4'

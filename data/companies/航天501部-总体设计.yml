@@ -7,21 +7,25 @@ city: 北京
 link: ''
 salary_range: ''
 stages: {}
-updated_at: '2026-09-15'
+updated_at: '2026-09-16'
 track: 能动/航天
 boundary: S
 job_posted: '2026-09-15'
 score:
-  fit: 10
+  fit: 9
   track: 10
   city: 6
-  salary: 7
+  salary: 8
   stability: 9
   certainty: 5
-  urgency: 5
+  urgency: 6
   wlb: 6
+score_rationale: 'fit9航天器热控总体(热管/辐射器/整星热分析)高对口;salary8硕士25-30万;city6北京海淀航天城;事业编+户口;urgency6截止11-13;调研校正09-16'
 note: 航天501部=航天总体设计部，动力工程及工程热物理/能源动力直接对口
 tags:
 - 航天总体设计
 - 动力工程/工程热物理直接对口
 - 央企
+log:
+- date: '2026-09-16'
+  note: '[调研] 五院总体设计部（北京海淀航天城），航天器热控总体（热管/辐射器/整星热分析）高对口，fit 10→9；硕士25-30万，salary 7→8；事业编+户口；截止11-13，urgency→6'

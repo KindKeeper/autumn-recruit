@@ -7,21 +7,25 @@ city: 成都
 link: ''
 salary_range: ''
 stages: {}
-updated_at: '2026-09-15'
+updated_at: '2026-09-16'
 track: 能动/换热器
 boundary: S
 job_posted: '2026-09-15'
 score:
-  fit: 10
+  fit: 6
   track: 9
   city: 7
-  salary: 7
+  salary: 8
   stability: 9
   certainty: 5
   urgency: 5
   wlb: 6
+score_rationale: 'fit6换热器/涡轮设计传统能动但传热技能可迁移;salary8官方硕士20-30万;city7成都(济南同,北京仅注册地);注意公司成立仅半年;调研校正09-16'
 note: 中核超碳=核工业体系，换热器设计岗/涡轮设计岗直接对口
 tags:
 - 核工业
 - 换热器/涡轮设计直接对口
 - 央企
+log:
+- date: '2026-09-16'
+  note: '[调研] 中核全资sCO2发电（成都/济南，北京仅注册地），换热器/涡轮设计属传统能动但传热技能可迁移；官方硕士20-30万，salary 7→8；注意公司成立仅半年'

@@ -7,21 +7,25 @@ city: 南京
 link: ''
 salary_range: ''
 stages: {}
-updated_at: '2026-09-15'
+updated_at: '2026-09-16'
 track: 能动/暖通
 boundary: S
 job_posted: '2026-09-15'
 score:
-  fit: 10
+  fit: 5
   track: 8
   city: 9
-  salary: 7
+  salary: 5
   stability: 8
   certainty: 5
   urgency: 5
   wlb: 6
+score_rationale: 'fit5楼宇/数据中心暖通设计(建环设计院路线)非电子热管理;salary5 13-18万;city9南京(中通服咨询设计研究院,勿与广东省院混淆);调研校正09-16'
 note: 中通服设计院=央企设计院，暖通设计师直接对口
 tags:
 - 设计院
 - 暖通设计直接对口
 - 央企
+log:
+- date: '2026-09-16'
+  note: '[调研] 中通服咨询设计研究院（base南京，勿与广东省院混淆），楼宇/数据中心暖通设计（建环设计院路线）非电子热管理；13-18万'
