@@ -8,6 +8,7 @@ link: https://sany.zhiye.com
 salary_range: ''
 stages:
   applied: '2026-09-15'
+  assessment: '2026-09-15'
 updated_at: '2026-09-15'
 track: 汽车热管理类
 boundary: S
@@ -34,3 +35,5 @@ log:
   note: '[投递] 投递热管理工程师（长沙）'
 - date: '2026-09-15'
   note: '[调研] JD确认:专业要求能动/制冷低温,职责整机/电池/电驱热管理+冷却系统计算+热平衡测试;fit 8→9'
+- date: '2026-09-15'
+  note: '[测评] 投递当天收到测评'
