@@ -6,8 +6,9 @@ channel: 官网
 city: 合肥
 link: https://cxmt.zhiye.com/campus/jobs
 salary_range: 硕士合肥约18-20K*15，年薪约27-30万
-stages: {}
-updated_at: '2026-09-10'
+stages:
+  applied: '2026-06-27'
+updated_at: '2026-09-16'
 track: 其他
 boundary: 待定
 job_posted: '2026-06-03'
@@ -31,3 +32,7 @@ log:
   note: '[offershow] 提前批公告发布 2026-06-03（原 2026-04-24）'
 - date: '2026-09-10'
   note: '[调研] J19626在招(27届正式批09-01开启,合肥,滚动招满即止);可靠性/失效分析方向擦边偏转行(HTOL热应力有微弱交叉);12-20K×14估;09-10'
+- date: '2026-06-27'
+  note: '[投递] 提前批投递（官网记录 23:09）'
+- date: '2026-09-16'
+  note: '[跟进] 官网状态：综合评估中（投递两个半月仍在评估；另有1个暂存草稿未提交，不计入）'
