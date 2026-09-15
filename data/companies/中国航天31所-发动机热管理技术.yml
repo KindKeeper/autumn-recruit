@@ -1,0 +1,27 @@
+id: casc-31st-inst-2027
+name: 中国航天31所
+position: 发动机热管理技术
+group: 正式批
+channel: 官网
+city: 北京
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-15'
+track: 能动/航天发动机
+boundary: S
+job_posted: '2026-09-15'
+score:
+  fit: 10
+  track: 10
+  city: 6
+  salary: 7
+  stability: 9
+  certainty: 5
+  urgency: 5
+  wlb: 6
+note: 航天31所=航天发动机核心研究所，发动机热管理/热防护/热交换器设计/燃烧技术直接对口
+tags:
+- 航天发动机
+- 热管理/热防护/热交换器直接对口
+- 央企
