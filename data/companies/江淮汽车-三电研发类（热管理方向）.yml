@@ -1,0 +1,31 @@
+id: jac-2027-thermal
+name: 江淮汽车
+position: 三电研发类（热管理方向，网申系统内确认具体岗名）
+group: 正式批
+channel: 官网
+city: 合肥
+link: https://jac.zhiye.com
+salary_range: ''
+stages: {}
+updated_at: '2026-09-16'
+track: 汽车热管理类
+boundary: S
+job_posted: '2026-09-14'
+score:
+  fit: 6
+  track: 7
+  city: 10
+  salary: 5
+  stability: 6
+  certainty: 5
+  urgency: 6
+  wlb: 6
+score_rationale: 'fit6整车/三电热管理方向真实存在但公告未单列岗位(挂三电类/设计研发类下,往届社招有整车热管理工程师);track7尊界+华为合作增长点但本部品牌弱业绩波动;city10合肥锚点;salary5官方硕士前两年平均13-18万偏低;stability6安徽省属国企但曾亏损;certainty5热管理岗名需网申系统确认;urgency6截止11-11;wlb6双休高温假含生产见习;调研2026-09-16'
+note: 与华为合作尊界（S800）为主要增长点；免费单间公寓或合肥租房补贴硕士3.6万；公告类别笼统需网申内确认热管理具体岗位
+tags:
+- 合肥
+- 汽车热管理
+- 华为尊界
+log:
+- date: '2026-09-16'
+  note: '[调研] 2027届简章能动类明确收，三电/设计研发类含热管理方向但未单列岗名；硕士13-18万；截止11-11'
