@@ -1,0 +1,26 @@
+id: xinzhuo-tech-2027
+name: 芯卓科技
+position: 热力学仿真工程师
+group: 正式批
+channel: 官网
+city: 苏州
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-15'
+track: 热管理类
+boundary: S
+job_posted: '2026-09-15'
+score:
+  fit: 10
+  track: 9
+  city: 8
+  salary: 7
+  stability: 7
+  certainty: 5
+  urgency: 5
+  wlb: 6
+note: 芯卓科技=半导体企业，热力学仿真工程师直接对口
+tags:
+- 半导体
+- 热力学仿真直接对口
