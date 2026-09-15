@@ -1,0 +1,26 @@
+id: haier-smart-2027
+name: 海尔
+position: 换热设计/风道设计/制冷暖通
+group: 正式批
+channel: 官网
+city: 青岛
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-15'
+track: 制冷/空调
+boundary: S
+job_posted: '2026-09-15'
+score:
+  fit: 10
+  track: 9
+  city: 7
+  salary: 8
+  stability: 8
+  certainty: 5
+  urgency: 5
+  wlb: 6
+note: 海尔智家=家电龙头，换热设计/风道设计/制冷暖通/流体仿真/电卡制冷等多岗直接对口
+tags:
+- 家电/制冷
+- 换热/风道/制冷直接对口
