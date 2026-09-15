@@ -1,0 +1,27 @@
+id: minmetals-mining-2027
+name: 矿冶集团
+position: 暖通/热工设计岗
+group: 正式批
+channel: 官网
+city: 北京
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-15'
+track: 能动/暖通热工
+boundary: S
+job_posted: '2026-09-15'
+score:
+  fit: 10
+  track: 8
+  city: 6
+  salary: 7
+  stability: 9
+  certainty: 5
+  urgency: 5
+  wlb: 6
+note: 矿冶集团=央企，暖通/热工设计岗直接对口
+tags:
+- 暖通/热工
+- 暖通热工设计直接对口
+- 央企
