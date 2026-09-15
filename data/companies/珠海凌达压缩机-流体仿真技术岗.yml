@@ -1,0 +1,31 @@
+id: gree-landa-2027-cfd
+name: 珠海凌达压缩机
+position: 流体仿真技术岗
+group: 正式批
+channel: 官网
+city: 珠海
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-16'
+track: 制冷/压缩机
+boundary: S
+job_posted: '2026-09-10'
+score:
+  fit: 6
+  track: 6
+  city: 6
+  salary: 6
+  stability: 7
+  certainty: 6
+  urgency: 6
+  wlb: 6
+score_rationale: 'fit6压缩机CFD/制冷传统路线,售前技术岗明确收能动/制冷但仿真岗JD偏机械力学边缘匹配,非热管理主线;track6;city6珠海;salary6硕士约15-23万;stability7格力全资+全球压缩机市占30%但绑定单一客户行业见顶;urgency6截止2026-11-10;wlb6双休;调研2026-09-16'
+note: 格力全资压缩机公司；流体/结构仿真岗base珠海总部；能动硕士更稳妥切入口=售前技术岗（制冷方向）+流体仿真岗双投；网传格力高薪口径为总部算法岗老员工勿参考
+tags:
+- 制冷压缩机
+- 格力系
+- 流体仿真
+log:
+- date: '2026-09-16'
+  note: '[调研] 2027届9-10启动11-10截止；仿真岗珠海总部，售前技术岗明确收能动/制冷；硕士约15-23万'

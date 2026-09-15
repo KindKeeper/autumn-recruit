@@ -1,0 +1,31 @@
+id: jubianxinneng-2027
+name: 聚变新能
+position: 工程技术类（热工水力/水冷系统方向）
+group: 正式批
+channel: 官网
+city: 合肥
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-16'
+track: 能动/核聚变
+boundary: S
+job_posted: '2026-09-14'
+score:
+  fit: 9
+  track: 9
+  city: 10
+  salary: 7
+  stability: 8
+  certainty: 6
+  urgency: 7
+  wlb: 5
+score_rationale: 'fit9公告明确列水冷系统/热工水力设计/传热学/低温制冷,聚变堆偏滤器冷却/磁体低温直接对口;track9聚变商业化省级战略;city10合肥锚点;salary7硕士约18-30万不透明须面议;stability8 145亿实缴+国企主导+BEST总装中但成立仅3年;urgency7滚动先到先得约一个月窗口;wlb5装置节点期加班;调研2026-09-16'
+note: BEST紧凑型聚变装置建设主体，安徽/合肥国资+中石油昆仑资本+蔚来系混合所有；企业编非事业编（等离子体所才是事业编，勿混淆）；投递邮箱recruiting@jbxnah.com
+tags:
+- 核聚变
+- 热工水力
+- 合肥
+log:
+- date: '2026-09-16'
+  note: '[调研] 2027届公告工程技术类明确列水冷系统/热工水力/低温制冷；硕士约18-30万面议；企业编；滚动先到先得'
