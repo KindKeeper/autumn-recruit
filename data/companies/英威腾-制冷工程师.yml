@@ -1,0 +1,26 @@
+id: invt-2027
+name: 英威腾
+position: 制冷工程师
+group: 正式批
+channel: 官网
+city: 深圳
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-15'
+track: 制冷/空调
+boundary: S
+job_posted: '2026-09-15'
+score:
+  fit: 10
+  track: 9
+  city: 6
+  salary: 7
+  stability: 7
+  certainty: 5
+  urgency: 5
+  wlb: 6
+note: 英威腾=变频器/空调企业，制冷工程师直接对口
+tags:
+- 变频器/空调
+- 制冷工程师直接对口
