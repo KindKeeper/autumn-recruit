@@ -9,6 +9,7 @@ salary_range: ''
 stages:
   applied: '2026-09-07'
 outcome: rejected
+outcome_note: '简历初筛未通过'
 updated_at: '2026-09-15'
 track: 热管理类
 boundary: S
@@ -27,3 +28,6 @@ tags:
 - 芯片散热
 - AI芯片热设计
 - 已投递已拒
+log:
+- date: '2026-09-15'
+  note: '[复盘] 确认挂于简历初筛'
