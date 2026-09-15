@@ -9,8 +9,9 @@ salary_range: ''
 stages:
   applied: '2026-09-09'
   assessment: '2026-09-11'
-  interview_1: '2026-09-14'
-updated_at: '2026-09-14'
+  interview_1: '2026-09-15'
+  interview_2: '2026-09-15'
+updated_at: '2026-09-15'
 track: 热管理类
 job_posted: '2026-08-31'
 source_id: offershow:美的集团2027届校园招聘
@@ -23,4 +24,8 @@ log:
   note: '[测评] 收到AI面试通知（iHR System邮件 18:39）'
 - date: '2026-09-14'
   note: '[面试] 收到面试邀请（一面）'
+- date: '2026-09-15'
+  note: '[面试] 完成一面'
+- date: '2026-09-15'
+  note: '[面试] 当日收到二面邀请'
 note: 仅部分信息技术类岗位需笔试；面试城市选了山东省（投递岗位在合肥）
