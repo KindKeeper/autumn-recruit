@@ -1,34 +1,29 @@
-id: job-0018
+id: cambricon-2027
 name: 寒武纪
-position: 散热工程师
+position: 散热工程师-27届
 group: 正式批
 channel: 官网
 city: 合肥
-link: https://app.mokahr.com/campus-recruitment/cambricon/44201
-salary_range: 预估35-50W
+link: ''
+salary_range: ''
 stages:
   applied: '2026-09-07'
-updated_at: '2026-09-09'
+outcome: rejected
+updated_at: '2026-09-15'
 track: 热管理类
 boundary: S
-job_posted: '2026-09-04'
-source_id: offershow:dc13f11a-3e72-4389-8fb0-19e63f15ae05
+job_posted: '2026-09-07'
 score:
-  fit: 9
+  fit: 10
   track: 9
   city: 9
-  salary: 9
-  stability: 7
-  certainty: 6
-  urgency: 8
+  salary: 7
+  stability: 8
+  certainty: 5
+  urgency: 5
   wlb: 6
-log:
-- date: '2026-09-08'
-  note: '[状态变更] 寒武纪 散热工程师: 待投递 → 已投递'
-- date: '2026-09-08'
-  note: '[offershow] 正式批公告发布 2026-09-04（原 2026-08-07）'
-- date: '2026-09-07'
-  note: '[邮箱] 寒武纪投递确认（11:12，mokahr系统）'
-note: 来源:总表[寒武纪_散热工程师]
+note: AI芯片散热设计，已投递但暂不匹配（2026-09-07投递，系统判定暂不匹配）
 tags:
-- B2-半导体芯片
+- 芯片散热
+- AI芯片热设计
+- 已投递已拒
