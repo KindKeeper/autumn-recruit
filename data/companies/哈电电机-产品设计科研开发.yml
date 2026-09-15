@@ -1,0 +1,27 @@
+id: heb-motor-2027
+name: 哈电电机
+position: 产品设计类/科研开发类
+group: 正式批
+channel: 官网
+city: 哈尔滨
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-15'
+track: 能动/发电设备
+boundary: S
+job_posted: '2026-09-15'
+score:
+  fit: 10
+  track: 9
+  city: 6
+  salary: 7
+  stability: 9
+  certainty: 5
+  urgency: 5
+  wlb: 6
+note: 哈电电机=发电设备龙头（哈尔滨电气子公司），产品设计/科研开发直接对口
+tags:
+- 发电设备
+- 产品设计/科研开发直接对口
+- 央企

@@ -1,0 +1,26 @@
+id: yongfu-power-2027
+name: 永福股份
+position: 热机工程师/热控工程师
+group: 正式批
+channel: 官网
+city: 上海
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-15'
+track: 能动/热机热控
+boundary: S
+job_posted: '2026-09-15'
+score:
+  fit: 10
+  track: 9
+  city: 8
+  salary: 7
+  stability: 8
+  certainty: 5
+  urgency: 5
+  wlb: 6
+note: 永福股份=电力设计院，热机工程师/热控工程师直接对口
+tags:
+- 电力设计院
+- 热机/热控设计直接对口
