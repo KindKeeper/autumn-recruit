@@ -7,20 +7,24 @@ city: 绵阳
 link: ''
 salary_range: ''
 stages: {}
-updated_at: '2026-09-10'
+updated_at: '2026-09-16'
 track: 能动/制冷
 boundary: S
 job_posted: '2026-09-10'
 score:
-  fit: 10
+  fit: 5
   track: 8
   city: 3
-  salary: 7
-  stability: 8
+  salary: 5
+  stability: 7
   certainty: 5
   urgency: 5
   wlb: 7
+score_rationale: '长虹空调子公司(绵阳)家用空调制冷系统设计(换热器流路/管路设计);能动制冷低温对口但传统家电非热管理;salary5硕士约12-15万绵阳基数低;网传13-18万是长虹智能盐城口径勿混;调研2026-09-16'
 note: 长虹控股集团，制冷系统设计+动力系统工程师双岗对口
 tags:
 - B2-大型工业制造
 - 制冷/动力系统直接对口
+log:
+- date: '2026-09-16'
+  note: '[调研] 岗位属长虹空调（绵阳），家用空调制冷系统传统路线；硕士12-15万；非热管理'

@@ -1,0 +1,31 @@
+id: lcfc-thermal-2027
+name: 联宝科技
+position: 散热设计工程师
+group: 正式批
+channel: 官网
+city: 合肥
+link: https://lcfc.zhiye.com
+salary_range: ''
+stages: {}
+updated_at: '2026-09-16'
+track: 消费电子热管理
+boundary: S
+job_posted: '2026-09-07'
+score:
+  fit: 8
+  track: 7
+  city: 10
+  salary: 6
+  stability: 7
+  certainty: 7
+  urgency: 7
+  wlb: 7
+score_rationale: 'fit8笔记本散热设计+热仿真真对口(JD明确要求传热学/流体力学+热仿真能力);track7 AI PC/服务器散热需求扩张但PC行业见顶;city10合肥锚点;salary6硕士约16-20万ODM天花板;stability7联想最大PC基地基本盘大但年终奖绩效强挂钩;certainty7官网9-7已发布JD明确;urgency7窗口约9-10至10-08短;wlb7研发8小时少加班;调研2026-09-16'
+note: 联想与仁宝合资ODM，合肥首家千亿营收企业；散热设计属核心研发序列；非联想本部编制；网传30万+是联想本部/博士口径
+tags:
+- 合肥
+- 消费电子散热
+- 联想系
+log:
+- date: '2026-09-16'
+  note: '[调研] 官网9-7发布散热设计工程师（合肥）；笔记本热管理设计+热仿真+散热材料测试；硕士16-20万；窗口至10-08'
