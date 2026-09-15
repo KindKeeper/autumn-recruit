@@ -1,0 +1,27 @@
+id: shanghai-inst-energy-2027
+name: 能研院(上海成套院)
+position: 能源动力类
+group: 正式批
+channel: 官网
+city: 上海
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-15'
+track: 能动/能源动力
+boundary: S
+job_posted: '2026-09-15'
+score:
+  fit: 10
+  track: 9
+  city: 8
+  salary: 8
+  stability: 9
+  certainty: 5
+  urgency: 5
+  wlb: 6
+note: 能研院(上海成套院)=央企能源研究院，能源动力类直接对口
+tags:
+- 能源研究
+- 能源动力直接对口
+- 央企
