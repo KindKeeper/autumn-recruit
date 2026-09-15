@@ -1,0 +1,27 @@
+id: cnnc-supercarbon-2027
+name: 中核超碳
+position: 换热器设计岗
+group: 正式批
+channel: 官网
+city: 成都
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-15'
+track: 能动/换热器
+boundary: S
+job_posted: '2026-09-15'
+score:
+  fit: 10
+  track: 9
+  city: 7
+  salary: 7
+  stability: 9
+  certainty: 5
+  urgency: 5
+  wlb: 6
+note: 中核超碳=核工业体系，换热器设计岗/涡轮设计岗直接对口
+tags:
+- 核工业
+- 换热器/涡轮设计直接对口
+- 央企
