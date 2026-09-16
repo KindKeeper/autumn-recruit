@@ -6,8 +6,9 @@ channel: 官网
 city: 上海
 link: ''
 salary_range: ''
-stages: {}
-updated_at: '2026-09-11'
+stages:
+  applied: '2026-09-16'
+updated_at: '2026-09-16'
 track: 热管理类
 boundary: S
 job_posted: '2026-09-10'
@@ -29,3 +30,5 @@ tags:
 log:
 - date: '2026-09-11'
   note: '[调研] 上海电气输配电集团，做变流器/SVG/储能变流器等电力电子产品散热设计+热仿真（Flotherm/Icepak），真对口；硕士约16-22万；招满即止；同集团另有变压器油道散热传统岗，面试需确认分到电力电子产品线'
+- date: '2026-09-16'
+  note: '[投递] 已投递输配电集团散热设计工程师（电力电子产品线方向）'
