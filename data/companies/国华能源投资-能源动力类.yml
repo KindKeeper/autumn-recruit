@@ -1,0 +1,32 @@
+id: guohua-newenergy-2027
+name: 国华能源投资
+position: 能源动力类（风电/制氢厂运行检修）
+group: 直招批
+channel: 官网
+city: 北京
+link: https://zhaopin.chnenergy.com.cn
+salary_range: ''
+stages: {}
+updated_at: '2026-09-16'
+track: 新能源/氢能
+boundary: S
+apply_deadline: '2026-09-19'
+job_posted: '2026-09-02'
+score:
+  fit: 5
+  track: 6
+  city: 5
+  salary: 6
+  stability: 7
+  certainty: 5
+  urgency: 7
+  wlb: 4
+score_rationale: 'fit5绿电制氢厂运行/风电场检修一线岗,非电堆水热研发非热管理;track6风电光伏氢能赛道但岗位偏运维;city5总部北京但生产技术岗基本在项目地偏远(张家口/宁东/内蒙古);salary6非官方口径约20-25万;stability7央企;certainty5直招要求本硕双一流或海外前50;urgency7直招09-19截止未录可转统招10-07;wlb4场站运行;调研2026-09-16'
+note: 国华投资/国家能源集团新能源/氢能科技三块牌子一套机构；免笔试仅面试；09-19直招截止，10-07前可转统招（10-25统考）
+tags:
+- 国家能源集团
+- 风电
+- 氢能
+log:
+- date: '2026-09-16'
+  note: '[调研] 直招批9-2至9-19免笔试；岗位为风电场/制氢厂运行检修（项目地），非研发；双一流门槛'
