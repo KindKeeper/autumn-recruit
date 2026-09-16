@@ -1,0 +1,32 @@
+id: junty-space-thermal-2027
+name: 钧天航宇
+position: 热设计工程师
+group: 正式批
+channel: 官网
+city: 北京
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-16'
+track: 商业航天/热控
+boundary: S
+job_posted: '2026-09-14'
+score:
+  fit: 9
+  track: 7
+  city: 8
+  salary: 7
+  stability: 6
+  certainty: 6
+  urgency: 6
+  wlb: 6
+score_rationale: 'fit9航天器整器热设计/热分析/热试验,JD明确热管/VC均温板经验优先,热控纯对口;track7商业卫星一体化整星已发射2颗在轨;city8北京海淀上地;salary7校招未公开,猎聘参考硕士约20-25k×14薪≈28-35万估不透明;stability6约100人初创但B轮4.3亿+国联集团国资入股,核心团队来自五院;urgency6 9-14刚启动招满即止HC约4人坑少;调研2026-09-16'
+note: 工程热物理/流体力学/飞行器设计JD明确列出（能动硕士突出传热/热管课题可投）；无锡有子公司（8000平）可问编制；专业名称"能源与动力工程"未字面列入需简历workaround
+tags:
+- 商业航天
+- 热控
+- 热管VC
+- 北京
+log:
+- date: '2026-09-16'
+  note: '[调研] 热设计岗JD=整星热设计/热分析/热试验，热管VC优先；硕士28-35万估；~100人B轮4.3亿，2星在轨；北京上地'
