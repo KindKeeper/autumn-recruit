@@ -8,6 +8,8 @@ link: ''
 salary_range: ''
 stages:
   applied: '2026-09-16'
+outcome: rejected
+outcome_note: '简历初筛未通过（投递当日拒，蔚来校招邮件）'
 updated_at: '2026-09-16'
 track: 汽车热管理类
 boundary: S
@@ -32,3 +34,5 @@ log:
   note: '[投递] 已投递热管理研发工程师'
 - date: '2026-09-16'
   note: '[调研] 蔚来2027正式批8-26开启;上海研发base为主;硕士约26-37万;仍GAAP亏损收窄中'
+- date: '2026-09-16'
+  note: '[复盘] 收到拒信，挂于简历初筛；如投二志愿则进入后续评估'
