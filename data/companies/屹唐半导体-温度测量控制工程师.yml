@@ -1,0 +1,31 @@
+id: etown-thermal-2027
+name: 屹唐半导体
+position: 温度测量控制工程师
+group: 正式批
+channel: 官网
+city: 北京
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-16'
+track: 半导体设备/温控
+boundary: S
+job_posted: '2026-09-15'
+score:
+  fit: 7
+  track: 7
+  city: 8
+  salary: 7
+  stability: 7
+  certainty: 6
+  urgency: 6
+  wlb: 6
+score_rationale: 'fit7 RTP快速退火设备温度测量与控制系统研发,辐射测温/温控系统方向对口,但niche偏设备侧非产品热设计;track7 RTP/干法设备市场稳定;city8北京;salary7公告面议,社招参考20-45k/月,硕士校招约20k+/月估;urgency6截止2026-10-30;调研2026-09-16'
+note: JD要求热动力学/光学相关专业硕士及以上；硕士可申请北京落户（以offer为准）；同批仿真工程师为多物理场（热只是其一）非纯热仿真岗
+tags:
+- 半导体设备
+- 温控系统
+- 北京
+log:
+- date: '2026-09-16'
+  note: '[调研] RTP设备温度测量与控制系统研发，要求热动力学/光学硕士；北京；截止10-30；硕士约20k+/月估'
