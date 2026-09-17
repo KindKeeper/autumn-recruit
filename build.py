@@ -278,8 +278,7 @@ function freshBadge(pub,dl){
   const days=Math.max(0,Math.floor((Date.now()-t)/86400000));
   const hue=Math.round(freshHue(days));
   if(dl){const d=Math.ceil((new Date(dl)-Date.now())/86400000);
-    if(!isNaN(d)&&d>=0){const gh=Math.round(freshHue(Math.min(days,7)));
-      return pill("报名中",`hsl(${gh},92%,45%)`,`首发 ${pub} · 截止 ${dl}`);}}
+    if(!isNaN(d)&&d>=0)return pill(`报名中 ${days}天`,`hsl(${hue},92%,45%)`,`首发 ${pub} · 截止 ${dl}`);}
   let lab=days<=7?`新上架 ${days} 天`:(days<=14?`已搁置 ${days} 天`:`拖延 ${days} 天`);
   return pill(lab,`hsl(${hue},92%,45%)`,`首发 ${pub}`);
 }
