@@ -272,11 +272,14 @@ JS_WIDGETS = """
 function freshHue(days){const s=[[0,150],[14,45],[30,20],[45,0]];days=Math.max(0,days);if(days>=45)return 0;
   for(let i=1;i<s.length;i++){if(days<=s[i][0]){const[x0,h0]=s[i-1],[x1,h1]=s[i];return h0+(h1-h0)*((days-x0)/(x1-x0));}}return 0;}
 function pill(text,bg,title){return `<span class="pill" style="background:${bg};color:#fff;border-color:${bg};font-weight:600" title="${esc(title||"")}">${text}</span>`;}
-function freshBadge(pub){
+function freshBadge(pub,dl){
   if(!pub)return pill("首发未知","hsl(220,12%,52%)","发布时间未记录");
   const t=new Date(pub).getTime();if(isNaN(t))return"";
   const days=Math.max(0,Math.floor((Date.now()-t)/86400000));
   const hue=Math.round(freshHue(days));
+  if(dl){const d=Math.ceil((new Date(dl)-Date.now())/86400000);
+    if(!isNaN(d)&&d>=0){const gh=Math.round(freshHue(Math.min(days,7)));
+      return pill("报名中",`hsl(${gh},92%,45%)`,`首发 ${pub} · 截止 ${dl}`);}}
   let lab=days<=7?`新上架 ${days} 天`:(days<=14?`已搁置 ${days} 天`:`拖延 ${days} 天`);
   return pill(lab,`hsl(${hue},92%,45%)`,`首发 ${pub}`);
 }
@@ -451,7 +454,7 @@ function render(){
     return `<tr class="expandable" onclick="toggleCo(this,'${c.key}')">
       <td class="caretcell"><span class="caret">▶</span></td><td class="rank ${cls}">${r}</td>
       <td>${esc(j.recruiting_group||j.name)} <span class="sub">${j.recruiting_group?esc(j.name)+" · ":""}${esc(j.track||"")}</span></td>
-      <td>${esc(j.position)} ${freshBadge(j.job_posted)}</td>
+      <td>${esc(j.position)} ${freshBadge(j.job_posted, j.deadline)}</td>
       <td>${esc(j.city||"-")}</td>
       <td>${scoreCell(j)}</td>
       <td class="col-dl">${dlCell(j.deadline)}</td>
@@ -463,7 +466,7 @@ function toggleCo(tr,key){
   const nx=tr.nextElementSibling;
   if(nx&&nx.classList.contains("subrow")){nx.remove();return;}
   const co=D.companies.find(c=>c.key===key);
-  const inner=co.jobs.map(j=>`<div class="pipe-item"><div class="pi-top"><span><b>${esc(j.position)}</b> ${tierPill(j)} ${freshBadge(j.job_posted)}
+  const inner=co.jobs.map(j=>`<div class="pipe-item"><div class="pi-top"><span><b>${esc(j.position)}</b> ${tierPill(j)} ${freshBadge(j.job_posted, j.deadline)}
     <span class="sub">${esc(j.city||"")}${j.salary_range?" · "+esc(j.salary_range):""}${j.deadline?" · 截止 "+esc(j.deadline):""}${j.recruiting_group?" · 集团："+esc(j.recruiting_group):""}</span></span>
     <span class="pi-right">${scoreCell(j)} ${wBars(j)}</span></div></div>`).join("");
   tr.insertAdjacentHTML("afterend",`<tr class="subrow"><td colspan="8">${inner}</td></tr>`);
