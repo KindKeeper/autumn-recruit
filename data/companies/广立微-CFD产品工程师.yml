@@ -1,0 +1,33 @@
+id: semitronix-cfd-product-2027
+name: 广立微
+position: CFD产品工程师（武汉）
+group: 正式批
+channel: 官网
+city: 武汉
+recruiting_group: '广立微'
+portal: '广立微校招官网'
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-17'
+track: 硅光/EDA仿真
+boundary: S
+job_posted: '2026-09-17'
+score:
+  fit: 6
+  track: 7
+  city: 7
+  salary: 6
+  stability: 6
+  certainty: 6
+  urgency: 6
+  wlb: 6
+score_rationale: 'fit6产品工程师岗=仿真应用+客户支持,商用软件使用背景可迁移;同批CFD/多物理场算法工程师为求解器内核开发,要求C++数值方法,fit3勿投;track7硅光PDA+国产EDA双热点,收购比利时Luceda布局,板块尚在投入期亏损;city7武汉锚点(光曦智芯新设点);salary6硕士约15-22k×16薪≈24-35万中等偏上;stability6良率EDA主业现金流稳但硅光子公司整合期不确定;certainty6产品岗过筛概率高于算法岗;调研2026-09-17'
+note: 主业良率提升EDA；CFD/多物理场/FDTD算法工程师=求解器内核开发岗（需C++求解器经历，勿投）；投前把仿真使用经验翻译成物理建模/二次开发/UDF语言；注意牛客上同名多物理场JD实为思朗科技，勿混淆
+tags:
+- 硅光仿真
+- 武汉
+- EDA
+log:
+- date: '2026-09-17'
+  note: '[调研] CFD产品工程师（武汉）可投，算法岗（求解器开发）fit3勿投；硕士24-35万；fit6/63.5'

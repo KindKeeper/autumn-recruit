@@ -1,0 +1,34 @@
+id: speedtech-liquid-2027
+name: 硕贝德科技
+position: 液冷工程师（同批散热工程师可兼投）
+group: 正式批
+channel: 官网
+city: 惠州
+recruiting_group: '硕贝德科技'
+portal: '硕贝德校招官网'
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-17'
+track: 液冷/散热模组
+boundary: S
+job_posted: '2026-09-16'
+apply_deadline: '2026-11-15'
+score:
+  fit: 8
+  track: 7
+  city: 5
+  salary: 6
+  stability: 6
+  certainty: 7
+  urgency: 6
+  wlb: 6
+score_rationale: 'fit8传热流体仿真功底对口;但偏冷板/VC模组结构与工艺,非系统级热管理,储能系统知识利用率约六成;track7 AI服务器液冷方向正确但业务尚在送样/小批量,入职短期更可能消费电子散热;city5惠州非一线产业配套一般;salary6惠州硕士约15-21万低于英维克/高澜等一线;stability6上市+天线主业托底但增收不增利负债率70%+新业务未放量;certainty7岗位真实多源交叉验证;urgency6截止11-15;调研2026-09-17'
+note: 散热业务=2019收购东莞合众导热+惠州硕众；服务器液冷仍送样测试期；面试三问：base是否锁定惠州/实际做服务器液冷还是消费电子/薪资结构；定位腰部选项，与英维克/高澜同档对比
+tags:
+- 液冷
+- 惠州
+- 散热模组
+log:
+- date: '2026-09-17'
+  note: '[调研] 液冷工程师=器件/模组级方向；惠州base；硕士15-21万；AI服务器液冷尚在送样期，fit8/65.5'
