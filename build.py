@@ -466,9 +466,13 @@ function toggleCo(tr,key){
   const nx=tr.nextElementSibling;
   if(nx&&nx.classList.contains("subrow")){nx.remove();return;}
   const co=D.companies.find(c=>c.key===key);
-  const inner=co.jobs.map(j=>`<div class="pipe-item"><div class="pi-top"><span><b>${esc(j.position)}</b> ${tierPill(j)} ${freshBadge(j.job_posted, j.deadline)}
+  const cos=co.best.recruiting_group?D.companies.filter(c=>c.best.recruiting_group===co.best.recruiting_group):[co];
+  const jobsHtml=co=>co.jobs.map(j=>`<div class="pipe-item"><div class="pi-top"><span><b>${esc(j.position)}</b> ${tierPill(j)} ${freshBadge(j.job_posted, j.deadline)}
     <span class="sub">${esc(j.city||"")}${j.salary_range?" · "+esc(j.salary_range):""}${j.deadline?" · 截止 "+esc(j.deadline):""}${j.recruiting_group?" · 集团："+esc(j.recruiting_group):""}</span></span>
     <span class="pi-right">${scoreCell(j)} ${wBars(j)}</span></div></div>`).join("");
+  const inner=cos.length>1
+    ?cos.map(c=>`<div class="pipe-item"><b>${esc(c.key)}</b> <span class="sub">${c.jobs.length} 个岗位</span></div>${jobsHtml(c)}`).join("")
+    :jobsHtml(co);
   tr.insertAdjacentHTML("afterend",`<tr class="subrow"><td colspan="8">${inner}</td></tr>`);
 }
 document.getElementById("r-min").addEventListener("change",render);
