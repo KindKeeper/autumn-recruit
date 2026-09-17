@@ -4,26 +4,30 @@ position: 热设计工程师
 group: 正式批
 channel: 官网
 city: 厦门
+recruiting_group: '新能安'
+portal: '新能安校招官网'
 link: ''
 salary_range: ''
 stages: {}
-updated_at: '2026-09-09'
+updated_at: '2026-09-17'
 boundary: S
 job_posted: '2026-08-17'
 source_id: offershow:c48dd537-dbcb-4416-9cd7-815d75c72031
 score:
-  fit: 10
+  fit: 9
   track: 9
   city: 7
   salary: 8
   stability: 8
-  certainty: 7
-  urgency: 6
-  wlb: 5
-score_rationale: 'fit10电池热设计纯对口(要工程热物理);city7厦门;salary8硕士23-34万;wlb5 886~896;调研校正09-09'
-note: 来源:总表[新能安_热设计工程师]
+  certainty: 8
+  urgency: 7
+  wlb: 6
+score_rationale: 'JD字面点名热能与动力工程/工程热物理/流体力学,职责=热系统方案设计+电池组热仿真+热管理方案+前沿热技术落地,纯热设计岗(fit9);工具要求Flotherm/Icepak/FloEFD与现有ANSYS/Simulink有缺口需上手;储能+数据中心绿区储能赛道(track9);厦门锚点7;专业字面点名匹配确定性高(cert8);08-13滚动(urgency7);调研2026-09-17'
+note: 来源:总表[新能安_热设计工程师]。JD确认纯热设计岗（热系统方案/电池组热仿真/热管理方案）；工具要求Flotherm/Icepak/FloEFD；同司排除项：储能系统研发工程师实为电网并网向（电气专业，不对口）、储能电气研发工程师为纯电气、电芯/工艺类为材料制造向
 tags:
 - B5-储能光伏
 log:
 - date: '2026-09-09'
   note: '[调研] 27届08-14启动,结构研发类热设计工程师明确要工程热物理(纯对口,CATL/ATL合资Ampace);硕士23-34万;HR口径886~896强度;09-09'
+- date: '2026-09-17'
+  note: '[调研] JD校准:纯热设计岗fit9;要求Flotherm/Icepak,工具缺口已标注;排除电网向系统研发岗'
