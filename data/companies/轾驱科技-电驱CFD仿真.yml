@@ -7,7 +7,7 @@ city: 上海
 link: ''
 salary_range: ''
 stages: {}
-updated_at: '2026-09-16'
+updated_at: '2026-09-17'
 track: 热管理类
 boundary: S
 job_posted: '2026-09-15'
@@ -21,10 +21,12 @@ score:
   urgency: 5
   wlb: 6
 score_rationale: 'fit9电驱CFD流体-热管理仿真真对口;stability6成立3年体量小薪资未公开;勿与臻驱科技混淆,网传薪资均为臻驱口径;调研校正09-16'
-note: 轾驱科技=电驱企业，电驱CFD仿真/CAE仿真直接对口
+note: 轾驱科技=电驱企业，电驱CFD仿真/CAE仿真直接对口。09-15公告城市列表新增合肥（上海|柳州|合肥|重庆）；合肥有岗对安徽人是增量，投递时可注明合肥意向
 tags:
 - 电驱热管理
 - CFD/CAE仿真直接对口
 log:
 - date: '2026-09-16'
   note: '[调研] 轾驱上海科技EZ-DRIVE（非臻驱！上海/重庆研发），电驱CFD流体-热管理仿真真对口；成立3年体量小、薪资未公开，stability 7→6；勿与臻驱混淆，网传薪资均为臻驱口径'
+- date: '2026-09-17'
+  note: '[调研] 公告城市新增合肥，安徽人可注明合肥base'

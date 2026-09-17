@@ -1,0 +1,34 @@
+id: sytec-hvac-2027
+name: 世源科技工程
+position: 动力设计师/暖通设计师
+group: 正式批
+channel: 官网
+city: 北京
+recruiting_group: '中国电子工程设计院（国投系）'
+portal: 'sytec.com.cn'
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-17'
+track: 洁净厂房暖通/动力
+boundary: S
+job_posted: '2026-08-15'
+score:
+  fit: 6
+  track: 7
+  city: 8
+  salary: 4
+  stability: 8
+  certainty: 5
+  urgency: 5
+  wlb: 5
+score_rationale: 'fit6能动明确在投递专业名单;洁净厂房冷冻水/工艺冷却水与热管理部分交集;但岗位实质建环设计院业务,与建环科班竞争,偏制图设计非热工研发;track7半导体/数据中心洁净室赛道景气,电子院2024营收68亿;city8八城可选灵活(含合肥);salary4设计院行情硕士约15-20万社招10-16k×13;stability8国投系央企;certainty5 2027届公告未出现按2026届口径9月底-10月盯官网;urgency5;wlb5设计院项目制加班;调研2026-09-17'
+note: 隶属中国电子工程设计院（电子院，国投系，2025年国投中鲁60亿收购）；九险二金+应届生免费住宿；定位=求户口+稳定+洁净室赛道履历的保底选项；技术对口优先级让位于芯片/服务器/储能热设计岗；base北京为主，合肥有岗（长鑫/京东方项目）
+tags:
+- 洁净室
+- 暖通设计
+- 央企
+- 北京
+log:
+- date: '2026-09-17'
+  note: '[调研] 动力/暖通设计师=建环设计院业务，能动可投（fit6）；硕士15-20万；央企九险二金；2027届公告未出，fit6/63.5'
