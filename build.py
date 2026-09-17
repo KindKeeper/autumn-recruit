@@ -441,7 +441,7 @@ function render(){
   bc.innerHTML=[
     {n:list.length,l:"候选企业"},
     {n:D.in_pipe,l:"推进中（已移出）",c:"yellow"},
-    {n:(top.best&&top.best.total)||"-",l:"最高候选 / "+((top.best&&top.best.name)||"-"),c:"green"},
+    {n:(top.best&&top.best.total)||"-",l:"最高候选 / "+((top.best&&(top.best.recruiting_group||top.best.name))||"-"),c:"green"},
     {n:D.unscored,l:"待评分岗位",c:"yellow"},
   ].map(c=>`<div class="card"><div class="num ${c.c||""}">${c.n}</div><div class="lbl">${c.l}</div></div>`).join("");
   document.getElementById("rank-body").innerHTML=list.length?list.map((c,i)=>{
@@ -449,7 +449,7 @@ function render(){
     const j=c.best;
     return `<tr class="expandable" onclick="toggleCo(this,'${c.key}')">
       <td class="caretcell"><span class="caret">▶</span></td><td class="rank ${cls}">${r}</td>
-      <td>${esc(j.name)} <span class="sub">${esc(j.track||"")}</span></td>
+      <td>${esc(j.recruiting_group||j.name)} <span class="sub">${j.recruiting_group?esc(j.name)+" · ":""}${esc(j.track||"")}</span></td>
       <td>${esc(j.position)} ${freshBadge(j.job_posted)}</td>
       <td>${esc(j.city||"-")}</td>
       <td>${scoreCell(j)}</td>
