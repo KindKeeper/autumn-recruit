@@ -8,7 +8,8 @@ recruiting_group: '新能安'
 portal: '新能安校招官网'
 link: ''
 salary_range: ''
-stages: {}
+stages:
+  applied: '2026-09-17'
 updated_at: '2026-09-17'
 boundary: S
 job_posted: '2026-08-17'
@@ -31,3 +32,5 @@ log:
   note: '[调研] 27届08-14启动,结构研发类热设计工程师明确要工程热物理(纯对口,CATL/ATL合资Ampace);硕士23-34万;HR口径886~896强度;09-09'
 - date: '2026-09-17'
   note: '[调研] JD校准:纯热设计岗fit9;要求Flotherm/Icepak,工具缺口已标注;排除电网向系统研发岗'
+- date: '2026-09-17'
+  note: '[投递] 新能安网申:一志愿热设计工程师二志愿BMS算法工程师,定制简历(热设计镜像JD+BMS兼顾电池课题)'
