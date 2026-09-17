@@ -14,7 +14,7 @@ apply_deadline: '2026-11-13'
 job_posted: '2026-08-07'
 source_id: offershow:f177cf19-17db-4bc5-90df-7cc531f9ff9e
 score:
-  fit: 9
+  fit: 8
   track: 8
   city: 10
   salary: 7
@@ -22,8 +22,8 @@ score:
   certainty: 7
   urgency: 7
   wlb: 5
-score_rationale: 'city10合肥主场;salary7合肥base低于北京;调研校正09-09'
-note: 来源:总表[联想_散热工程师]
+score_rationale: 'city10合肥主场;fit8笔记本散热纯对口(与联宝同岗对齐);stability8联想历史最佳财年支撑;salary7合肥base;调研校正09-09/09-17'
+note: 来源:总表[联想_散热工程师];与联宝科技-散热设计工程师为同一LCFC合肥岗位的双入口(集团网申vs联宝独立网申),二选一投递
 tags:
 - B3-电子科技
 log:
@@ -35,3 +35,5 @@ log:
   note: '[用户] 实际已投递但日期未知(账号登不上无法核实),applied暂记今日待更正;恢复账号后查进度'
 - date: '2026-09-17'
   note: '[修正] 撤回已投递标记:官网账号登不上无法核实,大概率未投递成功;移回候选榜待重新投递'
+- date: '2026-09-17'
+  note: '[校正] fit9→8与联宝记录对齐(同一LCFC岗位双入口,溢价只体现在stability);交叉标注勿重复投递'
