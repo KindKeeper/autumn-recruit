@@ -7,23 +7,26 @@ city: 合肥
 link: ''
 salary_range: 预估25-35W
 stages: {}
-updated_at: '2026-09-09'
+updated_at: '2026-09-17'
 track: 热管理类
 boundary: S
 job_posted: '2026-08-10'
 source_id: offershow:c624502b-47ba-4305-9b4b-6bea9cbcebf3
 score:
   fit: 7
-  track: 8
+  track: 7
   city: 9
-  salary: 9
+  salary: 7
   stability: 9
-  certainty: 7
+  certainty: 8
   urgency: 7
   wlb: 5
-score_rationale: 'fit7擦边偏对口(变压器热方向,入职方向不确定);city9合肥但前期轮岗;调研校正09-09'
+score_rationale: 'fit7官方岗位仅电气/机械两类,无热能方向,热能背景需挂靠机械投递匹配打折;track7研究开发赛道博士专属,硕士走设计序列;salary7硕士实际20-28万(2026定薪较去年降5%);city9合肥但前期轮岗;certainty8官方站+宣讲会+JD三源坐实;调研校正09-09/09-17'
+note: 热能方向不存在，挂靠机械需HR确认接受；培训生28-30万需轮岗可参考
 tags:
 - D1-电力设备/能源
 log:
 - date: '2026-09-09'
   note: '[调研] 27届在招,合肥变压器主体,热物理专业明确招但当前JD偏机械/力学培训生(需轮岗重庆/中山各半年后定岗合肥);总包20-26w外企955;积压订单10.3万亿日元+合肥追加3亿美元投资;09-09'
+- date: '2026-09-17'
+  note: '[复核] 无热能方向(fit9→7,挂靠机械),纯研发博士专属(track8→7),硕士20-28万(salary8→7),78.5→74'

@@ -7,7 +7,7 @@ city: 上海
 link: ''
 salary_range: 半导体装备企业
 stages: {}
-updated_at: '2026-09-09'
+updated_at: '2026-09-17'
 track: 热管理类
 boundary: S
 job_posted: '2026-08-27'
@@ -16,13 +16,13 @@ score:
   fit: 9
   track: 9
   city: 8
-  salary: 8
+  salary: 7
   stability: 7
-  certainty: 6
+  certainty: 8
   urgency: 7
   wlb: 5
-score_rationale: 'fit9多物理场仿真核心岗(DUV);salary8爆料35万级;stability7国资光刻攻关;wlb5华为系强度;调研校正09-09'
-note: 来源:总表[上海宇量昇_多物理场仿真工程师]
+score_rationale: 'fit9多物理场仿真核心岗(光刻方向);salary7硕士现实30-42万25万起(35-50万系博士口径);stability7国资光刻攻关;certainty8岗位在招三源核实;wlb5华为系强度;调研校正09-09/09-17'
+note: 来源:总表[上海宇量昇_多物理场仿真工程师]。公司方向修正=半导体专用设备（光刻相关高精密机电），非芯片测试；base浦东曹路；JD标博士优先，硕士可投
 tags:
 - A1-半导体装备
 log:
@@ -30,3 +30,5 @@ log:
   note: '[offershow] 正式批公告发布 2026-08-27（原 2026-06-21）'
 - date: '2026-09-09'
   note: '[调研] 全称上海宇量昇(国资控股,DUV光刻设备,传闻华为系/新凯来关联未官宣);27届06-16启动长期网申,多物理场仿真工程师在列(力/电磁/流体/热,纯对口核心岗,另有CFD/热流设计岗);爆料35万级;强度向华为看齐;09-09'
+- date: '2026-09-17'
+  note: '[复核] 定性修正:半导体设备(光刻方向)非芯片测试;salary8→7(硕士30-42万),79维持'
