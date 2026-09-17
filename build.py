@@ -422,9 +422,10 @@ document.getElementById("wlegend").innerHTML = W_LBL.map((n,i)=>`<span><b>${n}</
   };
   D.companies.forEach(c=>c.jobs.forEach(j=>{if(j.recruiting_group)add(j.recruiting_group,j.portal,"pend",c.key);}));
   (D.piping||[]).forEach(p=>{if(p.recruiting_group)add(p.recruiting_group,p.portal,"pipe",p.name);});
-  const lines=Object.keys(gm).filter(g=>gm[g].pend.length>=2).map(g=>{
+  const lines=Object.keys(gm).filter(g=>gm[g].pend.length>=2||gm[g].pipe.length>0).map(g=>{
     const e=gm[g],total=e.pend.length+e.pipe.length;
-    let s=`同招聘系统：${esc(g)} — 共 ${total} 家 · 待投 ${e.pend.length} 家（${e.pend.map(esc).join("/")}）`;
+    let s=`同招聘系统：${esc(g)} — 共 ${total} 家`;
+    if(e.pend.length)s+=` · 待投 ${e.pend.length} 家（${e.pend.map(esc).join("/")}）`;
     if(e.pipe.length)s+=`｜推进中 ${e.pipe.length} 家（${e.pipe.map(esc).join("/")}）`;
     if(e.portal)s+=`｜入口 ${esc(e.portal)}`;
     return `<span>${s}</span>`;
@@ -435,7 +436,7 @@ function render(){
   const min=+document.getElementById("r-min").value, n=+document.getElementById("r-n").value;
   let list=D.companies.filter(c=>!c.best.scored||c.best.total>=min);
   if(n>0)list=list.slice(0,n);
-  document.getElementById("r-hint").textContent=`共 ${list.length} 家候选企业 · C红线 ${D.excluded} 个 · 推进中企业 ${D.in_pipe} 家已移出`;
+  document.getElementById("r-hint").textContent=`共 ${list.length} 家候选企业 · C红线 ${D.excluded} 个 · 推进中（含同集团）${D.in_pipe} 家已移出`;
   const bc=document.getElementById("rank-cards");
   const top=list[0]||{best:{}};
   bc.innerHTML=[
@@ -601,13 +602,16 @@ def main():
                                     encoding="utf-8")
 
     # ---- rank（候选榜：每企取最高分公司行；C红线和待定剔除）----
-    # 老版规则：有推进岗位（已投递且未终结）的企业整企移出候选榜
-    active_cos = {r["name"] for r in applied if not r["outcome"]}
+    # 移出粒度=集团（recruiting_group，无则回退企业名）：有推进岗位（已投递且未终结）的集团整组移出候选榜
+    def gkey(r):
+        return r["recruiting_group"] or r["name"]
+
+    active = {gkey(r) for r in applied if not r["outcome"]}
     pend = [r for r in recs if r["stage_key"] == "pending" and not r["outcome"]
-            and r["boundary"] in ("S", "A", "B") and r["name"] not in active_cos]
+            and r["boundary"] in ("S", "A", "B") and gkey(r) not in active]
     excluded = sum(1 for r in recs if r["stage_key"] == "pending"
                    and r["boundary"] not in ("S", "A", "B"))
-    in_pipe = len({r["name"] for r in applied if not r["outcome"]})
+    in_pipe = len({gkey(r) for r in applied if not r["outcome"]})
     by_co = defaultdict(list)
     for r in pend:
         by_co[r["name"]].append(r)
@@ -620,9 +624,12 @@ def main():
     seen_pipe = set()
     piping = []
     for r in applied:
-        if r["outcome"] or r["name"] in seen_pipe:
+        if r["outcome"]:
             continue
-        seen_pipe.add(r["name"])
+        g = gkey(r)
+        if g in seen_pipe:
+            continue
+        seen_pipe.add(g)
         piping.append({"name": r["name"], "recruiting_group": r.get("recruiting_group"),
                        "portal": r.get("portal")})
     data = {"companies": companies, "excluded": excluded, "in_pipe": in_pipe,
