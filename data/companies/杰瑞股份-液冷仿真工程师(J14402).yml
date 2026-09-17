@@ -8,7 +8,8 @@ recruiting_group: '杰瑞集团'
 portal: 'jereh.zhiye.com（北森系统）'
 link: https://jereh.zhiye.com
 salary_range: ''
-stages: {}
+stages:
+  applied: '2026-09-17'
 updated_at: '2026-09-17'
 track: 液冷/AIDC
 boundary: S
@@ -35,3 +36,5 @@ log:
   note: '[调研] 薪资口径修正(正式批硕士19-25万,salary8→7)+同名陷阱标注'
 - date: '2026-09-17'
   note: '[调研] JD逐条对口(Simulink一维/3D-1D耦合/联合仿真/标定验证/规范制定),fit9→10/cert7→8,77.5→81'
+- date: '2026-09-17'
+  note: '[投递] 杰瑞网申：一志愿液冷仿真(J14402)二志愿液冷机械(J14380)，定制简历(JD六职责逐条镜像)，待测评/笔试通知'
