@@ -1,0 +1,33 @@
+id: sase-804-thermal-2027
+name: 上海航天电子通讯设备研究所(804所)
+position: 热控设计
+group: 正式批
+channel: 官网
+city: 上海
+recruiting_group: '上海航天技术研究院（八院）'
+portal: 'sast.zhiye.com（中国航天人才网）'
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-17'
+track: 航天电子/热设计
+boundary: S
+job_posted: '2026-07-27'
+score:
+  fit: 7
+  track: 7
+  city: 7
+  salary: 6
+  stability: 8
+  certainty: 5
+  urgency: 6
+  wlb: 5
+score_rationale: 'fit7电子设备/分机热设计,电热耦合与电池热管理高度可迁移,需补辐射换热/外热流;track7制导雷达+测控通信核心军品所;city7闵行航天城偏;salary6硕士22-35万核心紧缺27-35万;stability8型号任务饱满但编制需满三年排队;certainty5 JD详情需登录未直读+编制排队,签约前需HR书面确认;urgency6;wlb5军品所节奏;调研2026-09-17'
+note: 主业制导雷达/测控通信/综合电子；本岗为电子设备热设计与热仿真（非整器热控）；事业编需工作满三年申请排队；简历突出电子设备热仿真/热-电耦合关键词
+tags:
+- 航天科技八院
+- 电子设备热设计
+- 上海
+log:
+- date: '2026-09-17'
+  note: '[调研] 804所热控设计岗=电子设备/分机热仿真；硕士22-35万；编制满三年排队；fit7/66.5分'
