@@ -3,7 +3,7 @@ name: 联想
 position: 散热工程师
 group: 正式批
 channel: 官网
-city: 合肥
+city: 北京/天津
 link: https://talent.lenovo.com.cn/position?projectType=1
 salary_range: 预估25-35W
 stages: {}
@@ -15,15 +15,15 @@ job_posted: '2026-08-07'
 source_id: offershow:f177cf19-17db-4bc5-90df-7cc531f9ff9e
 score:
   fit: 8
-  track: 8
-  city: 10
+  track: 9
+  city: 8
   salary: 7
   stability: 8
   certainty: 7
   urgency: 7
   wlb: 5
-score_rationale: 'city10合肥主场;fit8笔记本散热纯对口(与联宝同岗对齐);stability8联想历史最佳财年支撑;salary7合肥base;调研校正09-09/09-17'
-note: 来源:总表[联想_散热工程师];与联宝科技-散热设计工程师为同一LCFC合肥岗位的双入口(集团网申vs联宝独立网申),二选一投递
+score_rationale: 'fit8服务器/ISG散热设计(散热器/风扇/热分析,JD所属部门ISG);track9服务器AI算力赛道(ISG营收1360亿+增长引擎);city8北京/天津锚点;salary7;stability8联想历史最佳财年;原city10合肥系09-09误标(实际北京/天津),09-17更正;调研校正09-09/09-17'
+note: 来源:总表[联想_散热工程师]
 tags:
 - B3-电子科技
 log:
@@ -37,3 +37,5 @@ log:
   note: '[修正] 撤回已投递标记:官网账号登不上无法核实,大概率未投递成功;移回候选榜待重新投递'
 - date: '2026-09-17'
   note: '[校正] fit9→8与联宝记录对齐(同一LCFC岗位双入口,溢价只体现在stability);交叉标注勿重复投递'
+- date: '2026-09-17'
+  note: '[勘误] city合肥→北京/天津(官网JD:China Geo,ISG,北京/天津);撤销与联宝的双入口标注(非同一岗:联想ISG服务器散热vs联宝合肥PC笔记本);track8→9服务器赛道;76→77.5'
