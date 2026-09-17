@@ -1,0 +1,34 @@
+id: jereh-sim-thermal-2027
+name: 杰瑞股份
+position: 仿真工程师（液冷/热能方向，招30人）
+group: 正式批
+channel: 官网
+city: 烟台
+recruiting_group: '杰瑞集团'
+portal: 'jereh.zhiye.com（北森系统）'
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-17'
+track: 液冷/AIDC
+boundary: S
+job_posted: '2026-09-10'
+score:
+  fit: 9
+  track: 8
+  city: 7
+  salary: 7
+  stability: 7
+  certainty: 7
+  urgency: 6
+  wlb: 6
+score_rationale: 'fit9 JD含液冷/制冷/热能/换热仿真,与储能热管理+CFD背景直接对口;track8 AIDC第二曲线+燃机发电机组;city7烟台锚点(另有天津/上海名额);salary7正式批硕士19-25万,提前批25-35万窗口已过;certainty7 JD明确30人大额招聘;调研2026-09-17'
+note: 同名陷阱警示——"青岛杰瑞工控"是中国船舶716所分支（央企，青岛，软件/算法/电气岗，无热岗），与本公司无任何股权关系，勿混淆；另有暖通工程师（深圳）/燃气轮机机械工程师（上海）/能动工程师（烟台传热换热）等热岗可同系统投递
+tags:
+- 液冷
+- AIDC
+- 烟台
+- 仿真
+log:
+- date: '2026-09-17'
+  note: '[调研] 仿真工程师招30人JD含液冷/制冷/热能/换热仿真；正式批硕士19-25万；同名陷阱（杰瑞工控=中船716所）已标注'
