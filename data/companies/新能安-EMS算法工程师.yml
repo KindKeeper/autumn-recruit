@@ -7,12 +7,12 @@ city: 厦门
 link: ''
 salary_range: ''
 stages: {}
-updated_at: '2026-09-10'
+updated_at: '2026-09-17'
 boundary: S
 job_posted: '2026-08-17'
 source_id: offershow:c48dd537-dbcb-4416-9cd7-815d75c72031
 score:
-  fit: 3
+  fit: 5
   track: 8
   city: 7
   salary: 8
@@ -20,10 +20,12 @@ score:
   certainty: 7
   urgency: 7
   wlb: 5
-score_rationale: 'fit3转行;track8储能赛道;调研校正09-10'
-note: 来源:总表[新能安_EMS算法工程师]
+score_rationale: 'EMS=储能电站能量管理调度算法(出力调度/峰谷套利/收益测算);微电网控制与优化建模部分交集(fit5);电价预测与电力市场知识是短板;能动非校招明列专业;调研2026-09-17'
+note: 来源:总表[新能安_EMS算法工程师]。社招JD明列"能源与热动工程"但2027校招大类未列，简历需突出微电网控制与优化建模
 tags:
 - B5-储能光伏
 log:
 - date: '2026-09-10'
   note: '[调研] 新能安27届08-14启动(截止11-12),EMS算法=能量管理算法转行岗;base厦门;硕士23-34万;09-10'
+- date: '2026-09-17'
+  note: '[调研] EMS实为电站侧能量管理调度算法(电力市场向);fit3→5半对口'

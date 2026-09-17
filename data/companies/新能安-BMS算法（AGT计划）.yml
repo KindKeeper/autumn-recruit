@@ -7,7 +7,7 @@ city: 厦门
 link: ''
 salary_range: ''
 stages: {}
-updated_at: '2026-09-10'
+updated_at: '2026-09-17'
 track: 算法类
 boundary: B
 apply_deadline: 尽快投递
@@ -15,18 +15,20 @@ outcome: frozen
 job_posted: '2026-08-17'
 source_id: offershow:c48dd537-dbcb-4416-9cd7-815d75c72031
 score:
-  fit: 3
+  fit: 4
   track: 8
   city: 7
   salary: 8
   stability: 8
-  certainty: 6
+  certainty: 1
   urgency: 7
   wlb: 5
-score_rationale: 'fit3转行;certainty6顶尖项目竞争大;调研校正09-10'
-note: 无总表打分（待评估）
+score_rationale: 'AGT计划为博士专属科研攻坚通道(挑战课题制,薪酬一人一议),硕士不可投(certainty1);内容与普通BMS算法岗同源;应改投常规校招BMS算法工程师;调研2026-09-17'
+note: 无总表打分（待评估）。AGT限博士（毕业2025.1-2027.12海内外博士），硕士无资格；BMS算法走常规校招（已在另一记录覆盖）
 tags:
 - B5-储能光伏
 log:
 - date: '2026-09-10'
   note: '[调研] AGT全球顶尖人才项目下BMS算法,同为电化学+控制转行岗;一人一议薪资;09-10'
+- date: '2026-09-17'
+  note: '[调研] AGT=博士专属提前批,硕士不可投;fit3→4/certainty→1,与电规总院同类标注'
