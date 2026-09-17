@@ -1,0 +1,33 @@
+id: sase-801-thermal-2027
+name: 上海空间推进研究所(801所)
+position: 推进系统仿真分析岗
+group: 正式批
+channel: 官网
+city: 上海
+recruiting_group: '上海航天技术研究院（八院）'
+portal: 'sast.zhiye.com（中国航天人才网）'
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-17'
+track: 能动/空间推进
+boundary: S
+job_posted: '2026-09-01'
+score:
+  fit: 7
+  track: 7
+  city: 8
+  salary: 7
+  stability: 8
+  certainty: 5
+  urgency: 6
+  wlb: 6
+score_rationale: 'fit7发动机热设计/推进剂热管理对口,电池热管理需转译;track7;city8上海;salary7硕士综合22-35万首年靠下限;stability8;certainty5公告仅承诺博士优先事业编,硕士用工性质需电话确认;urgency6滚动;调研2026-09-17'
+note: 国内唯一空间姿轨控推进研究所；投递邮箱 sisp801zp@163.com（命名：学校+学历+姓名+意向岗位），刘老师021-64852789转3606；硕士事业编未书面承诺是主要不确定项
+tags:
+- 空间推进
+- 航天八院
+- 上海
+log:
+- date: '2026-09-17'
+  note: '[调研] 801所推进系统仿真分析岗：发动机热设计/推进剂热管理对口；硕士综合22-35万首年靠下限；硕士事业编未书面承诺是主要不确定项'

@@ -146,6 +146,7 @@ def validate_and_build(rec, cfg, fname):
         "link": rec.get("link", ""), "track": rec.get("track", ""),
         "boundary": rec.get("boundary", ""),
         "salary_range": rec.get("salary_range", ""),
+        "recruiting_group": rec.get("recruiting_group"), "portal": rec.get("portal"),
         "job_posted": str(job_posted or ""), "deadline": str(deadline or ""),
         "stage_key": stage_key, "stage_label": stage_label,
         "outcome": outcome or "", "outcome_label": cfg["outcome_labels"].get(outcome, ""),
@@ -310,7 +311,7 @@ function tierPill(j){
 }
 function jobLine(j,extra){
   return `<div class="pipe-item"><div class="pi-top"><span><b>${esc(j.name)}</b> · ${esc(j.position)}</span>${extra||""}</div>
-    <div class="note">${j.deadline?`截止 ${esc(j.deadline)} · `:""}${j.city?esc(j.city)+" · ":""}${j.updated_at?("更新 "+esc(j.updated_at)):""}${j.note?` · ${esc(j.note)}`:""}</div></div>`;
+    <div class="note">${j.deadline?`截止 ${esc(j.deadline)} · `:""}${j.city?esc(j.city)+" · ":""}${j.updated_at?("更新 "+esc(j.updated_at)):""}${j.note?` · ${esc(j.note)}`:""}${j.recruiting_group?` · 集团：${esc(j.recruiting_group)}`:""}</div></div>`;
 }
 """
 
@@ -397,6 +398,7 @@ RANK_CONTENT = """
   <select id="r-n"><option value="50">50</option><option value="30">30</option><option value="100">100</option><option value="0" selected>全部</option></select>
   <span class="sub" id="r-hint"></span>
 </div>
+<div class="wlegend" id="group-panel" style="display:none"></div>
 <div class="panel">
   <h3>候选榜 <span class="sub">· 每企业取最高分公司行 · 点击展开全部在投岗位 · C红线不显示</span></h3>
   <div class="wlegend" id="wlegend"></div>
@@ -411,6 +413,24 @@ RANK_SCRIPT = """
 const D = %DATA%;
 document.getElementById("wlegend").innerHTML = W_LBL.map((n,i)=>`<span><b>${n}</b> <span class="s">${W_W[i]}%</span></span>`).join("")
   + `<span style="margin-left:auto">总分 = Σ(权重×分值)/10</span>`;
+(function(){
+  const gm={};
+  const add=(g,portal,list,co)=>{
+    const e=gm[g]||(gm[g]={pend:[],pipe:[],portal:""});
+    if(!e[list].includes(co))e[list].push(co);
+    if(!e.portal&&portal)e.portal=portal;
+  };
+  D.companies.forEach(c=>c.jobs.forEach(j=>{if(j.recruiting_group)add(j.recruiting_group,j.portal,"pend",c.key);}));
+  (D.piping||[]).forEach(p=>{if(p.recruiting_group)add(p.recruiting_group,p.portal,"pipe",p.name);});
+  const lines=Object.keys(gm).filter(g=>gm[g].pend.length>=2).map(g=>{
+    const e=gm[g],total=e.pend.length+e.pipe.length;
+    let s=`同招聘系统：${esc(g)} — 共 ${total} 家 · 待投 ${e.pend.length} 家（${e.pend.map(esc).join("/")}）`;
+    if(e.pipe.length)s+=`｜推进中 ${e.pipe.length} 家（${e.pipe.map(esc).join("/")}）`;
+    if(e.portal)s+=`｜入口 ${esc(e.portal)}`;
+    return `<span>${s}</span>`;
+  });
+  if(lines.length){const gp=document.getElementById("group-panel");gp.style.display="flex";gp.innerHTML=lines.join("");}
+})();
 function render(){
   const min=+document.getElementById("r-min").value, n=+document.getElementById("r-n").value;
   let list=D.companies.filter(c=>!c.best.scored||c.best.total>=min);
@@ -443,7 +463,7 @@ function toggleCo(tr,key){
   if(nx&&nx.classList.contains("subrow")){nx.remove();return;}
   const co=D.companies.find(c=>c.key===key);
   const inner=co.jobs.map(j=>`<div class="pipe-item"><div class="pi-top"><span><b>${esc(j.position)}</b> ${tierPill(j)} ${freshBadge(j.job_posted)}
-    <span class="sub">${esc(j.city||"")}${j.salary_range?" · "+esc(j.salary_range):""}${j.deadline?" · 截止 "+esc(j.deadline):""}</span></span>
+    <span class="sub">${esc(j.city||"")}${j.salary_range?" · "+esc(j.salary_range):""}${j.deadline?" · 截止 "+esc(j.deadline):""}${j.recruiting_group?" · 集团："+esc(j.recruiting_group):""}</span></span>
     <span class="pi-right">${scoreCell(j)} ${wBars(j)}</span></div></div>`).join("");
   tr.insertAdjacentHTML("afterend",`<tr class="subrow"><td colspan="8">${inner}</td></tr>`);
 }
@@ -499,7 +519,8 @@ def job_json(r):
             "salary_range": r["salary_range"], "job_posted": r["job_posted"],
             "deadline": r["deadline"], "scored": r["scored"], "total": r["score_total"] or 0,
             "tier": r["tier"] or "", "subs": r["sublist"], "note": r["note"],
-            "updated_at": r["updated_at"], "boundary": r["boundary"]}
+            "updated_at": r["updated_at"], "boundary": r["boundary"],
+            "recruiting_group": r.get("recruiting_group"), "portal": r.get("portal")}
 
 
 def main():
@@ -596,8 +617,17 @@ def main():
         companies.append({"key": co, "best": job_json(jobs[0]),
                           "jobs": [job_json(j) for j in jobs]})
     companies.sort(key=lambda c: ((0 if c["best"]["scored"] else 1), -c["best"]["total"]))
+    seen_pipe = set()
+    piping = []
+    for r in applied:
+        if r["outcome"] or r["name"] in seen_pipe:
+            continue
+        seen_pipe.add(r["name"])
+        piping.append({"name": r["name"], "recruiting_group": r.get("recruiting_group"),
+                       "portal": r.get("portal")})
     data = {"companies": companies, "excluded": excluded, "in_pipe": in_pipe,
-            "unscored": sum(1 for c in companies for j in [c["best"]] if not j["scored"])}
+            "unscored": sum(1 for c in companies for j in [c["best"]] if not j["scored"]),
+            "piping": piping}
     script = RANK_SCRIPT.replace("%DATA%", json_dumps(data))
     (out / "rank.html").write_text(page("rank", "候选榜", RANK_CONTENT, script, cfg, today, mode),
                                    encoding="utf-8")

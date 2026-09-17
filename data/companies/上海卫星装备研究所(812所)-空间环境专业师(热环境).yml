@@ -1,0 +1,33 @@
+id: sase-812-thermal-2027
+name: 上海卫星装备研究所(812所)
+position: 空间环境专业师（热环境）
+group: 正式批
+channel: 官网
+city: 上海
+recruiting_group: '上海航天技术研究院（八院）'
+portal: 'sast.zhiye.com（中国航天人才网）'
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-17'
+track: 航天热控/AIT
+boundary: S
+job_posted: '2026-07-31'
+score:
+  fit: 8
+  track: 7
+  city: 8
+  salary: 6
+  stability: 9
+  certainty: 7
+  urgency: 7
+  wlb: 6
+score_rationale: 'fit8热真空试验/热控产品岗与传热CFD电热耦合高度对口;track7;city8上海;salary6硕士20-25万;stability9事业单位;certainty7岗位已在招系统可查;urgency7招满即止;调研2026-09-17'
+note: 八院卫星AIT中心，风云总装试验单位；入编后20万+住房补贴；岗位含热控产品工程师/电热产品工程师
+tags:
+- 热真空试验
+- 航天八院
+- 上海
+log:
+- date: '2026-09-17'
+  note: '[调研] 812所空间环境专业师（热环境）：热真空试验/热控产品岗与传热CFD电热耦合高度对口；硕士20-25万；招满即止'
