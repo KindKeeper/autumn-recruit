@@ -1,0 +1,33 @@
+id: jereh-heat-exchanger-2027
+name: 杰瑞股份
+position: 能动工程师（传热/换热方向）(J14215)
+group: 正式批
+channel: 官网
+city: 烟台
+recruiting_group: '杰瑞集团'
+portal: 'jereh.zhiye.com（北森系统）'
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-17'
+track: 换热装备
+boundary: S
+job_posted: '2026-07-06'
+score:
+  fit: 7
+  track: 6
+  city: 6
+  salary: 7
+  stability: 7
+  certainty: 6
+  urgency: 6
+  wlb: 5
+score_rationale: 'fit7换热器热工计算与设计对口;扣在石化/空冷器传统行业+售前投标技术支持性质;track6油气装备基本盘非第二曲线;city6烟台锚点;salary7正式批19-25万;stability7;certainty6 JD明确传统岗定性无疑;urgency6;wlb5投标支持或涉出差应酬;调研2026-09-17'
+note: JD确认=石化换热器及空冷器设计（合同/招标/技术协议解读→热工报告→方案图→投标支持）；英语六级要求；传统装备向，与液冷链无关；作为烟台备胎选项
+tags:
+- 换热器
+- 烟台
+- 传统装备
+log:
+- date: '2026-09-17'
+  note: '[调研] JD定性：石化换热器设计+售前技术支持，fit7/64分，烟台备胎'

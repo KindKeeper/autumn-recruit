@@ -1,0 +1,32 @@
+id: jereh-cfd-fluid-2027
+name: 杰瑞股份
+position: 仿真工程师（流体方向）(J14204)
+group: 正式批
+channel: 官网
+city: 烟台
+recruiting_group: '杰瑞集团'
+portal: 'jereh.zhiye.com（北森系统）'
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-17'
+track: 流体仿真
+boundary: S
+job_posted: '2026-07-04'
+score:
+  fit: 6
+  track: 7
+  city: 6
+  salary: 7
+  stability: 7
+  certainty: 6
+  urgency: 6
+  wlb: 6
+score_rationale: 'fit6流体/热能/换热仿真部分对口;但JD主结构强度/可靠性/动力学,能动为列举专业之一;track7;city6烟台锚点;salary7正式批19-25万;stability7;certainty6;urgency6;wlb6;调研2026-09-17'
+note: 泛仿真岗：JD以结构强度/可靠性/动力学为主，流体/热能/换热仿真为部分职责、能动为列举专业之一；作为集团投递 completeness 记录
+tags:
+- 流体仿真
+- 烟台
+log:
+- date: '2026-09-17'
+  note: '[调研] 泛仿真岗（结构为主，流体/热能为部分职责），fit6/63.5分，烟台'

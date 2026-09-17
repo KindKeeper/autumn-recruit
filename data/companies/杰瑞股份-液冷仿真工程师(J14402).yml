@@ -14,16 +14,16 @@ track: 液冷/AIDC
 boundary: S
 job_posted: '2026-08-18'
 score:
-  fit: 9
+  fit: 10
   track: 8
   city: 8
   salary: 7
   stability: 7
-  certainty: 7
+  certainty: 8
   urgency: 6
   wlb: 6
-score_rationale: 'fit9液冷系统一维热管理建模(CDU/管路/泵阀/换热器)+3D-1D耦合+PUE/COP能耗仿真,对口偏系统级仿真;track8 AIDC第二曲线;city8深圳;salary7正式批硕士19-25万(原提前批25-38万口径修正,核心紧缺可更高);stability7新设业务线2026-07才发布产品;urgency6正式批滚动;调研2026-09-10/09-17'
-note: 与J14380同业务线（杰瑞能控）；要求精通一维仿真软件+Python；数据中心为主储能为辅。同名陷阱警示（杰瑞工控=中船716所分支，勿混淆）；薪资口径：正式批硕士19-25万，核心紧缺可更高
+score_rationale: 'JD逐条对口:Simulink一维系统仿真(CDU/管路/泵/阀/换热器)+3D-1D耦合+EEV调节/泵变频联合仿真+Python数据后处理与参数辨识+试验对标与标定Calibration&Validation+技术规范制定,与CAES横向课题工作高度同构(fit10);certainty8职责与技能清单重合度极高;city8深圳;salary7正式批19-25万;调研2026-09-17'
+note: 与J14380同业务线（杰瑞能控）；要求精通一维仿真软件+Python；数据中心为主储能为辅。同名陷阱警示（杰瑞工控=中船716所分支，勿混淆）；薪资口径：正式批硕士19-25万，核心紧缺可更高。JD确认本岗=系统级液冷仿真（一次侧/二次侧回路/CDU/冷板/PUE与COP能耗仿真/TCO分析），是CAES项目方法论的直接平移；杰瑞液冷链首选岗
 tags:
 - 液冷仿真
 - AIDC
@@ -33,3 +33,5 @@ log:
   note: '[调研] JD=液冷系统一维热管理建模+3D-1D耦合+能耗仿真；硕士25-38万；深圳'
 - date: '2026-09-17'
   note: '[调研] 薪资口径修正(正式批硕士19-25万,salary8→7)+同名陷阱标注'
+- date: '2026-09-17'
+  note: '[调研] JD逐条对口(Simulink一维/3D-1D耦合/联合仿真/标定验证/规范制定),fit9→10/cert7→8,77.5→81'
