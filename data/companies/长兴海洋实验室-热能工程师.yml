@@ -1,0 +1,33 @@
+id: cxo-lab-thermal-2027
+name: 长兴海洋实验室
+position: 热能工程师（海洋核动力研究中心）
+group: 正式批
+channel: 官网
+city: 上海
+recruiting_group: '上海交通大学（长兴海洋实验室）'
+portal: 'cxo.sjtu.edu.cn'
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-18'
+track: 核热工/试验
+boundary: S
+job_posted: '2026-09-11'
+score:
+  fit: 6
+  track: 5
+  city: 4
+  salary: 5
+  stability: 6
+  certainty: 6
+  urgency: 6
+  wlb: 6
+score_rationale: 'fit6流动传热/热仿真可迁移;但核心偏核反应堆热工水力与安全试验,储能/液冷非对口需重塑叙事;track5新型研发机构大项目多但项目聘用晋升窄,核热小众跳槽面窄;city4长兴岛远郊生活配套弱(可依托交大办上海落户);salary5硕士约18-25万明显低于新能源/车企热管理;stability6交大背书+市财政但聘用制稳定性天然弱;certainty6秋招刚启动正式JD未全发布基于核动力中心在招JD推断;urgency6;wlb6;调研2026-09-18'
+note: 上海交大牵头的新型研发机构（林忠钦院士任主任），2026-06启用；⚠️聘用制（项目聘用A）非事业编；职责=热工及安全试验研究软硬件构建；硕士勿对标博士后30万+口径；两周内复核官网正式JD
+tags:
+- 核热工
+- 聘用制
+- 上海
+log:
+- date: '2026-09-18'
+  note: '[调研] 热能工程师=核热工安全试验方向，聘用制非编；长兴岛偏远；硕士18-25万；fit6/53.5辅投'

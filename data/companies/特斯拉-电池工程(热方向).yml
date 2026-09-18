@@ -1,0 +1,33 @@
+id: tesla-battery-thermal-2027
+name: 特斯拉
+position: 电池工程（热方向，动力&能源类）
+group: 正式批
+channel: 官网
+city: 上海
+recruiting_group: '特斯拉'
+portal: '特斯拉校招官网'
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-18'
+track: 电池热管理
+boundary: S
+job_posted: '2026-09-16'
+score:
+  fit: 7
+  track: 8
+  city: 8
+  salary: 8
+  stability: 7
+  certainty: 4
+  urgency: 5
+  wlb: 4
+score_rationale: 'fit7无独立热管理正职校招岗;电池工程热方向部分对口;液冷/BTMS/CFD经历可迁移但需简历对齐关键词;track8热管理/储能全球顶尖平台但中国热团队编制精应届HC极少;city8上海;salary8硕士现金25-35万+RSU(注意57.7%岗位8-15k为生产质量类);stability7上海厂2025交付85万辆但2026薪酬同比-32%耗材文化强度大;certainty4热方向应届HC极少实习转正是主入口需2026年内到岗实习3-6个月,非车辆科班ATS风险参考蔚来初筛挂;urgency5;wlb4;调研2026-09-18'
+note: ⚠️'热管理系统工程师'正职为中高级社招岗，校招勿投；打法=T-STAR热管理实习转正（嵌入式偏控制）或电池工程热方向JD；简历关键词改BTMS/液冷CFL/Megapack；实习转正确定性最高但时间窗口紧
+tags:
+- 电池热管理
+- 上海
+- 外企
+log:
+- date: '2026-09-18'
+  note: '[调研] 动力&能源类无热管理正职；主攻电池工程热方向或T-STAR实习转正；硕士25-35万+RSU；fit7/69'
