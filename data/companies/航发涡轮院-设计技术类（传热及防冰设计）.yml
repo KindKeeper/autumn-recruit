@@ -6,8 +6,10 @@ channel: 官网
 city: 成都
 link: https://wolunyuan.iguopin.com
 salary_range: 事业编制（六险两金+安家费+人才公寓）
+outcome: given_up
+outcome_note: '放弃投递:网申走国聘平台需注册身份证号,隐私考虑不为此交出身份证'
 stages: {}
-updated_at: '2026-09-17'
+updated_at: '2026-09-18'
 track: 热管理类
 boundary: S
 job_posted: '2026-08-28'
@@ -30,3 +32,5 @@ log:
   note: '[调研] 27届简章已发(08-28,国聘平台wolunyuan.iguopin.com),传热防冰方向确认在招,硕士年包15-20万事业编,院所扩编;09-09校正'
 - date: '2026-09-17'
   note: '[复核] city绵阳→成都新都(设计岗),salary7→5(硕士15-20万,原口径系博士),80.5→77.5'
+- date: '2026-09-18'
+  note: '[放弃] 同试验技术类:国聘注册需身份证号,放弃投递'
