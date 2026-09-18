@@ -1,0 +1,33 @@
+id: startorus-magnet-2027
+name: 星环聚能
+position: 磁体工程师/机械工程师（仿真方向）
+group: 正式批
+channel: 官网
+city: 上海
+recruiting_group: '星环聚能'
+portal: '星环聚能校招'
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-18'
+track: 核聚变/磁体热稳定
+boundary: S
+job_posted: '2026-09-15'
+score:
+  fit: 6
+  track: 8
+  city: 6
+  salary: 6
+  stability: 5
+  certainty: 6
+  urgency: 6
+  wlb: 5
+score_rationale: 'fit6加热工程师=中性束离子源/束线专业清单无工程热物理(fit3勿投);磁体工程师方向需求含低温与制冷工程,HTS磁体热稳定/失超与热工背景最贴近(fit6);track8聚变独角兽2026年三轮融资累计23.8亿CTRFR-1星环一号已发布但商业化兑现远在2035后;city6嘉定偏远(总部西安高陵);salary6硕士约15-25k×15薪≈22-38万数字不透明;stability5未盈利聚变烧钱周期长依赖持续融资;certainty6公司/融资/装置多源证实但JD细节来自转载简章;urgency6;wlb5;调研2026-09-18'
+note: ⚠️"加热工程师""等离子体工程师（计算）"均为等离子体物理/核工方向，工程热物理简历关大概率输科班，勿主投；正解=磁体工程师（含低温与制冷工程）或机械工程师（仿真方向）；聚变赛道第二家（首家为聚变新能已投）
+tags:
+- 核聚变
+- 磁体热稳定
+- 上海
+log:
+- date: '2026-09-18'
+  note: '[调研] 加热工程师=中性束方向勿投；磁体工程师（低温与制冷）是热工正解；聚变独角兽23.8亿融资；fit6/61.5彩票定位'

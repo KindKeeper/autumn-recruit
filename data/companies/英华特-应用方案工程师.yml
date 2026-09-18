@@ -1,0 +1,33 @@
+id: invotech-app-2027
+name: 英华特
+position: 应用方案工程师
+group: 正式批
+channel: 官网
+city: 苏州
+recruiting_group: '英华特'
+portal: 'campus.51job.com/invotech'
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-18'
+track: 压缩机/制冷应用
+boundary: S
+job_posted: '2026-09-15'
+score:
+  fit: 7
+  track: 6
+  city: 7
+  salary: 5
+  stability: 6
+  certainty: 7
+  urgency: 6
+  wlb: 6
+score_rationale: 'fit7应用方案工程师明文收能源/动力专业(系统方案+客户应用技术支持);研发工程师为机械主导对口性弱;FEA工程师纯结构力学勿投;track6涡旋压缩机细分龙头国产替代+热泵但传统制冷赛道离储能/车热管理叙事远;city7苏州常熟成本低配套好;salary5硕士约17-25万/14薪低于储能头部;stability6上市细分龙头但2026H1扣非转亏解禁现金流转负;certainty7应用岗明文对口过简历关确定性高;urgency6;wlb6;调研2026-09-18'
+note: ⚠️FEA工程师=结构力学岗（机械专业，勿投）；研发工程师机械主导可argue压缩机热力设计；应用方案工程师是明文对口入口；公司2026H1扣非亏损+38%解禁，奖金调薪弹性存疑
+tags:
+- 涡旋压缩机
+- 苏州
+- 制冷应用
+log:
+- date: '2026-09-18'
+  note: '[调研] 应用方案工程师明文收能动（fit7）；FEA/研发岗机械主导勿投；硕士17-25万；fit7/64.5保底定位'
