@@ -14,7 +14,7 @@ job_posted: '2026-09-08'
 score:
   fit: 10
   track: 10
-  city: 6
+  city: 7
   salary: 7
   stability: 7
   certainty: 5
@@ -25,3 +25,5 @@ tags:
 - B3-电子科技
 - 液冷散热龙头
 - 热设计直接对口
+- date: '2026-09-18'
+  note: '[校正] city6→7:广州为一线(锚点表漏列,按深圳8递减一档);原打低已更正'
