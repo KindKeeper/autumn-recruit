@@ -53,13 +53,43 @@ def parse_date(s):
 
 
 def city_score_from_anchors(city_str, anchors):
-    """按 city_anchors 派生 city 分：多城取命中分值最大值；完全未命中返回 (default, [未命中城市])。"""
+    """city 分三层派生：table 显式 override（子串匹配）> cities 数据走公式（gdp-dist+home，
+    clamp(floor, cap_non_home)，home_city 可破 cap，四舍五入 0.5）> default（并回报未登记城市）。
+    多城取各城得分最大值。"""
+    table = anchors.get("table") or {}
+    data = anchors.get("cities") or {}
+    gdp_bands = anchors.get("gdp_bands") or []
+    dist_bands = anchors.get("dist_bands") or []
+    floor_v = anchors.get("floor", 0)
+    cap = anchors.get("cap_non_home", 10)
+    home = anchors.get("home_city")
+    bonus = anchors.get("home_bonus", 0)
+
+    def round05(x):
+        return int(x * 2 + 0.5) / 2
+
+    def formula(c):
+        scores = []
+        for k, (dist, gdp) in data.items():
+            if k not in c:
+                continue
+            base = next(b["base"] for b in gdp_bands if gdp >= b["min"])
+            pen = next(p["penalty"] for p in dist_bands if dist <= p["max"])
+            v = base - pen + (bonus if home and home in c else 0)
+            hi = 10 if (home and home in c) else cap
+            scores.append(round05(min(max(v, floor_v), hi)))
+        return max(scores) if scores else None
+
     cities = [c.strip() for c in re.split(r"[/、,，]", city_str or "") if c.strip()]
     hits, missed = [], []
     for c in cities:
-        m = [s for k, s in anchors["table"].items() if k in c]
+        m = [s for k, s in table.items() if k in c]
         if m:
             hits.append(max(m))
+            continue
+        f = formula(c) if anchors.get("mode") == "formula" else None
+        if f is not None:
+            hits.append(f)
         else:
             missed.append(c)
     return (max(hits) if hits else anchors["default"]), missed
@@ -587,8 +617,8 @@ def main():
             if not r["job_posted"]:
                 warns.append(f"{r['name']}·{r['position']}: 待投递缺job_posted")
         if r["city_missed"]:
-            warns.append(f"未登记城市: {r['name']}·{r['position']}: {'/'.join(r['city_missed'])}"
-                         f"（按default={cfg['city_anchors']['default']}计,请登记config.yml city_anchors）")
+            warns.append(f"未登记城市/GDP数据: {r['name']}·{r['position']}: {'/'.join(r['city_missed'])}"
+                         f"（按default={cfg['city_anchors']['default']}计,请登记config.yml city_anchors cities）")
     # 疑似同企多名（名字互为子串，如 华为 vs 华为数字能源），会导致整企移出规则失效
     _names = sorted({r["name"] for r in recs})
     for i, a in enumerate(_names):
