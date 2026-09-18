@@ -7,19 +7,22 @@ city: 深圳
 link: ''
 salary_range: ''
 stages: {}
-updated_at: '2026-09-12'
+updated_at: '2026-09-18'
 track: 热管理类
 boundary: S
 job_posted: '2026-09-12'
 score:
-  fit: 10
-  track: 9
-  salary: 8
+  fit: 6
+  track: 7
+  salary: 5
   stability: 7
   certainty: 5
   urgency: 5
   wlb: 6
-note: 古瑞瓦特=全球光伏逆变器龙头，热流工程师=热设计直接对口
+note: 岗位定性勘误：JD=热测试/热验证岗（整机温升测试/噪音测试/测试平台），非逆变器热设计仿真岗；实际总包15-25万，勿按"硕士高达35W"封顶宣传或60W博士口径
 tags:
 - 热流/热设计
 - 热管理直接对口
+log:
+- date: '2026-09-18'
+  note: '[调研] 岗位定性勘误:热测试/热验证岗非热设计仿真(fit10→6);实际15-25万勿按35W宣传(salary8→5);track9→7'

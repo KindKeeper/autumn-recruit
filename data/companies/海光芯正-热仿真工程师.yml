@@ -3,23 +3,26 @@ name: 海光芯正
 position: 热仿真工程师
 group: 正式批
 channel: 官网
-city: 北京
+city: 苏州
 link: ''
 salary_range: ''
 stages: {}
-updated_at: '2026-09-08'
+updated_at: '2026-09-18'
 track: 热管理类
 boundary: S
 job_posted: '2026-09-08'
 score:
-  fit: 10
+  fit: 7
   track: 9
-  salary: 8
-  stability: 7
+  salary: 5
+  stability: 6
   certainty: 5
   urgency: 5
   wlb: 6
-note: 硅光芯片企业，热仿真工程师直接对口
+note: ⚠️同名混淆警示：与国产CPU海光信息无任何关系（硅光芯片/光模块公司，2026港股上市，前五大客户占78.7%）；热仿真岗base=苏州（合肥系海光信息误植）；产品级散热设计非芯片级
 tags:
 - B3-电子科技
 - 芯片热仿真直接对口
+log:
+- date: '2026-09-18'
+  note: '[调研] 勘误:与海光信息无关(硅光公司港股上市,客户集中78.7%);base苏州非北京(city字段已更正);硕士15-20k×13-14约20-28万(salary8→5);上市+AI赛道但亏损(stability7→6);fit10→7产品级散热'

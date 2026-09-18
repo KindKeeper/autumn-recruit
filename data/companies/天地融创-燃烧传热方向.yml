@@ -7,19 +7,22 @@ city: 北京
 link: ''
 salary_range: ''
 stages: {}
-updated_at: '2026-09-14'
+updated_at: '2026-09-18'
 track: 能动/燃烧传热
 boundary: S
 job_posted: '2026-09-14'
 score:
   fit: 10
-  track: 9
-  salary: 7
+  track: 5
+  salary: 6
   stability: 8
-  certainty: 5
+  certainty: 4
   urgency: 5
   wlb: 6
-note: 天地融创=煤炭/能源企业，燃烧传热及物料输送方向直接对口
+note: 天地融创=煤炭/能源企业，燃烧传热及物料输送方向直接对口。中煤科工旗下煤科院子公司（非清华系，仅课题合作）；JD=燃煤锅炉燃烧/深度调峰；定位保底
 tags:
 - 燃烧/传热
 - 燃烧传热直接对口
+log:
+- date: '2026-09-18'
+  note: '[调研] 模板分修正:煤炭清洁利用收缩赛道(track9→5);薪资纯面议低置信(cert5→4,硕士18-25万);fit10保持,保底定位'
