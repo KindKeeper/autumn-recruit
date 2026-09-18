@@ -3,7 +3,7 @@ name: 明明机器人
 position: 热仿真工程师
 group: 正式批
 channel: 官网
-city: 松山湖
+city: 东莞
 link: ''
 salary_range: ''
 stages: {}
@@ -14,7 +14,6 @@ job_posted: '2026-09-08'
 score:
   fit: 10
   track: 9
-  city: 7
   salary: 7
   stability: 6
   certainty: 5
@@ -24,3 +23,6 @@ note: 机器人企业，热仿真工程师直接对口
 tags:
 - C4-智能硬件/具身智能
 - 机器人热仿真直接对口
+log:
+- date: '2026-09-18'
+  note: '[维护] city字段勘误: city 松山湖→东莞'

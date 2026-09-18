@@ -3,7 +3,7 @@ name: 麦田能源
 position: pack热仿真岗位
 group: 正式批
 channel: 官网
-city: 上海
+city: 东莞
 link: ''
 salary_range: A股上市（社招参考2.5-3万×13薪）
 stages: {}
@@ -15,7 +15,6 @@ source_id: offershow:a602afc1-2a13-46a7-80d3-db62fe6afc36
 score:
   fit: 9
   track: 8
-  city: 6
   salary: 7
   stability: 7
   certainty: 8
@@ -34,3 +33,5 @@ log:
   note: '[核查] JD原文(J11547)到手:硕士可投+工程热物理/热能与动力工程字面点名+无博士陷阱;职责4=整机热测试校核+仿真实测对标;要求2=锂离子电池产热机理与热失控链式反应机理(电池课题直接命中);软件=STAR-CCM+/Fluent/Icepak/Flotherm任一;79分成立'
 - date: '2026-09-18'
   note: '[校正] city7→6:东莞无双一流/公共配套弱于7分档城市,与常州同档;79→约77'
+- date: '2026-09-18'
+  note: '[维护] city字段勘误: city 上海→东莞'

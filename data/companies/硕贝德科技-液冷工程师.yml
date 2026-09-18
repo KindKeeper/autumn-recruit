@@ -17,7 +17,6 @@ apply_deadline: '2026-11-15'
 score:
   fit: 8
   track: 7
-  city: 5
   salary: 6
   stability: 6
   certainty: 7

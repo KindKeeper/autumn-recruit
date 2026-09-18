@@ -3,7 +3,7 @@ name: 中机国能电力工程
 position: 热控工程师
 group: 正式批
 channel: 官网
-city: 全国
+city: 上海
 link: ''
 salary_range: ''
 stages: {}
@@ -14,7 +14,6 @@ job_posted: '2026-09-11'
 score:
   fit: 4
   track: 8
-  city: 7
   salary: 5
   stability: 4
   certainty: 5
@@ -28,3 +27,5 @@ tags:
 log:
 - date: '2026-09-13'
   note: '[调研] 电厂热工控制传统能动完全不对口；主体存疑（聚合平台与国家能源集团龙源工程混淆，中机电力2023年底被1元对价出售80%股权、持续亏损），stability 8→4；8-12k；建议核对offer签约主体'
+- date: '2026-09-18'
+  note: '[维护] city字段勘误: city 全国→上海'

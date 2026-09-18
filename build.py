@@ -52,6 +52,19 @@ def parse_date(s):
         return None
 
 
+def city_score_from_anchors(city_str, anchors):
+    """按 city_anchors 派生 city 分：多城取命中分值最大值；完全未命中返回 (default, [未命中城市])。"""
+    cities = [c.strip() for c in re.split(r"[/、,，]", city_str or "") if c.strip()]
+    hits, missed = [], []
+    for c in cities:
+        m = [s for k, s in anchors["table"].items() if k in c]
+        if m:
+            hits.append(max(m))
+        else:
+            missed.append(c)
+    return (max(hits) if hits else anchors["default"]), missed
+
+
 def load_config():
     cfg = yaml.safe_load((ROOT / "config.yml").read_text(encoding="utf-8"))
     cfg["stage_keys"] = [s["key"] for s in cfg["stages"]]
@@ -113,6 +126,16 @@ def validate_and_build(rec, cfg, fname):
     w = cfg["score_weights"]
     subkeys = list(w.keys())
     subs = {k: int(score.get(k, 0)) for k in subkeys}
+    city_missed = []
+    if "city" in subkeys:
+        # city 分不再读取 YAML score.city，一律由 city_anchors 派生；city_score_override 优先
+        override = rec.get("city_score_override")
+        if override is not None:
+            if not (0 <= int(override) <= 10):
+                fail(f"{rid}: city_score_override 必须在 0-10 之间")
+            subs["city"] = int(override)
+        else:
+            subs["city"], city_missed = city_score_from_anchors(rec.get("city", ""), cfg["city_anchors"])
     scored = bool(score)
     if scored:
         if cfg["score_mode"] == "expected":
@@ -152,7 +175,7 @@ def validate_and_build(rec, cfg, fname):
         "outcome": outcome or "", "outcome_label": cfg["outcome_labels"].get(outcome, ""),
         "outcome_note": rec.get("outcome_note", ""),
         "score_total": total, "tier": tier, "subs": subs, "sublist": [subs[k] for k in subkeys],
-        "scored": scored, "urgent": urgent,
+        "scored": scored, "urgent": urgent, "city_missed": city_missed,
         "note": rec.get("note", ""), "tags": rec.get("tags") or [],
         "reached": reached, "last_node_date": last_node_date.isoformat() if last_node_date else "",
         "updated_at": str(rec.get("updated_at", ""))[:10],
@@ -563,6 +586,9 @@ def main():
                 warns.append(f"{r['name']}·{r['position']}: 待投递缺city")
             if not r["job_posted"]:
                 warns.append(f"{r['name']}·{r['position']}: 待投递缺job_posted")
+        if r["city_missed"]:
+            warns.append(f"未登记城市: {r['name']}·{r['position']}: {'/'.join(r['city_missed'])}"
+                         f"（按default={cfg['city_anchors']['default']}计,请登记config.yml city_anchors）")
     # 疑似同企多名（名字互为子串，如 华为 vs 华为数字能源），会导致整企移出规则失效
     _names = sorted({r["name"] for r in recs})
     for i, a in enumerate(_names):

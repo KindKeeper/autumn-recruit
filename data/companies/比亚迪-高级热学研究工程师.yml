@@ -3,7 +3,7 @@ name: 比亚迪
 position: 高级热学研究工程师
 group: 正式批
 channel: 官网
-city: ''
+city: 深圳
 recruiting_group: '比亚迪'
 portal: 'job.byd.com'
 link: job.byd.com
@@ -18,7 +18,6 @@ source_id: offershow:1ec17a6e-742e-49cb-b28c-e7ededd918bc
 score:
   fit: 10
   track: 9
-  city: 8
   salary: 9
   stability: 9
   certainty: 7
@@ -32,3 +31,5 @@ log:
   note: '[offershow] 正式批公告发布 2026-08-22（原 2026-07-27）'
 - date: '2026-09-05'
   note: '[邮箱] 比亚迪心理测评邀请（15:03，岗位确认：高级热学研究工程师）'
+- date: '2026-09-18'
+  note: '[维护] city字段勘误: city (空)→深圳'
