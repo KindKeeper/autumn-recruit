@@ -6,8 +6,10 @@ channel: 官网
 city: 绵阳
 link: ''
 salary_range: 未记录
+outcome: given_up
+outcome_note: '放弃投递:网申走国聘平台需注册身份证号,隐私考虑不为此交出身份证;且硕士15-20万到手性价比低'
 stages: {}
-updated_at: '2026-09-10'
+updated_at: '2026-09-18'
 track: 热物理类
 boundary: S
 job_posted: '2026-08-28'
@@ -28,3 +30,5 @@ tags:
 log:
 - date: '2026-09-10'
   note: '[调研] 27届简章08-28发布,五大类中试验技术类确认在招(base绵阳);设计技术类同步在招(成都);网申wolunyuan.iguopin.com;09-10'
+- date: '2026-09-18'
+  note: '[放弃] 不投:国聘注册需身份证号,隐私红线;薪资到手低是次要因素'
