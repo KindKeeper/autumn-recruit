@@ -1,0 +1,33 @@
+id: sinochem-zh-2027
+name: 浙江省化工研究院(浙化院)
+position: 研发工程师（能源动力类，硕）
+group: 正式批
+channel: 官网
+city: 杭州
+recruiting_group: '中化蓝天（中国中化）'
+portal: 'sinochem.hotjob.cn'
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-18'
+track: 制冷剂/工质研发
+boundary: S
+job_posted: '2026-09-01'
+score:
+  fit: 7
+  track: 7
+  city: 8
+  salary: 5
+  stability: 8
+  certainty: 8
+  urgency: 6
+  wlb: 6
+score_rationale: 'fit7能源动力类对应传热工质/工程热物理/制冷应用/制冷剂方向;液冷/储能非主线,入职大概率氟化工质/制冷应用而非电池热;track7央企研发平台+国家ODS替代品工程技术研究中心,偏应用开发;city8杭州;salary5官方硕士10000元以上/月(博士20000是博士口径勿对标),综合年包约13-18万;stability8中国中化央企正式合同;certainty8多官方渠道交叉验证在招,分团队方向有不确定性(宣讲会确认传热工质/制冷还是锂电团队);urgency6;wlb6;调研2026-09-18'
+note: 中化蓝天核心研发平台，唯一国家ODS替代品工程技术研究中心；主体已改制有限公司（企业编非事业编）；杭州生活补贴硕士约3万；B档，方向与城市俱佳但薪资偏低
+tags:
+- 制冷剂
+- 央企研发
+- 杭州
+log:
+- date: '2026-09-18'
+  note: '[调研] 能源动力类=制冷剂/传热工质方向（fit7）；硕士10k+/月；央企企业编；71分B档'
