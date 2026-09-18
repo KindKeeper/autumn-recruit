@@ -7,20 +7,20 @@ city: 成都
 link: ''
 salary_range: ''
 stages: {}
-updated_at: '2026-09-10'
+updated_at: '2026-09-18'
 track: 能动/航空发动机
 boundary: S
 job_posted: '2026-09-08'
 score:
-  fit: 9
+  fit: 8
   track: 9
   city: 7
   salary: 7
   stability: 9
-  certainty: 6
+  certainty: 8
   urgency: 6
   wlb: 7
-score_rationale: 'fit9环控/机载冷却对口;city7成都青羊;salary7硕士约20万;调研校正09-10'
+score_rationale: 'fit8 2027届JD原文字面名单不含能动,靠等相关专业兜底(2026届官方海报含能源与动力工程是对口依据);certainty8官网JD原文已核(611.zhiye.com,硕士可投+成都青羊日月大道1610号锁定);city7成都青羊;salary7薪资面议仅非官方18-25万参考;调研校正09-10/09-18'
 note: 成飞体系军工所，飞行器动力/能源与动力/流体力学专业直接对口
 tags:
 - A2-军工航天院所
@@ -29,3 +29,5 @@ tags:
 log:
 - date: '2026-09-10'
   note: '[调研] 成飞设计所（成都青羊），27届在招硕博可投，环控/机载冷却方向对口，硕士约20万'
+- date: '2026-09-18'
+  note: '[核查] JD原文:硕士可投非博士硬门槛;2027届字面名单不含能动(fit9→8,2026届海报含能源与动力工程);薪资面议仅非官方18-25万参考;certainty6→8'
