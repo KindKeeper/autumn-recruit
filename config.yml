@@ -48,20 +48,25 @@ priority_tiers: {A: 80, B: 65, C: 50}
 channels: [官网, 邮箱, 内推, 智联, BOSS直聘, 牛客, 宣讲会, 猎聘, 其他]
 groups: [提前批, 正式批, 实习, 未启动, 补录]
 
-# 城市评分三层结构: table 显式 override > cities 数据走公式 > default(告警)
-# 维护规则: 新城市登记 cities(距离+GDP)即可自动出分;公式与裁定不一致才在 table 加 override
+# 城市评分: 纯解析函数输出即最终分(无查表无override)
+# 维护规则: 新城市只需在 cities 登记 [距离km, GDP万亿];调参只改上面的系数
 city_anchors:
-  mode: formula            # 新城市走公式；已登记城市若 table 有值则以 table 为准（显式 override）
-  default: 4               # 无 GDP/距离数据时的兜底
-  cap_non_home: 8          # 非合肥城市封顶8（合肥=距离0+home_bonus可破封）
-  floor: 3
+  mode: formula
+  # 公式(纯解析,无查表无override):
+  #   score = base + econ_coef·sqrt(GDP/(GDP+econ_tau)) − dist_coef·d/(d+dist_tau) + (命中home_city? home_bonus:0)
+  #   GDP单位万亿, d=距合肥直线km; 然后 clamp(floor, cap), round_to取整
+  # 函数性质: 经济项开根饱和(0→base, ∞→base+econ_coef≈10); 距离项分数饱和(0→0, ∞→dist_coef≈2.5); 全单调平滑
+  base: 4
+  econ_coef: 6
+  econ_tau: 2
+  dist_coef: 2.5
+  dist_tau: 600
   home_city: 合肥
-  home_bonus: 2
-  home_cap: 10           # 主场城市得分上限（可破 cap_non_home）
-  # GDP(万亿)→基础分: 控制点线性插值,端点外钳制(插值函数,非阶梯)
-  gdp_points: [[0, 5.2], [0.35, 6.3], [0.6, 7.2], [0.9, 8.0], [1.2, 8.4], [1.8, 9.0], [3.5, 9.3], [6.0, 9.6]]
-  # 距合肥km→扣分: 同上
-  dist_points: [[0, 0], [200, 0], [500, 0.3], [900, 0.7], [1300, 1.1], [1800, 1.6]]
+  home_bonus: 2.5
+  floor: 3
+  cap: 10
+  round_to: 0.5
+  default: 4          # 无GDP/距离数据时的兜底(保留未登记告警)
   cities:                  # 城市: [距合肥km(直线), GDP万亿]——公式模式的原料
     合肥: [0, 1.27]
     上海: [470, 4.72]
@@ -128,22 +133,3 @@ city_anchors:
     沈阳: [1200, 0.90]
     兰州: [1300, 0.37]
     海口: [1400, 0.24]
-  table:                   # 显式 override:公式算出来的分如果和用户裁定不一致,以此为准(键=城市名)
-    合肥: 10
-    上海: 8
-    北京: 8
-    深圳: 8
-    杭州: 8
-    南京: 8
-    宁波: 8
-    无锡: 8
-    武汉: 7
-    成都: 7
-    厦门: 7
-    苏州: 7
-    济南: 7
-    广州: 7
-    天津: 7
-    哈尔滨: 5
-    东莞: 5
-    # 其余城市无 override → 走公式

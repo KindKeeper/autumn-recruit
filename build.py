@@ -52,57 +52,37 @@ def parse_date(s):
         return None
 
 
-def piecewise_linear(points, x):
-    """分段线性插值：控制点按 x 排序，区间内线性插值，低于首点钳首值、高于末点钳末值。"""
-    pts = sorted(points)
-    if x <= pts[0][0]:
-        return pts[0][1]
-    if x >= pts[-1][0]:
-        return pts[-1][1]
-    for (x0, y0), (x1, y1) in zip(pts, pts[1:]):
-        if x0 <= x <= x1:
-            return y0 + (y1 - y0) * (x - x0) / (x1 - x0)
-    return pts[-1][1]
-
-
 def city_score_from_anchors(city_str, anchors):
-    """city 分三层派生：table 显式 override（子串匹配）> cities 数据走公式
-    （gdp_points/dist_points 线性插值：base−penalty+home_bonus，clamp(floor, cap)，
-    home_city 用 home_cap，四舍五入 0.5）> default（并回报未登记城市）。多城取各城得分最大值。"""
-    table = anchors.get("table") or {}
+    """city 分纯解析公式派生（无查表无 override）：
+    score = base + econ_coef·sqrt(gdp/(gdp+econ_tau)) − dist_coef·d/(d+dist_tau) + (命中 home_city? home_bonus:0)，
+    clamp(floor, cap) 后按 round_to 半进位取整；未登记城市 default 兜底并回报。多城取各城得分最大值。"""
     data = anchors.get("cities") or {}
-    gdp_points = anchors.get("gdp_points") or []
-    dist_points = anchors.get("dist_points") or []
-    floor_v = anchors.get("floor", 0)
-    cap = anchors.get("cap_non_home", 10)
+    base = anchors.get("base", 4)
+    econ_coef = anchors.get("econ_coef", 6)
+    econ_tau = anchors.get("econ_tau", 2)
+    dist_coef = anchors.get("dist_coef", 2.5)
+    dist_tau = anchors.get("dist_tau", 600)
     home = anchors.get("home_city")
     bonus = anchors.get("home_bonus", 0)
-    home_cap = anchors.get("home_cap", 10)
-
-    def round05(x):
-        return int(x * 2 + 0.5) / 2
+    floor_v = anchors.get("floor", 3)
+    cap = anchors.get("cap", 10)
+    round_to = anchors.get("round_to", 0.5)
 
     def formula(c):
-        if not gdp_points or not dist_points:
-            return None
         scores = []
         for k, (dist, gdp) in data.items():
             if k not in c:
                 continue
-            base = piecewise_linear(gdp_points, gdp)
-            pen = piecewise_linear(dist_points, dist)
-            v = base - pen + (bonus if home and home in c else 0)
-            hi = home_cap if (home and home in c) else cap
-            scores.append(round05(min(max(v, floor_v), hi)))
+            v = (base + econ_coef * (gdp / (gdp + econ_tau)) ** 0.5
+                 - dist_coef * dist / (dist + dist_tau)
+                 + (bonus if home and home in c else 0))
+            v = min(max(v, floor_v), cap)
+            scores.append(int(v / round_to + 0.5) * round_to)
         return max(scores) if scores else None
 
     cities = [c.strip() for c in re.split(r"[/、,，]", city_str or "") if c.strip()]
     hits, missed = [], []
     for c in cities:
-        m = [s for k, s in table.items() if k in c]
-        if m:
-            hits.append(max(m))
-            continue
         f = formula(c) if anchors.get("mode") == "formula" else None
         if f is not None:
             hits.append(f)
@@ -174,14 +154,8 @@ def validate_and_build(rec, cfg, fname):
     subs = {k: int(score.get(k, 0)) for k in subkeys}
     city_missed = []
     if "city" in subkeys:
-        # city 分不再读取 YAML score.city，一律由 city_anchors 派生；city_score_override 优先
-        override = rec.get("city_score_override")
-        if override is not None:
-            if not (0 <= int(override) <= 10):
-                fail(f"{rid}: city_score_override 必须在 0-10 之间")
-            subs["city"] = int(override)
-        else:
-            subs["city"], city_missed = city_score_from_anchors(rec.get("city", ""), cfg["city_anchors"])
+        # city 分纯函数派生（不读 YAML score.city，不支持 city_score_override）
+        subs["city"], city_missed = city_score_from_anchors(rec.get("city", ""), cfg["city_anchors"])
     scored = bool(score)
     if scored:
         if cfg["score_mode"] == "expected":
