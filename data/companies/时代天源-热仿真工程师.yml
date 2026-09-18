@@ -6,8 +6,9 @@ channel: 官网
 city: 苏州
 link: ''
 salary_range: ''
-stages: {}
-updated_at: '2026-09-14'
+stages:
+  applied: '2026-09-18'
+updated_at: '2026-09-18'
 track: 热管理类
 boundary: S
 job_posted: '2026-09-14'
@@ -28,3 +29,5 @@ tags:
 log:
 - date: '2026-09-14'
   note: '[调研] 宁德时代控股子公司（储能PCS液冷/功率模块热仿真），真对口；深圳总部/苏州研发基地（city字段苏州可信，需确认base非深圳/珠海）；硕士约20-30万，salary 7→8；储能价格战+CATL系竞业；截止11-12'
+- date: '2026-09-18'
+  note: '[投递] 已投递热仿真工程师(苏州),定制简历(兰欣项目主打:热测试对标闭环+TIM评估+ANSYS全家桶)'
