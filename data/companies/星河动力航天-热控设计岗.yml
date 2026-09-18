@@ -7,20 +7,24 @@ city: 北京
 link: ''
 salary_range: ''
 stages: {}
-updated_at: '2026-09-10'
+updated_at: '2026-09-18'
 track: 能动/航天发动机
 boundary: S
 job_posted: '2026-09-10'
 score:
-  fit: 10
+  fit: 9
   track: 9
-  city: 6
-  salary: 7
+  city: 7
+  salary: 6
   stability: 7
-  certainty: 5
-  urgency: 5
-  wlb: 6
-note: 商业火箭公司，热控/防隔热/涡轮泵/推力室多岗对口
+  certainty: 8
+  urgency: 6
+  wlb: 5
+score_rationale: 'fit9热设计+热仿真+热试验三段与JD逐条对口;防隔热岗需补烧蚀材料知识;track9智神星一号2026-09-01首飞成功可回收液体放量期,固液双轮,D轮24亿+D+轮+IPO辅导;city7设计岗大概率北京可解户口(池州/资阳是生产基地,签约前书面确认base防调剂);salary6硕士真实20-30万总包(勿按社招20-40k或博士口径);stability7民营火箭头部但2025-11遥十九失利行业淘汰赛风险;certainty8官方秋招清单确认两岗在招;urgency6;wlb5;调研2026-09-18'
+note: 商业火箭公司，热控/防隔热/涡轮泵/推力室多岗对口。防隔热设计岗为第二志愿（偏防热结构+烧蚀材料）；设计类岗base均在北京；谷神星一号21次成功+两次失利+智神星一号首飞成功
 tags:
 - 商业火箭
 - 热控/防隔热直接对口
+log:
+- date: '2026-09-18'
+  note: '[调研] 模板分修正:智神星一号首飞成功+D轮24亿;热控/防隔热双岗北京;硕士20-30万;75→76.5'

@@ -7,20 +7,24 @@ city: 北京
 link: ''
 salary_range: ''
 stages: {}
-updated_at: '2026-09-09'
+updated_at: '2026-09-18'
 track: 能动/航天发动机
 boundary: S
 job_posted: '2026-09-09'
 score:
-  fit: 10
-  track: 9
-  city: 6
+  fit: 8
+  track: 8
+  city: 7
   salary: 6
   stability: 7
-  certainty: 5
-  urgency: 5
-  wlb: 6
-note: 商业火箭公司，燃烧装置/涡轮泵/环境仿真三个岗对口，CFD算法专家要求博士不符
+  certainty: 7
+  urgency: 6
+  wlb: 5
+score_rationale: 'fit8 JD点名热能动力等相关专业;推力室/燃气发生器传热设计+Fluent仿真+冷热试数据分析对口;扣在结构设计出图跟产占比高非纯热岗;track8龙云70吨级已批量交付随长十二甲入轨,液氧甲烷可复用主赛道,国资C++轮;city7北京大兴研发(需接受蚌埠/酒泉跟试出差);salary6硕士22-26万北京航天口中等偏下;stability7国资加注+商业闭环初现但行业洗牌期;certainty7 JD/融资/型号多源验证(薪资第三方口径);urgency6;wlb5;调研2026-09-18'
+note: 商业火箭公司，燃烧装置/涡轮泵/环境仿真三个岗对口，CFD算法专家要求博士不符。岗位=推力室硬件设计（方案/结构/出图/跟产+冷热试配合）；纯燃烧CFD研究岗另设且要博士；简历关键词对准推力室传热设计/Fluent/热试车数据分析
 tags:
 - 商业火箭
 - 燃烧/热能直接对口
+log:
+- date: '2026-09-18'
+  note: '[调研] 模板分修正:龙云批量交付;JD点名热能动力;硕士22-26万;74→71.5'
