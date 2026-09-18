@@ -52,31 +52,47 @@ def parse_date(s):
         return None
 
 
+def piecewise_linear(points, x):
+    """分段线性插值：控制点按 x 排序，区间内线性插值，低于首点钳首值、高于末点钳末值。"""
+    pts = sorted(points)
+    if x <= pts[0][0]:
+        return pts[0][1]
+    if x >= pts[-1][0]:
+        return pts[-1][1]
+    for (x0, y0), (x1, y1) in zip(pts, pts[1:]):
+        if x0 <= x <= x1:
+            return y0 + (y1 - y0) * (x - x0) / (x1 - x0)
+    return pts[-1][1]
+
+
 def city_score_from_anchors(city_str, anchors):
-    """city 分三层派生：table 显式 override（子串匹配）> cities 数据走公式（gdp-dist+home，
-    clamp(floor, cap_non_home)，home_city 可破 cap，四舍五入 0.5）> default（并回报未登记城市）。
-    多城取各城得分最大值。"""
+    """city 分三层派生：table 显式 override（子串匹配）> cities 数据走公式
+    （gdp_points/dist_points 线性插值：base−penalty+home_bonus，clamp(floor, cap)，
+    home_city 用 home_cap，四舍五入 0.5）> default（并回报未登记城市）。多城取各城得分最大值。"""
     table = anchors.get("table") or {}
     data = anchors.get("cities") or {}
-    gdp_bands = anchors.get("gdp_bands") or []
-    dist_bands = anchors.get("dist_bands") or []
+    gdp_points = anchors.get("gdp_points") or []
+    dist_points = anchors.get("dist_points") or []
     floor_v = anchors.get("floor", 0)
     cap = anchors.get("cap_non_home", 10)
     home = anchors.get("home_city")
     bonus = anchors.get("home_bonus", 0)
+    home_cap = anchors.get("home_cap", 10)
 
     def round05(x):
         return int(x * 2 + 0.5) / 2
 
     def formula(c):
+        if not gdp_points or not dist_points:
+            return None
         scores = []
         for k, (dist, gdp) in data.items():
             if k not in c:
                 continue
-            base = next(b["base"] for b in gdp_bands if gdp >= b["min"])
-            pen = next(p["penalty"] for p in dist_bands if dist <= p["max"])
+            base = piecewise_linear(gdp_points, gdp)
+            pen = piecewise_linear(dist_points, dist)
             v = base - pen + (bonus if home and home in c else 0)
-            hi = 10 if (home and home in c) else cap
+            hi = home_cap if (home and home in c) else cap
             scores.append(round05(min(max(v, floor_v), hi)))
         return max(scores) if scores else None
 

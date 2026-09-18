@@ -57,20 +57,11 @@ city_anchors:
   floor: 3
   home_city: 合肥
   home_bonus: 2
-  gdp_bands:               # GDP(万亿)→base,从高到低匹配
-    - {min: 3.5, base: 9.3}
-    - {min: 1.8, base: 9.0}
-    - {min: 1.2, base: 8.4}
-    - {min: 0.9, base: 8.0}
-    - {min: 0.6, base: 7.2}
-    - {min: 0.35, base: 6.3}
-    - {min: 0, base: 5.2}
-  dist_bands:              # 距合肥km→扣分,从低到高匹配
-    - {max: 200, penalty: 0}
-    - {max: 500, penalty: 0.3}
-    - {max: 900, penalty: 0.7}
-    - {max: 1300, penalty: 1.1}
-    - {max: 99999, penalty: 1.5}
+  home_cap: 10           # 主场城市得分上限（可破 cap_non_home）
+  # GDP(万亿)→基础分: 控制点线性插值,端点外钳制(插值函数,非阶梯)
+  gdp_points: [[0, 5.2], [0.35, 6.3], [0.6, 7.2], [0.9, 8.0], [1.2, 8.4], [1.8, 9.0], [3.5, 9.3], [6.0, 9.6]]
+  # 距合肥km→扣分: 同上
+  dist_points: [[0, 0], [200, 0], [500, 0.3], [900, 0.7], [1300, 1.1], [1800, 1.6]]
   cities:                  # 城市: [距合肥km(直线), GDP万亿]——公式模式的原料
     合肥: [0, 1.27]
     上海: [470, 4.72]
