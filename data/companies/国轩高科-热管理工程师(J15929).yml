@@ -1,6 +1,6 @@
 id: gotion-thermal-2027
 name: 国轩高科
-position: 热管理工程师（J15929，工研总院）
+position: 电芯安全机理研发工程师（J15964，热管理岗J15929已下架）
 group: 正式批
 channel: 官网
 city: 合肥
@@ -9,16 +9,16 @@ portal: 'gotion.zhiye.com'
 link: ''
 salary_range: ''
 stages: {}
-updated_at: '2026-09-18'
+updated_at: '2026-09-21'
 track: 电池热管理
 boundary: S
 job_posted: '2026-09-17'
 score:
-  fit: 9
+  fit: 8
   track: 8
   salary: 6
   stability: 7
-  certainty: 7
+  certainty: 6
   urgency: 7
   wlb: 5
 score_rationale: 'fit9 JD白纸黑字列动力工程及工程热物理,职责=热管理系统开发含热管理仿真/设计/热失控管理+电池包热结构出图;扣1分因含CAD出图/VAVE工作;track8动力+储能电池双线含下一代热管理技术储备,价格战盈利承压;city9合肥总部研发岗新能源产业集群合肥人主场(硕士租房补贴2万/年×3年);salary6硕士主流10-15k×13约13-18万低于阳光/宁德;stability7上市+大众第一大股东26%但offer池拖延前科;certainty7专业极对口+招6人,offer池历史拉低;urgency7新挂岗尽快投;wlb5电池厂节奏+设计出图杂活;调研2026-09-18'
@@ -30,3 +30,5 @@ tags:
 log:
 - date: '2026-09-18'
   note: '[调研] 热管理工程师(J15929)硕士岗合肥，能动字面点名+CFD要求；硕士13-18万；招6人；78.5分A档，合肥主场优先投'
+- date: '2026-09-21'
+  note: '[核查] ⚠️J15929热管理工程师已下架(09-17挂出,09-21核实55岗列表无此岗);替代方案:电芯安全机理(J15964,热失控机理=课题组方向,若干HC)/储能算法(J16211,5人)/BMS应用层(储能,J16221,5人);岗位已改挂J15964,fit9→8(安全机理对口但非热设计主线)'
