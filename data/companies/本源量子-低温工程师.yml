@@ -1,0 +1,34 @@
+id: ciqtek-cryo-2027
+name: 本源量子
+position: 低温工程师
+group: 正式批
+channel: 官网
+city: 合肥
+recruiting_group: '本源量子'
+portal: '本源量子校招'
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-22'
+track: 量子计算/极低温系统
+boundary: S
+job_posted: '2026-09-15'
+score:
+  fit: 8
+  track: 7
+  city: 10
+  salary: 7
+  stability: 6
+  certainty: 6
+  urgency: 6
+  wlb: 6
+score_rationale: 'fit8 JD职责=低温系统传热/流体仿真+恒温器设计(真空腔/冷屏/冷板/热沉/换热器),专业标签含制冷与低温技术/热能动力字面命中;深低温经验仅优先非必须;需补真空/氦低温知识;track7稀释制冷机SL400/SL1000已有出口订单和高校采购,2026-06 Pre-IPO近30亿投前210亿,但量子计算商业化未兑现持续亏损;city10合肥主场;salary7硕士约15-25万社招10-20k;stability6亏损+IPO节奏依赖;certainty6 HC少校招竞争;urgency6;wlb6;调研2026-09-22'
+note: 中科大系量子计算公司；岗位=稀释制冷机（10mK级）极低温系统设计，非液氮常规低温；专业标签字面命中能动；公司2024营收9938万净亏3420万，IPO辅导中；同司装调工程师岗（大专可投10-15k）为备选
+tags:
+- 合肥
+- 低温制冷
+- 量子计算
+- 热仿真
+log:
+- date: '2026-09-22'
+  note: '[调研] 低温工程师=稀释制冷机极低温系统（恒温器传热仿真+换热器设计），JD字面命中能动+制冷；合肥；硕士15-25万；fit8/75.5'
