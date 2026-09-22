@@ -1,0 +1,32 @@
+id: suna-thermal-sim-2027
+name: 苏纳光电
+position: 仿真工程师（力/热方向）(J10628)
+group: 正式批
+channel: 官网
+city: 苏州
+recruiting_group: '苏纳光电'
+portal: '苏纳校招'
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-22'
+track: 光电器件/热仿真
+boundary: S
+job_posted: '2026-08-10'
+score:
+  fit: 9
+  track: 7
+  salary: 7
+  stability: 7
+  certainty: 7
+  urgency: 6
+  wlb: 6
+score_rationale: 'fit9 JD=温度场/热应力/应力应变热-力耦合FEM仿真+散热方案设计+仿真-实验对标与模型校准;任职资格硕士及以上,动力工程及工程热物理explicitly列名;器件热仿真+热测试背景点对点;track7清华+苏州纳米所创立,III-V光电器件/硅透镜全球市占70%+,1900人研发占1/3研发投入25%,2026-08 IPO辅导备案(华泰联合),上市前扩张期招500人,赛道偏窄;salary7官方挂45-60万/年(硕博合并),硕士实际约25-40万+股权补贴,其他硕士岗20-35万参考;stability7细分冠军+国家级小巨人+IPO备案,风险在光通信周期与扩张节奏;certainty7校招真实500人大批量专业精准匹配,单岗HC未公开;urgency6;wlb6;调研2026-09-22'
+note: ⚠️同名陷阱：深圳的"苏纳半导体"是显示公司，与本岗无关，投递认准"苏州苏纳光电股份有限公司"；JD要求至少精通一款FEM工具；8英寸硅电容产线2026-04开工；苏州人才补贴优
+tags:
+- 光电器件
+- 热力耦合仿真
+- 苏州
+log:
+- date: '2026-09-22'
+  note: '[调研] 仿真工程师（力/热）=器件热-力耦合FEM+仿真实测对标，JD字面点名能动硕士；纳米所系IPO辅导中；fit9/75'
