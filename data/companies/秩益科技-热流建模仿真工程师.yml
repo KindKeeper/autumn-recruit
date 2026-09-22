@@ -1,0 +1,33 @@
+id: rankyee-thermal-2027
+name: 秩益科技
+position: 热流建模仿真工程师（次选：CFD应用工程师）
+group: 正式批
+channel: 官网
+city: 苏州
+recruiting_group: '秩益科技'
+portal: '秩益校招'
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-22'
+track: 国产CFD/热流建模
+boundary: S
+job_posted: '2026-09-17'
+apply_deadline: '2026-11-15'
+score:
+  fit: 8
+  track: 9
+  salary: 7
+  stability: 6
+  certainty: 7
+  urgency: 6
+  wlb: 5
+score_rationale: 'fit8热仿真应用+测试对标=建模+验证闭环对口;JD若要求Modelica一维建模需补课;track9纯应用向契合,自研DIMAXER求解器,清华剑桥背景,2026-06亿元A/A+轮,航空航天/核电千万级订单;salary7硕士15-25k×13约20-33万;stability6 50-99人初创商业化早期客户集中;certainty7校招真实在招JD细节未完整公开;urgency6截止11-15;wlb5;调研2026-09-22'
+note: ⚠️solver开发岗（CFD求解器算法工程师25-40K）勿投；应用岗主base苏州；投递前公众号核对岗位原文
+tags:
+- 国产CFD
+- 热流建模
+- 苏州
+log:
+- date: '2026-09-22'
+  note: '[调研] 热流建模仿真=应用向（模型库+项目）；DIMAXER求解器；苏州；fit8/73'

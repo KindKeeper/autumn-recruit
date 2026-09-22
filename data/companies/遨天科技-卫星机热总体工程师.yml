@@ -1,0 +1,32 @@
+id: atmoto-thermal-2027
+name: 遨天科技
+position: 卫星机热总体工程师
+group: 正式批
+channel: 官网
+city: 北京
+recruiting_group: '遨天科技'
+portal: '遨天校招官网(zp.at-moto.com)'
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-22'
+track: 商业航天/机热总体
+boundary: S
+job_posted: '2026-09-15'
+score:
+  fit: 8
+  track: 8
+  salary: 6
+  stability: 5
+  certainty: 7
+  urgency: 6
+  wlb: 5
+score_rationale: 'fit8机热总体=热仿真应用直接对口+总体布局设计;面试确认偏总体设计还是试验执行;track8首家电推进在轨点火民企,在轨产品破100台,持蓝箭1%股份,128人刚D轮;salary6校招不透明行业估25-35万(防社招30-60k话术);stability5小体量民企波动风险;certainty7官方校招站JD(薪资兑现不可验证);urgency6;wlb5;调研2026-09-22'
+note: 2018成立总部北京海淀；自研甘德一号01星2026-07入轨；岗位仅北京/无锡；总体类硕士
+tags:
+- 商业航天
+- 机热总体
+- 北京
+log:
+- date: '2026-09-22'
+  note: '[调研] 卫星机热总体=机热总体设计岗（布局/方案/状态把控）；在轨百台业绩；fit8/71.5'

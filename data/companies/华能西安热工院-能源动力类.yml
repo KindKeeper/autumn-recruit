@@ -1,0 +1,33 @@
+id: tpri-energy-2027
+name: 华能西安热工院
+position: 能源动力类（务必选本部大类，勿选子公司岗）
+group: 正式批
+channel: 官网
+city: 西安
+recruiting_group: '中国华能集团'
+portal: '华能校招'
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-22'
+track: 电站技术研发
+boundary: S
+job_posted: '2026-09-15'
+apply_deadline: '2026-10-31'
+score:
+  fit: 6
+  track: 7
+  salary: 7
+  stability: 8
+  certainty: 8
+  urgency: 6
+  wlb: 5
+score_rationale: 'fit6本部燃机/燃烧/传热方向匹配但JD不写明,入职二次分配;子公司岗偏节能改造应用/现场,知乎反馈硕士偏现场应用;track7国家级电站研发机构,科改标杆,1470人硕士占84%;salary7西安总包15-22万,月到手8-9k+年终+出差补贴180/天,西安性价比好;stability8华能央企全资;certainty8官方渠道流程透明;urgency6截止10-31;wlb5出差多;调研2026-09-22'
+note: ⚠️企业编非事业编；9个具体岗全挂子公司（西热节能/苏州环保/控制技术等），投本部大类招聘勿选子公司；与涡轮院对比=匹配度弱于涡轮院但确定性高，涡轮院已放弃（国聘身份证），此为其替代
+tags:
+- 电站研发
+- 央企
+- 西安
+log:
+- date: '2026-09-22'
+  note: '[调研] 能源动力类=本部二次分配；西安总包15-22万；央企企业编；投本部勿投子公司；fit6/66'

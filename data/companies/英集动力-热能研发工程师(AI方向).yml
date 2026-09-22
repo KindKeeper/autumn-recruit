@@ -1,0 +1,32 @@
+id: engipower-thermal-2027
+name: 英集动力
+position: 热能研发工程师（AI方向）
+group: 正式批
+channel: 官网
+city: 常州
+recruiting_group: '英集动力'
+portal: '英集校招'
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-22'
+track: 供热数字孪生
+boundary: S
+job_posted: '2026-09-10'
+score:
+  fit: 8
+  track: 8
+  salary: 5
+  stability: 6
+  certainty: 8
+  urgency: 6
+  wlb: 6
+score_rationale: 'fit8供热系统数字孪生建模/仿真+实时调控;仿真+实测对标直接对口;扣AI/控制复合要求需补叙事;track8 viHeating平台40余城落地,专精特新小巨人,浙大团队,国资A+轮,赛道偏窄;salary5硕士10-15k×14薪约15-20万;stability6民营中小项目制,A+轮后3年无新融资;certainty8公司/JD/薪资多源一致;urgency6;wlb6;调研2026-09-22'
+note: ⚠️公告列北京/无锡但招聘主体在常州，base按常州/杭州预期；面试确认base；需Python/ML叙事
+tags:
+- 供热数字化
+- 数字孪生
+- 常州
+log:
+- date: '2026-09-22'
+  note: '[调研] 热能研发=供热数字孪生建模+调控；常州base；硕士15-20万；fit8/69'

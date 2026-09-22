@@ -1,0 +1,32 @@
+id: trane-heat-exchanger-2027
+name: 特灵科技
+position: 传热工程师（次选：仿真工程师可落上海）
+group: 正式批
+channel: 官网
+city: 太仓
+recruiting_group: '特灵科技'
+portal: '特灵校招'
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-22'
+track: HVAC/换热器
+boundary: S
+job_posted: '2026-09-15'
+score:
+  fit: 9
+  track: 7
+  salary: 5
+  stability: 8
+  certainty: 8
+  urgency: 6
+  wlb: 7
+score_rationale: 'fit9壳管换热器设计+性能验证+Fluent/Icepak/CFX+Python,JD几乎定制;HVAC制冷原理对口;track7应用向清晰传统制造纵深一般;salary5硕士17-21万低于新赛道30%;stability8百年外企全球三大研发中心之一业务稳;certainty8岗位真实多平台一致;urgency6;wlb7外企节奏温和;调研2026-09-22'
+note: ⚠️传热岗base太仓县级市（非上海，冲上海会失望，city字段按苏州登记以公式派生锚点）；仿真岗（Modeling&Simulation）才上海&太仓；外企wlb好；调薪平缓
+tags:
+- HVAC
+- 换热器
+- 太仓
+log:
+- date: '2026-09-22'
+  note: '[调研] 传热工程师=换热器设计+验证，JD定制级对口；⚠️base太仓非上海；fit9/70.5'

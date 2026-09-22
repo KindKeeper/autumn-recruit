@@ -1,0 +1,33 @@
+id: ninecube-thermal-product-2027
+name: 九同方
+position: 热仿真产品工程师（次选：热仿真应用工程师）
+group: 正式批
+channel: 官网
+city: 上海
+recruiting_group: '九同方'
+portal: '九同方校招'
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-22'
+track: EDA/热仿真
+boundary: S
+job_posted: '2026-09-10'
+apply_deadline: '2026-09-23'
+score:
+  fit: 9
+  track: 8
+  salary: 6
+  stability: 6
+  certainty: 8
+  urgency: 7
+  wlb: 6
+score_rationale: 'fit9 JD=热仿真模型搭建/PRD/案例库,3DIC热仿真优先;专业目录含工程热物理/热能工程字面;应用向非solver(同方向结构热应力仿真算法工程师才是solver岗勿投);track8国产EDA,华为哈勃最大股东+大基金二期,但2025创始人股权冻结退出哈勃主导;salary6硕士约20万/年(FAE明码20万参考,勿按社招30-50k);stability6;certainty8多源官方公告互证;urgency7截止09-23;wlb6;调研2026-09-22'
+note: 2011武汉成立，eWave/eFEM产品，客户含华为海思；总部迁沪更名；⚠️截止2026-09-23；优先产品工程师岗，应用工程师偏测试对标次选；确认base与月薪
+tags:
+- EDA
+- 热仿真
+- 上海
+log:
+- date: '2026-09-22'
+  note: '[调研] 热仿真产品工程师=应用向（模型+PRD+案例库），非solver；华为哈勃系；硕士约20万；⚠️截止09-23'
