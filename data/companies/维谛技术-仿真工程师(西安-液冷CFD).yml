@@ -1,0 +1,33 @@
+id: vertiv-cfd-xian-2027
+name: 维谛技术
+position: 仿真工程师（西安·液冷CFD）
+group: 正式批
+channel: 官网
+city: 西安
+recruiting_group: '维谛技术'
+portal: '维谛校招(Moka)'
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-22'
+track: 数据中心/液冷CFD
+boundary: S
+job_posted: '2026-09-17'
+score:
+  fit: 10
+  track: 8
+  salary: 6
+  stability: 8
+  certainty: 8
+  urgency: 6
+  wlb: 6
+score_rationale: 'fit10 JD=电力电子/服务器设备风冷液冷CFD热仿真+温度流场压力场分析+仿真与实测对标迭代模型+仿真参数库,与兰欣项目逐条同构;Icepak/FloTHERM/Fluent工具匹配;track8数据中心液冷赛道,Vertiv全球数据中心温控龙头;salary6硕士约15-20万外企口径;stability8外企业务稳2026在招+136%;certainty8 JD原文在手多平台在招;urgency6;wlb6;调研2026-09-22'
+note: ⚠️本岗base仅西安；若选苏州/深圳应投制冷工程师岗；职责3仿真-实测对标+参数库是兰欣项目直接平移；西安有研发中心
+tags:
+- 液冷CFD
+- 数据中心
+- 西安
+- 仿真对标
+log:
+- date: '2026-09-22'
+  note: '[调研] 仿真工程师JD=液冷CFD+仿真实测对标+参数库，兰欣镜像岗；⚠️base仅西安；fit10/78'
