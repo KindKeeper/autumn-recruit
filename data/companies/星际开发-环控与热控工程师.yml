@@ -1,0 +1,32 @@
+id: interstellar-thermal-2027
+name: 星际开发
+position: 环控与热控工程师
+group: 正式批
+channel: 官网
+city: 成都
+recruiting_group: '星际开发'
+portal: '星际开发校招'
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-22'
+track: 商业飞船/环热控
+boundary: S
+job_posted: '2026-09-15'
+score:
+  fit: 9
+  track: 8
+  salary: 7
+  stability: 5
+  certainty: 6
+  urgency: 6
+  wlb: 5
+score_rationale: 'fit9环控与热控=热设计/热仿真/热试验;专业表字面含工程热物理/能源动力/流体力学;热仿真+热测试双技能对口;track8返回式商业飞船赛道稀缺首飞前夜扩编,自称国内唯一经轨道飞行验证的商业飞船民营团队;salary7硕士约15-30k+期权(社招热控25-50k×13参考);stability5 A轮初创未首飞未盈利靠成都国资输血,首型350kg返回式飞船2026年内首飞计划;certainty6专业极对口过筛概率高但HC少;urgency6;wlb5;调研2026-09-22'
+note: 原北京星际开发，2018成立，成都产投A轮；岗位表专业含工程热物理字面；本科门槛硕士更受青睐；⚠️未首飞风险同深蓝航天，投它属押赛道
+tags:
+- 商业飞船
+- 环热控
+- 成都
+log:
+- date: '2026-09-22'
+  note: '[调研] 环控与热控工程师=飞船环热设计（热仿真+热试验）；专业字面命中；未首飞A轮；fit9/72'
