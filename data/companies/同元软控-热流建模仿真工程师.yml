@@ -1,0 +1,33 @@
+id: tongyuan-thermal-2027
+name: 同元软控
+position: 热流建模仿真工程师
+group: 正式批
+channel: 官网
+city: 苏州
+recruiting_group: '同元软控'
+portal: '智联校招/hr@tongyuan.cc'
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-22'
+track: 国产系统仿真/MWORKS
+boundary: S
+job_posted: '2026-09-20'
+score:
+  fit: 9
+  track: 7
+  salary: 5
+  stability: 7
+  certainty: 6
+  urgency: 7
+  wlb: 6
+score_rationale: 'fit9应用/模型库向:基于Modelica在MWORKS上开发热管理/能源动力模型库+测试验证+项目对接,非solver;JD首列专业即动力工程及工程热物理硕士;Simulink系统建模可平滑迁移Modelica;track7 MWORKS=亚太唯一Modelica官方认证,国产MATLAB替代卡位,支撑探月/载人航天/核能,华为哈勃/深创投入股2026-08 IPO辅导,但市场小众商业化早期;salary5硕士约9-14k/月年包11-17万,明显低于同司内核岗15-25k;stability7;certainty6公司小HC约2人招满即止,免笔试直达面试动作快是关键;urgency7 HC少先到先得;wlb6;调研2026-09-22'
+note: 应用工程师→行业模型库专家路径；入职后补Modelica+C++向平台侧靠拢；与秩益/九同方同赛道（MWORKS=一维系统仿真，秩益=三维CFD，九同方=EDA热仿真）；投递hr@tongyuan.cc或智联KA页
+tags:
+- MWORKS
+- Modelica
+- 热流建模
+- 苏州
+log:
+- date: '2026-09-22'
+  note: '[调研] 热流建模仿真=应用向（MWORKS模型库开发），非solver；JD首列动力工程及工程热物理；硕士9-14k；HC约2人先到先得；fit9/73.5'
