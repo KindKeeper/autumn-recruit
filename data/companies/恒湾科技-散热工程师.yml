@@ -1,0 +1,31 @@
+id: hengwan-thermal-2027
+name: 恒湾科技
+position: 散热工程师
+group: 正式批
+channel: 官网
+city: 成都
+portal: '官网/校招页(wondercv聚合入口)'
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-23'
+track: 通信射频硬件/热设计
+boundary: S
+job_posted: '2026-09-18'
+score:
+  fit: 9
+  track: 7
+  salary: 7
+  stability: 7
+  certainty: 8
+  urgency: 6
+  wlb: 6
+score_rationale: 'fit9 散热工程师要求专业字面材料/热设计;GaN射频功放散热与兰欣SiC器件电热耦合项目同源;track7 基站射频单元/天线/滤波器/GaN功放/Open RAN方向,红杉+产业资本背书,但创业期+通信设备行业波动;salary7 猎聘杭州滨江15-30k参考(成都总部面议);stability7 核心团队爱立信系研发占比85%,红杉投资,但规模与稳定性弱于大厂;certainty8 兰州大学就业网2026-09-18公告确认2 HC+岗位非新设(猎聘J10224,2021年起持续在招);urgency6 尽快投递无明确deadline;wlb6;调研2026-09-23'
+note: 四川恒湾科技有限公司，成都总部，办公覆盖成都/杭州/深圳/西安/北京/上海；成立约2020年；⚠️风险：创业期公司+通信行业波动，散热岗为产品支持岗非核心产品线；投递走官网/校招页（超级简历wondercv有入口）
+tags:
+- 通信射频
+- GaN功放散热
+- 成都
+log:
+- date: '2026-09-23'
+  note: '[调研] 2026-09-23：聚合源09.18批命中。通信射频硬件（GaN功放/小基站，红杉+爱立信系团队），散热工程师2 HC、专业字面要求材料/热设计，岗龄自2021。风险：创业期+通信行业波动。'
