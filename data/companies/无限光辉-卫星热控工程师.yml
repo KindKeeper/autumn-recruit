@@ -1,0 +1,33 @@
+id: infinite-glory-thermal-2027
+name: 无限光辉
+position: 卫星热控工程师
+group: 正式批
+channel: 官网
+city: 上海
+recruiting_group: '无限光辉'
+portal: '公众号投递'
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-23'
+track: 空间太阳能/卫星热控
+boundary: S
+job_posted: '2026-09-10'
+score:
+  fit: 8
+  track: 7
+  salary: 4
+  stability: 3
+  certainty: 5
+  urgency: 5
+  wlb: 5
+score_rationale: 'fit8热仿真+热测试=热控岗硬技能对口;扣2分整星/空间环境经验需补;track7空间能源赛道前沿,十五五首提太空电站,但技术路线未在轨验证;salary4零公开薪资数据,A轮早期现金包偏下限或含期权承诺;stability3 A轮注册资本仅500-1000万,在轨节点2024→2026→2027两度推迟,截至2026-09无任何在轨资产,蹭西电逐日工程概念无权威佐证(新华网/人民日报报道逐日工程均未提该公司);certainty5公司真实但JD全文/学历/薪资均不可考,业绩全靠PR稿;urgency5;wlb5;调研2026-09-23'
+note: ⚠️高风险高赔率彩票：全球首个商业空间太阳能电站星座（1200颗）概念，侯云忆系；合肥高新区首批科技领军创业团队背书（2025-08）；与瑞士Astrostrom有MOU；投递前面试索要JD原文+薪资书面化+核实与西电逐日工程正式合作关系；勿与无限宇航（在轨服务）/炎和科技（同业A轮5亿）混淆
+tags:
+- 卫星热控
+- 空间能源
+- 合肥
+- 高风险
+log:
+- date: '2026-09-23'
+  note: '[调研] 卫星热控岗对口但公司为零在轨PR型（节点两度推迟，蹭逐日工程无佐证）；stability3彩票定位；fit8/62'

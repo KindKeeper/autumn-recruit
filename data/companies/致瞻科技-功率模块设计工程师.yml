@@ -1,0 +1,32 @@
+id: zinsight-sic-module-2027
+name: 致瞻科技
+position: 功率模块设计工程师（JD待公布）
+group: 正式批
+channel: 官网
+city: 上海
+recruiting_group: '致瞻科技'
+portal: 'recruitment@zinsight-tech.com'
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-23'
+track: SiC功率模块/AIDC电源
+boundary: S
+job_posted: '2026-09-21'
+score:
+  fit: 8
+  track: 8
+  salary: 6
+  stability: 7
+  certainty: 6
+  urgency: 6
+  wlb: 6
+score_rationale: 'fit8 SiC模块瞬态热阻抗/功率循环/电热耦合=岗位核心难点,兰欣项目直接对口;ThermPack 9in1获EAC2026热管理创新技术奖;但JD未公布,热设计占比需面试确认;track8 SiC模块+AIDC电源双热点,SST固态变压器,2026-01 C轮近3亿,2025年SiC模块及电控出货超150万台套客户含华为/比亚迪/上汽,AIDC尚未上量;salary6硕士约20-30万(结构工程师明码20万,历史研发岗15-25k×15);stability7 C轮+量产订单+ST合作,车规价格战承压;certainty6 2026届有同名岗真实,2027届JD/薪资/编制未公布;urgency6;wlb6;调研2026-09-23'
+note: ⚠️勿与同城"瞻芯电子"混淆；团队源自GE中央研究院，专精特新小巨人，与ST官方合作；⚠️2027届JD待公布，等明细或邮件核实热方向占比再投；嘉善300万只/年产线
+tags:
+- SiC功率模块
+- 电热耦合
+- 上海
+log:
+- date: '2026-09-23'
+  note: '[调研] 功率模块设计=SiC模块封装+电热耦合（ThermPack获奖），兰欣对口；C轮3亿出货150万台套；JD待公布；fit8/73'
