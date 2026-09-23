@@ -1,0 +1,32 @@
+id: suna-process-sim-2027
+name: 苏纳光电
+position: 仿真工程师（工艺方向）
+group: 正式批
+channel: 官网
+city: 苏州
+recruiting_group: '苏纳光电'
+portal: '苏纳校招'
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-23'
+track: 半导体工艺仿真/TCAD
+boundary: S
+job_posted: '2026-08-10'
+score:
+  fit: 6
+  track: 7
+  salary: 7
+  stability: 7
+  certainty: 8
+  urgency: 6
+  wlb: 6
+score_rationale: 'fit6工艺仿真=TCAD/过程模拟赛道(刻蚀剖面演化/薄膜沉积形貌/应力分布/热效应),用户无刻蚀/镀膜/光刻背景需转型;专业列表含工程热物理但排序靠后;FEM功底与温度场/热效应部分可迁移;track7同主岗底盘(清华+苏州纳米所,III-V器件全球市占70%+,IPO辅导中);salary7同主岗(硕士25-40万+股权补贴);stability7同主岗(细分冠军+国家级小巨人);certainty8官网JD原文直出比主岗聚合源更硬;urgency6;wlb6;调研2026-09-23'
+note: JD=半导体芯片制造工艺仿真+DTCO协同+AI辅助仿真前沿跟踪;至少精通一款多物理场/半导体工艺与器件仿真工具,了解至少一种开发语言优先;定位主岗(J10628力热方向)兼投备选;同批可靠性工程师岗不入库
+tags:
+- 半导体工艺仿真
+- TCAD
+- 苏州
+log:
+- date: '2026-09-23'
+  note: '[调研] 2026-09-23：用户贴苏纳官网全部3岗JD。工艺方向=刻蚀/镀膜/光刻过程仿真，专业列表含工程热物理但需转型；定位主岗（J10628）兼投备选；可靠性工程师岗排除。⚠️认准苏州苏纳光电，勿与深圳苏纳半导体混淆。'
