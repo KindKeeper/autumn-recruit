@@ -1,0 +1,31 @@
+id: hyundai-rnd-thermal-perf-2027
+name: 现代汽车研发中心
+position: 热管理性能开发工程师
+group: 正式批
+channel: 官网
+city: 烟台
+portal: '现代汽车集团招聘(Dayee)'
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-23'
+track: 汽车热管理/性能试验
+boundary: S
+job_posted: '2026-09-21'
+score:
+  fit: 7
+  track: 7
+  salary: 6
+  stability: 6
+  certainty: 7
+  urgency: 6
+  wlb: 7
+score_rationale: 'fit7环境舱试验设计/实测数据分析/多工况性能评估对口(兰欣红外对标实验+电池课题多工况热行为分析);整车级道路测试与法规要求生疏压到7不给8;track7 OEM研发中心履历含金量可但韩系在华收缩期平台成长性打折;salary6烟台硕士约15-20W待核实保守给分;stability6现代中国存续但收缩研发中心规模有限;certainty7用户Dayee官方JD原文;urgency6滚动投递;wlb7韩企温和(道路测试季有外勤但不坐班加班);调研2026-09-23'
+note: 主攻建议岗；同批系统开发岗（63）降为辅投；CET6 用户已满足；接收3年内往届
+tags:
+- 汽车热管理
+- 性能试验
+- 烟台
+log:
+- date: '2026-09-23'
+  note: '[调研] 用户贴官方JD原文。环境舱试验+高温高寒道路测试+性能达标分析，对口用户对标实验与多工况分析经历；现代研发中心主攻建议岗。'
