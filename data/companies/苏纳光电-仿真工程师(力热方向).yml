@@ -8,8 +8,9 @@ recruiting_group: '苏纳光电'
 portal: '苏纳校招'
 link: ''
 salary_range: ''
-stages: {}
-updated_at: '2026-09-22'
+stages:
+  applied: '2026-09-23'
+updated_at: '2026-09-23'
 track: 光电器件/热仿真
 boundary: S
 job_posted: '2026-08-10'
@@ -30,3 +31,5 @@ tags:
 log:
 - date: '2026-09-22'
   note: '[调研] 仿真工程师（力/热）=器件热-力耦合FEM+仿真实测对标，JD字面点名能动硕士；纳米所系IPO辅导中；fit9/75'
+- date: '2026-09-23'
+  note: '[投递] 宣讲会现场投递（主攻力热方向 J10628；岗位归属待用户最终确认，若实际投工艺方向需换挂至另一条记录）'
