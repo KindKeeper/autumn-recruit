@@ -8,8 +8,8 @@ link: ''
 salary_range: ''
 stages:
   applied: '2026-09-16'
-  assessment: '2026-09-16'
-updated_at: '2026-09-16'
+  assessment: '2026-09-24'
+updated_at: '2026-09-24'
 track: 热管理类
 boundary: S
 job_posted: '2026-09-10'
@@ -21,7 +21,7 @@ score:
   certainty: 5
   urgency: 6
   wlb: 6
-score_rationale: 'fit10变流器/SVG/储能变流器散热+热仿真(Flotherm/Icepak)纯对口;salary7硕士约16-22万;注意同集团变压器油道传统岗,面试需确认分到电力电子产品线;调研校正09-11'
+score_rationale: fit10变流器/SVG/储能变流器散热+热仿真(Flotherm/Icepak)纯对口;salary7硕士约16-22万;注意同集团变压器油道传统岗,面试需确认分到电力电子产品线;调研校正09-11
 note: 上海电气输配电集团，散热设计直接对口
 tags:
 - B2-大型工业制造
@@ -34,3 +34,5 @@ log:
   note: '[投递] 已投递输配电集团散热设计工程师（电力电子产品线方向）'
 - date: '2026-09-16'
   note: '[测评] 收到人才测评邀请，5天内完成，完成后简历优先流转'
+- date: '2026-09-24'
+  note: '[测评] 用户通报测评已完成（完成日期按通报日 2026-09-24 记）；原 assessment 日期为收到测评邀请日，此前链接过期担忧解除'
