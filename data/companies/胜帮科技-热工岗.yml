@@ -1,0 +1,31 @@
+id: shengban-thermal-2027
+name: 胜帮科技
+position: 热工岗
+group: 正式批
+channel: 官网
+city: 上海
+portal: 'spangchem.com(邮箱+官网)'
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-24'
+track: 化工EPC/热工设计
+boundary: S
+job_posted: '2026-09-18'
+score:
+  fit: 6
+  track: 5
+  salary: 4
+  stability: 6
+  certainty: 6
+  urgency: 6
+  wlb: 5
+score_rationale: 'fit6热工站设计+蒸汽平衡,能动传热/热力系统对口;煤化工EPC对象与储能主线距离扣2;track5煤化工EPC niche赛道;salary4上海硕士10-12K偏低(中石大/应届网双口径);stability6陕煤系央企背景托底;certainty6 JD原文实锤(中石大就业网+牛企直聘)但HC=1;urgency6;wlb5 EPC项目制加班;调研2026-09-24'
+note: 胜帮科技股份有限公司，陕煤集团旗下化工工程公司（上海浦东）；职责=热力/化水/空氮站初步设计与设备选型、编制采购技术资料、评审校核厂家技术方案、统筹全厂蒸汽平衡与热能利用；硕士，HC仅1人；专业列表含能动（应届生网），JD主体偏化工工艺；投递=邮箱+官网尽快
+tags:
+- 化工EPC
+- 热工设计
+- 上海
+log:
+- date: '2026-09-24'
+  note: '[调研] 2026-09-24：聚合源09.23批命中。陕煤系化工EPC热工岗，热力/化水/空氮站设计+全厂蒸汽平衡，HC=1，硕士10-12K上海。'

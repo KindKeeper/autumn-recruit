@@ -1,0 +1,31 @@
+id: wiskind-hvac-2027
+name: 万事达
+position: 暖通设计（技术研发类）
+group: 正式批
+channel: 官网
+city: 镇江
+portal: 'wondercv聚合入口'
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-24'
+track: 建筑暖通/钢结构配套
+boundary: S
+job_posted: '2026-09-22'
+score:
+  fit: 5
+  track: 5
+  salary: 4
+  stability: 5
+  certainty: 6
+  urgency: 6
+  wlb: 6
+score_rationale: 'fit5建筑暖通配套设计,建环正对口能动边缘,用户无暖通设计积累;track5建筑钢品民企,地产链下行;salary4滨州/镇江民企口径;stability5民企+地产链风险;certainty6 wondercv 2026-09-22公告实锤,宣讲会落地山东建筑大学;urgency6;wlb6;调研2026-09-24'
+note: 山东万事达建筑钢品股份有限公司（wiskind），博兴总部，建筑钢品/围护系统（工业厂房/洁净室产品）；同批=详图设计/电气设计/钢结构设计；工作地镇江/滨州/全国/上海（镇江=万事达节能材料江苏）；⚠️围护配套岗非暖通研发
+tags:
+- 建筑暖通
+- 围护配套
+- 镇江
+log:
+- date: '2026-09-24'
+  note: '[调研] 2026-09-24：聚合源09.23批命中。山东万事达建筑钢品，暖通设计为围护配套岗，建环对口能动边缘，地产链下行。'
