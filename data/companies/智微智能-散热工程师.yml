@@ -1,0 +1,31 @@
+id: jwipc-thermal-2027
+name: 智微智能
+position: 散热工程师
+group: 正式批
+channel: 官网
+city: 深圳
+portal: 'jwipc.cn'
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-24'
+track: 服务器/工控散热
+boundary: S
+job_posted: '2026-09-23'
+score:
+  fit: 8
+  track: 7
+  salary: 6
+  stability: 6
+  certainty: 6
+  urgency: 6
+  wlb: 6
+score_rationale: 'fit8服务器/工控硬件散热设计,用户器件电热耦合仿真+散热方案设计对口,应用域从储能迁移扣1;track7 AI服务器硬件景气但ODM毛利薄;salary6深圳硕士约15-22万口径;stability6上市(001339)但ODM竞争烈;certainty6校招岗(前程无忧2026-09-23)+社招同岗(20-35k深圳南山3-5年)双佐证岗位真实且长期设置;urgency6;wlb6;调研2026-09-24'
+note: 深圳市智微智能科技股份有限公司（001339 主板上市），工控机/服务器/AI 硬件 ODM，深圳总部；深圳/苏州；社招同岗佐证岗位长期设置；对标恒湾74同带；投递=官网 jwipc.cn 尽快
+tags:
+- 服务器散热
+- 工控ODM
+- 深圳
+log:
+- date: '2026-09-24'
+  note: '[调研] 2026-09-24：聚合源09.23批命中。智微智能(001339)散热工程师，服务器/工控ODM，深圳/苏州；对标恒湾74同带。'
