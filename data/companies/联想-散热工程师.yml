@@ -6,8 +6,9 @@ channel: 官网
 city: 北京/天津
 link: https://talent.lenovo.com.cn/position?projectType=1
 salary_range: 预估25-35W
-stages: {}
-updated_at: '2026-09-17'
+stages:
+  applied: '2026-08-24'
+updated_at: '2026-09-24'
 track: 热管理类
 boundary: S
 apply_deadline: '2026-11-13'
@@ -21,7 +22,7 @@ score:
   certainty: 7
   urgency: 7
   wlb: 5
-score_rationale: 'fit8服务器/ISG散热设计(散热器/风扇/热分析,JD所属部门ISG);track9服务器AI算力赛道(ISG营收1360亿+增长引擎);city8北京/天津锚点;salary7;stability8联想历史最佳财年;原city10合肥系09-09误标(实际北京/天津),09-17更正;调研校正09-09/09-17'
+score_rationale: fit8服务器/ISG散热设计(散热器/风扇/热分析,JD所属部门ISG);track9服务器AI算力赛道(ISG营收1360亿+增长引擎);city8北京/天津锚点;salary7;stability8联想历史最佳财年;原city10合肥系09-09误标(实际北京/天津),09-17更正;调研校正09-09/09-17
 note: 来源:总表[联想_散热工程师]
 tags:
 - B3-电子科技
@@ -38,3 +39,7 @@ log:
   note: '[校正] fit9→8与联宝记录对齐(同一LCFC岗位双入口,溢价只体现在stability);交叉标注勿重复投递'
 - date: '2026-09-17'
   note: '[勘误] city合肥→北京/天津(官网JD:China Geo,ISG,北京/天津);撤销与联宝的双入口标注(非同一岗:联想ISG服务器散热vs联宝合肥PC笔记本);track8→9服务器赛道;76→77.5'
+- date: '2026-09-24'
+  note: '[拒信] 联想中国校招拒信：当前阶段无法安排后续环节，简历进调剂池。applied 按用户指令回溯设定为一个月前(2026-08-24)'
+outcome: rejected
+outcome_note: 简历进入联想人才调剂池，或有机会调剂其他岗位
