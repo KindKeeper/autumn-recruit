@@ -7,19 +7,23 @@ city: 北京
 link: ''
 salary_range: ''
 stages: {}
-updated_at: '2026-09-07'
+updated_at: '2026-09-24'
 track: 能动/航天发动机
 boundary: S
 job_posted: '2026-09-07'
 score:
-  fit: 10
+  fit: 8
   track: 9
   salary: 7
   stability: 7
   certainty: 5
   urgency: 5
   wlb: 6
+score_rationale: 'fit8 JD优先项为动力总体/增压输送/低温管路项目经验,用户储能对象迁移差距明显;track9商业火箭;salary7;stability7;certainty5;urgency5;wlb6;调研校正09-24'
 note: 中科院体系商业火箭公司，动力设计/发动机设计直接对口
 tags:
 - 商业火箭
 - 发动机/动力直接对口
+log:
+- date: '2026-09-24'
+  note: '[校准] JD优先项为动力总体/增压输送/低温管路项目经验，用户储能对象迁移差距明显，fit 10→8。'

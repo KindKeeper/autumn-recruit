@@ -7,20 +7,24 @@ city: 北京
 link: ''
 salary_range: ''
 stages: {}
-updated_at: '2026-09-15'
+updated_at: '2026-09-24'
 track: 能动/暖通
 boundary: S
 job_posted: '2026-09-15'
 score:
-  fit: 10
+  fit: 8
   track: 8
   salary: 7
   stability: 9
   certainty: 5
   urgency: 5
   wlb: 6
-note: 中工国际=央企，暖通动力设计岗直接对口
+score_rationale: 'fit8 JD实锤职责=设计院暖通动力施工图设计(绘图/计算书),与用户储能热管理技术栈差异明显;招聘主体实为子公司中国中元国际工程有限公司(北京);track8央企设计院;salary7;stability9;certainty5;urgency5;wlb6;调研校正09-24'
+note: 中工国际=央企，暖通动力设计岗直接对口；⚠️主体辨析：实际招聘主体为子公司中国中元国际工程有限公司（北京）
 tags:
 - 暖通动力
 - 暖通设计直接对口
 - 央企
+log:
+- date: '2026-09-24'
+  note: '[校准] JD实锤职责=设计院暖通动力施工图设计(绘图/计算书)，与用户储能热管理技术栈差异明显，fit 10→8；招聘主体实为子公司中国中元国际工程有限公司(北京)，note 补充主体辨析。'

@@ -7,7 +7,7 @@ city: 苏州
 link: ''
 salary_range: ''
 stages: {}
-updated_at: '2026-09-10'
+updated_at: '2026-09-24'
 track: 热管理类
 boundary: S
 job_posted: '2026-09-07'
@@ -15,11 +15,11 @@ score:
   fit: 10
   track: 9
   salary: 8
-  stability: 6
+  stability: 7
   certainty: 5
   urgency: 5
   wlb: 6
-score_rationale: 'fit10 CAE热流纯对口;stability6净利-39%(订单+34%);city7苏州;调研校正09-10'
+score_rationale: 'fit10 CAE热流纯对口;stability7 2026H1已扭亏(归母净利9848万/新签订单+62.2%/在手+49.6%)券商增持买入;city7苏州;调研校正09-10/09-24'
 note: 工业视觉龙头，CAE热流仿真直接对口
 tags:
 - B3-电子科技
@@ -27,3 +27,5 @@ tags:
 log:
 - date: '2026-09-10'
   note: '[调研] 688003（非003003），苏州，净利-39%但订单+34%，CAE热流方向纯对口'
+- date: '2026-09-24'
+  note: '[校准] 2026H1已扭亏(归母净利9848万、新签订单+62.2%、在手+49.6%)，券商增持/买入，stability 6→7。'

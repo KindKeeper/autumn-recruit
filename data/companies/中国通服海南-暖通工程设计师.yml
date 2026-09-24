@@ -3,24 +3,28 @@ name: 中国通服海南
 position: 给排水/暖通工程设计师
 group: 正式批
 channel: 官网
-city: 北京
+city: 海口
 link: ''
 salary_range: ''
 stages: {}
-updated_at: '2026-09-15'
+updated_at: '2026-09-24'
 track: 能动/暖通
 boundary: S
 job_posted: '2026-09-15'
 score:
-  fit: 10
+  fit: 6
   track: 8
-  salary: 7
+  salary: 6
   stability: 8
   certainty: 5
   urgency: 5
   wlb: 6
-note: 中国通服=央企，暖通工程设计师直接对口
+score_rationale: 'fit6岗位为设计院建筑暖通/给排水CAD设计(对口专业建环/给排水);track8中国通服央企设计院;salary6海口设计院薪资下调;stability8;certainty5;urgency5;wlb6;调研校正09-24'
+note: 中国通服=央企；⚠️公告明确工作地海南省（原文件误写北京，city字段已更正为海口）
 tags:
 - 暖通设计
 - 暖通工程设计直接对口
 - 央企
+log:
+- date: '2026-09-24'
+  note: '[校准] 公告明确工作地海南省(文件误写北京)；岗位为设计院建筑暖通/给排水CAD设计(对口专业建环/给排水)，fit 10→6；海口设计院薪资下调。salary 7→6'
