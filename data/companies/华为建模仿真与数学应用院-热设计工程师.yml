@@ -4,11 +4,11 @@ position: 热设计工程师/热设计高级工程师
 group: 正式批
 channel: 官网
 city: 深圳
-portal: 'career.huawei.com'
+portal: career.huawei.com
 link: ''
 salary_range: ''
 stages: {}
-updated_at: '2026-09-23'
+updated_at: '2026-09-24'
 track: 建模仿真/器件热设计
 boundary: S
 job_posted: '2026-09-17'
@@ -20,7 +20,8 @@ score:
   certainty: 6
   urgency: 7
   wlb: 4
-score_rationale: 'fit9建模仿真导向与用户器件热仿真+多物理场仿真背景最契合,通用JD含工程热物理/动力工程/流体力学/低温与制冷,扣1分因岗位可能含整机热控杂务;track9华为2012实验室=顶级平台;salary9硕士30-40W档;stability8大平台但华为组织调整频繁扣1;certainty6 JD来自09-17聚合源,华为官网岗位常泡池子;urgency7滚动发offer早投早进池;wlb4华为强度;调研2026-09-23'
+score_rationale: fit9建模仿真导向与用户器件热仿真+多物理场仿真背景最契合,通用JD含工程热物理/动力工程/流体力学/低温与制冷,扣1分因岗位可能含整机热控杂务;track9华为2012实验室=顶级平台;salary9硕士30-40W档;stability8大平台但华为组织调整频繁扣1;certainty6
+  JD来自09-17聚合源,华为官网岗位常泡池子;urgency7滚动发offer早投早进池;wlb4华为强度;调研2026-09-23
 note: 华为2012实验室建模仿真与数学应用院,与AI Infra/AI模型/算法同批建模仿真类岗位;通用JD口径=电子设备热设计/CFD/数值计算与热分析软件,参与5G设备/智能终端/通讯设备散热;⚠️工作地八城可选含合肥(深圳/北京/上海/杭州/合肥/南京/成都/东莞),本文件city写深圳为保守口径;华为校招泡池子文化,offer滚动且慢
 tags:
 - 华为2012
@@ -29,3 +30,6 @@ tags:
 log:
 - date: '2026-09-23'
   note: '[调研] 2026-09-23：聚合源09.17批命中。2012实验室建模仿真与数学应用院，建模仿真导向与用户器件热仿真背景最契合；八城可选含合肥（city写深圳保守口径）；华为泡池子风险；急投。'
+- date: '2026-09-24'
+  note: '[校正] 补 recruiting_group=华为：单板硬件在流程，华为热设计岗应整组移出候选榜（此前缺 group 漏网）'
+recruiting_group: 华为
