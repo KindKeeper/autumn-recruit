@@ -1,0 +1,31 @@
+id: jianghuai-lab-sim-2027
+name: 江淮实验室
+position: 力/热/动力学仿真设计师（⚠️疑似偏博士，投递前确认硕士可投）
+group: 正式批
+channel: 官网
+city: 合肥
+portal: '中科大就业网/合工大宣讲会渠道'
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-24'
+track: 机器人/飞行器仿真
+boundary: S
+job_posted: '2026-09-16'
+score:
+  fit: 6
+  track: 6
+  salary: 6
+  stability: 7
+  certainty: 5
+  urgency: 6
+  wlb: 6
+score_rationale: 'fit6力/热仿真族含热分量对口,但JD主体=机器人/飞行器动力学仿真(Gazebo/MuJoCo/Isaac Sim),用户迁移距离大;track6新型研发机构,机器人/低空方向;salary6新型研发机构合肥硕士口径无公开;stability7政府共建(安徽省/合肥与江淮汽车);certainty5疑似偏博士(猎聘同类岗标注博士),硕士可投性未证实;urgency6;wlb6;调研2026-09-24'
+note: 江淮前沿技术协同创新中心（江淮实验室），合肥，安徽省/合肥与江淮汽车共建新型研发机构，政府/事业单位性质；岗位族=系统/力/热/动力学仿真（中科大就业网2026-09-16+合工大宣讲会2026-09-21双源）；⚠️JD证据偏机器人/飞行器动力学（机器人动力学特性/飞行器流体与空气动力学），热分量与用户力热FEM背景部分对口但主体叙事是动力学仿真；猎聘同类岗标博士，投递前必须核实硕士可投
+tags:
+- 新型研发机构
+- 动力学仿真
+- 合肥
+log:
+- date: '2026-09-24'
+  note: '[调研] 2026-09-24：聚合源09.23批命中。江淮实验室力/热/动力学仿真族；JD证据偏机器人动力学(Gazebo/MuJoCo/Isaac Sim)，疑似偏博士，硕士可投性待确认；合肥base。'

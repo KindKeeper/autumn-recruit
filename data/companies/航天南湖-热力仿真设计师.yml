@@ -1,0 +1,32 @@
+id: nanhu-thermal-sim-2027
+name: 航天南湖
+position: 热力仿真设计师（同批散热设计师可兼投）
+group: 正式批
+channel: 官网
+city: 武汉
+portal: '邮箱投递(牛企直聘聚合)'
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-24'
+track: 军工电子/热仿真
+boundary: S
+job_posted: '2026-09-21'
+apply_deadline: '2026-10-19'
+score:
+  fit: 8
+  track: 7
+  salary: 6
+  stability: 8
+  certainty: 7
+  urgency: 7
+  wlb: 6
+score_rationale: 'fit8雷达电子设备热仿真对口(用户器件电热耦合仿真+散热方案设计直接对口),散热设计师兼投口径制冷与空调技术=用户二级学科方向覆盖;track7军工预警雷达niche,上市稳定但赛道窄;salary6武汉/荆州军工硕士约15-20万口径;stability8军工订单+科创板上市(688552);certainty7多源在招+窗口期明确;urgency7截止10-19;wlb6;调研2026-09-24'
+note: 航天南湖电子信息技术股份有限公司，航天科工二院二十三所重组，原荆州南湖机械总厂(1989)；国内防空预警雷达主要供应商之一，500-1000人；荆州总部+武汉研发；⚠️雷达整机热设计/热仿真方向，邮箱投递（复制邮箱渠道）
+tags:
+- 军工电子
+- 热仿真
+- 武汉
+log:
+- date: '2026-09-24'
+  note: '[调研] 2026-09-24：聚合源09.23批命中。航天科工二院系预警雷达公司(688552)，热力仿真+散热设计双岗，截止10-19；武汉/荆州。'
