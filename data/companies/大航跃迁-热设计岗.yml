@@ -1,0 +1,31 @@
+id: dayue-thermal-2027
+name: 大航跃迁
+position: 热设计岗（火箭热设计/热防护方向）
+group: 正式批
+channel: 官网
+city: 北京
+portal: '邮箱投递(官网/公告渠道)'
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-24'
+track: 商业航天/火箭热设计
+boundary: S
+job_posted: '2026-09-22'
+score:
+  fit: 7
+  track: 7
+  salary: 6
+  stability: 4
+  certainty: 4
+  urgency: 6
+  wlb: 5
+score_rationale: 'fit7火箭热设计/热防护,传热仿真可迁移但气动加热/防隔热对象与用户储能主线差距明显;track7筷子夹塔架回收路线差异化,商业航天赛道热但极早期;salary6初创无公开口径;stability4跃迁一号2027才首飞,公司处于地面验证期,比星河/东方空间更早期;certainty4 JD与HC未公开仅公告职位名;urgency6;wlb5;调研2026-09-24'
+note: 国内首家筷子夹塔架回收式可重复使用液体火箭企业;跃迁一号目标2027年首飞(2026-09-22新浪/网易报道研制提速);院士顾问团队,北京总部,另有天津/上海/深圳/重庆/西安工作地;同批=贮箱设计/强度分析/气动力/姿控/增压输送/涡轮泵/燃烧装置设计全谱系;⚠️JD细节与HC未公开,邮箱投递
+tags:
+- 商业航天
+- 火箭热设计
+- 北京
+log:
+- date: '2026-09-24'
+  note: '[调研] 2026-09-24：聚合源09.23批命中（公告列名"热"岗）。筷子夹回收火箭公司，跃迁一号2027首飞未飞；fit7/stability4/certainty4 早期折价。'
