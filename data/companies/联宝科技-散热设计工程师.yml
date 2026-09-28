@@ -7,7 +7,7 @@ city: 合肥
 link: https://lcfc.zhiye.com
 salary_range: ''
 stages: {}
-updated_at: '2026-09-17'
+updated_at: '2026-09-28'
 track: 消费电子热管理
 boundary: S
 job_posted: '2026-09-07'
@@ -19,7 +19,7 @@ score:
   certainty: 7
   urgency: 7
   wlb: 7
-score_rationale: 'fit8笔记本散热设计+热仿真真对口(JD明确要求传热学/流体力学+热仿真能力);track7 AI PC/服务器散热需求扩张但PC行业见顶;city10合肥锚点;salary6硕士约16-20万ODM天花板;stability7联想最大PC基地基本盘大但年终奖绩效强挂钩;certainty7官网9-7已发布JD明确;urgency7窗口约9-10至10-08短;wlb7研发8小时少加班;调研2026-09-16'
+score_rationale: fit8笔记本散热设计+热仿真真对口(JD明确要求传热学/流体力学+热仿真能力);track7 AI PC/服务器散热需求扩张但PC行业见顶;city10合肥锚点;salary6硕士约16-20万ODM天花板;stability7联想最大PC基地基本盘大但年终奖绩效强挂钩;certainty7官网9-7已发布JD明确;urgency7窗口约9-10至10-08短;wlb7研发8小时少加班;调研2026-09-16
 note: 联想与仁宝合资ODM，合肥首家千亿营收企业；散热设计属核心研发序列；非联想本部编制；网传30万+是联想本部/博士口径
 tags:
 - 合肥
@@ -32,3 +32,5 @@ log:
   note: '[校正] 与联想记录交叉标注同岗双入口,差分=联想集团编制稳定性溢价'
 - date: '2026-09-17'
   note: '[勘误] 撤销与联想记录的双入口标注(09-17核实:联想散热工程师岗在北京/天津ISG,与本公司合肥岗位非同一岗)'
+- date: '2026-09-28'
+  note: '[调研] JD细节补全(猎聘同岗+官网校招页)：职责=笔记本及AI终端散热结构设计+测试，跨部门对接热管理控制策略；无CAD硬性要求(机构设计为独立岗)，仿真+测试为主；川大宣讲09-23活跃。score维持77.5'
