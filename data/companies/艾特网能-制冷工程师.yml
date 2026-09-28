@@ -1,0 +1,31 @@
+id: iteaq-refrig-2027
+name: 艾特网能
+position: 制冷工程师（产品开发）
+group: 正式批
+channel: 官网
+city: 深圳
+portal: '艾特网能校招页'
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-28'
+track: 数据中心温控/制冷
+boundary: S
+job_posted: '2026-09-22'
+score:
+  fit: 7
+  track: 7
+  salary: 6
+  stability: 6
+  certainty: 7
+  urgency: 6
+  wlb: 6
+score_rationale: 'fit7制冷系统详细设计+器件选型;用户系统热平衡+换热器选型经验相邻,冷媒回路实操缺口扣2;track7数据中心温控赛道=英维克同赛道景气;salary6深圳硕士15-22万口径;stability6中型设备厂商;certainty7双源JD原文(wondercv+天津商业大学就业网);urgency6;wlb6;调研2026-09-28'
+note: 深圳市艾特网能技术有限公司（iTeaQ），数据中心精密空调/温控设备厂商；职责=产品开发（制冷系统原理图设计+详细设计+器件选型+技术资料）；工作地深圳/中山/西安（官方口径，⚠️聚合源里的合肥不在本岗base内）；对标英维克同赛道低半档
+tags:
+- 数据中心温控
+- 精密空调
+- 深圳
+log:
+- date: '2026-09-28'
+  note: '[调研] 2026-09-28：聚合源09.27批命中。艾特网能制冷工程师，数据中心精密空调产品开发（制冷系统详细设计+器件选型），深圳/中山/西安；对标英维克同赛道低半档。'
