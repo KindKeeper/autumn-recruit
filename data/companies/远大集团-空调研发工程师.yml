@@ -1,0 +1,31 @@
+id: broad-ac-rd-2027
+name: 远大集团
+position: 空调研发工程师
+group: 正式批
+channel: 官网
+city: 长沙
+portal: 'broad.com'
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-28'
+track: 非电空调/吸收式制冷
+boundary: S
+job_posted: '2026-09-21'
+score:
+  fit: 6
+  track: 5
+  salary: 5
+  stability: 6
+  certainty: 6
+  urgency: 6
+  wlb: 6
+score_rationale: 'fit6吸收式制冷系统研发(溴化锂),热能驱动,传热/热力学对口但技术路线与用户储能主线迁移距离大;压缩式冷媒回路为缺口;track5传统非电空调赛道增长有限;salary5长沙民企口径12-18万;stability6老牌民企实业(2000-5000人);certainty6双源公告(wondercv+upcv);urgency6;wlb6;调研2026-09-28'
+note: 中国远大集团（BROAD），非电中央空调（溴化锂吸收式制冷）为主业，长沙/岳阳基地；2027届校招09-21启动；空调研发工程师（长沙/岳阳 onsite），吸收式制冷系统研发方向
+tags:
+- 非电空调
+- 吸收式制冷
+- 长沙
+log:
+- date: '2026-09-28'
+  note: '[调研] 2026-09-28：聚合源09.25批命中。远大集团非电空调(溴化锂吸收式)研发岗，长沙/岳阳；技术路线迁移距离大，fit6。'

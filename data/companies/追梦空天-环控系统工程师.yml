@@ -1,0 +1,32 @@
+id: dreamfly-ecs-2027
+name: 追梦空天
+position: 环控系统工程师
+group: 正式批
+channel: 官网
+city: 杭州
+portal: '追梦空天校招页'
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-28'
+track: eVTOL/航空环控
+boundary: S
+job_posted: '2026-09-24'
+apply_deadline: '2026-11-22'
+score:
+  fit: 7
+  track: 6
+  salary: 7
+  stability: 4
+  certainty: 6
+  urgency: 6
+  wlb: 5
+score_rationale: 'fit7航空环控=座舱环境控制+设备冷却,热管理近亲,用户传热传质+系统热平衡可迁移;空气循环/蒸发循环制冷对象迁移距离扣2;track6 eVTOL高成长高淘汰(钛媒体口径2027年eVTOL公司仅剩约10家);salary7社招同岗15-35k×14薪杭州口径校招硕士取中;stability4成立4年民企+赛道淘汰赛;certainty6 wondercv官方解读+官网双源,环控岗JD细则未公开;urgency6截止11-22;wlb5初创强度;调研2026-09-28'
+note: 浙江追梦空天科技，2022年成立，杭州总部，混合动力倾转旋翼eVTOL整机民企；环控系统方向为2027秋招十大方向之一；社招同岗佐证；本科可投；工作地杭州/西安/德清/成都/天津/舟山；⚠️赛道淘汰赛定位
+tags:
+- eVTOL
+- 航空环控
+- 杭州
+log:
+- date: '2026-09-28'
+  note: '[调研] 2026-09-28：聚合源09.25批命中。追梦空天(2022成立,杭州,eVTOL)环控系统岗；社招同岗15-35k×14薪；截止11-22；赛道淘汰赛stability4。'
