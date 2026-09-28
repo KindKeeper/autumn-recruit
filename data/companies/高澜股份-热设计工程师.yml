@@ -7,18 +7,18 @@ city: 广州
 link: ''
 salary_range: ''
 stages: {}
-updated_at: '2026-09-08'
+updated_at: '2026-09-28'
 track: 热管理类
 boundary: S
 job_posted: '2026-09-08'
 score:
-  fit: 10
+  fit: 8
   track: 10
   salary: 7
   stability: 7
-  certainty: 5
-  urgency: 5
-  wlb: 6
+  certainty: 7
+  urgency: 6
+  wlb: 5
 note: 液冷散热行业龙头，热设计工程师核心岗
 tags:
 - B3-电子科技
@@ -26,3 +26,8 @@ tags:
 - 热设计直接对口
 - date: '2026-09-18'
   note: '[校正] city6→7:广州为一线(锚点表漏列,按深圳8递减一档);原打低已更正'
+score_rationale: fit8 JD=数据中心/储能/电力液冷系统方案设计+性能仿真+流阻温控校核+换热器管路器件设计测试;用户储能热管理主线+换热器选型+仿真对标闭环对口,但SolidWorks/CAD三维图纸与BOM为硬缺口,样机调试弱,10→8;track10液冷+数据中心+储能赛道;city7广州;salary7硕士13-16k×14薪=18-22万;stability7小市值利润薄2025扭亏;certainty7官方JD原文+HC=20;urgency6尽快投递;wlb5
+  JD写明双休研发岗保守;调研校正09-24/09-28(JD原文)
+log:
+- date: '2026-09-28'
+  note: '[调研] 用户贴官方JD原文(wecruit.hotjob.cn)：HC=20硕士广州；职责=液冷系统方案设计+性能仿真+流阻温控校核+换热器/管路/温控组件设计测试+竞品对标；要求含SolidWorks/CAD熟练使用(硬缺口)+Fluent/STAR-CCM++CET6。fit10→8(CAD缺口)，certainty5→7(HC=20)，urgency2→6，wlb3→5(写明双休)'
