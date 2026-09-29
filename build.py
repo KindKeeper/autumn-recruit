@@ -661,6 +661,14 @@ def main():
     active = {gkey(r) for r in applied if not r["outcome"]}
     pend = [r for r in recs if r["stage_key"] == "pending" and not r["outcome"]
             and r["boundary"] in ("S", "A", "B") and gkey(r) not in active]
+    # 集团级去重（用户规则 2026-09-29）：同一招聘集团在榜只保留最高分的单一子公司岗位
+    _best_in_group = {}
+    for r in pend:
+        g = gkey(r)
+        k = (0 if r["scored"] else 1, -(r["score_total"] or 0))
+        if g not in _best_in_group or k < _best_in_group[g][0]:
+            _best_in_group[g] = (k, r)
+    pend = [v[1] for v in _best_in_group.values()]
     excluded = sum(1 for r in recs if r["stage_key"] == "pending"
                    and r["boundary"] not in ("S", "A", "B"))
     in_pipe = len({gkey(r) for r in applied if not r["outcome"]})

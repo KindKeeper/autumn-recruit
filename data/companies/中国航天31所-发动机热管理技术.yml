@@ -7,7 +7,7 @@ city: 北京
 link: ''
 salary_range: ''
 stages: {}
-updated_at: '2026-09-16'
+updated_at: '2026-09-29'
 track: 能动/航天发动机
 boundary: S
 job_posted: '2026-09-15'
@@ -19,7 +19,7 @@ score:
   certainty: 5
   urgency: 5
   wlb: 6
-score_rationale: 'fit7发动机热管理/热交换器传统推进但传热对口;salary8硕士20-25万;city6北京丰台云岗;事业编+北京户口;调研校正09-16'
+score_rationale: fit7发动机热管理/热交换器传统推进但传热对口;salary8硕士20-25万;city6北京丰台云岗;事业编+北京户口;调研校正09-16
 note: 航天31所=航天发动机核心研究所，发动机热管理/热防护/热交换器设计/燃烧技术直接对口
 tags:
 - 航天发动机
@@ -28,3 +28,6 @@ tags:
 log:
 - date: '2026-09-16'
   note: '[调研] 北京丰台云岗（冲压发动机），发动机热管理/热交换器传统推进但传热对口；事业编+北京户口；硕士20-25万，salary 7→8'
+- date: '2026-09-29'
+  note: '[校正] recruiting_group ''''→''中国航天科工集团''（集团级去重规则归一化）'
+recruiting_group: 中国航天科工集团

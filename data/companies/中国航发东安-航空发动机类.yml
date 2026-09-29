@@ -7,7 +7,7 @@ city: 哈尔滨
 link: ''
 salary_range: ''
 stages: {}
-updated_at: '2026-09-07'
+updated_at: '2026-09-29'
 track: 能动/航空发动机
 boundary: S
 job_posted: '2026-09-07'
@@ -24,3 +24,7 @@ tags:
 - A2-军工航天院所
 - 航空发动机直接对口
 - 央企
+recruiting_group: 中国航空发动机集团
+log:
+- date: '2026-09-29'
+  note: '[校正] recruiting_group ''''→''中国航空发动机集团''（集团级去重规则归一化）'
