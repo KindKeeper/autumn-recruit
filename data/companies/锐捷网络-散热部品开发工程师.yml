@@ -7,7 +7,7 @@ city: 成都/武汉
 link: ''
 salary_range: ''
 stages: {}
-updated_at: '2026-09-10'
+updated_at: '2026-09-29'
 track: 热管理类
 boundary: S
 job_posted: '2026-09-08'
@@ -16,10 +16,10 @@ score:
   track: 9
   salary: 8
   stability: 8
-  certainty: 5
-  urgency: 5
+  certainty: 7
+  urgency: 7
   wlb: 6
-score_rationale: 'fit9液冷冷板/VC纯对口电子热管理;city7成都/武汉(非福州);公司更正锐捷网络301165;调研校正09-10'
+score_rationale: fit9液冷冷板/VC纯对口电子热管理;city7成都/武汉(非福州);公司更正锐捷网络301165;调研校正09-10
 note: 网络设备龙头，液冷/散热工程师直接对口
 tags:
 - B3-电子科技
@@ -27,3 +27,5 @@ tags:
 log:
 - date: '2026-09-10'
   note: '[调研] 公司更正为锐捷网络（301165，非星网锐捷002396），27届校招base成都/武汉，不是福州'
+- date: '2026-09-29'
+  note: '[校准] 调研swarm：27届秋招09-08启动双源实锤,液冷交换机组件对口;产研硕20-35万口径;certainty5→7/urgency5→7(10月上旬前投),total→80.5;⚠️JD全文JS渲染未抓到,投递前用户肉眼核对专业白名单含080700+无海外字样'

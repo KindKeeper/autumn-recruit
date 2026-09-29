@@ -7,7 +7,7 @@ city: 北京
 link: ''
 salary_range: ''
 stages: {}
-updated_at: '2026-09-18'
+updated_at: '2026-09-29'
 track: 能动/热能工程
 boundary: S
 job_posted: '2026-09-14'
@@ -17,7 +17,7 @@ score:
   salary: 6
   stability: 9
   certainty: 7
-  urgency: 5
+  urgency: 6
   wlb: 6
 note: 全称：中煤科工清洁能源股份有限公司（煤科洁能）。中煤科工集团，热能工程师(低碳能源方向)直接对口
 tags:
@@ -27,3 +27,5 @@ tags:
 log:
 - date: '2026-09-18'
   note: '[调研] 模板分修正:公司=煤科洁能全称补录;工业园区综合能源非CCUS(track8→7);硕士15-20万8-13k实据(salary7→6);公告/岗位/渠道全核实(cert5→7)'
+- date: '2026-09-29'
+  note: '[校准] 调研swarm：09-14公告实锤在招,招满即止先投先得;专业字面含0807;urgency5→6,total→79'

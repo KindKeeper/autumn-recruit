@@ -4,12 +4,12 @@ position: 能源动力类
 group: 正式批
 channel: 官网
 city: 武汉
-recruiting_group: '中国船舶集团'
-portal: 'cssc.zhiye.com'
+recruiting_group: 中国船舶集团
+portal: cssc.zhiye.com
 link: ''
 salary_range: ''
 stages: {}
-updated_at: '2026-09-11'
+updated_at: '2026-09-29'
 track: 能动/船舶动力
 boundary: S
 job_posted: '2026-09-10'
@@ -18,10 +18,10 @@ score:
   track: 9
   salary: 7
   stability: 9
-  certainty: 5
-  urgency: 5
+  certainty: 6
+  urgency: 6
   wlb: 6
-score_rationale: 'fit9船舶电力电子冷却/电机冷却对口(载体船舶电力电子);city7武汉(部分岗或鄂州葛店/黄冈);salary7简章硕士首年14-25万;调研校正09-11'
+score_rationale: fit9船舶电力电子冷却/电机冷却对口(载体船舶电力电子);city7武汉(部分岗或鄂州葛店/黄冈);salary7简章硕士首年14-25万;调研校正09-11
 note: 中船体系军工所，能源动力类直接对口
 tags:
 - A2-军工航天院所
@@ -30,3 +30,5 @@ tags:
 log:
 - date: '2026-09-11'
   note: '[调研] 武汉，电力电子及自动化研发（冷却方向）/电机冷却研发，对口但载体是船舶电力电子；简章明示硕士首年14-25万；部分岗位可能在鄂州葛店/黄冈（city字段已由青岛更正为武汉）'
+- date: '2026-09-29'
+  note: '[校准] 调研swarm：JD实锤电力电子冷却方向J10308在招(应届生网09-06),专业字面含工程热物理;rolling招早投早面;certainty5→6/urgency5→6,total→79'
