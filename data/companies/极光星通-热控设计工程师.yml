@@ -1,0 +1,31 @@
+id: aurora-star-thermal-2027
+name: 极光星通
+position: 热控设计工程师
+group: 正式批
+channel: 官网
+city: 北京
+portal: '邮箱投递(wondercv聚合)'
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-29'
+track: 商业航天/载荷热控
+boundary: S
+job_posted: '2026-09-24'
+score:
+  fit: 7
+  track: 6
+  salary: 6
+  stability: 5
+  certainty: 6
+  urgency: 6
+  wlb: 6
+score_rationale: 'fit7电子设备热管理对口(用户器件热管理+温度场仿真+热测试闭环),光机热/航天热控对象迁移扣2(光机热稳定性为相邻方向,兰欣温度均匀性分析可迁移);track6商业航天激光通信niche初创;salary6京沪硕士18-28万口径待核实;stability5初创体量小;certainty6 27届简章实锤(wondercv)但JD细节未公开;urgency6;wlb6;调研2026-09-29'
+note: 极光星通，星载激光通信终端公司（激光星链方向），北京/上海（闵行）；2027届校招2026-09-24简章在招，研发类硕士+；岗位推断=激光通信载荷热控（电子设备热管理+光机热稳定性/光学平台温控精度）；JD细节未公开，邮箱投递
+tags:
+- 激光通信
+- 载荷热控
+- 北京
+log:
+- date: '2026-09-29'
+  note: '[调研] 2026-09-29：聚合源09.25批命中。星载激光终端热控(电子设备+光机热稳定性),JD细节未公开,wondercv简章实锤。'
