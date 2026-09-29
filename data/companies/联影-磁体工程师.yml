@@ -1,0 +1,31 @@
+id: united-imaging-magnet-2027
+name: 联影
+position: 磁体工程师（超导磁体电磁-热多物理场仿真）
+group: 正式批
+channel: 官网
+city: 上海
+portal: 'united-imaging.zhiye.com'
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-29'
+track: 医疗影像/超导磁体
+boundary: S
+job_posted: '2026-09-23'
+score:
+  fit: 7
+  track: 7
+  salary: 7
+  stability: 8
+  certainty: 6
+  urgency: 6
+  wlb: 6
+score_rationale: 'fit7超导磁体电磁-热力学多物理场仿真=用户兰欣电热耦合FEM同构;超导磁体对象(MRI 1.5T/3T磁体)迁移距离扣2;track7医疗影像设备龙头(MRI/PET/CT);salary7联影硕士20-30万口径;stability8设备龙头现金流稳;certainty6官网JD线索(J19681在招),建议投递前核对详情页;urgency6;wlb6;调研2026-09-29'
+note: 联影医疗，上海，医疗影像设备龙头；岗位=磁体工程师 J19681（2027届校招官网在招），超导磁体电磁-热力学多物理场仿真；从联影AI算法岗（零热归档）挖出；投递前核对JD详情页
+tags:
+- 超导磁体
+- 多物理场仿真
+- 上海
+log:
+- date: '2026-09-29'
+  note: '[调研] 联影AI算法岗归档时挖出，磁体工程师J19681=超导磁体电磁-热力学多物理场仿真，与兰欣电热耦合FEM同构；投递前核对JD详情页。'

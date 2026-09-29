@@ -7,7 +7,9 @@ city: 广州
 link: ''
 salary_range: 预估30-40W
 stages: {}
-updated_at: '2026-09-08'
+updated_at: '2026-09-29'
+outcome: given_up
+outcome_note: 'JD为直播图像处理/视觉特效算法，零热内容，归档'
 track: CV算法
 boundary: B
 job_posted: '2026-09-03'
@@ -27,3 +29,5 @@ tags:
 log:
 - date: '2026-09-08'
   note: '[offershow] 正式批公告发布 2026-09-03（原 2026-08-14）'
+- date: '2026-09-29'
+  note: '[归档] JD为直播图像处理/视觉特效算法，零热内容，归档'

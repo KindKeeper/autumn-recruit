@@ -7,7 +7,9 @@ city: 苏州
 link: ''
 salary_range: ''
 stages: {}
-updated_at: '2026-09-08'
+updated_at: '2026-09-29'
+outcome: given_up
+outcome_note: 'JD为机器视觉深度学习算法，零热内容，归档'
 track: 深度学习算法类
 boundary: B
 job_posted: '2026-08-18'
@@ -23,3 +25,6 @@ score:
 score_rationale: 依据：W1=检测/分割+Pytorch/OpenCV全命中（9）；W2=CV主线B核心（8）；W3=主城市苏州=20城清单外二线档（5）；W4=硕士18-25万预估*（6）；W5=机器视觉龙头上市公司（7）；W6=竞争适中（6）；W7=无截止（1）；W8=适度加班（6）
 tags:
 - C4-智能硬件/3D数字化
+log:
+- date: '2026-09-29'
+  note: '[归档] JD为机器视觉深度学习算法，零热内容，归档'

@@ -7,7 +7,9 @@ city: 上海
 link: https://app.mokahr.com/campus-recruitment/smartsenstech1/56088
 salary_range: 预估25-35W
 stages: {}
-updated_at: '2026-09-08'
+updated_at: '2026-09-29'
+outcome: given_up
+outcome_note: 'JD为CMOS图像传感器AI算法（电子/计算机/AI专业），零热内容，归档'
 track: 图像算法类
 boundary: B
 job_posted: '2026-09-01'
@@ -27,3 +29,5 @@ referral_code: DSAAsrVQ
 log:
 - date: '2026-09-08'
   note: '[offershow] 正式批公告发布 2026-09-01（原 2026-08-06）'
+- date: '2026-09-29'
+  note: '[归档] JD为CMOS图像传感器AI算法（电子/计算机/AI专业），零热内容，归档'

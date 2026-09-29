@@ -7,7 +7,9 @@ city: 合肥
 link: ''
 salary_range: 预估25-35W
 stages: {}
-updated_at: '2026-09-08'
+updated_at: '2026-09-29'
+outcome: given_up
+outcome_note: '2027届校招核实为真，但JD为相机ISP图像算法（3A/画质），无任何热设计/热仿真内容，与热动背景零对口，归档'
 track: 图像算法类
 boundary: B
 job_posted: '2026-08-17'
@@ -23,3 +25,6 @@ score:
 note: 来源:总表[翱捷_Camera ISP软件]
 tags:
 - B2-半导体芯片
+log:
+- date: '2026-09-29'
+  note: '[归档] 2027届校招核实为真，但JD为相机ISP图像算法（3A/画质），无任何热设计/热仿真内容，与热动背景零对口，归档'

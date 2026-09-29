@@ -7,7 +7,9 @@ city: 上海
 link: ''
 salary_range: 预估25-35W
 stages: {}
-updated_at: '2026-09-08'
+updated_at: '2026-09-29'
+outcome: given_up
+outcome_note: 'JD纯ISP图像算法（3A/HDR/AI降噪），零热内容，归档'
 track: 图像算法类
 boundary: B
 job_posted: '2026-08-11'
@@ -23,3 +25,6 @@ score:
 note: 来源:总表[眸芯_ISP算法工程师]
 tags:
 - B2-半导体芯片
+log:
+- date: '2026-09-29'
+  note: '[归档] JD纯ISP图像算法（3A/HDR/AI降噪），零热内容，归档'

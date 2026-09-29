@@ -8,7 +8,9 @@ portal: '中科大就业网/合工大宣讲会渠道'
 link: ''
 salary_range: ''
 stages: {}
-updated_at: '2026-09-24'
+updated_at: '2026-09-29'
+outcome: given_up
+outcome_note: '2027届JD核验：该族实岗=Gazebo/MuJoCo机器人动力学+RL/IL仿真闭环，热含量为零，专业限计算机/机器人/自动化；硕士可投已证实但对口点不成立，归档'
 track: 机器人/飞行器仿真
 boundary: S
 job_posted: '2026-09-16'
@@ -29,3 +31,5 @@ tags:
 log:
 - date: '2026-09-24'
   note: '[调研] 2026-09-24：聚合源09.23批命中。江淮实验室力/热/动力学仿真族；JD证据偏机器人动力学(Gazebo/MuJoCo/Isaac Sim)，疑似偏博士，硕士可投性待确认；合肥base。'
+- date: '2026-09-29'
+  note: '[归档] 2027届JD核验：该族实岗=Gazebo/MuJoCo机器人动力学+RL/IL仿真闭环，热含量为零，专业限计算机/机器人/自动化；硕士可投已证实但对口点不成立，归档'

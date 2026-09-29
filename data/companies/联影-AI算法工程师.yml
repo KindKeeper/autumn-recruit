@@ -7,7 +7,9 @@ city: 上海
 link: ''
 salary_range: ''
 stages: {}
-updated_at: '2026-09-08'
+updated_at: '2026-09-29'
+outcome: given_up
+outcome_note: 'JD为纯LLM/医学影像AI算法岗零热内容，归档；⚠️同企业低温工程师/磁体工程师（热设计/多物理场仿真）岗2027届在招，已另建记录'
 track: 深度学习算法类
 boundary: B
 job_posted: '2026-08-18'
@@ -24,3 +26,6 @@ score_rationale: 依据：W1=医学影像DL技能对口、领域知识需补（8
 note: 来源:总表[联影_AI算法工程师]
 tags:
 - C5-其他对口企业
+log:
+- date: '2026-09-29'
+  note: '[归档] JD为纯LLM/医学影像AI算法岗零热内容，归档；⚠️同企业低温工程师/磁体工程师（热设计/多物理场仿真）岗2027届在招，已另建记录'

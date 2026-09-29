@@ -7,7 +7,9 @@ city: 杭州
 link: ''
 salary_range: ''
 stages: {}
-updated_at: '2026-09-08'
+updated_at: '2026-09-29'
+outcome: given_up
+outcome_note: 'JD为无人机SLAM/VIO感知算法（AirSim/Gazebo机器人仿真非热仿真），零热内容，归档'
 track: 图像算法类
 boundary: B
 job_posted: '2026-08-28'
@@ -23,3 +25,6 @@ score:
 score_rationale: 依据：W1=安防感知CV深度学习技能对口（8）；W2=CV主线B核心（8）；W3=杭州新一线（7）；W4=大华硕士25-35万预估*（8）；W5=安防巨头上市公司（8）；W6=顶尖人才计划竞争激烈（5）；W7=无截止（1）；W8=适度加班（6）
 tags:
 - C4-智能硬件/机器人
+log:
+- date: '2026-09-29'
+  note: '[归档] JD为无人机SLAM/VIO感知算法（AirSim/Gazebo机器人仿真非热仿真），零热内容，归档'

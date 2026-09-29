@@ -7,7 +7,9 @@ city: 长沙
 link: ''
 salary_range: 预估25-35W
 stages: {}
-updated_at: '2026-09-08'
+updated_at: '2026-09-29'
+outcome: given_up
+outcome_note: 'JD纯AI视觉算法（计算机/软件/电子类），零热内容，归档'
 track: 深度学习算法类
 boundary: B
 job_posted: '2026-08-10'
@@ -23,3 +25,6 @@ score:
 note: 来源:总表[国科微电子_AI算法工程师]
 tags:
 - B2-半导体芯片
+log:
+- date: '2026-09-29'
+  note: '[归档] JD纯AI视觉算法（计算机/软件/电子类），零热内容，归档'
