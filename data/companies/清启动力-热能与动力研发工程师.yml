@@ -1,0 +1,31 @@
+id: tq-power-thermal-2027
+name: 清启动力
+position: 热能与动力研发工程师（燃烧室方向）
+group: 正式批
+channel: 官网
+city: 北京
+portal: '智联/wondercv聚合'
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-29'
+track: 燃气轮机/燃烧室
+boundary: S
+job_posted: '2026-09-23'
+score:
+  fit: 7
+  track: 6
+  salary: 6
+  stability: 5
+  certainty: 7
+  urgency: 6
+  wlb: 5
+score_rationale: 'fit7燃气轮机燃烧室全流程研发设计(方案论证/结构设计/性能仿真与迭代);用户本科工程燃烧学课程(必修)+传热仿真可迁移,燃烧室设计实操为零缺口扣2;track6微燃机niche,启迪控股系,国内唯一正向研发微小型燃气轮机100%国产化替代;salary6;stability5初创;certainty7 JD智联实锤+2027秋招09-23/24 wondercv双页;urgency6;wlb5;调研2026-09-29'
+note: 清启动力(北京)科技有限公司，启迪控股系，国内唯一正向研发微小型燃气轮机、100%国产化替代；岗位=参与燃气轮机燃烧室全流程研发设计；⚠️燃烧室设计实操为零（用户防御点）
+tags:
+- 燃气轮机
+- 燃烧室
+- 北京
+log:
+- date: '2026-09-29'
+  note: '[调研] 2026-09-29：聚合源09.24批命中。启迪系微燃机公司燃烧室研发岗；用户有工程燃烧学课程+传热仿真，燃烧实操缺口；JD智联实锤。'
