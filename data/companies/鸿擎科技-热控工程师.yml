@@ -7,7 +7,7 @@ city: 北京/上海/西安/雄安/深圳
 link: ''
 salary_range: 预估20-30W
 stages: {}
-updated_at: '2026-09-18'
+updated_at: '2026-09-30'
 track: 热管理类
 boundary: S
 job_posted: '2026-08-10'
@@ -20,3 +20,6 @@ score:
   certainty: 8
   urgency: 7
   wlb: 5
+log:
+- date: '2026-09-30'
+  note: '[确认] 用户确认尚未投递；简历=鸿擎-热控简历-20260918.docx(09-18已备)；入10月投递队列(77.5)'
