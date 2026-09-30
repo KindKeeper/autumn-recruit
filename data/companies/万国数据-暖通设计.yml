@@ -1,0 +1,31 @@
+id: gds-hvac-2027
+name: 万国数据
+position: 暖通设计（数据中心方向）
+group: 正式批
+channel: 官网
+city: 上海
+portal: 'wondercv聚合'
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-30'
+track: IDC/暖通
+boundary: S
+job_posted: '2026-09-30'
+score:
+  fit: 6
+  track: 7
+  salary: 6
+  stability: 7
+  certainty: 6
+  urgency: 6
+  wlb: 6
+score_rationale: 'fit6数据中心暖通对口,但2027校招岗名写设计而历史JD偏运维管理(冷水机组/精密空调/AHU/给排水运维+故障抢修),运维/设计属性不明需核对,建环正对口能动边缘;track7 IDC运营商龙头赛道(纳斯达克GDS/港股9698);salary6 12-18k×14薪≈17-25万(上海本地宝口径);stability7上市公司但扩张放缓负债高;certainty6 JD细节不明;urgency6;wlb6运维值班可能性;调研2026-09-30'
+note: 万国数据GDS，国内最大第三方数据中心运营商之一；2027届校招09-30在招（电气/暖通/弱电设计方向）；⚠️历史JD暖通工程师=数据中心制冷系统运维管理，校招名写设计但实质偏运维/新建设计混合，投递前需核对；上海/北京/乌兰察布/苏州/深圳/成都/中卫
+tags:
+- IDC暖通
+- 数据中心
+- 上海
+log:
+- date: '2026-09-30'
+  note: '[调研] 2026-09-30：聚合源09.29批命中。GDS 2027校招暖通方向；历史JD偏运维管理，校招名写设计需核对；12-18k×14薪。'

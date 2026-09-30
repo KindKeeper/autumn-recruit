@@ -1,0 +1,31 @@
+id: northwest-municipal-hvac-2027
+name: 市政西北院
+position: 暖通供热设计
+group: 正式批
+channel: 官网
+city: 兰州
+portal: '今日招聘/官网'
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-09-30'
+track: 市政供热/设计
+boundary: S
+job_posted: '2026-09-29'
+score:
+  fit: 5
+  track: 5
+  salary: 4
+  stability: 7
+  certainty: 6
+  urgency: 6
+  wlb: 5
+score_rationale: 'fit5市政供热工程+建筑综合能源系统设计,建环正对口能动边缘,CAD绘图岗;但要求建环或热能动力工程硕士(用户080700同族在列);track5市政供热赛道区域型;salary4兰州设计院8-13万低薪档;stability7中建控股国企设计院(总部兰州2600人综合甲级,有海外项目史国内岗不强制外派);certainty6今日招聘JD(2026-07)实锤;urgency6;wlb5设计院加班;调研2026-09-30'
+note: 中国市政工程西北设计研究院，中建控股国企设计院，总部兰州，2600人，综合甲级；有海外项目史（赤道几内亚/加纳等——国内岗不强制外派）；兰州 base；区域设计院低薪档
+tags:
+- 市政供热
+- 设计院
+- 兰州
+log:
+- date: '2026-09-30'
+  note: '[调研] 2026-09-30：聚合源09.29批命中。中建市政西北院暖通供热设计（兰州），要求热能动力工程硕士；区域设计院低薪档。'
