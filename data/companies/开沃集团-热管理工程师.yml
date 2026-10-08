@@ -7,7 +7,7 @@ city: 南京
 link: ''
 salary_range: 独角兽企业
 stages: {}
-updated_at: '2026-09-09'
+updated_at: '2026-10-08'
 track: 热管理类
 boundary: S
 apply_deadline: '2026-09-23'
@@ -21,10 +21,14 @@ score:
   certainty: 4
   urgency: 7
   wlb: 7
-score_rationale: 'stability2销量暴跌82%边缘化;salary4约9-12万;fit9热管理对口;调研校正09-09'
+score_rationale: stability2销量暴跌82%边缘化;salary4约9-12万;fit9热管理对口;调研校正09-09
 note: 来源:总表[开沃集团_热管理工程师]
 tags:
 - B2-新能源汽车
 log:
 - date: '2026-09-09'
   note: '[调研] 27届08-26在招(南京溧水/淮南),热管理纯对口;但创维汽车2026前7月上险量仅468辆(-82%),集团收缩聚焦商用车;校招年包约9-12万参考;09-09'
+- date: '2026-10-08'
+  note: '[过期] 截止2026-09-23未投递，节后机械归档(国庆假期窗口)'
+outcome: expired
+outcome_note: 截止2026-09-23，假期窗口内未投递，自动归档

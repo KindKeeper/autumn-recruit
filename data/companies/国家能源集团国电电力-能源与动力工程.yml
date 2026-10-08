@@ -4,12 +4,12 @@ position: 能源与动力工程
 group: 正式批
 channel: 官网
 city: 北京
-recruiting_group: '国家能源投资集团'
-portal: 'zhaopin.chnenergy.com.cn'
+recruiting_group: 国家能源投资集团
+portal: zhaopin.chnenergy.com.cn
 link: ''
 salary_range: ''
 stages: {}
-updated_at: '2026-09-10'
+updated_at: '2026-10-08'
 track: 能动/电力
 boundary: S
 apply_deadline: '2026-10-07'
@@ -22,7 +22,7 @@ score:
   certainty: 5
   urgency: 8
   wlb: 4
-score_rationale: 'fit6传统火电运行非热管理;city5京外电厂风险;wlb4倒班;调研校正09-10'
+score_rationale: fit6传统火电运行非热管理;city5京外电厂风险;wlb4倒班;调研校正09-10
 note: 国家能源集团体系，能源与动力工程直接对口，截止10-07
 tags:
 - A2-军工航天院所
@@ -31,3 +31,7 @@ tags:
 log:
 - date: '2026-09-10'
   note: '[调研] 能动岗大概率京外电厂运行倒班，传统火电对口非热管理，统招截止10-07'
+- date: '2026-10-08'
+  note: '[过期] 截止2026-10-07未投递，节后机械归档(国庆假期窗口)'
+outcome: expired
+outcome_note: 截止2026-10-07，假期窗口内未投递，自动归档

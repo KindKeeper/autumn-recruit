@@ -7,7 +7,7 @@ city: 北京
 link: ''
 salary_range: ''
 stages: {}
-updated_at: '2026-09-10'
+updated_at: '2026-10-08'
 track: 能动/低温
 boundary: S
 apply_deadline: '2026-10-07'
@@ -20,7 +20,7 @@ score:
   certainty: 5
   urgency: 8
   wlb: 6
-score_rationale: 'fit7低温制冷装备/热泵/储热系统级传统能动非电子散热;city6北京;调研校正09-10'
+score_rationale: fit7低温制冷装备/热泵/储热系统级传统能动非电子散热;city6北京;调研校正09-10
 note: 低温制冷/热物性/热工控制/高温热泵/固体储热多岗对口，截止10-07需注意
 tags:
 - 低温系统
@@ -29,3 +29,7 @@ tags:
 log:
 - date: '2026-09-10'
   note: '[调研] 低碳院=国家能源集团科研总院（北京低碳清洁能源研究院），方向为低温制冷装备/热泵/储热等系统级传统能动，非电子散热，fit 10→7'
+- date: '2026-10-08'
+  note: '[过期] 截止2026-10-07未投递，节后机械归档(国庆假期窗口)'
+outcome: expired
+outcome_note: 截止2026-10-07，假期窗口内未投递，自动归档

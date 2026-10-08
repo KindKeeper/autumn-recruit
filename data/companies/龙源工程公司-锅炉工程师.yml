@@ -4,11 +4,11 @@ position: 锅炉工程师
 group: 正式批
 channel: 官网
 city: 北京
-portal: '国能校招'
+portal: 国能校招
 link: ''
 salary_range: ''
 stages: {}
-updated_at: '2026-09-24'
+updated_at: '2026-10-08'
 track: 热能工程/锅炉设计
 boundary: S
 job_posted: '2026-09-16'
@@ -21,7 +21,8 @@ score:
   certainty: 6
   urgency: 7
   wlb: 6
-score_rationale: 'fit7专业字面含工程热物理/热能工程,硕士1 HC;锅炉设计对象迁移距离扣2;track7国能系央企电力工程;salary7国能系硕士待遇中上(未证实但合理);stability8央企无暴雷;certainty6对口但仅1 HC;urgency7截止10-07;wlb6;调研2026-09-24'
+score_rationale: fit7专业字面含工程热物理/热能工程,硕士1 HC;锅炉设计对象迁移距离扣2;track7国能系央企电力工程;salary7国能系硕士待遇中上(未证实但合理);stability8央企无暴雷;certainty6对口但仅1
+  HC;urgency7截止10-07;wlb6;调研2026-09-24
 note: 龙源工程公司=国能龙源电力技术工程（非龙源电力风电）；热控工程师（64.0）专业类别不含工程热物理建议改投本岗；锅炉设计+热力系统方向
 tags:
 - 锅炉设计
@@ -30,3 +31,7 @@ tags:
 log:
 - date: '2026-09-24'
   note: '[调研] 龙源工程(国能龙源电力技术工程)锅炉工程师岗，专业含工程热物理/热能工程，硕士1 HC，截止10-07；热控岗(64.0)专业不符改投此岗。'
+- date: '2026-10-08'
+  note: '[过期] 截止2026-10-07未投递，节后机械归档(国庆假期窗口)'
+outcome: expired
+outcome_note: 截止2026-10-07，假期窗口内未投递，自动归档

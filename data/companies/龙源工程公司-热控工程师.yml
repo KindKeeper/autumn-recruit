@@ -4,12 +4,12 @@ position: 热控工程师
 group: 正式批
 channel: 官网
 city: 北京
-recruiting_group: '国家能源投资集团'
-portal: 'zhaopin.chnenergy.com.cn'
+recruiting_group: 国家能源投资集团
+portal: zhaopin.chnenergy.com.cn
 link: ''
 salary_range: ''
 stages: {}
-updated_at: '2026-09-24'
+updated_at: '2026-10-08'
 track: 能动/电力系统
 boundary: S
 job_posted: '2026-09-12'
@@ -22,7 +22,8 @@ score:
   certainty: 3
   urgency: 7
   wlb: 6
-score_rationale: 'fit5热控工程师专业类别=测控/自动化/电气工程及其自动化,不含动力工程及工程热物理,简历关大概率被筛;track8国能系央企电力工程;salary7;stability8;certainty3仅1 HC;urgency7截止10-07;wlb6;调研校正09-24'
+score_rationale: fit5热控工程师专业类别=测控/自动化/电气工程及其自动化,不含动力工程及工程热物理,简历关大概率被筛;track8国能系央企电力工程;salary7;stability8;certainty3仅1
+  HC;urgency7截止10-07;wlb6;调研校正09-24
 note: 国能集团体系，热控/汽机/锅炉三岗对口；⚠️热控工程师专业类别=测控/自动化/电气工程及其自动化，不含动力工程及工程热物理，简历关大概率被筛；同名陷阱=国能龙源电力技术工程(非龙源电力风电)；建议改投同公司锅炉工程师岗
 tags:
 - 电力设计院
@@ -31,3 +32,7 @@ tags:
 log:
 - date: '2026-09-24'
   note: '[校准] JD专业类别不含工程热物理，fit 10→5；仅1HC+certainty 5→3；截止10-07，urgency 5→7；建议改投锅炉工程师岗。'
+- date: '2026-10-08'
+  note: '[过期] 截止2026-10-07未投递，节后机械归档(国庆假期窗口)'
+outcome: expired
+outcome_note: 截止2026-10-07，假期窗口内未投递，自动归档
