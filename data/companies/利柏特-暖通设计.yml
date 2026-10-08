@@ -1,0 +1,31 @@
+id: libot-hvac-2027
+name: 利柏特
+position: 暖通设计（工业模块方向）
+group: 正式批
+channel: 官网
+city: 苏州
+portal: 'wondercv聚合/国家大学生就业平台'
+link: ''
+salary_range: ''
+stages: {}
+updated_at: '2026-10-08'
+track: 石化模块/HVAC
+boundary: S
+job_posted: '2026-09-28'
+score:
+  fit: 5
+  track: 5
+  salary: 5
+  stability: 6
+  certainty: 6
+  urgency: 6
+  wlb: 5
+score_rationale: 'fit5工业模块HVAC设计,建环正对口能动边缘(国家大学生就业平台专业口径=供热供燃气通风及空调工程/建环/动力工程暖通方向,能动同族在列),CAD绘图岗;track5石化模块EPC niche;salary5苏州10-15万口径;stability6上市模块制造商;certainty6 2027校招09-28启动(wondercv)实锤;urgency6;wlb5项目制;调研2026-10-08'
+note: 利柏特（Libot），工业模块设计制造（石化/化工模块 EPC），上海/苏州/南通/湛江；2027校招工程设计类含暖通设计岗；对标设计院类
+tags:
+- 石化模块
+- HVAC
+- 苏州
+log:
+- date: '2026-10-08'
+  note: '[调研] 2026-10-08：聚合源10.01批命中。利柏特工业模块暖通设计，动力工程(暖通方向)在专业口径；石化模块EPC，对标设计院类。'

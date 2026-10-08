@@ -1,0 +1,31 @@
+id: helium-star-thermal-2027
+name: 氦星光联
+position: 热设计工程师
+group: 正式批
+channel: 官网
+city: 成都
+portal: '浙大就业页JD(实锤)'
+link: 'https://www.career.zju.edu.cn/jyxt/sczp/zpztgl/ckZpgwXq.zf?zpxxbh=5BF65AA4C623DF97E0653A68DD0E9B18'
+salary_range: ''
+stages: {}
+updated_at: '2026-10-08'
+track: 卫星激光通信/热设计
+boundary: S
+job_posted: '2026-09-21'
+score:
+  fit: 8
+  track: 7
+  salary: 7
+  stability: 6
+  certainty: 7
+  urgency: 6
+  wlb: 6
+score_rationale: 'fit8光模块热设计=器件/模块级热管理,用户电热耦合仿真+散热方案强项对口;专业字面三命中(能源与动力工程/动力工程/工程热物理,用户080700);光模块对象迁移扣1;track7卫星激光通信(星间/星地激光通信终端)高景气国家队赛道;salary7 20-35K口径;stability6初创;certainty7浙大就业页JD实锤;urgency6;wlb6;调研2026-10-08'
+note: 氦星光联科技，卫星激光通信（星间/星地激光通信终端）公司；深圳/上海/成都/武汉/重庆/眉山；岗位=热设计工程师（2027校招，硕士/博士，成都）；对标极光星通64.5高两档
+tags:
+- 卫星激光通信
+- 热设计
+- 成都
+log:
+- date: '2026-10-08'
+  note: '[调研] 2026-10-08：聚合源10.03批命中。卫星激光通信热设计工程师，浙大就业页JD实锤专业字面含工程热物理；成都20-35K；对标极光星通64.5高两档。'
